@@ -119,26 +119,30 @@ def eligibility(types):
 
 
 class MetadataClient:
-    """Conservative per-provider pacing and bounded retries, without API secrets."""
+    """Conservative pacing, bounded retries, and optional OpenAlex authentication."""
 
-    def __init__(self, *, sleep=time.sleep, clock=time.monotonic, transport=None):
+    def __init__(self, *, sleep=time.sleep, clock=time.monotonic, transport=None, openalex_api_key=None):
         self.sleep, self.clock = sleep, clock
+        self.openalex_api_key = openalex_api_key
         self.last_request = None
         self.http = httpx.Client(
             timeout=httpx.Timeout(30), follow_redirects=False, transport=transport,
-            headers={"User-Agent": "istopmm-evidence-literature/0.2 (metadata-discovery)"},
+            headers={"User-Agent": "research-library-literature/0.2 (metadata-discovery)"},
         )
 
     def close(self):
         self.http.close()
 
     def get(self, url, params):
+        headers = {}
+        if self.openalex_api_key and httpx.URL(url).host == "api.openalex.org":
+            headers["Authorization"] = "Bearer " + self.openalex_api_key
         for attempt in range(4):
             if self.last_request is not None:
                 self.sleep(max(0, 0.5 - (self.clock() - self.last_request)))
             self.last_request = self.clock()
             try:
-                with self.http.stream("GET", url, params=params) as response:
+                with self.http.stream("GET", url, params=params, headers=headers) as response:
                     if response.status_code == 429 or response.status_code in (500, 502, 503, 504):
                         retry = response.headers.get("Retry-After")
                         delay = 2 ** attempt
@@ -342,7 +346,7 @@ def fetch_page(client, config, cursor):
         expression = query(provider, disease, window["start"], window["end"], config.get("focus", "all"))
         search, raw = client.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi", {
             "db": "pubmed", "retmode": "json", "term": expression, "sort": "pub_date",
-            "retstart": window["offset"], "retmax": page_size, "tool": "istopmm_evidence",
+            "retstart": window["offset"], "retmax": page_size, "tool": "research_library",
         })
         provenance.append(raw)
         result = search.get("esearchresult")
@@ -376,7 +380,7 @@ def fetch_page(client, config, cursor):
         records = []
         if ids:
             summary, raw = client.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi", {
-                "db": "pubmed", "retmode": "json", "id": ",".join(ids), "tool": "istopmm_evidence",
+                "db": "pubmed", "retmode": "json", "id": ",".join(ids), "tool": "research_library",
             })
             provenance.append(raw)
             values = summary.get("result")

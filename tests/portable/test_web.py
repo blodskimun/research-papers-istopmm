@@ -11,13 +11,83 @@ import unittest
 import httpx
 from flask import Flask
 
-from istopmm_evidence import __version__, catalog, releases, web_server
+from research_library import __version__, catalog, releases, web_server
 from fixtures import snapshots
 from test_collections import registry_fixture
 from test_releases import fixture_bundle
 
 
 class WebTests(unittest.TestCase):
+    def test_saved_discovery_labels_use_current_terms_without_rewriting_jobs(self):
+        for direction, old, expected in (
+                ("background", "Find referenced papers", "Find references"),
+                ("impact", "Find papers that reference my core library", "Find citing papers")):
+            job = {"direction": direction, "label": old}
+            self.assertEqual(web_server.discovery_label(job), expected)
+            self.assertEqual(job["label"], old)
+        coverage = web_server.discovery_coverage({
+            "limitations": ["Requested directions: background. Unrequested directions were not searched."],
+            "seeds": []})
+        self.assertIn("Searched: References.", coverage)
+        self.assertNotIn("directions: background", coverage)
+
+    def test_discovery_coverage_is_readable_escaped_and_preserves_provider_gaps(self):
+        rendered = web_server.discovery_coverage({
+            "limitations": ["Provider-indexed only", "<script>unsafe</script>"],
+            "seeds": [{"seed_doi": "10.0000/core", "title": "Core paper", "providers": {
+                "openalex": {"status": "complete_indexed_neighborhood", "citations_reported": 12,
+                             "citations_retrieved": 10, "requested_directions": ["impact"],
+                             "source": {"sha256": "a" * 64, "url": "https://example.org/api"}},
+                "crossref": {"status": "failed", "error": "<failed>"},
+            }}],
+        })
+        for expected in ("<h4>Limitations</h4>", "<li>Provider-indexed only</li>",
+                         "<h5>Core paper</h5>", "Complete within provider index",
+                         "Citing papers retrieved", "<dd>10</dd>", "Citing papers reported by provider",
+                         "<dd>12</dd>", "Citing papers", "Provider error", "&lt;failed&gt;",
+                         "<summary>Provider details</summary>", "&lt;script&gt;unsafe&lt;/script&gt;"):
+            self.assertIn(expected, rendered)
+        self.assertNotIn("<pre>", rendered)
+        self.assertNotIn("<script>", rendered)
+
+    def test_incomplete_project_run_explains_status_from_saved_catalog(self):
+        run = {"policy_version": "project-first-tier-1", "status": "incomplete", "id": "test-run"}
+        coverage = {"scope": "Metadata. Incomplete coverage: 10 provider reference identifiers could not be resolved",
+                    "runs": [run]}
+        rendered = web_server.metadata_value(coverage, project_scope=True)
+        runs = rendered[rendered.index("<dt>Runs</dt>"):]
+        self.assertIn("<dt>Status</dt><dd>incomplete</dd><dt>Why incomplete</dt>", runs)
+        self.assertIn("10 provider reference identifiers could not be resolved", runs)
+        self.assertIn("<dt>Next steps</dt>", runs)
+        self.assertIn('href="/discovery?direction=background#coverage-issues"', runs)
+        self.assertIn('href="/publications"', runs)
+        self.assertNotIn("why_incomplete", run)
+        missing = web_server.metadata_value({"scope": "Metadata", "runs": [run]}, project_scope=True)
+        self.assertIn("does not include a detailed reason", missing)
+        complete = web_server.metadata_value(
+            {"scope": "Metadata", "runs": [{"policy_version": "project-first-tier-1", "status": "complete"}]},
+            project_scope=True)
+        self.assertNotIn("Why incomplete", complete)
+
+    def test_metadata_fields_are_structured_escaped_and_safely_linked(self):
+        rendered = web_server.metadata_value([{
+            "provider_record": "<script>unsafe</script>",
+            "requests": [{"url": "https://example.org/paper?a=1&b=2", "retrieved_at": "2026-11-10"}],
+            "reviewed": False, "missing": None, "empty": [],
+        }])
+        self.assertIn('<ul class="metadata-list">', rendered)
+        self.assertIn('<dl class="metadata-fields">', rendered)
+        self.assertIn("<dt>Provider record</dt>", rendered)
+        self.assertIn("&lt;script&gt;unsafe&lt;/script&gt;", rendered)
+        self.assertIn('href="https://example.org/paper?a=1&amp;b=2"', rendered)
+        self.assertIn(">Open link (example.org)</a>", rendered)
+        self.assertNotIn(">https://example.org/", rendered)
+        self.assertIn("<dd>No</dd>", rendered)
+        self.assertIn("Unknown / not recorded", rendered)
+        self.assertIn("None recorded", rendered)
+        for unsafe in ("javascript:alert(1)", "https://[invalid", "https://user:pass@example.org/"):
+            self.assertNotIn("<a ", web_server.metadata_value(unsafe))
+
     def setUp(self):
         temporary = tempfile.TemporaryDirectory()
         self.addCleanup(temporary.cleanup)
@@ -68,6 +138,7 @@ class WebTests(unittest.TestCase):
         self.assertIn("<summary>", sources.text)
         self.assertNotIn("<details open", sources.text)
         self.assertEqual(sources.headers["cache-control"], "no-store")
+        self.assertEqual(sources.headers["referrer-policy"], "same-origin")
         self.assertIn("frame-ancestors 'none'", sources.headers["content-security-policy"])
         self.assertIn("No matching sources", client.get("/sources?paper=missing").text)
         for path in ("/mcp", "/papers/file.pdf", "/state.json", "/../records.json"):
@@ -84,12 +155,19 @@ class WebTests(unittest.TestCase):
                 response = client.get("/sources?" + query)
                 self.assertEqual(response.status_code, 400)
         for headers, status in (({"Host": "evil.test:8080"}, 421),
-                                ({"Origin": "https://evil.test"}, 403)):
+                                ({"Origin": "https://evil.test"}, 403),
+                                ({"Origin": "null"}, 403)):
             response = client.get("/", headers=headers)
             self.assertEqual(response.status_code, status)
             self.assertEqual(response.headers["cache-control"], "no-store")
             self.assertEqual(response.headers["x-content-type-options"], "nosniff")
         self.assertEqual(client.get("/", headers={"Host": "localhost:8080"}).status_code, 200)
+        self.assertEqual(client.get("/", headers={
+            "Host": "127.0.0.1:8080", "Origin": "http://localhost:8080",
+        }).status_code, 200)
+        self.assertEqual(client.get("/", headers={
+            "Host": "localhost:8080", "Origin": "http://127.0.0.1:8080",
+        }).status_code, 200)
 
     def test_collection_pagination_and_retained_snapshot(self):
         root = self.root / "collections"
@@ -169,7 +247,7 @@ class WebTests(unittest.TestCase):
         self.assertEqual(result.status_code, 200)
         self.assertIn("56 listed sources; 3 downloaded; 2 extracted; 1 partially extracted.", result.text)
         self.assertIn("3 extracted PDF versions; 9 pages", result.text)
-        self.assertIn("Referenced by iStopMM; Cites iStopMM", result.text)
+        self.assertIn("References; Citing papers", result.text)
         self.assertIn("Paper 00 &lt;script&gt;", result.text)
         self.assertNotIn("<script>", result.text)
         self.assertNotIn("javascript:", result.text)
@@ -241,7 +319,7 @@ class WebTests(unittest.TestCase):
                              allowed_collections={"istopmm", "test-literature"},
                              default_collections=["istopmm"])
         for endpoint, heading in (("/publications", "Publication metadata"),
-                                  ("/coverage", "Discovery coverage &amp; gaps")):
+                                  ("/coverage", "Literature coverage")):
             response = client.get(endpoint)
             self.assertEqual(response.status_code, 200)
             self.assertIn(f"<h2>{heading}</h2>", response.text)
@@ -249,6 +327,10 @@ class WebTests(unittest.TestCase):
             self.assertNotIn("No metadata catalog records", response.text)
             empty = client.get(endpoint + "?collection=istopmm")
             if endpoint == "/coverage":
+                self.assertIn('class="coverage-metrics"', response.text)
+                self.assertIn('<th scope="col">Count</th>', response.text)
+                self.assertIn("<summary>Publication breakdown</summary>", response.text)
+                self.assertNotIn("Discovery coverage &amp; gaps", response.text)
                 self.assertEqual(empty.status_code, 200)
                 self.assertIn("evidence coverage", empty.text)
                 self.assertIn("1 of 1 evidence publications", empty.text)
@@ -398,10 +480,11 @@ class WebTests(unittest.TestCase):
         self.assertEqual(response.status_code, 200)
         for label in ("Main paper", "Supplement 1", "Supplement 2"):
             self.assertIn(f"<summary>10.0000/fictional &mdash; {label}</summary>", response.text)
-        self.assertIn("Source fictional:word", response.text)
+        self.assertIn("&mdash; Source document</summary>", response.text)
+        self.assertNotIn("&mdash; Source fictional:word</summary>", response.text)
 
     def test_cli_and_configuration(self):
-        command = [sys.executable, "-m", "istopmm_evidence.web_server"]
+        command = [sys.executable, "-m", "research_library.web_server"]
         help_result = subprocess.run(command + ["--help"], capture_output=True, text=True)
         self.assertEqual(help_result.returncode, 0)
         self.assertNotIn("--host", help_result.stdout)
