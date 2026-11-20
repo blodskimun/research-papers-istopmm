@@ -37,11 +37,27 @@ DESCRIPTIONS = {
                         "Legacy single-release endpoints return an empty list.",
     "corpus_status": "Release identity, coverage, rights and lexical retrieval limitations; not participant data.",
     "search_evidence": "Bounded lexical source search. Plain text is safe by default, including LC-MGUS. "
-                       "All words must match in one source unit; start with a few distinctive terms "
-                       "and shorten if no results. Use mode='fts5' for explicit advanced syntax. "
+                       "All search terms must match in source text or in a private editorial label. "
+                       "Private plain search recognizes frequency questions like 'How common was ...?' "
+                       "'What proportion had ...?', and 'How often did ... persist?'. "
+                       "Use mode='fts5' for explicit advanced syntax without editorial ranking. "
+                       "Private PDF hits can include passage_context with the paper title, section paths "
+                       "and figure/table labels. An editorial_label is search metadata, not author text. "
+                       "Explicit table-row, figure or figure-panel searches can return "
+                       "exact_evidence with the relevant printed context. Cite all source_spans when present. "
                        "No match is not global scientific absence.",
     "get_claim": "Complete claim, numerical context, adjustment, citations and linked source issues.",
-    "get_source_context": "Short source passage with original PDF or Office locator; permissions apply.",
+    "get_source_context": "Short source passage with original PDF or Office locator; permissions apply. "
+                          "Optional passage_context describes the unit separately from the source text; "
+                          "source_spans lists every contributing PDF page for document chunks. "
+                          "Follow next_offset, or use reading_parts offsets to read a table row (with its header "
+                          "and notes), figure panel, or reference entry. Offsets are in the same pinned unit.",
+    "get_source_document": "Read one retained PDF as continuous text in original page order. Get source_id from "
+                           "list_sources or a passage citation. Keep one collection and snapshot_id pinned; "
+                           "follow next_offset with the same source_id until null. Offsets count characters, "
+                           "including two newlines between pages. segments map each returned passage to its "
+                           "original unit, PDF page, checksum and extraction/OCR warnings. Pages are joined, "
+                           "not repaired: missing text and split words are not guessed. Not the original PDF.",
     "get_table": "Page through source table records with headers, units, footnotes and caveats repeated.",
     "get_source_issue": "Source discrepancy, ambiguity, clarification or resolved acquisition note with anchors.",
     "get_related_evidence": "Qualified relationships, including reuse/overlap; no edge does not imply independence.",
@@ -83,6 +99,9 @@ def create_server(snapshot: releases.Snapshot | None,
         "A publication_id in an evidence reference is a publication identity, not a catalog record in that "
         "evidence collection. For get_publication select a kind='catalog' collection from list_collections "
         "and keep the same snapshot_id. Do not silently widen scope or guess missing identifiers."
+        " Use get_source_document to read a retained PDF beyond short source-context slices. Follow every "
+        "next_offset with the same source, collection and snapshot. Cite segment page/unit provenance; "
+        "a slice is not the whole document and joined pages do not repair missing extraction."
     ))
 
     @server.list_tools()

@@ -2,6 +2,7 @@
 
 from contextlib import closing
 from copy import deepcopy
+from functools import lru_cache
 import hashlib
 import json
 import os
@@ -14,7 +15,7 @@ from typing import Any
 
 from jsonschema import Draft202012Validator
 
-from . import contracts, retrieval
+from . import chunks, contracts, passage_context, retrieval
 
 MANIFEST_SCHEMA = 1
 PROFILES = frozenset({"synthetic", "curated", "private_context", "full_source"})
@@ -93,6 +94,18 @@ def safe_file(root: Path, name: str) -> Path:
 def _record_schema(name):
     document = deepcopy(contracts.DOCUMENT)
     document.pop("$id", None)
+    record = document["$defs"][name]
+    if record.get("allOf") == [{"$ref": "#/$defs/evidence"}]:
+        evidence = document["$defs"]["evidence"]
+        record.pop("allOf")
+        record.pop("unevaluatedProperties")
+        record["properties"] = {**evidence["properties"], **record["properties"]}
+        record["required"] = list(dict.fromkeys(
+            evidence["required"] + record["required"]))
+        for keyword in ("if", "then"):
+            if keyword in evidence:
+                record[keyword] = evidence[keyword]
+        record["additionalProperties"] = False
     document["$ref"] = "#/$defs/" + name
     if name == "table":
         # Storage is complete; response pagination, not export, imposes 100 rows.
@@ -100,17 +113,15 @@ def _record_schema(name):
     return document
 
 
-def validate_bundle(bundle):
-    if not isinstance(bundle, dict) or set(bundle) != {"schema_version", "caveats", *SECTIONS}:
-        raise ReleaseError("Evidence bundle has unexpected or missing sections")
-    if type(bundle["schema_version"]) is not int or bundle["schema_version"] != MANIFEST_SCHEMA:
-        raise ReleaseError("Unsupported evidence bundle schema")
-    if any(not isinstance(bundle[section], list) for section in SECTIONS):
-        raise ReleaseError("Every evidence section must be an array")
-    Draft202012Validator(contracts.DOCUMENT["$defs"]["caveats"] |
-                         {"$defs": contracts.DOCUMENT["$defs"]}).validate(bundle["caveats"])
-    registry = {}
-    source_schema = {
+@lru_cache(maxsize=1)
+def _caveat_validator():
+    schema = contracts.DOCUMENT["$defs"]["caveats"] | {"$defs": contracts.DOCUMENT["$defs"]}
+    return Draft202012Validator(schema)
+
+
+@lru_cache(maxsize=1)
+def _source_validator():
+    schema = {
         "type": "object", "additionalProperties": False,
         "required": ["id", "doi", "sha256", "format", "url", "provenance", "rights", "omission"],
         "properties": {
@@ -124,21 +135,37 @@ def validate_bundle(bundle):
             "bibliography": contracts.ref("source_bibliography"),
         }, "$defs": contracts.DOCUMENT["$defs"],
     }
-    source_validator = Draft202012Validator(source_schema)
+    return Draft202012Validator(schema)
+
+
+@lru_cache(maxsize=10)
+def _record_validator(name, unbounded_text=False):
+    schema = _record_schema(name)
+    if unbounded_text:
+        schema["$defs"][name]["properties"]["text"] = {"type": "string"}
+    return Draft202012Validator(schema)
+
+
+def validate_bundle(bundle):
+    if not isinstance(bundle, dict) or set(bundle) != {"schema_version", "caveats", *SECTIONS}:
+        raise ReleaseError("Evidence bundle has unexpected or missing sections")
+    if type(bundle["schema_version"]) is not int or bundle["schema_version"] != MANIFEST_SCHEMA:
+        raise ReleaseError("Unsupported evidence bundle schema")
+    if any(not isinstance(bundle[section], list) for section in SECTIONS):
+        raise ReleaseError("Every evidence section must be an array")
+    _caveat_validator().validate(bundle["caveats"])
+    registry = {}
+    source_validator = _source_validator()
     for source in bundle["sources"]:
         source_validator.validate(source)
         if source["id"] in registry:
             raise ReleaseError("Duplicate source ID")
         registry[source["id"]] = source
-    if not registry:
-        raise ReleaseError("An evidence release must identify at least one source")
     ids = {}
-    validators = {key: Draft202012Validator(_record_schema(kind)) for key, kind in (
+    validators = {key: _record_validator(kind) for key, kind in (
         ("claims", "claim"), ("units", "context"), ("tables", "table"),
         ("issues", "issue"), ("relationships", "relationship"))}
-    unit_schema = _record_schema("context")
-    unit_schema["$defs"]["context"]["properties"]["text"] = {"type": "string"}
-    unit_validator = Draft202012Validator(unit_schema)
+    unit_validator = _record_validator("context", unbounded_text=True)
     for section in SECTIONS[1:]:
         if not isinstance(bundle[section], list):
             raise ReleaseError(f"Expected array: {section}")
@@ -164,6 +191,8 @@ def validate_bundle(bundle):
                 record = wrapped
             if section == "units":
                 # Full text is only stored in explicitly authorized profiles.
+                if {"passage_context", "reading_parts", "next_offset"} & record.keys():
+                    raise ReleaseError("Passage context must be derived, not stored in canonical units")
                 unit_validator.validate(record)
             else:
                 validators[section].validate(record)
@@ -228,7 +257,47 @@ def _set_availability(value, availability):
             _set_availability(item, availability)
 
 
-def _index(path, bundle):
+def chunk_records(bundle, plans, *, document_context=None):
+    return chunks.records(bundle, plans, identity=lambda value: sha256(encode(value)), error=ReleaseError,
+                          document_context=document_context)
+
+
+def exact_page(matches, arguments):
+    offset, limit = arguments["offset"], arguments["limit"]
+    end = offset + limit
+    continuation = end if end < len(matches) else None
+    if continuation is not None and continuation > retrieval.MAX_OFFSET:
+        raise ReleaseError("Search pagination offset ceiling exceeded")
+    return matches[offset:end], continuation
+
+
+def chunk_payloads(plans):
+    return {name: encode(subset) for name, document in (
+        (chunks.PAYLOAD, False), (chunks.DOCUMENT_PAYLOAD, True))
+        if (subset := {key: value for key, value in plans.items() if isinstance(value, dict) == document})}
+
+
+def _chunk_plans(payloads):
+    plans = {}
+    for name, kind in ((chunks.PAYLOAD, list), (chunks.DOCUMENT_PAYLOAD, dict)):
+        if name in payloads:
+            data = read_json(payloads[name])
+            if not isinstance(data, dict) or plans.keys() & data.keys() or not all(
+                    isinstance(value, kind) for value in data.values()):
+                raise ReleaseError("Invalid versioned retrieval chunk plans")
+            plans.update(data)
+    return plans
+
+
+def _retrieval_units(bundle, replacements):
+    return [record for unit in bundle["units"] for record in replacements.get(unit["id"], (unit,))]
+
+
+def _editorial_labels(context):
+    return {key: value["editorial_label"] for key, value in context.items() if "editorial_label" in value}
+
+
+def _index(path, bundle, replacements=None, *, labels=None):
     with sqlite3.connect(path) as db:
         db.executescript("""
             CREATE TABLE papers (paper_id TEXT PRIMARY KEY, doi TEXT);
@@ -241,7 +310,7 @@ def _index(path, bundle):
         """)
         papers = {retrieval.paper_id(source["doi"]): source["doi"] for source in bundle["sources"]}
         db.executemany("INSERT INTO papers VALUES (?,?)", sorted(papers.items()))
-        for unit in sorted(bundle["units"], key=lambda row: row["id"]):
+        for unit in sorted(_retrieval_units(bundle, replacements or {}), key=lambda row: row["id"]):
             pid = retrieval.paper_id(unit["citation"]["doi"])
             db.execute("INSERT INTO content_units VALUES (?,?,?)", (unit["id"], pid, encode(unit).decode()))
             db.execute("INSERT INTO content_search VALUES (?,?,?)", (unit["id"], pid, unit["text"]))
@@ -251,14 +320,18 @@ def _index(path, bundle):
                        (claim["id"], pid, 0, "", claim["claim_kind"], encode(claim).decode()))
             db.execute("INSERT INTO claim_search VALUES (?,?)",
                        (claim["id"], claim["statement"] + " " + claim["supporting_quote"]))
+        if labels:
+            retrieval.create_label_index(db, labels.items())
     return path.read_bytes()
 
 
-def export(bundle, destination, *, profile="curated", authorization=None, asset_paths=None):
+def export(bundle, destination, *, profile="curated", authorization=None, asset_paths=None, chunk_plans=None):
     """Export to a new directory only; original workspaces are never modified."""
     validate_bundle(bundle)
     if profile not in PROFILES:
         raise ReleaseError("Unknown rights profile")
+    if chunk_plans and profile != "private_context":
+        raise AccessDeniedError("Retrieval chunks require the private context profile")
     destination = Path(destination).absolute()
     if destination.exists() or destination.is_symlink():
         raise ReleaseError("Export destination must not already exist")
@@ -328,7 +401,12 @@ def export(bundle, destination, *, profile="curated", authorization=None, asset_
         staging.mkdir()
         (staging / "evidence").mkdir()
         payloads["records.json"] = encode(selected)
-        payloads["evidence/index.sqlite"] = _index(staging / "evidence/index.sqlite", selected)
+        if chunk_plans:
+            payloads.update(chunk_payloads(chunk_plans))
+        context = {}
+        records = chunk_records(selected, chunk_plans or {}, document_context=context)
+        payloads["evidence/index.sqlite"] = _index(
+            staging / "evidence/index.sqlite", selected, records, labels=_editorial_labels(context))
         entries = {name: {"sha256": sha256(data), "bytes": len(data)}
                    for name, data in sorted(payloads.items())}
         manifest = {"schema_version": MANIFEST_SCHEMA, "tool_schema_version": contracts.SCHEMA_VERSION,
@@ -361,7 +439,7 @@ def validate(root, *, allowed_profiles):
     if not isinstance(manifest, dict) or set(manifest) != expected_keys:
         raise ReleaseError("Invalid release manifest")
     if (type(manifest["schema_version"]) is not int or manifest["schema_version"] != MANIFEST_SCHEMA
-            or manifest["tool_schema_version"] not in {"2.0.0", "2.1.0", "2.2.0", contracts.SCHEMA_VERSION}):
+            or manifest["tool_schema_version"] not in {"2.0.0", "2.1.0", "2.2.0", "2.3.0", contracts.SCHEMA_VERSION}):
         raise ReleaseError("Unsupported release/tool schema")
     if not isinstance(manifest["profile"], str) or manifest["profile"] not in PROFILES or manifest["profile"] not in allowed_profiles:
         raise AccessDeniedError("Release rights profile is not allowed by this operator")
@@ -415,7 +493,12 @@ def validate(root, *, allowed_profiles):
         if name not in payloads or sha256(payloads[name]) != source["sha256"]:
             raise ReleaseError("Missing or invalid original asset")
         asset_files.add(name)
-    if set(payloads) != {"records.json", "evidence/index.sqlite", *asset_files}:
+    expected = {"records.json", "evidence/index.sqlite", *asset_files}
+    plans = {}
+    if manifest["profile"] == "private_context":
+        expected.update({chunks.PAYLOAD, chunks.DOCUMENT_PAYLOAD} & payloads.keys())
+        plans = _chunk_plans(payloads)
+    if set(payloads) != expected:
         raise ReleaseError("Unexpected profile payloads")
     for source_id, source in sources.items():
         included = source_id in manifest["assets"]
@@ -454,14 +537,24 @@ def validate(root, *, allowed_profiles):
             raise ReleaseError("Release search index integrity failure")
         for table in ("content_search", "claim_search"):
             db.execute(f"INSERT INTO {table}({table},rank) VALUES('integrity-check',1)")
-        units = sorted((r["id"], retrieval.paper_id(r["citation"]["doi"]), encode(r).decode()) for r in bundle["units"])
+        context = {}
+        retrieval_units = _retrieval_units(bundle, chunk_records(bundle, plans, document_context=context))
+        labels = _editorial_labels(context)
+        has_labels = db.execute("SELECT 1 FROM sqlite_master WHERE name='passage_labels'").fetchone()
+        if bool(labels) != bool(has_labels):
+            raise ReleaseError("Editorial label index does not match the chunk plans")
+        if labels:
+            db.execute("INSERT INTO passage_labels(passage_labels,rank) VALUES('integrity-check',1)")
+            if db.execute("SELECT * FROM passage_labels ORDER BY unit_id").fetchall() != sorted(labels.items()):
+                raise ReleaseError("Editorial label index does not match the chunk plans")
+        units = sorted((r["id"], retrieval.paper_id(r["citation"]["doi"]), encode(r).decode()) for r in retrieval_units)
         claims = sorted((r["id"], retrieval.paper_id(r["citation"]["doi"]), 0, "", r["claim_kind"], encode(r).decode())
                         for r in bundle["claims"])
         comparisons = [
             ("SELECT * FROM content_units ORDER BY unit_id", units),
             ("SELECT * FROM claims ORDER BY claim_id", claims),
             ("SELECT * FROM content_search ORDER BY unit_id",
-             sorted((r["id"], retrieval.paper_id(r["citation"]["doi"]), r["text"]) for r in bundle["units"])),
+             sorted((r["id"], retrieval.paper_id(r["citation"]["doi"]), r["text"]) for r in retrieval_units)),
             ("SELECT * FROM claim_search ORDER BY claim_id",
              sorted((r["id"], r["statement"] + " " + r["supporting_quote"]) for r in bundle["claims"])),
             ("SELECT * FROM papers ORDER BY paper_id",
@@ -483,6 +576,60 @@ class Snapshot:
         self._manifest = deepcopy(manifest)
         self._bundle = deepcopy(bundle)
         self._payloads = dict(payloads)
+        self.chunk_plans = _chunk_plans(payloads)
+        self._document_chunk_context = {}
+        self._chunk_records = chunk_records(self._bundle, self.chunk_plans,
+                                            document_context=self._document_chunk_context)
+        self.editorial_labels = _editorial_labels(self._document_chunk_context)
+        self._chunks_by_id = {row["id"]: row for rows in self._chunk_records.values() for row in rows}
+        self._chunk_parents = {row["id"]: unit_id for unit_id, rows in self._chunk_records.items() for row in rows}
+        self._chunk_ranges = {row["id"]: bounds for key, rows in self._chunk_records.items()
+                              if isinstance(self.chunk_plans.get(key), list)
+                              for row, bounds in zip(rows, self.chunk_plans[key])}
+        self._passage_blocks = {}
+        self._passage_titles = {source["id"]: (source.get("bibliography") or {}).get("title")
+                                for source in self._bundle["sources"]}
+
+    def retrieval_units(self):
+        return _retrieval_units(self._bundle, self._chunk_records)
+
+    def passage_metadata(self, record, *, block=None):
+        if record["id"] in self._document_chunk_context:
+            return deepcopy(self._document_chunk_context[record["id"]])
+        citation = record["citation"]
+        if self.profile != "private_context" or citation["locator"]["kind"] != "pdf":
+            return None
+        source_id = citation["source_id"]
+        title = self._passage_titles[source_id]
+        if source_id not in self._passage_blocks:
+            self._passage_blocks[source_id] = passage_context.blocks(self.document_units(source_id), title=title)
+        unit_id = record["id"]
+        parent = self._chunk_parents.get(unit_id, unit_id)
+        first, last = self._chunk_ranges.get(unit_id, (block, block))
+        return passage_context.describe(title, self._passage_blocks[source_id][parent], first, last)
+
+    def annotate_passage(self, record):
+        metadata = self.passage_metadata(record)
+        if metadata is not None:
+            record["passage_context"] = metadata
+        return record
+
+    def exact_search(self, target, *, paper=None, includes=None):
+        results = []
+        for unit_id, metadata in self._document_chunk_context.items():
+            citation = self._chunks_by_id[unit_id]["citation"]
+            if paper is not None and retrieval.paper_id(citation["doi"]) != retrieval.paper_id(paper):
+                continue
+            if includes is not None and not includes(citation["doi"]):
+                continue
+            unit = self._chunks_by_id[unit_id]
+            for score, evidence in passage_context.exact_evidence(unit["text"], metadata, target):
+                if len(evidence["text"]) > 8192:
+                    continue
+                result = deepcopy({key: value for key, value in unit.items() if key not in {"text", "truncated"}})
+                result.update(snippet=evidence["text"][:2048], exact_evidence=evidence)
+                results.append((score, self.annotate_passage(result)))
+        return results
 
     def verify_backing(self, root):
         """Verify backing bytes against this already fully validated snapshot."""
@@ -508,6 +655,8 @@ class Snapshot:
             raise ReleaseError("Unlisted or missing release files")
 
     def _lookup(self, section, identifier):
+        if section == "units" and identifier in self._chunks_by_id:
+            return deepcopy(self._chunks_by_id[identifier])
         for wrapped in self._bundle[section]:
             record = wrapped["record"] if section in {"issues", "relationships"} else wrapped
             if record["id"] == identifier:
@@ -553,13 +702,25 @@ class Snapshot:
         elif tool == "get_source_issue":
             result = self._lookup("issues", selected["issue_id"])
         elif tool == "get_source_context":
-            result = self.source_context(selected["unit_id"], limit=selected["max_characters"])["record"]
+            window = self.source_context(selected["unit_id"], offset=selected.get("offset", 0),
+                                         limit=selected["max_characters"])
+            result = window["record"]
+            if "offset" in selected or "passage_context" in result:
+                result["next_offset"] = window["next_offset"]
+            if "passage_context" in result:
+                parts = passage_context.reading_parts(self._lookup("units", selected["unit_id"])["text"],
+                                                      result["passage_context"])
+                if parts:
+                    result["reading_parts"] = parts
+        elif tool == "get_source_document":
+            result = self.source_document(selected["source_id"], offset=selected["offset"],
+                                          max_characters=selected["max_characters"])
         elif tool == "get_table":
             result = self._lookup("tables", selected["table_id"])
             rows, continuation = self._page(result["rows"], selected)
             result.update(rows=rows, next_offset=continuation, truncated=continuation is not None)
         elif tool == "get_related_evidence":
-            identifier = selected["evidence_id"]
+            identifier = self._chunk_parents.get(selected["evidence_id"], selected["evidence_id"])
             if not (any(record["id"] == identifier for section in ("claims", "units", "tables")
                         for record in self._bundle[section]) or any(
                             item["record"]["id"] == identifier for item in self._bundle["issues"])):
@@ -569,23 +730,35 @@ class Snapshot:
             items, continuation = self._page(rows, selected)
             result = {"items": items, "next_offset": continuation, "scope": contracts.CORPUS_SCOPE}
         else:
+            target = passage_context.explicit_target(selected["query"], selected["mode"])
+            exact = self.exact_search(target, paper=selected.get("paper")) if target else []
+            if exact:
+                exact.sort(key=lambda hit: (-hit[0], hit[1]["id"], hit[1]["exact_evidence"]["label"]))
+                page, continuation = exact_page(exact, selected)
+                result = {"items": [row for _, row in page], "next_offset": continuation,
+                          "scope": contracts.CORPUS_SCOPE}
+                response = contracts.success(tool, self.release_id, result, deepcopy(self._bundle["caveats"]))
+                contracts.validate_response(tool, arguments, response)
+                return response
             with closing(memory_index(self._payloads["evidence/index.sqlite"])) as db:
                 db.execute("PRAGMA query_only=ON")
                 # Existing shared retrieval owns FTS syntax, parameterization and ordering.
                 rows = retrieval.search(db, selected["query"], paper=selected.get("paper"),
                                         limit=selected["limit"], offset=selected["offset"],
-                                        mode=selected["mode"])
+                                        mode=selected["mode"],
+                                        editorial=self.profile == "private_context" and selected["mode"] == "plain")
                 count_args = {**selected, "offset": selected["offset"] + len(rows)}
                 if rows and count_args["offset"] > retrieval.MAX_OFFSET:
                     raise ReleaseError("Search pagination offset ceiling exceeded")
                 more = retrieval.search(db, selected["query"], paper=selected.get("paper"),
-                                        limit=1, offset=count_args["offset"], mode=selected["mode"])
+                                        limit=1, offset=count_args["offset"], mode=selected["mode"],
+                                        editorial=self.profile == "private_context" and selected["mode"] == "plain")
             items = []
             for row in rows:
                 row.pop("doi")
                 row.pop("truncated")
                 row["snippet"] = row["snippet"][:2048]
-                items.append(row)
+                items.append(self.annotate_passage(row))
             continuation = selected["offset"] + len(items) if more else None
             result = {"items": items, "next_offset": continuation, "scope": contracts.CORPUS_SCOPE}
         response = contracts.success(tool, self.release_id, result, deepcopy(self._bundle["caveats"]))
@@ -604,7 +777,7 @@ class Snapshot:
             raise retrieval.RetrievalError("Text offset exceeds retained unit length")
         result["text"] = text[offset:offset + limit]
         result["truncated"] = result["truncated"] or offset > 0 or offset + limit < len(text)
-        return {"record": result, "offset": offset, "total_characters": len(text),
+        return {"record": self.annotate_passage(result), "offset": offset, "total_characters": len(text),
                 "next_offset": offset + limit if offset + limit < len(text) else None}
 
     def source_units(self, source_id):
@@ -614,6 +787,46 @@ class Snapshot:
         return [{key: deepcopy(unit[key]) for key in (
             "id", "citation", "verification_status", "human_verification", "caveats", "source_issue_ids")}
                 for unit in self._bundle["units"] if unit["citation"]["source_id"] == source_id]
+
+    def document_units(self, source_id):
+        """Return canonical PDF page units in reading order, without rewriting extraction."""
+        if self.profile == "curated":
+            raise AccessDeniedError("Extracted context is not authorized by this release profile")
+        source = self._lookup("sources", source_id)
+        if source["format"] != "pdf":
+            raise retrieval.RetrievalError("Continuous document reading requires a PDF source")
+        units = [unit for unit in self._bundle["units"] if unit["citation"]["source_id"] == source_id]
+        if not units:
+            raise retrieval.NotFoundError("No retained pages for this source document")
+        return deepcopy(sorted(units, key=lambda unit: (unit["citation"]["locator"]["pdf_page"], unit["id"])))
+
+    def source_document(self, source_id, *, offset=0, max_characters=4096):
+        """Slice a page-ordered text stream and retain exact page/unit provenance."""
+        contracts.request("get_source_document", {
+            "source_id": source_id, "offset": offset, "max_characters": max_characters})
+        units = self.document_units(source_id)
+        source = self._lookup("sources", source_id)
+        text = "\n\n".join(unit["text"] for unit in units)
+        if len(text) > contracts.MAX_DOCUMENT_OFFSET or offset > len(text):
+            raise retrieval.RetrievalError("Document offset exceeds retained text or supported length")
+        end = min(offset + max_characters, len(text))
+        segments, position = [], 0
+        for unit in units:
+            unit_end = position + len(unit["text"])
+            if (position < end and unit_end > offset) or (
+                    not unit["text"] and offset <= position <= end):
+                segment = {key: deepcopy(unit[key]) for key in (
+                    "id", "citation", "verification_status", "human_verification", "caveats", "source_issue_ids")}
+                segment.update(start=max(offset, position), end=min(end, unit_end),
+                               unit_offset=max(0, offset - position), extraction_truncated=unit["truncated"])
+                segments.append(segment)
+            position = unit_end + 2
+        return {
+            "source_id": source_id, "source_sha256": source["sha256"], "doi": source["doi"],
+            "text": text[offset:end], "offset": offset, "total_characters": len(text),
+            "next_offset": end if end < len(text) else None, "unit_count": len(units),
+            "extraction_incomplete": any(unit["truncated"] for unit in units), "segments": segments,
+        }
 
     def source_inventory(self, paper=None):
         """Inventory the exact source versions behind this release, without original bytes."""
