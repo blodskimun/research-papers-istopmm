@@ -1163,7 +1163,8 @@ if (purgeDialog && typeof purgeDialog.showModal === 'function') {
         });
         const preview = new DOMParser().parseFromString(await response.text(), 'text/html');
         if (!response.ok) {
-          throw new Error(preview.querySelector('#main')?.textContent || preview.body.textContent);
+          throw new Error(preview.querySelector('[role="alert"]')?.textContent ||
+            preview.body.textContent || 'Deletion preview unavailable.');
         }
         const main = preview.querySelector('#main');
         if (!main || !main.querySelector('form[action="/settings/purge-paper"]')) {
@@ -1963,6 +1964,9 @@ def create_app(*, release=None, registry=None, profiles, allowed_collections=Non
                     '<p>Stop any MCP servers before purging and restart them afterward to discard cached old evidence. '
                     'This removes application-managed copies, not external backups or copies elsewhere on your computer. '
                     'Text in retained core PDFs is not rewritten if it cites the removed paper.</p>'
+                    '<p>Figure files are preserved because their ownership is not tracked. Saved RAG drafts and '
+                    'checks for identified removed sources are deleted; unassociated files are preserved. '
+                    'Review preserved files separately if they contain material you intend to delete.</p>'
                     '<h4>Matching shared PDFs to delete</h4><ul>'
                     + "".join(f'<li>{escape(path)}</li>' for path in report["pdf_copies"])
                     + ('<li>No matching shared PDF copies.</li>' if not report["pdf_copies"] else "")
@@ -5187,7 +5191,8 @@ def create_app(*, release=None, registry=None, profiles, allowed_collections=Non
                        and request.method == "POST" and request.form.get("action") == "pause")
         if pdf_running() and request.method != "GET" and not pause_batch:
             return error_response("PDF search is running; retry after it finishes.", "project_busy", 503)
-        if purge_running() and request.path not in {"/settings/purge-progress", "/style.css"}:
+        if purge_running() and request.path not in {"/settings/purge-progress", "/style.css",
+                                                    "/appearance.js", "/help.js"}:
             if request.method == "GET" and not request.path.startswith("/api/"):
                 return redirect("/settings/purge-progress")
             return error_response("Permanent core-paper removal is running; retry after it finishes.",

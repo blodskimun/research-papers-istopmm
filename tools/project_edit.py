@@ -277,7 +277,7 @@ def correct(root, *, snapshot_id, source_id, unit_id, text, bibliography, source
             release_id = releases.export(bundle, run / "evidence", profile="private_context",
                                          authorization=original._manifest["authorization"])
             registry.releases.install(run / "evidence")
-            project_library.write_text_views(run / "text", bundle)
+            shutil.rmtree(run / "evidence")
             event["release"] = release_id
             collections.atomic_json(run, "correction.json", event)
             document = deepcopy(current.document)

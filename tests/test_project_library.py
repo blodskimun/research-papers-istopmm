@@ -799,6 +799,19 @@ class ProjectLibraryTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "already exists"):
             project_library.export_manifest(self.root, destination)
 
+    def test_failed_import_does_not_leave_an_incomplete_run(self):
+        from research_library.build import project_text
+        project_library.register(self.root, [{"doi": "10.0000/failure", "title": "Failed import"}])
+        project_text.ensure_editorial(self.root)
+        before = project_text.editorial_store(self.root).current().release_id
+        pdf = self.pdf("failure.pdf", "Fictional PDF used to test a failed import.")
+        with patch.object(collections.CollectionStore, "publish", side_effect=ValueError("Activation failed")):
+            with self.assertRaisesRegex(ValueError, "Activation failed"):
+                project_library.attach(self.root, "10.0000/failure", pdf, identity_confirmed=True)
+        self.assertEqual(project_text.editorial_store(self.root).current().release_id, before)
+        self.assertEqual(list((self.root / "runs").iterdir()), [])
+        self.assertTrue(list((self.root / "papers").glob("*.pdf")))
+
     def test_attach_search_and_retained_snapshot(self):
         project_library.register(self.root, [
             {"doi": "10.0000/one", "title": "First"},
@@ -811,6 +824,8 @@ class ProjectLibraryTests(unittest.TestCase):
         index = Path(first["text_views"])
         self.assertTrue(index.is_file())
         self.assertIn("marmalade", next(index.parent.glob("*/text.md")).read_text())
+        self.assertFalse((index.parent.parent / "evidence").exists())
+        self.assertTrue((index.parent.parent / "import.json").is_file())
         store = project_library.store(self.root)
         self.assertEqual(store.call("search_evidence", {"query": "marmalade"})["result"]["items"], [])
         publish_all(self.root)
@@ -855,6 +870,10 @@ class ProjectLibraryTests(unittest.TestCase):
             project_library.attach(self.root, "10.0000/two", pdf, identity_confirmed=True)
         second_pdf = self.pdf("second.pdf", "Distinct fictional observation about oranges and screening.")
         second = project_library.attach(self.root, "10.0000/two", second_pdf, identity_confirmed=True)
+        second_views = list(Path(second["text_views"]).parent.glob("*/text.md"))
+        self.assertEqual(len(second_views), 1)
+        self.assertIn("oranges", second_views[0].read_text())
+        self.assertNotIn("marmalade", second_views[0].read_text())
         publish_all(self.root)
         self.assertNotEqual(first["snapshot"], second["snapshot"])
         self.assertEqual(len(store.load(first["snapshot"]).snapshots["core"]._bundle["sources"]), 1)

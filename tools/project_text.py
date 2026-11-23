@@ -376,7 +376,7 @@ def publish(root, *, snapshot_id, source_id, reviewer, reason, checked):
             release_id = releases.export(bundle, run / "evidence", profile="private_context", authorization=grants,
                                          chunk_plans=plans)
             project_library.store(root).releases.install(run / "evidence")
-            project_library.write_text_views(run / "text", selected)
+            shutil.rmtree(run / "evidence")
             event = {"schema_version": 1, "at": datetime.now(timezone.utc).isoformat(),
                      "reviewer": reviewer, "reason": reason, "scope": "publication", "source_id": source_id,
                      "source_sha256": selected["sources"][0]["sha256"], "unit_id": None,
@@ -449,6 +449,7 @@ def unpublish(root, *, snapshot_id, source_id, reviewer, reason, checked):
             release_id = releases.export(bundle, run / "evidence", profile="private_context", authorization=grants,
                 chunk_plans={key: value for key, value in original.chunk_plans.items() if key in retained})
             registry.releases.install(run / "evidence")
+            shutil.rmtree(run / "evidence")
             event = {"schema_version": 1, "at": datetime.now(timezone.utc).isoformat(),
                      "reviewer": reviewer, "reason": reason, "scope": "unpublication", "source_id": source_id,
                      "source_sha256": selected["sources"][0]["sha256"], "unit_id": None,

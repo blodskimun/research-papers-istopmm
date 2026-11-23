@@ -564,58 +564,70 @@ def attach(root, doi, pdf, *, identity_confirmed, license=None, title=None, expe
         runs = root / "runs"
         runs.mkdir(exist_ok=True)
         run = Path(tempfile.mkdtemp(prefix="import-", dir=runs))
-        built = (literature_update.source_bundle(run / "source", papers, item["publication_id"], source, result)
-                 if extract else project_text.attached_bundle(source, result))
-        if built["bundle"] is None:
-            built = project_text.attached_bundle(source, result)
-        present = {unit["citation"]["locator"]["pdf_page"] for unit in built["bundle"]["units"]}
-        missing = project_text.attached_bundle(source, result)
-        for unit in missing["bundle"]["units"]:
-            unit["citation"]["provenance"] = built["bundle"]["sources"][0]["provenance"]
-        built["bundle"]["units"].extend(unit for unit in missing["bundle"]["units"]
-                                        if unit["citation"]["locator"]["pdf_page"] not in present)
-        project_text.ensure_editorial(root)
-        registry = project_text.editorial_store(root)
-        current = registry.current()
-        identity_note = " Operator confirmed the registered title and DOI; identity not independently verified."
-        for entry in built["bundle"]["sources"]:
-            entry["provenance"] += identity_note
-        for unit in built["bundle"]["units"]:
-            unit["citation"]["provenance"] += identity_note
-            if built["ocr"] and (built["ocr"]["unresolved_pages"] or built["ocr"]["low_confidence_pages"]):
-                unit["caveats"].append(
-                    "needs_visual_review: OCR contains unresolved or low-confidence pages; inspect the original PDF.")
-        if current:
-            parent = current.snapshots["core"]
-            bundle = deepcopy(parent._bundle)
-            grants = deepcopy(parent._manifest["authorization"])
-            for section in releases.SECTIONS:
-                bundle[section].extend(built["bundle"][section])
-            grants.update(built["grants"])
-        else:
-            bundle, grants = built["bundle"], built["grants"]
-        releases.validate_bundle(bundle)
-        write_text_views(run / "text", bundle)
-        destination = run / "evidence"
-        evidence_id = releases.export(bundle, destination, profile="private_context", authorization=grants,
-                                     chunk_plans=parent.chunk_plans if current else None)
-        installed = registry.releases.install(destination)
-        version = "core-" + datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S-%f")
-        document = {"schema_version": 1, "collections": [
-            *([deepcopy(entry) for entry in current.document["collections"] if entry["id"] != "core"]
-              if current else []), {
-            "id": "core", "title": project["name"], "version": version,
-            "updated_at": now[:10], "coverage": "Privately attached project papers, including core and discovered papers; not exhaustively reviewed.",
-            "release_id": installed, "publications": {},
-        }]}
-        snapshot = registry.publish(document)
-        project_text.export_git_markdown(root, bundle, source_id=built["bundle"]["sources"][0]["id"],
-                                         kind="extracted", release_id=installed)
-        return {"doi": doi, "snapshot": snapshot, "release": evidence_id, "pages": len(result["pages"]),
-                "extraction": result["status"], "ocr": built["ocr"],
-                "text_status": "draft", "retrievable": False,
-                "text_views": str(run / "text" / "index.md"),
-                "identity": "operator-confirmed; not independently verified"}
+        activated = False
+        try:
+            built = (literature_update.source_bundle(run / "source", papers, item["publication_id"], source, result)
+                     if extract else project_text.attached_bundle(source, result))
+            if built["bundle"] is None:
+                built = project_text.attached_bundle(source, result)
+            present = {unit["citation"]["locator"]["pdf_page"] for unit in built["bundle"]["units"]}
+            missing = project_text.attached_bundle(source, result)
+            for unit in missing["bundle"]["units"]:
+                unit["citation"]["provenance"] = built["bundle"]["sources"][0]["provenance"]
+            built["bundle"]["units"].extend(unit for unit in missing["bundle"]["units"]
+                                            if unit["citation"]["locator"]["pdf_page"] not in present)
+            project_text.ensure_editorial(root)
+            registry = project_text.editorial_store(root)
+            current = registry.current()
+            identity_note = " Operator confirmed the registered title and DOI; identity not independently verified."
+            for entry in built["bundle"]["sources"]:
+                entry["provenance"] += identity_note
+            for unit in built["bundle"]["units"]:
+                unit["citation"]["provenance"] += identity_note
+                if built["ocr"] and (built["ocr"]["unresolved_pages"] or built["ocr"]["low_confidence_pages"]):
+                    unit["caveats"].append(
+                        "needs_visual_review: OCR contains unresolved or low-confidence pages; inspect the original PDF.")
+            if current:
+                parent = current.snapshots["core"]
+                bundle = deepcopy(parent._bundle)
+                grants = deepcopy(parent._manifest["authorization"])
+                for section in releases.SECTIONS:
+                    bundle[section].extend(built["bundle"][section])
+                grants.update(built["grants"])
+            else:
+                bundle, grants = built["bundle"], built["grants"]
+            releases.validate_bundle(bundle)
+            source_id = built["bundle"]["sources"][0]["id"]
+            write_text_views(run / "text", project_text.source_bundle(bundle, source_id))
+            destination = run / "evidence"
+            evidence_id = releases.export(bundle, destination, profile="private_context", authorization=grants,
+                                         chunk_plans=parent.chunk_plans if current else None)
+            installed = registry.releases.install(destination)
+            version = "core-" + datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S-%f")
+            document = {"schema_version": 1, "collections": [
+                *([deepcopy(entry) for entry in current.document["collections"] if entry["id"] != "core"]
+                  if current else []), {
+                "id": "core", "title": project["name"], "version": version,
+                "updated_at": now[:10], "coverage": "Privately attached project papers, including core and discovered papers; not exhaustively reviewed.",
+                "release_id": installed, "publications": {},
+            }]}
+            collections.atomic_json(run, "import.json", {
+                "schema_version": 1, "source_id": source_id, "doi": doi,
+                "source_sha256": digest, "release": evidence_id,
+            })
+            snapshot = registry.publish(document)
+            activated = True
+            shutil.rmtree(destination)
+            project_text.export_git_markdown(root, bundle, source_id=source_id,
+                                             kind="extracted", release_id=installed)
+            return {"doi": doi, "snapshot": snapshot, "release": evidence_id, "pages": len(result["pages"]),
+                    "extraction": result["status"], "ocr": built["ocr"],
+                    "text_status": "draft", "retrievable": False,
+                    "text_views": str(run / "text" / "index.md"),
+                    "identity": "operator-confirmed; not independently verified"}
+        finally:
+            if not activated:
+                shutil.rmtree(run)
 
 
 def status(root):

@@ -332,6 +332,9 @@ time, source checksum, parent snapshot and new release. Saved corrections live
 in private import runs; a purge retains surviving sources' audit records under
 `corrections/` when cumulative import runs must be deleted. Purging a source
 removes its correction history too. Factory reset removes all project history.
+New correction and publication runs retain their audit record but not an
+additional full-library evidence release or text-view copy. The active
+editorial and published releases remain separate.
 
 Saving rejects stale forms if the active snapshot changed in another tab or job.
 Invalid input is shown without discarding the form; no partial version is
@@ -470,9 +473,11 @@ the usual not-human-verified and confidence caveats. Missing OCR dependencies,
 and unreadable PDFs surface as errors. A PDF with no usable extracted text retains
 empty page anchors for manual transcription; it is not published as usable text.
 Each successful attachment validates and activates a new immutable editorial
-snapshot; old snapshots remain available. The command prints the location of
-regenerated, formatting-only `text.md` views for all attached project papers; the release
-units remain authoritative. Originals are not served.
+snapshot; old snapshots remain available. The import run retains a
+formatting-only `text.md` view of the attached paper, rather than duplicating
+all project papers and the complete evidence release. The command prints the
+view's index location; the release units remain authoritative. Originals are
+not served.
 
 Once at least one PDF has been added, start the browser or MCP:
 
@@ -734,7 +739,9 @@ To permanently remove a core paper:
 4. Type the full DOI and confirm. If project data changes after the preview,
    review a fresh preview.
 5. Keep the web app running until the purge progress page reports completion.
-   Restart MCP servers afterward.
+   The page reports the current stage and, where possible, items processed
+   within that stage; counts are not an overall percentage or time estimate.
+   Large projects can take a long time. Restart MCP servers afterward.
 
 Previews use a compact, automatically maintained index of saved core-to-paper
 connections. Older searches build this index on first use; subsequent previews
@@ -758,6 +765,12 @@ removed; unrelated evidence-only snapshots are retained. Historical links to
 removed snapshots stop working. Files outside application-managed project/PDF
 folders, external backups, and citations within the original text of retained
 papers are not erased or rewritten.
+
+Saved RAG drafts and checks associated with removed sources are deleted;
+unassociated files are preserved. Files in the project's `figures` directory
+are also preserved because their ownership is not tracked. Review these
+preserved files separately if they contain material intended for deletion.
+Changes to these folders after the preview require a fresh confirmation.
 
 The app blocks other operations during a purge. Add/import/purge actions also
 require discovery and metadata updates to finish. Symlinks and unexpected
