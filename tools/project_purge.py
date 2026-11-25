@@ -1,6 +1,7 @@
 """Rebuild private project data before permanently removing a core paper."""
 
 from copy import deepcopy
+from contextlib import ExitStack
 import csv
 from pathlib import Path
 import os
@@ -97,6 +98,79 @@ def discovery_index(folder, graph=None):
         raise ValueError("Discovery data changed while preparing deletion preview; try again")
     collections.atomic_json(folder, cached.name, index)
     return index
+
+
+def plan_current(root, current_store, doi, pdf_data_root):
+    """Preview current-store paper removal without changing either store."""
+    from . import project_current_store, project_index, project_library
+
+    root, current_store, pdf_root = (Path(path).absolute() for path in (root, current_store, pdf_data_root))
+    if (root.resolve() != root or current_store.resolve() != current_store
+            or not root.is_dir() or not current_store.is_dir()
+            or root == current_store or root.is_relative_to(current_store)
+            or current_store.is_relative_to(root)):
+        raise ValueError("Project and current store must be separate real directories without symlinks")
+    if pdf_root.resolve() != pdf_root or (pdf_root.exists() and not pdf_root.is_dir()):
+        raise ValueError("PDF data folder must be a real directory without symlinked paths")
+    doi = citation_neighborhood.doi(doi)
+    with ExitStack() as locks:
+        for path in sorted((root, current_store)):
+            locks.enter_context(literature_update.reader_lock(path))
+        state = project_current_store.read(current_store)
+        project = state["project"]
+        if doi not in project["papers"]:
+            raise ValueError("Select an existing Core paper")
+        remaining = set(project["papers"]) - {doi}
+        runs, all_dois, keep_dois, all_keys, keep_keys = [], set(), set(remaining), set(), set()
+        for run, folder in project_index.discovery_runs(root, current_store).items():
+            job = releases.safe_file(folder, "job.json").read_bytes()
+            graph_path = folder / "neighborhood.json"
+            if not graph_path.exists() and not graph_path.is_symlink():
+                runs.append({"run": run, "job": releases.sha256(job), "graph": None})
+                continue
+            data = releases.safe_file(folder, "neighborhood.json").read_bytes()
+            graph = releases.read_json(data)
+            runs.append({"run": run, "job": releases.sha256(job), "graph": releases.sha256(data)})
+            for edge in graph["edges"]:
+                key = edge["target_provider_record"]
+                node = graph["nodes"][key]
+                identifier = _doi(node["record"]["identifiers"].get("doi", ""))
+                identity = (run, key)
+                all_keys.add(identity)
+                if identifier:
+                    all_dois.add(identifier)
+                if _doi(edge["seed_doi"]) in remaining and identifier != doi:
+                    keep_keys.add(identity)
+                    if identifier:
+                        keep_dois.add(identifier)
+        removed_dois = (all_dois - keep_dois) | {doi}
+        sources = state["editorial"]["bundle"]["sources"] if state["editorial"] else []
+        removed_sources = [source for source in sources if _doi(source["doi"]) in removed_dois]
+        kept_sources = [source for source in sources if _doi(source["doi"]) not in removed_dois]
+        downloads = project_library.downloaded_pdf_metadata(pdf_root)
+        digests = {source["sha256"] for source in removed_sources}
+        protected = {source["sha256"] for source in kept_sources}
+        for (identifier, digest) in downloads:
+            (digests if _doi(identifier) in removed_dois else protected).add(digest)
+        digests -= protected
+        shared = []
+        if pdf_root.exists():
+            for path in sorted(pdf_root.iterdir()):
+                if path.suffix.casefold() != ".pdf":
+                    continue
+                if path.is_symlink() or not path.is_file():
+                    raise ValueError("PDF data folder contains a symlink or invalid PDF")
+                digest = releases.sha256(path.read_bytes())
+                if digest in digests:
+                    shared.append({"path": str(path), "sha256": digest})
+        return {
+            "doi": doi, "title": project["papers"][doi]["title"],
+            "state_sha256": releases.sha256(releases.encode(state)),
+            "runs": runs, "removed_dois": sorted(removed_dois),
+            "removed_source_ids": sorted(source["id"] for source in removed_sources),
+            "pdf_digests": sorted(digests), "shared_pdfs": shared,
+            "related_removed": len(all_keys - keep_keys),
+        }
 
 
 def plan(root, doi, pdf_data_root, *, prepare=True, progress=None):

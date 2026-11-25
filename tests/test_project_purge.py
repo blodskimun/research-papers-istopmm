@@ -1,5 +1,6 @@
 import io
 import json
+from copy import deepcopy
 from pathlib import Path
 import re
 import tempfile
@@ -10,7 +11,7 @@ from unittest.mock import patch
 
 import pymupdf
 
-from research_library.build import project_chunks, project_library, project_purge
+from research_library.build import project_chunks, project_current_store, project_library, project_purge, project_state
 from research_library import collections, releases, web_server
 from project_text_helpers import publish_all
 
@@ -77,6 +78,73 @@ class ProjectPurgeTests(unittest.TestCase):
     def token(self, client):
         return re.search(r'name="token" value="([^"]+)"',
             client.get("/settings", base_url="http://localhost:8080").get_data(as_text=True)).group(1)
+
+    def test_current_store_preview_preserves_shared_papers_across_discovery_roots(self):
+        folder = self.graph()
+        current = self.root.parent / "current"
+        project_current_store.initialize(project_state.current(self.root), current)
+        graph = releases.read_json((folder / "neighborhood.json").read_bytes())
+        graph2 = deepcopy(graph)
+        graph["edges"] = [edge for edge in graph["edges"] if edge["seed_doi"] == "10.0000/remove"]
+        collections.atomic_json(folder, "neighborhood.json", graph)
+        other = current / "discovery" / ("b" * 32)
+        graph2["edges"] = [edge for edge in graph2["edges"] if edge["seed_doi"] == "10.0000/keep"]
+        collections.atomic_json(other, "neighborhood.json", graph2)
+        collections.atomic_json(other, "job.json", {"status": "complete"})
+        unique = self.pdf_root / "unique.pdf"
+        shared = self.pdf_root / "shared.pdf"
+        unique.write_bytes(b"synthetic exclusive PDF")
+        shared.write_bytes(b"synthetic shared PDF")
+        collections.atomic_json(self.pdf_root, "fixture-downloads.json", [
+            {"doi": "10.0000/" + key, "sha256": releases.sha256(path.read_bytes()),
+             "status": "downloaded"} for key, path in (("unique", unique), ("shared", shared))])
+        before = project_current_store.read(current)
+        with patch.object(project_purge.collections, "atomic_json",
+                          side_effect=AssertionError("Preview wrote data")):
+            preview = project_purge.plan_current(self.root, current, "10.0000/remove", self.pdf_root)
+        self.assertEqual(preview["removed_dois"], ["10.0000/remove", "10.0000/unique"])
+        self.assertEqual(len(preview["removed_source_ids"]), 1)
+        self.assertEqual({Path(item["path"]).name for item in preview["shared_pdfs"]},
+                         {"remove.pdf", "unique.pdf"})
+        self.assertNotIn(releases.sha256(shared.read_bytes()), preview["pdf_digests"])
+        self.assertEqual(len(preview["runs"]), 2)
+        self.assertEqual(project_current_store.read(current), before)
+        self.assertFalse((folder / "purge-index.json").exists())
+        self.assertFalse((other / "purge-index.json").exists())
+        project, revision = project_current_store.project_view(current)
+        project["name"] = "Changed"
+        project_current_store.update_project(current, project=project, expected=revision)
+        self.assertNotEqual(project_purge.plan_current(
+            self.root, current, "10.0000/remove", self.pdf_root)["state_sha256"], preview["state_sha256"])
+        collections.atomic_json(other, "job.json", {"status": "changed"})
+        changed = project_purge.plan_current(self.root, current, "10.0000/remove", self.pdf_root)
+        self.assertNotEqual(changed["runs"], preview["runs"])
+
+    def test_current_store_preview_rejects_bad_inputs_without_changes(self):
+        current = self.root.parent / "current"
+        project_current_store.initialize(project_state.current(self.root), current)
+        before = project_current_store.read(current)
+        with self.assertRaisesRegex(ValueError, "existing Core paper"):
+            project_purge.plan_current(self.root, current, "10.0000/unknown", self.pdf_root)
+        alias = self.root.parent / "current-alias"
+        alias.symlink_to(current, target_is_directory=True)
+        with self.assertRaisesRegex(ValueError, "symlinks"):
+            project_purge.plan_current(self.root, alias, "10.0000/remove", self.pdf_root)
+        link = self.pdf_root / "linked.pdf"
+        link.symlink_to(self.pdfs["remove"])
+        with self.assertRaisesRegex(ValueError, "symlink"):
+            project_purge.plan_current(self.root, current, "10.0000/remove", self.pdf_root)
+        self.assertEqual(project_current_store.read(current), before)
+
+    def test_current_store_preview_protects_pdf_shared_with_remaining_paper(self):
+        current = self.root.parent / "current"
+        project_current_store.initialize(project_state.current(self.root), current)
+        digest = releases.sha256(self.pdfs["remove"].read_bytes())
+        collections.atomic_json(self.pdf_root, "fixture-downloads.json", [
+            {"doi": "10.0000/keep", "sha256": digest, "status": "downloaded"}])
+        preview = project_purge.plan_current(self.root, current, "10.0000/remove", self.pdf_root)
+        self.assertNotIn(digest, preview["pdf_digests"])
+        self.assertEqual(preview["shared_pdfs"], [])
 
     def test_purge_removes_exclusive_relationships_pdfs_caches_and_old_snapshots(self):
         folder = self.graph()
