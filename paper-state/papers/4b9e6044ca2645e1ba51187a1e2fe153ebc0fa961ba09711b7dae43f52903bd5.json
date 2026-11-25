@@ -1,0 +1,181 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T17:39:46.988498+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Local Radiation Therapy for Palliation in Patients With Multiple Myeloma of the Spine",
+        "year": null
+      },
+      "doi": "10.3389/fonc.2019.00601",
+      "format": "pdf",
+      "id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+      "url": "https://doi.org/10.3389/fonc.2019.00601"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fonc.2019.00601",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_sha256": "f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_url": "https://doi.org/10.3389/fonc.2019.00601"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9:p1",
+        "source_issue_ids": [],
+        "text": "ORIGINAL RESEARCH published: 03 July 2019 doi: 10.3389/fonc.2019.00601\n\nEdited by: Timothy James Kinsella, Warren Alpert Medical School of Brown University, United States\n\nReviewed by: Sonali Rudra, MedStar Georgetown University Hospital, United States Joshua Silverman, New York University, United States\n\n*Correspondence: Maged Ghaly mghaly@northwell.edu\n\nSpecialty section: This article was submitted to Radiation Oncology, a section of the journal Frontiers in Oncology\n\nReceived: 11 February 2019 Accepted: 18 June 2019 Published: 03 July 2019\n\nCitation: Mark D, Gilbo P, Meshrekey R and Ghaly M (2019) Local Radiation Therapy for Palliation in Patients With Multiple Myeloma of the Spine. Front. Oncol. 9:601. doi: 10.3389/fonc.2019.00601\n\nLocal Radiation Therapy for Palliation in Patients With Multiple Myeloma of the Spine\n\nDaniel Mark 1, Philip Gilbo 1, Raymond Meshrekey 2 and Maged Ghaly 1*\n\n1 Department of Radiation Medicine, Northwell Health, Lake Success, NY, United States, 2 New York Institute of Technology College of Osteopathic Medicine, Glen Head, NY, United States\n\nPurpose: The objective of this study was to assess a contemporary cohort of patients with multiple myeloma referred for palliative radiation to the mobile spine for clinical and radiological responses.\n\nMaterials/Methods: The records of patients treated between 2009 and 2016 with radiotherapy for multiple myeloma of the spine were retrospectively reviewed. Demographics, systemic therapy, radiation dose, number of fractions, radiographic response based upon adapted RECIST criteria, and symptomatic response were recorded.\n\nResults: Eighty eight patients and 98 treatment courses were analyzed. All courses were analyzed for symptomatic response and 61 of the treatment courses were available for radiologic follow-up. The median follow-up was 9.7 months with a median radiation dose of 25 Gy (12.5–50 Gy) delivered in a median of 10 fractions (5–25 fractions). Fifty-four percent of patients had a high-risk lesion. Symptomatic response as measured by a decrease of ≤5 points on the pain related scale was 83% and 34% of patients had a decrease of >5 points. Of 35% of patients that had neurologic impairments prior to treatment, improvement was identiﬁed 83% of the time. Radiographic response was noted as 13% complete response, 16% partial response, 57% stable disease, and 13% disease progression. Speciﬁcally, high-risk lesions treated with radiation alone demonstrated no regression with only 10% demonstrating partial response.\n\nConclusion: This retrospective series of patients treated with palliative intent for multiple myeloma using various dose and fractionation schemes showed favorable symptomatic relief in most patients. Radiographic response did not correlate with clinical response with fewer patients having radiologic disease regression. Longer follow-up is necessary to determine if the lack of radiologic response is associated with clinically relevant recurrent pain.\n\nKeywords: multiple myeloma, radiotherapy, spine, palliation, pain\n\nFrontiers in Oncology | www.frontiersin.org 1 July 2019 | Volume 9 | Article 601",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fonc.2019.00601",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_sha256": "f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_url": "https://doi.org/10.3389/fonc.2019.00601"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9:p2",
+        "source_issue_ids": [],
+        "text": "Mark et al. Palliative Radiotherapy Spinal Multiple Myeloma\n\nINTRODUCTION\n\nMultiple myeloma is a relatively rare malignancy, with ∼30,770 cases diagnosed per year and 12,770 deaths per year in the United States as of 2018 (1). It is a neoplasm arising from plasma cells, post-germinal B cells, which progresses to end-organ damage, usually involving the bone marrow and involving the bone in 80% of cases (2, 3). Given its systemic nature, chemotherapy is the main treatment modality. However, as the disease involves the bone marrow/bone, lesions may progress and cause bone pain, fractures, spinal cord/nerve compression, and may be associated with soft-tissue masses posing a higher risk to patients. These local lesions require more local therapy such as surgical excision and/or radiotherapy for symptomatic relief and/or to prevent further local progression (4). Lesions in the mobile spine are of particular concern given the proximity to the spinal cord/cauda equina. The mobile spine is fundamental to mobility and progression of lesion(s) can lead to a signiﬁcant deterioration of quality of life (5). Previous retrospective studies have noted that local pain control was positively related to applied radiation dose (6) and others have analyzed surgery on spinal multiple myelomatous lesions noting that patients undergoing surgery experienced pain relief as well (7, 8). In this study we sought to analyze our institutional experience with treatment of multiple myeloma of the mobile spine with radiotherapy to assess both radiological and symptomatic outcomes.\n\nMATERIALS AND METHODS\n\nPatient Inclusion We retrospectively reviewed the medical records of patients who were treated for pathologically conﬁrmed multiple myeloma of the spine treated with palliative intent conventional radiotherapy between 2009 and 2016 within our multi-center institution. The study was approved by our institutional review board.\n\nData Recording We recorded demographic data including age and sex, information regarding the patients’ spinal myelomatous lesion(s), neurological symptomatology before and after treatment, systemic therapy use, details regarding radiation including dose, fractionation, duration and modality, including potential incidences of re-irradiation and recorded radiographic response based on available imaging and clinical response based on patient reported pain scores. High-risk lesions were deﬁned as those with compression fracture(s), cord compression, or having a paraspinal soft tissue mass component. We excluded patients who received a single fraction of radiotherapy and stereotactic body radiation therapy. We separately assessed patients’ radiological response assessment from that cohort with documented radiographic imaging available.\n\nData Interpretation We utilized the most detailed form of imaging and the latest/most recent imaging to assess one of the primary endpoints of\n\nradiographic response—MRI if available, followed by CT or PET and X-ray or bone scan if other studies were unavailable given that the latter studies may show less response due to delayed time in bone healing compared to PET/CT or MRI. We determined radiographic response based on adapted RECIST criteria. Possible response included complete response (no lesion visible), partial response (improvement of diﬀuse inﬁltration or reduction in size of the focal lesion), stable disease, or progression (aggravation of the diﬀuse bone marrow inﬁltration or increase in size of the focal lesion) (9). In terms of symptomatic response, we utilized a 0–10 numeric pain rating scale (NPRS) and deﬁned some pain relief as less than or equal to a decrease of 5 and signiﬁcant pain relief as greater than a decrease of 5 on the NPRS. This score was recorded from the last known follow-up for the patient. Treatment dose and fractionation was noted and we compared doses for radiographic response categories utilizing a one-way ANOVA test and symptomatic responses utilizing a two-sample, two-tailed t-test.\n\nRESULTS\n\nPatient Characteristics Patient and treatment characteristics are summarized in Table 1. A total of 88 patients and 98 vertebral segments treated with palliative radiotherapy were retrospectively reviewed. Of the 98 treatment courses, 61 (62%) had appropriate follow-up imaging to assess radiological response. Median follow-up for these patients, deﬁned as time from date of last fraction of radiotherapy to time of latest radiological exam was 9.7 months (0.1–107.5 months). Thirty three of the 61 treatment-courses were for high-risk lesions including 8 treatments for cord compression, 19 treatments for compression fractures, and 6 treatments for lesions with a paraspinal soft tissue mass component. The median number of fractions administered was 10 (mean 9.8, range 5–25), and median radiation dose administered was 25 (mean 27.1 Gy, range 12.5–50 Gy). The three most common\n\nTABLE 1 | Patient characteristics.\n\nPatient Characteristics N (%) or [range]\n\nNumber of patients 88\n\nMale Female 46 (52%) 42 (48%)\n\nMedian age 65 [43–98]\n\nNumber of vertebral segments treated 98\n\nKnown systemic therapy administration 83 (94%)\n\nNumber of sites with radiographic follow-up 61 (62%)\n\nMedian number of radiotherapy fractions 10 [5–25]\n\nMedian radiologic follow-up 9.7 months [0.1–107.5 months]\n\nHigh-risk features 33 of 61 (54%)\n\nCord compression Compression fractures Paraspinal soft tissue component\n\n8 19 6\n\nFrontiers in Oncology | www.frontiersin.org 2 July 2019 | Volume 9 | Article 601",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fonc.2019.00601",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_sha256": "f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_url": "https://doi.org/10.3389/fonc.2019.00601"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9:p3",
+        "source_issue_ids": [],
+        "text": "Mark et al. Palliative Radiotherapy Spinal Multiple Myeloma\n\nTABLE 2 | Radiological response.\n\nResponse characteristics N (%)\n\nAdapted RECIST criteria radiological response (n = 61) Complete response Partial response Stable disease Progression\n\nPatients with high-risk features (n = 33)\n\nRadiotherapy alone Complete response Partial response Stable disease Progression Surgery+RT* with complete/partial response\n\nPatients without high-risk features (n = 28) Radiotherapy alone\n\nComplete response Partial response Stable disease Progression Surgery+RT* with complete/partial response\n\n*RT, radiation therapy.\n\n8 (13%) 10 (16%) 35 (57%) 8 (13%)\n\n0 (0%) 3 (9%) 25 (76%) 2 (6%) 3 (9%)\n\n4 (14%) 5 (18%) 10 (36%) 6 (21%) 3 (11%)\n\nFIGURE 1 | Sites with high-risk features treated with radiation alone.\n\nfractionation schemes were 30 Gy in 10 fractions (n = 16), 20 Gy in 5 fractions (n = 13), and 24 Gy in 8 fractions (n = 10). Systemic therapy was documented in 83 of the 88 patients (94%) and included chemotherapy, steroids, and/or stem cell transplant within several weeks their radiotherapy course. For 5 patients, chemotherapy was either refused or no records were available.\n\nRadiological Response Table 2 summarizes radiological treatment responses in all patients and also stratiﬁes those with and without high-risk features. Of the 61 treatment courses with radiological follow-up, it is noted that 8 (13%) experienced complete response, 10 (16%) experienced partial response, 35 (57%) experienced stable disease, and 8 (13%) experienced local progression. We further stratiﬁed the data by patients who had high-risk features as deﬁned previously. Thirty three (54%) of the treatment courses were for patients with high-risk feature types. Surgery was performed on 3 of these lesions prior to radiation therapy, and these patients achieved a local partial or complete response. The remaining 30 vertebral segments were treated with radiation therapy without surgical excision. None of these patients achieved complete response to radiation therapy alone, 3 lesions (10%) demonstrated partial response, 25 lesions (83%) demonstrated stability, and 2 lesions (7%) demonstrated progression as demonstrated in Figure 1. The remaining 28 patients were without high-risk features. Surgery was performed on 3 of these lesions as well, with all achieving a local partial or complete response. Of the remaining 25 lesions, 4 lesions (16%) demonstrated complete response, 5 lesions (20%) demonstrated partial response, 10 lesions (40%)\n\nFIGURE 2 | Sites without high-risk features treated with radiation alone.\n\nTABLE 3 | Pain response.\n\nResponse characteristics N (%)\n\nPain relief from radiation therapy (n = 98) Some degree (pain score decrease ≤5) Signiﬁcant (pain score decrease > 5)\n\n81 (83%) 33 (34%)\n\ndemonstrated stable disease, and 6 lesions (24%) demonstrated progression as demonstrated in Figure 2.\n\nSymptomatic Response Table 3 summarizes symptomatic relief from radiotherapy, including those without radiological follow-up. Patients experienced some degree of pain relief after radiotherapy 83% of the time, and had signiﬁcant relief of pain 34% of the time. Patients had neurological impairments such as impaired ability to walk, paresthesias, and extremity weakness in 34 of 98 treatments and this was improved with palliative radiotherapy\n\nFrontiers in Oncology | www.frontiersin.org 3 July 2019 | Volume 9 | Article 601",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fonc.2019.00601",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_sha256": "f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_url": "https://doi.org/10.3389/fonc.2019.00601"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9:p4",
+        "source_issue_ids": [],
+        "text": "Mark et al. Palliative Radiotherapy Spinal Multiple Myeloma\n\nTABLE 4 | Radiological/symptomatic response and dose levels.\n\nResponse characteristics Mean dose [Range] p-value\n\nRadiological response (n = 61) p = 0.74 (ns)\n\nComplete response Partial response Stable disease Progression\n\n27.2 Gy [20–39.6] 29.6 Gy [20–50] 26.9 Gy [12.5–50] 25.3 Gy [20–30]\n\nPain relief from radiation therapy (n = 98) p = 0.20 (ns)\n\nSome degree (pain score decrease > 1, ≤5) Signiﬁcant (pain score decrease > 5) 24.0 Gy [16–50] 26.0 Gy [18–50]\n\nin 28 of the treatments (83%). Speciﬁcally, impaired ability to walk was noted prior to 25 of the 98 treatments and this was improved with palliative radiotherapy in 19 of the treatments (76%).\n\nAdditional Analyses of Dose and Relationships Table 4 summarizes the relationship between radiation dose and radiographic/clinical responses. There was not a statistically signiﬁcant diﬀerence between mean doses administered between the groupings (p = 0.74 on a one-way ANOVA). No dose response was noted for the clinical response of all patients (p = 0.20 on a two-sample, two-tailed t-test).\n\nDISCUSSION\n\nThis is a contemporary cohort study of patients undergoing palliative radiotherapy to the mobile spine using conventional radiation techniques to various doses and using various fractionation schemes in patients undergoing systemic therapy. We were able to identify good clinical symptom relief in the majority of patients but failed to correlate that to radiographic responses, in particular to those patients with high-risk features. The radiographic response was 10% in patients with high-risk features who received radiation alone, despite the wide variety of radiation doses and schemes employed. Most patients experienced some form of pain response, with a subset experiencing a signiﬁcant pain response. Further, many patients with neurological deﬁcits, including impairment of the ability to walk, were palliated with radiotherapy, including many with high-risk features. These results question whether a radiographic response is required when treating Multiple myeloma patients with or without high-risk features. In plasmacytoma, it has been demonstrated that doses 45 Gy and higher (10) are needed to achieve a suﬃcient response and in multiple myeloma for cord compression longer course radiotherapy has been suggested and associated with better functional outcomes than short course RT (11). Nevertheless, in high-risk lesions or in those for whom a signiﬁcant mass reduction would be considered desirable, we were able to demonstrate symptomatic relief. Therefore, is\n\nan increased dose or alternative fractionation schedules such as stereotactic body radiation therapy (SBRT) necessary? As compared to some of these older studies, the majority of our patients also received systemic therapies that may also be contributing to symptomatic relief. Weakness of this study include the inherent biases associated with retrospective reviews and incomplete long-term follow-up. In addition, there was no consistent radiation dose, fractionation scheme or ﬁeld size criteria used in this cohort. Lastly, given the discordance between symptom relief and radiographic response, longer and more comprehensive follow-up is needed in this patient population to determine if radiologic response is a good surrogate for measuring outcomes. Others have explored the use of SBRT for patients with good performance status in a similar patient cohort with promising results (12–14). While fewer fractions may be desirable in a palliative setting, the use of SBRT nonetheless requires further study at least until the best desirable endpoint measure is known. In summary, this retrospective review of patients who received palliative radiotherapy with a varying degree of doses and fractionation demonstrated good symptomatic response relief but variable radiological response. Patients with high-risk lesions demonstrated less of a radiological response with conventional radiotherapy alone. Further follow up is necessary to identify the best measurable outcome as a means of determining if radiologic response is key to long term symptom relief.\n\nDATA AVAILABILITY\n\nThe datasets generated for this study are available on request to the corresponding author.\n\nETHICS STATEMENT\n\nThis study was carried out in accordance with the recommendations of Northwell Institutional Review Board (IRB) and Cancer Services Scientiﬁc Review Committee (CSSRC). The protocol was approved by the Cancer Services Scientiﬁc Review Committee (CSSRC) at Northwell. We received a waiver of HIPAA authorization/informed consent from the above board/committee as this was a chart/retrospective review.\n\nAUTHOR CONTRIBUTIONS\n\nDM, RM, and MG contributed conception and design of the study. DM, PG, and RM organized the database. DM performed statistical analysis and wrote the ﬁrst draft of the manuscript. DM, PG, and MG wrote sections of the manuscript. All authors contributed to manuscript revision, read, and approved the submitted version.\n\nACKNOWLEDGMENTS\n\nWe acknowledge the faculty and staﬀof the Department of Radiation Medicine of Northwell Health for aiding in this study.\n\nFrontiers in Oncology | www.frontiersin.org 4 July 2019 | Volume 9 | Article 601",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fonc.2019.00601",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_sha256": "f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+          "source_url": "https://doi.org/10.3389/fonc.2019.00601"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9:p5",
+        "source_issue_ids": [],
+        "text": "Mark et al. Palliative Radiotherapy Spinal Multiple Myeloma\n\nREFERENCES\n\n1. American Cancer Society. Key Statistics for Multiple Myeloma. (2018). Available online at: https://www.cancer.org/cancer/multiple-myeloma/about/ key-statistics.html 2. Kazandjian D. Multiple myeloma epidemiology and survival: a unique malignancy. Semin Oncol. (2016) 43:676–81. doi: 10.1053/j.seminoncol.2016.11.004 3. Tosi P. Diagnosis and treatment of bone disease in multiple myeloma: spotlight on spinal involvement. Scientiﬁca. (2013) 2013:104546. doi: 10.1155/2013/104546 4. Lee JW, Lee JE. Local radiotherapy for palliation in multiple myeloma patients with symptomatic bone lesions. Radiat Oncol J. (2016) 34:59–63. doi: 10.3857/roj.2016.34.1.59 5. Lecouvet FE, Malghem J, Michaux L, Michaux JL, Lehmann F, Maldague BE, et al. Vertebral compression fractures in multiple myeloma. Part II. Assessment of fracture risk with mr imaging of spinal bone marrow. Radiology. (1997) 204:201–5. doi: 10.1148/radiology.204.1.9205247 6. Adamietz IA, Schöber C, Schulte RW, Peest D, Renner K. Palliative radiotherapy in plasma cell myeloma. Radiother Oncol. (1991) 20:111–6. doi: 10.1016/0167-8140(91)90144-6 7. Jónsson B, Sjöström L, Jónsson H Jr, Karlström G. Surgery for multiple myeloma of the spine. A retrospective analysis of 12 patients. Acta Orthop Scand. (1992) 63:192–4. doi: 10.3109/17453679209154821 8. Dürr HR, Wegener B, Krödel A, Müller PE, Jansson V, Reﬁor HJ. Multiple myeloma: surgery of the spine: retrospective analysis of 27 patients. Spine. (2002) 27:320–4. doi: 10.1097/00007632-200202010- 00023 9. Duvauferrier R, Valence M, Patrat-Delon S, Brillet E, Niederberger E, Marchand A, et al. Current role of Ct and whole body MRI\n\nin multiple myeloma. Diagn Interv Imaging. (2013) 94:169–83. doi: 10.1016/j.diii.2012.12.001 10. Frassica DA, Frassica FJ, Schray MF, Sim FH, Kyle RA. Solitary plasmacytoma of bone: mayo clinic experience. Int J Radiat Oncol Biol Phys. (1989) 16:43–8. doi: 10.1016/0360-3016(89)90008-4 11. Rades D, Hoskin PJ, Stalpers LJ, Schulte R, Poortmans P, Veninga T, et al. Short-course radiotherapy is not optimal for spinal cord compression due to myeloma. Int J Radiat Oncol Biol Phys. (2006) 64:1452–7. doi: 10.1016/j.ijrobp.2005.10.018 12. Miller JA, Balagamwala EH, Chao ST, Emch T, Suh JH, Djemil T, et al. Spine stereotactic radiosurgery for the treatment of multiple myeloma. J Neurosurg Spine. (2017) 26:282–90. doi: 10.3171/2016.8.SPINE16412 13. Jin R, Rock J, Jin JY, Janakiraman N, Kim JH, Movsas B, et al. Single fraction spine radiosurgery for myeloma epidural spinal cord compression. J Exp Ther Oncol. (2009) 8:35–41. 14. Elibe E, Boyce-Fappiano D, Ryu S, Siddiqui MS, Lee I, Rock J, et al. Stereotactic radiosurgery for primary tumors of the spine and spinal cord. J Radiosurg SBRT. (2018) 5:107–13.\n\nConﬂict of Interest Statement: The authors declare that the research was conducted in the absence of any commercial or ﬁnancial relationships that could be construed as a potential conﬂict of interest.\n\nCopyright © 2019 Mark, Gilbo, Meshrekey and Ghaly. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.\n\nFrontiers in Oncology | www.frontiersin.org 5 July 2019 | Volume 9 | Article 601",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9"
+}

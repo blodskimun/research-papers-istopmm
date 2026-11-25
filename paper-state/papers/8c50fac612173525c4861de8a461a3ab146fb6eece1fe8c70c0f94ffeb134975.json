@@ -1,0 +1,384 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T17:00:20.992568+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Multiple myeloma: unplanned diagnostic pathways and association with risk factors and survival – a nationwide register-based cohort study in Denmark",
+        "year": null
+      },
+      "doi": "10.1186/s12885-024-12706-8",
+      "format": "pdf",
+      "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+      "url": "https://doi.org/10.1186/s12885-024-12706-8"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p1",
+        "source_issue_ids": [],
+        "text": "Rasmussen et al. BMC Cancer (2024) 24:998 https://doi.org/10.1186/s12885-024-12706-8 BMC Cancer\n\nRESEARCH Open Access\n\nMultiple myeloma: unplanned diagnostic pathways and association with risk factors and survival – a nationwide register-based cohort study in Denmark\n\nLinda Aagaard Rasmussen1*, Peter Vedsted1,2, Henry Jensen3, Henrik Frederiksen4, Tarec Christoffer El-Galaly4,5,6, Ida Bruun Kristensen4 and Line Flytkjaer Virgilsen1\n\nAbstract Background Multiple myeloma often presents with vague and non-specific symptoms. Many patients are diagnosed in unplanned rather than elective (planned) diagnostic pathways. This study investigates the diagnosis of multiple myeloma in unplanned pathways and the association with patient characteristics, disease profile, and survival. Methods We conducted a nationwide register-based study, including all patients diagnosed with multiple myeloma in Denmark in 2014–2018. Patients were categorised as diagnosed in an unplanned pathway if registered with an acute admission within 30 days prior to the multiple myeloma diagnosis and no other previously registered pathway to this diagnosis. Unplanned pathways were compared to all other pathways combined. Results We included 2,213 patients diagnosed with multiple myeloma, hereof 32% diagnosed in an unplanned pathway. Comorbidity, no prior cancer diagnosis, a history of few visits to the general practitioner (GP), multiple myeloma complications at diagnosis, high-risk cytogenetics, and advanced cancer stage were associated with a higher probability of being diagnosed in an unplanned pathway. For example, 24.4% (95% confidence interval (CI): 21.8–27.0) of patients with low comorbidity (Charlson Comorbidity Index (CCI) score 0) were diagnosed in an unplanned pathway as were 50.9% (95% CI: 45.6–56.1) of patients with high comorbidity (CCI score 3+). For patients with dialysis need at the time of diagnosis the probability was 66.0% (95% CI 54.2–77.8) and 30.9% (95% CI: 28.9–32.9) for patients with no dialysis need. Patients diagnosed in an unplanned pathway had inferior survival (hazard ratio 1.44 (95% CI: 1.26–1.64)). However, this association was not seen in analyses restricted to patients surviving for more than three years. Conclusions High comorbidity level, few usual GP visits, advanced disease status at diagnosis, and complications were associated with diagnosis in an unplanned pathway. Further, patients diagnosed in an unplanned pathway had inferior survival. Promoting earlier diagnosis and preventing unplanned pathways may help improve survival in multiple myeloma.\n\n*Correspondence: Linda Aagaard Rasmussen linda.rasmussen@ph.au.dk\n\nFull list of author information is available at the end of the article\n\n© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http:// creativecommons.org/licenses/by-nc-nd/4.0/.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p10",
+        "source_issue_ids": [],
+        "text": "Page 10 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\nto diagnostic investigations or CPPs are known contributing factors to diagnostic delay [40]. In our study, patients with multimorbidity were often diagnosed in unplanned pathways, despite their higher likelihood of attending general practice compared to patients with low comorbidity. This underlines the challenges in suspecting cancer or other serious disease based on unspecific symptoms, particularly in patients with existing symptoms from other diseases. The decreased risk in patients with previous cancer may reflect an increased focus on cancer in these patients and a lower threshold for referring this population to diagnostic workup and CPPs. Additionally, these patients may be enrolled in a follow-up programme, which may direct attention to new signs and symptoms at regular intervals.\n\nThe poorer overall survival in patients diagnosed in an unplanned pathway persisted in the fully adjusted analysis. The HR remained stable around 1.84–1.94, although decreasing to 1.44 when we adjusted for multiple myeloma complications (Table 3). We further adjusted for cancer stage to investigate if the poorer survival was caused by disease progression, but this was not the case. However, this may be due to collinearity between advanced cancer stage and myeloma complications. The lower survival in patients diagnosed in an unplanned pathway persisted in patients surviving for up to three years after diagnosis. This indicates that the prognosis was not only influenced by an acute and clinically frail state at diagnosis, for example due to complications. Other factors, such as treatment options at diagnosis, i.e., not being candidate for or able to complete intensive combination treatment or recommended palliative treatment, may account for the difference in survival for up to three years [14].\n\nIn the analysis restricted to patients with a need for dialysis at diagnosis, we saw no difference in survival according to pathway to diagnosis (Table 4). Despite wide CIs, this may suggest that once renal failure develops, the patient’s prognosis is independent on the patient pathway. Similar results were seen for patients with high calcium level at diagnosis. For these patients, an unplanned pathway with quick turnovers may even be preferable, e.g. an emergency referral from general practice to diagnostic investigations and diagnosis [34]. In this light, unplanned pathways are not necessarily caused by preventable failures in the diagnostic process [41].\n\nStill, some unplanned pathways may be preventable by ensuring earlier diagnosis, which is also likely to result in improved survival [41].\n\nConclusion This study identified high-risk groups for multiple myeloma diagnosis in unplanned pathways, which in turn was associated with worse prognosis and could be\n\ntargeted for future interventions to improve early diagnosis. We demonstrated an increased risk of being diagnosed in an unplanned pathway among patients with multimorbidity, a history of few contacts to general practice, and no prior cancer diagnosis. Moreover, patients with multiple myeloma complications at diagnosis were more often diagnosed in an unplanned pathway. The lower survival rates in patients diagnosed in unplanned pathways compared to elective pathway was also seen after considering cytogenetic risk and cancer stage. Our findings suggest that factors related directly to the diagnostic pathway influenced the prognosis. Thus, promoting early diagnosis of multiple myeloma should be an ongoing focus in the healthcare system.\n\nAbbreviations CI \u0007confidence interval CPP \u0007cancer patient pathway DaMyDa \u0007Danish National Multiple Myeloma Register DMSG \u0007Danish Myeloma Study Group GDPR \u0007General Data Protection Regulation GP \u0007general practitioner HR \u0007hazard ratio ICD-10 \u0007International Classification of Diagnosis codes, 10th revision ISCED \u0007International Standard Classification of Education UK \u0007United Kingdom VPN \u0007virtual private network\n\nSupplementary Information The online version contains supplementary material available at https://doi. org/10.1186/s12885-024-12706-8.\n\nSupplementary Material 1\n\nAcknowledgements The authors wish to thank data manager Kaare Rud Flarup for assistance with data retrieval from the national registries and data management, Alina Zalounina Falborg for statistical support, and Lone Niedziella for linguistic revision. We also wish to thank the Danish Myeloma Study Group (DMSG) and the Danish National Multiple Myeloma Registry (DaMyDa) for access to data.\n\nAuthor contributions LAR and LFV conceived the idea for the study, and all authors contributed to the final conceptualisation of the paper. LAR was responsible for conducting the analysis in close collaboration with LFV. LAR drafted the manuscript, and all authors provided input throughout the process. All authors read and approved the final version.\n\nFunding The study was funded by the Danish Health Foundation (Helsefonden), grant no. 22-B-0189, the Research Foundation for General Practice in the Central Denmark Region (Region Midtjyllands Praksisforskningsfond), grant no. 1-01- 72-19-16, and the Danish General Practice Fund (Fonden for Almen Praksis), grant no. A4766.\n\nData availability The data supporting the findings of this study are stored and maintained electronically on servers at Statistics Denmark. The data are only accessible through a secure virtual private network (VPN) and only for pre-approved collaborative partners. The data are not publicly available due to the Danish Data Protection Act as the data contain information that could compromise the privacy of theresearch participants.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p11",
+        "source_issue_ids": [],
+        "text": "Page 11 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\nDeclarations\n\nEthical approval The project is approved and registered in the Record of Processing Activities at the Research Unit for General Practice in Aarhus in accordance with the provisions of the General Data Protection Regulation (GDPR). According to Danish law, the study required no consent to participate and no approval from the Committee on Health Research Ethics of the Central Denmark Region as no biomedical intervention was performed.\n\nConsent for publication Not applicable.\n\nCompeting interests The authors declare no competing interests.\n\nAuthor details 1Research Unit for General Practice, Aarhus, Denmark 2Department of Clinical Medicine, University Clinic for Innovative Patient Pathways, Aarhus University, Aarhus, Denmark 3Danish Clinical Quality Program - National Clinical Registries (RKKP), Aarhus, Denmark 4Department of Haematology, Odense University Hospital and University of Southern Denmark, Odense, Denmark 5Department of Haematology, Clinical Cancer Research Centre, Aalborg University Hospital, Aalborg, Denmark 6Department of Medicine, Solna, Division of Clinical Epidemiology, Karolinska Institute, Stockholm, Sweden\n\nReceived: 27 May 2024 / Accepted: 25 July 2024\n\nReferences 1. Danish Myeloma Study Group and the Danish Clinical Quality Program – National Clinical Registries (RKKP). Danish Myeloma Database Annual Report 2022. https://www.sundhed.dk/content/cms/89/4689_dansk-myelomatose-database-aarsrapport-2022.pdf. Accessed 29 April 2024. 2. Danish National Board of Health. Nye kræfttilfælde i Danmark 2022 [Cancer incidence in Denmark 2022]. https://sundhedsdatastyrelsen.dk/-/media/sds/ filer/find-tal-og-analyser/sygdomme-og-behandlinger/kraeft/kraeft_nye_tilfaelde_aarsrapporter/kraefttilfaelde-2022.pdf?la=da. Accessed 29 April 2024. 3. Hemminki K, Hemminki J, Försti A, Sud A. Survival in hematological malignancies in the nordic countries through a half century with correlation to treatment. Leuk [Internet]. 2023;37(4):854–63. 4. Rubin G, Berendsen A, Crawford SM, Dommett R, Earle C, Emery J, et al. The expanding role of primary care in cancer control. Lancet Oncol. 2015;16(Electronic):1474–5488. 5. Graziani G, Herget GW, Ihorst G, Zeissig M, Chaidos A, Auner HW, et al. Time from first symptom onset to the final diagnosis of multiple myeloma (MM) – possible risks and future solutions: retrospective and prospective ‘Deutsche Studiengruppe MM’ (DSMM) and ‘European Myeloma Network’ (EMN) analysis. Leuk Lymphoma [Internet]. 2020;61(4):875–86. 6. Jensen H, Tørring ML, Olesen F, Overgaard J, Vedsted P. Cancer suspicion in general practice, urgent referral and time to diagnosis: a population-based GP survey and registry study. BMC Cancer [Internet]. 2014;14(1):636. 7. Howell DA, Smith AG, Jack A, Patmore R, Macleod U, Mironska E, et al. Time-to-diagnosis and symptoms of myeloma, lymphomas and leukaemias: a report from the Haematological Malignancy Research Network. BMC Blood Disord [Internet]. 2013;13(1):9. 8. Dapkevičiūtė A, Šapoka V, Martynova E, Pečeliūnas V. Time from Symptom Onset to diagnosis and treatment among Haematological malignancies: influencing factors and Associated negative outcomes. Medicina (B Aires) [Internet]. 2019;55(6):238. 9. Koshiaris C, Oke J, Abel L, Nicholson BD, Ramasamy K, Van den Bruel A. Quantifying intervals to diagnosis in myeloma: a systematic review and meta-analysis. BMJ Open [Internet]. 2018;8(6):e019758. 10. Kariyawasan CC, Hughes DA, Jayatillake MM, Mehta AB. Multiple\n\nmyeloma: causes and consequences of delay in diagnosis. QJM [Internet]. 2007;100(10):635–40.\n\n11. Elliss-Brookes L, McPhail S, Ives A, Greenslade M, Shelton J, Hiom S, et al.\n\nRoutes to diagnosis for cancer – determining the patient journey using multiple routine data sets. Br J Cancer [Internet]. 2012;107(8):1220–6. 12. McPhail S, Swann R, Johnson SA, Barclay ME, Abd Elkader H, Alvi R, et al. Risk\n\nfactors and prognostic implications of diagnosis of cancer within 30 days after an emergency hospital admission (emergency presentation): an International Cancer Benchmarking Partnership (ICBP) population-based study. Lancet Oncol [Internet]. 2022;23(5):587–600. 13. Danckert B, Falborg AZ, Christensen NL, Frederiksen H, Lyratzopoulos G,\n\nMcPhail S, et al. Routes to diagnosis and the association with the prognosis in patients with cancer – a nationwide register-based cohort study in Denmark. Cancer Epidemiol [Internet]. 2021;74:101983. 14. Zhou Y, Abel GA, Hamilton W, Pritchard-Jones K, Gross CP, Walter FM, et al.\n\nDiagnosis of cancer as an emergency: a critical review of current evidence. Nat Rev Clin Oncol [Internet]. 2017;14(1):45–56. 15. Howell D, Smith A, Appleton S, Bagguley T, Macleod U, Cook G, et al.\n\nMultiple myeloma: routes to diagnosis, clinical characteristics and survival – findings from a UK population-based study. Br J Haematol [Internet]. 2017;177(1):67–71. 16. Lyratzopoulos G, Wardle J, Rubin G. Rethinking diagnostic delay in cancer:\n\nhow difficult is the diagnosis? BMJ [Internet]. 2014;349(dec09 3):g7400–7400. 17. Schmidt M, Pedersen L, Sørensen HT. The Danish Civil Registration System as\n\na tool in epidemiology. Eur J Epidemiol [Internet]. 2014;29(8):541–9. 18. Pedersen KM, Andersen JS, Søndergaard J. General practice and primary\n\nhealth care in Denmark. J Am Board Fam Med. 2012;25(1 Suppl):S34–8. 19. Probst HB, Hussain ZB, Andersen O. Cancer patient pathways in Denmark\n\nas a joint effort between bureaucrats, health professionals and politicians-A national Danish project. Health Policy (New York). 2012;105(1):65–70. 20. Gimsing P, Holmstrøm M, Wirenfelt Klausen T, Frost Andersen N, Gregersen\n\nH, Pedersen RS, et al. The Danish national multiple Myeloma Registry. Clin Epidemiol [Internet]. 2016;8:583–7. 21. Gjerstorff ML. The Danish Cancer Registry. Scand J Public Health [Internet].\n\n2011;39(7 Suppl):42–5. 22. Sahl Andersen J, De Fine Olivarius N, Krasnik A. The Danish National Health\n\nService Register. Scand J Public Health [Internet]. 2011;39(7 Suppl):34–7. 23. Lynge E, Sandegaard JL, Rebolj M. The Danish National Patient Register.\n\nScand J Public Health. 2011;39(7 Suppl):30–3. 24. UNESCO. International Standard Classification of Education (ISCED). 2011.\n\nMontreal, Canada: UNESCO Institute for Statistics; 2012. https://uis.unesco. org/en/topic/international-standard-classification-education-isced. Accessed 17 May 2024. 25. Quan H, Li B, Couris CM, Fushimi K, Graham P, Hider P, et al. Updating and\n\nvalidating the Charlson Comorbidity Index and score for Risk Adjustment in Hospital discharge abstracts using data from 6 countries. Am J Epidemiol [Internet]. 2011;173(6):676–82. 26. Statistics Denmark. Uddannelsesstatistikkens manual [Manual of Educational\n\nstatistics]. Copenhagen, Denmark: Statistics Denmark; 2016. 27. International Myeloma Working Group (IMWG). criteria for the diagnosis\n\nof multiple myeloma. https://www.myeloma.org/international-myeloma-working-group-imwg-criteria-diagnosis-multiple-myeloma. Accessed 29 April 2024. 28. International Myeloma Working Group. Criteria for the classification of\n\nmonoclonal gammopathies, multiple myeloma and related disorders: a report of the International Myeloma Working Group. Br J Haematol [Internet]. 2003;121(5):749–57. 29. Harrell FE. Regression modeling strategies: with applications to Linear models\n\nLR, and Survival Analysis. 1st ed. New York: Springer Science & Business Media; 2001. 30. Thygesen LC, Daasnes C, Thaulow I, Brønnum-Hansen H. Introduction to\n\nDanish (nationwide) registers on health and social issues: structure, access, legislation, and archiving. Scand J Public Health [Internet]. 2011;39(Suppl 7):12–6. 31. Schmidt M, Schmidt SAJ, Sandegaard JL, Ehrenstein V, Pedersen L, Sørensen\n\nHT. The Danish National Patient Registry: a review of content, data quality, and research potential. Clin Epidemiol [Internet]. 2015;7:449–90. 32. Sikka V, Ornato JP. Cancer diagnosis and outcomes in Michigan EDs vs other\n\nsettings. Am J Emerg Med [Internet]. 2012;30(2):283–92. 33. Abel GA, Shelton J, Johnson S, Elliss-Brookes L, Lyratzopoulos G. Cancer-spe­\n\ncific variation in emergency presentation by sex, age and deprivation across 27 common and rarer cancers. Br J Cancer [Internet]. 2015;112(S1):S129–36.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p12",
+        "source_issue_ids": [],
+        "text": "Page 12 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\n34. McPhail S, Elliss-Brookes L, Shelton J, Ives A, Greenslade M, Vernon S, et al.\n\nEmergency presentation of cancer and short-term mortality. Br J Cancer [Internet]. 2013;109(8):2027–34. 35. Arnold M, Rutherford MJ, Bardot A, Ferlay J, Andersson TM-L, Myklebust TÅ, et\n\nal. Progress in cancer survival, mortality, and incidence in seven high-income countries 1995–2014 (ICBP SURVMARK-2): a population-based study. Lancet Oncol [Internet]. 2019;20(11):1493–505. 36. Prior A, Vestergaard CH, Vedsted P, Smith SM, Virgilsen LF, Rasmussen LA, et al.\n\nHealthcare fragmentation, multimorbidity, potentially inappropriate medication, and mortality: a Danish nationwide cohort study. BMC Med [Internet]. 2023;21(1):305. 37. Jensen H, Vedsted P, Møller H. Prognosis of cancer in persons with infrequent\n\nconsultations in general practice: a population-based cohort study. Int J Cancer [Internet]. 2017;141(12):2400–9. A. 38. Weller D, Vedsted P, Rubin G, Walter FM, Emery J, Scott S, et al. The Aarhus\n\nstatement: improving design and reporting of studies on early cancer diagnosis. Br J Cancer [Internet]. 2012;106(7):1262–7.\n\n39. Renzi C, Kaushal A, Emery J, Hamilton W, Neal RD, Rachet B, et al. Comorbid\n\nchronic diseases and cancer diagnosis: disease-specific effects and underlying mechanisms. Nat Rev Clin Oncol [Internet]. 2019;16(12):746–61. 40. Lyratzopoulos G, Vedsted P, Singh H. Understanding missed opportunities for\n\nmore timely diagnosis of cancer in symptomatic patients after presentation. Br J Cancer. 2015;112(Suppl 1):S84–91. 41. Hamilton W. Emergency admissions of cancer as a marker of diagnostic delay.\n\nBr J Cancer [Internet]. 2012;107(8):1205–6.\n\nPublisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p2",
+        "source_issue_ids": [],
+        "text": "Page 2 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\nKeywords Multiple myeloma, General practice, Early detection of cancer, Survival, Route to diagnosis, Emergency presentations, Registries, Denmark\n\nBackground The incidence of multiple myeloma is approximately 350 cases annually in Denmark [1], with an age-standardised incidence rate of 17.1 for men and 12.5 for women per 100,000 persons [2]. The age-standardised 5-year overall survival (OS) for patients diagnosed with multiple myeloma is 55% for men and 58% for women in Denmark [3]. The prognosis after cancer may depend on early diagnosis [4, 5]. Approximately 75% of all cancer patients in Denmark present with symptoms in general practice before diagnosis [6]. However, patients with multiple myeloma often present with vague symptoms, and diagnostic delays are common [7–9]. Up to 40% of patients with multiple myeloma have symptoms for more than six months before the diagnosis, the most common symptoms being bone pain, anaemia, and renal failure [10].\n\nResearch has linked the prognosis after cancer to the patient’s diagnostic pathway [11–15], also referred to as the route to diagnosis. Approximately 15% of all Danish cancer patients and 30% of Danish patients with multiple myeloma are diagnosed in an unplanned diagnostic pathway, also referred to as emergency presentations in the literature [11, 12, 14]. Unplanned diagnostic pathways include acute admissions from general practice and from within the hospital or presentations to emergency care services (in the following referred to as “unplanned pathway” or “unplanned”) [13]. Other diagnostic pathways for cancer include screening, referral from general practice to a cancer patient pathway (CPP) and to non-cancer pathways (including elective admissions and outpatient visits), referral from secondary care to a CPP and other pathways initiated in secondary care [13].\n\nThe high proportion of unplanned pathways in multiple myeloma is likely to reflect the vague and unspecific symptom presentation [16]. Cancer patients diagnosed in an unplanned pathway suffer significantly worse outcomes than patients diagnosed in other routes, with a one-year all-cause mortality of 53% compared to 15% for patients referred to a CPP from primary care [13]. Research from the United Kingdom (UK) (2012) has found similar results for multiple myeloma [11].\n\nThis study aims to investigate if specific patient and medical characteristics are associated with being diagnosed with multiple myeloma in an unplanned pathway, and to compare the prognosis between patients diagnosed in an unplanned pathway and patients diagnosed in other pathways.\n\nMethods This observational study was based on linkage of data in several Danish registries through the unique personal identification number assigned to all Danish citizens at birth or immigration [17].\n\nSetting The study was set in the Danish healthcare system, which is tax-funded and offers free access to most medical services. GPs act as gatekeepers to the specialised healthcare system, except for emergencies, eye specialists, and otolaryngologists. More than 98% of Danish citizens are registered with a general practice [18]. Since 2009, 30 CPPs covering 40 cancer types, including multiple myeloma, have been introduced. The CPPs describe the patient pathway from clinical suspicion of a certain cancer through diagnostic procedures, treatment, follow-up, and palliative care [19].\n\nData The project was based on data from six Danish national registers. The Danish National Multiple Myeloma Register (DaMyDa) includes data from all haematological departments in Denmark since 2005. A validation study has previously shown that the information in the database was correct in > 95% of the cases, which indicates high data quality for research [20]. The DaMyDa was used to sample the study population and provided data on diagnosis date and complications. The Danish Cancer Register [21] provided information on other cancer diagnoses prior to the diagnosis of multiple myeloma. The Danish National Health Service Register [22] provided information on patient lists in general practice and patient contacts to general practice. The Danish National Patient Register [23] was used to assess comorbidity and map the individual patient’s pathway to the diagnosis of multiple myeloma. This register provided information on referrals to CPPs and if the referrals were from primary or secondary care. Further, it provided information on whether a hospital contact was elective or acute (unplanned). Statistics Denmark provided data on sex, age, immigration status, civil status, and educational level. Finally, the Danish Civil Registration System [17] provided information on date of death.\n\nStudy population Eligible individuals were diagnosed with multiple myeloma and recorded in DaMyDa with code C90 of the 10th revision of the International Classification of Diseases (ICD-10) between 1 January 2014 and 31 December",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p3",
+        "source_issue_ids": [],
+        "text": "Page 3 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\n2018. This inclusion period was used to ensure sufficient follow-up. Further, the algorithm to identify the diagnostic pathway was based on the structure in Danish National Patient Register before a major restructuring in 2019. Patients were excluded if diagnosed post-mortem, living outside Denmark or not listed with a general practice in the three years prior to the diagnosis date, previously diagnosed with another haematological cancer, or diagnosed with another cancer within 30 days before or 30 days after the multiple myeloma diagnosis (as no specific route to diagnosis could then be assigned).\n\nPathway to diagnosis A Danish study from 2021 categorised route to diagnosis based on the series of interactions between the patient and the healthcare system that most likely lead to the cancer diagnosis [13]. The patient’s first place of presentation before the multiple myeloma diagnosis was defined from this algorithm categorising cancer patients’ routes to diagnosis into death certificate only, screening (not relevant for multiple myeloma), CPP referral from primary care, CPP referral from secondary care, unplanned admission, planned admission for other reasons than cancer, other outpatient visit, or unknown [13]. For a detailed description of the algorithm and a schematic illustration, see Danckert et al. [13]. In the present study, we dichotomised the diagnostic pathway into ‘unplanned pathway’ and ‘elective pathway’. Individuals were categorised under ‘unplanned pathway’ if registered with an unplanned admission within 30 days prior to the multiple myeloma diagnosis and no registration of a CPP three months prior to the diagnosis and no registration of an elective admission or outpatient visit 30 days prior to the diagnosis. Individuals following all other routes were categorised combined under ‘elective pathway’.\n\nOther main study variables Age, immigrant status, cohabiting status, highest attained educational level (categorised according to the International Standard Classification of Education (ISCED) [24]), comorbidity (defined according to Charlson’s Comorbidity Index [25]), and prior cancer diagnosis were defined at the date of the multiple myeloma diagnosis. For educational level, information was missing for 39 patients, and their educational level was categorised as low, as these patients are most often uneducated [26]. The patient’s history of GP visits (regular pattern) was defined as the number of visits in the 24–36 months preceding the diagnosis. For definitions, see Table 1.\n\nComplications at the time of diagnosis were defined according to the CRAB criteria (calcium elevation, renal in sufficiency, anaemia, and bone abnormalities), which were developed by the International Myeloma Working Group [27, 28]. For definitions, see Table 2. Cytogenetic\n\nrisk was dichotomised into standard or high. For definitions, see Table 1.\n\nOverall survival was analysed from the date of diagnosis until the date of death from any cause.\n\nStatistical analyses The likelihood of unplanned presentation was presented graphically for different subgroups based on marginal means expressed as probabilities of unplanned presentation with 95% confidence intervals (CIs). Marginal means were computed with covariates at their observed value, and differences in elective/unplanned pathway between subgroups were estimated through logistic regression analyses. All analyses were adjusted for sex, age, immigrant status, cohabiting status, educational level, comorbidity, history of GP visits, and prior cancer diagnoses. Age at diagnosis date was modelled through restricted cubic splines with three knots according to Harrell’s recommended percentiles [29].\n\nOverall survival was estimated using the Kaplan-Meier method, and curves were generated for unplanned and elective pathways to diagnosis. Follow-up was censored at the first date of one of the following events: emigration, death, or end of study on 31 December 2023 (whichever came first). Landmark analyses at 1, 3, 6, 12, 24, and 36 months after diagnosis were performed using delayed entry. Overall survival differences associated with pathway to diagnosis were estimated using Cox proportional hazard regression analysis. Results were reported as hazard ratios (HRs) with 95% CI. The HRs were estimated in several models: crude analysis, adjusted for sex and age, further adjusted for comorbidity, further adjusted for immigrant status, cohabiting status, and education, further adjusted for prior cancer diagnosis, further adjusted for multiple myeloma complications, and further adjusted for cancer stage. Interactions between pathway to diagnosis and sex, age, immigrant status, cohabiting status, education, comorbidity, prior cancer diagnosis, and any multiple myeloma complication were tested. The association between overall survival and pathway to diagnosis was estimated in populations with no multiple myeloma complications at diagnosis and in populations with complications, i.e. severe myeloma bone disease, need for dialysis, creatinine level ≤ 177 mmol/L, calcium level > 1.4 mmol/L, and haemoglobin level < 6.3 mmol/L. Further, this association was estimated stratified on standard and high-risk cytogenetics. The proportional hazard assumption was evaluated from log‐minus‐log plots and assessed to be fulfilled.\n\nA statistical level of p ≤ 0.05 was considered statistically significant. Data were analysed with Stata® statistical software, version 17 (StataCorp LP).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p4",
+        "source_issue_ids": [],
+        "text": "Page 4 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\nTable 1 Characteristics of patients with multiple myeloma in elective vs. unplanned diagnostic pathways\n\nElective Unplanned Total n (%)a n (%) n (%) Total population 1502 (67.9) 711 (32.1) 2213 (100.0) Sex Male 825 (54.9) 406 (57.1) 1231 (55.6) Female 677 (45.1) 305 (42.9) 982 (44.4) Age at diagnosis, years Median (iqi) 71 (63;78) 72 (64;79) 71 (64;78) Age at diagnosis, years 18–49 55 (3.7) 27 (3.8) 82 (3.7) 50–69 601 (40.0) 260 (36.6) 861 (38.9) 70–84 741 (49.3) 345 (48.5) 1086 (49.1) 85–100 105 (7.0) 79 (11.1) 184 (8.3) Civil status Married/cohabiting 977 (65.0) 424 (59.6) 1401 (63.3) Living alone 525 (35.0) 287 (40.4) 812 (36.7) Educational levelb\n\nLow 526 (35.0) 244 (34.3) 770 (34.8) Medium 681 (45.3) 342 (48.1) 1023 (46.2) High 295 (19.6) 125 (17.6) 420 (19.0) Charlson Comorbidity Indexc\n\nLow 806 (53.7) 276 (38.8) 1082 (48.9) Moderate 490 (32.6) 243 (34.2) 733 (33.1) High 206 (13.7) 192 (27.0) 398 (18.0) History of general practice attendanced\n\n0–1 visit 309 (20.6) 193 (27.1) 502 (22.7) 2–3 visits 297 (19.8) 130 (18.3) 427 (19.3) 4–5 visits 285 (19.0) 119 (16.7) 404 (18.3) 6–9 visits 330 (22.0) 140 (19.6) 470 (21.2) 10 + visits 281 (18.7) 129 (18.1) 410 (18.5) Prior cancer diagnosis No 1312 (87.4) 613 (86.2) 1925 (87.0) Yese 190 (12.6) 98 (13.8) 288 (13.0) Route to diagnosis CPPf initiated in primary care 602 (40.1) 602 (27.1) CPP initiated in secondary care 439 (29.2) 439 (19.8) Unplanned admission 711 (100.0) 711 (32.1) Other elective pathway 14 (0.9) 14 (0.6) Other outpatient visit 245 (16.3) 245 (11.1) Other/unknown 202 (13.4) 202 (9.1) Cytogenetic risk Standard 1329 (88.5) 596 (83.8) 1925 (87.0) Highg 173 (11.5) 115 (16.2) 288 (13.0) ISS stageh\n\nI 509 (33.9) 67 (9.4) 576 (26.0) II 495 (33.0) 230 (32.3) 725 (32.8) III 325 (21.6) 330 (46.4) 655 (29.6) Missing 173 (11.5) 84 (11.8) 257 (11.6)\n\naNumbers are n (%) if nothing else is stated, bCategorised according to the International Standard Classification of Education (ISCED) into ‘basic’ (ISCED levels I-II), ‘short’ (ISCED levels III-IV) and ‘long’ (ISCED levels V-VI), cDefined according to Charlson’s Comorbidity Index on the basis of diagnosis codes during the 10-year period before the diagnosis date and categorised into ‘low’ (score 0), ‘moderate´ (scores 1–2) and ‘high’ (scores ≥ 3), dNumber of face-to-face contacts in general practice in the 24–36 months prior to the multiple myeloma diagnosis date and divided into quintiles, eICD-10 diagnosis C* excluding C44 (skin cancer), fCancer patient pathway, gDefined as FiSH: t(4;14), t(14;16), t(14;20) and del17p, hBased on the International Staging System (ISS) for multiple myeloma",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p5",
+        "source_issue_ids": [],
+        "text": "Page 5 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\nTable 2 Complications and survival in patients with multiple myeloma in elective vs. unplanned diagnostic pathways\n\nElective Unplanned Total n (%)a n (%) n (%) Total population 1502 (67.9) 711 (32.1) 2213 (100.0) Complications No complication 551 (36.7) 71 (10.0) 622 (28.1) Any complication 951 (63.3) 640 (90.0) 1591 (71.9) Myeloma bone diseaseb\n\nLow 729 (49.1) 207 (29.9) 936 (43.0) Medium 342 (23.0) 168 (24.2) 510 (23.4) Severe 414 (27.9) 318 (45.9) 732 (33.6) Need for dialysisc\n\nNo 1474 (98.6) 652 (92.2) 2126 (96.5) Yes 21 (1.4) 55 (7.8) 76 (3.5) Spinal cord compressiond\n\nNo 1466 (98.0) 640 (90.5) 2106 (95.6) Yes 30 (2.0) 67 (9.5) 97 (4.4) Creatinine levele\n\n≤177 mmol/L 1386 (92.5) 508 (71.7) 1894 (85.8) >177 mmol/L 112 (7.5) 202 (28.3) 314 (14.2) Calcium ion levelf\n\n≤1.4 mmol/L 1228 (95.0) 509 (81.1) 137 (90.4) >1.4 mmol/L 65 (5.0) 119 (18.9) 184 (9.6) Haemoglobin levelg\n\n≥6.3 mmol/L 1160 (77.3) 326 (45.9) 1486 (67.2) <6.3 mmol/L 340 (22.7) 384 (54.1) 724 (32.8) Survival 30 days 1488 (99.1) 661 (93.0) 2149 (97.1) 90 days 1451 (96.6) 605 (85.1) 2056 (92.9) 180 days 1416 (94.3) 569 (80.0) 1985 (89.7) 1 year 1362 (90.7) 515 (72.4) 1877 (84.8) 2 years 1251 (83.3) 434 (61.0) 1685 (76.1) 3 years 1156 (77.0) 377 (53.0) 1533 (69.3)\n\naNumbers are n (%), blow=no change or diffuse halisteresis, medium = few changes in one region, severe = multiple changes in one or more regions, 35 missing, c11 missing, d10 missing, e 5 missing, f292 missing, g3 missing\n\nResults A total of 2,315 patients were eligible for inclusion. We excluded 61 patients with no address in Denmark or not listed with a general practice within the last three years prior to diagnosis and 38 patients due to other cancer diagnoses (see Fig. 1). The final population comprised 2,213 patients with multiple myeloma, hereof 711 patients (32%) diagnosed in an unplanned pathway (see Table 1). Severe myeloma bone disease at diagnosis was recorded for 34%, and 4% needed dialysis (see Table 2). A total of 72% of the population had one or more of the recorded complications at diagnosis.\n\nPathway to diagnosis by sociodemographic and medical characteristics The probability of being diagnosed in an unplanned pathway was higher for patients with a history of having few GP visits, ranging from 41.9% (95% CI: 37.5–46.3) for patients with 0–1 contacts to 27.8% (95% CI: 23.7–32.0)\n\nfor patients with ≥ 10 contacts (see Fig. 2A); test for trend: p < 0.001. The probability of being diagnosed in an unplanned pathway increased in patients with comorbidity, ranging from 24.4% (95% CI: 21.8–27.0) for low comorbidity to 50.9% (95% CI: 45.6–56.1) for high comorbidity. Further, patients with a prior cancer diagnosis were more likely to be in an unplanned pathway compared to patients with no history of cancer (OR: 1.35, 95% CI: 1.01–1.81) (see Fig. 2A).\n\nPathway to diagnosis by presence of multiple myeloma complications A statistically significant association was seen between being diagnosed in an unplanned pathway and all the analysed variables indicating complications at the time of diagnosis (see Fig. 2B). Patients with anaemia, renal impairment, elevated calcium-ion levels, myeloma bone disease, and spinal cord compression all had a higher probability of being diagnosed in an unplanned pathway;",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p6",
+        "source_issue_ids": [],
+        "text": "Page 6 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\nFig. 1 Flowchart of study population\n\ne.g., 30.9% (95% CI: 28.9–32.9) for patients with no dialysis need and 66.0% (95% CI: 54.2-77-8) for patients with dialysis need. Further, advanced disease stage and high-risk cytogenetics were associated with being diagnosed in an unplanned pathway (see Fig. 2B).\n\nPathway to diagnosis and survival Patients diagnosed in an unplanned pathway had a statistically significantly lower survival compared to patients diagnosed in an elective pathway (see Fig. 3). The higher survival in patients diagnosed in an elective pathway was most pronounced in the first 36 months, whereafter the curves showed a more parallel pattern, and the difference decreased slightly after eight years follow-up. Landmark analyses revealed a lower survival difference over time between patients diagnosed in an elective and patients diagnosed in an unplanned pathway, and no statistically significant difference was seen in the landmark analysis at 36 months after diagnosis (see Additional file 1).\n\nThe unadjusted HR was 1.92 (95% CI: 1.72–2.16) for patients diagnosed in an unplanned pathway compared to patients diagnosed in an elective pathway (see Table 3). Overall, this estimate remained unchanged in all the adjusted analyses. Yet, the HR decreased to 1.44 (95% CI: 1.26–1.64) when we adjusted for multiple myeloma complications, and it remained statistically significant when we adjusted further for cancer stage (see Table 3). In analyses restricted to patients with multiple myeloma complications at diagnosis and high-risk cytogenetics, the survival difference between patients diagnosed in an\n\nunplanned pathway and patients diagnosed in an elective pathway persisted in the sub-groups with myeloma bone disease, anaemia, and high-risk cytogenetics (see Table 4).\n\nNo interactions were observed between pathway to diagnosis and sex, age, immigration status, cohabiting status, education, comorbidity, prior cancer diagnosis, and any multiple myeloma complication.\n\nDiscussion Main findings This nationwide study demonstrated that 32% of 2,213 patients with multiple myeloma were diagnosed in an unplanned pathway in the Danish healthcare system in 2014–2018. Patients with multimorbidity, no prior cancer diagnosis, a history of few GP visits, high-risk cytogenetics, and advanced cancer stage or multiple myeloma complications at diagnosis were more often diagnosed in an unplanned pathway. Patients diagnosed in an unplanned pathway had inferior overall survival compared to patients diagnosed in an elective pathway. However, this association was not seen in analyses restricted to patients with dialysis need, patients with spinal cord compression, patients with high calcium level at diagnosis, and patients surviving more than 36 months after diagnosis.\n\nMethodological considerations A major strength of this study is the nationwide design and the Danish national registers, which are known to",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p7",
+        "source_issue_ids": [],
+        "text": "Page 7 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\nFig. 2 Probability of an unplanned pathway in 2,213 patients diagnosed with multiple myeloma in 2014–2018; results are adjusted for all variables in Fig. 2A and immigration status. (A) According to the sociodemographic and medical characteristics of patients. (B) According to disease status and complications at the time of diagnosis. Abbreviation: GP = general practitioner\n\nhave high completeness and validity [30, 31]. The clinical database DaMyDa [20] ensured high completeness of study population and provided granular data, which are often available in only clinical trials, such as complications at diagnosis. The nationwide registers also enabled categorisation of the individual patient’s route to\n\ndiagnosis, which is a valuable tool for research in cancer diagnosis [13].\n\nPatients could have an unplanned admission after a CPP referral while waiting for the first diagnostic investigations at hospital as part of the CPP, yet they would still be categorised as CPP or other more or less ’elective",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p8",
+        "source_issue_ids": [],
+        "text": "Page 8 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\nFig. 3 Kaplan Meier survival estimate by elective or unplanned pathway to diagnosis in 2,213 patients diagnosed with multiple myeloma in 2014–2018\n\nTable 3 Hazard ratio of death (any cause) in elective vs. unplanned diagnostic pathway\n\nHRa (95% CI)b\n\nUnplanned pathway (ref. elective) Unadjusted estimate 1.92 (1.72;2.16) Adjusted for sex and age 1.94 (1.73;2.17) Adjusted further for comorbidityc 1.86 (1.66;2.09) Adjusted further for immigration status, cohabiting status, and educational leveld 1.85 (1.65;2.08) Adjusted further for cancer diagnosis prior to the multiple myeloma diagnosise 1.84 (1.64;2.07) Adjusted further for multiple myeloma complicationsf 1.44 (1.26;1.64) Adjusted further for cancer stageg 1.38 (1.21;1.57)\n\naHR: hazard ratio, bCI: confidence interval, cDefined according to Charlson’s Comorbidity Index on the basis of diagnosis codes during the 10-year period before the diagnosis date and categorised into ‘low’ (score 0), ‘moderate´ (scores 1–2) and ‘high’ (scores ≥ 3), dCategorised according to the International Standard Classification of Education (ISCED) into ‘basic’ (ISCED levels I-II), ‘short’ (ISCED levels III-IV) and ‘long’ (ISCED levels V-VI), eICD-10 diagnosis C* excluding C44 (skin cancer), fCancer patient pathway, gDefined as FiSH: t(4;14), t(14;16), t(14;20) and del17p, fSevere bone disease, need for dialysis, spinal cord compression, creatinine level > 177 mmol/L, calcium level > 1.4 mmol/L, and haemoglobin level < 6.3 mmol/L, gBased on the International Staging System (ISS) for multiple myeloma\n\nTable 4 Hazard ratio of death (any cause) in elective vs. unplanned diagnostic pathway Sub-populations with multiple myeloma complications and high- risk cytogenetics HRa (95% CI)b\n\nUnplanned pathway (ref. elective) No complications 2.12 (1.54;2.92) Severe bone disease 1.59 (1.30;1.93) Need for dialysis 1.52c (0.79;2.24) Spinal cord compression 0.98c (0.54;1.78) Creatinine level > 177 mmol/L 1.32 (1.00;1.74) Calcium level > 1.4 mmol/L 1.37 (0.93;2.02) Haemoglobin level < 6.3 mmol/L 1.38 (1.15;1.65) Standard cytogenetic risk 1.80 (1.58;2.03) High risk cytogeneticsd 1.99 (1.46;2.71)\n\naHR: hazard ratio, adjusted for sex, age, immigrant status, civil status, educational level, comorbidity, and prior cancer diagnosis (unless stated otherwise)\n\nbCI: confidence interval\n\ncAdjusted only for sex, age and comorbidity due to low number of failures (n = 54 for dialysis, n = 59 for spinal cord compression)\n\ndHigh risk is defined as FiSH: t(4;14), t(14;16), t(14;20) and del17p",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-024-12706-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_sha256": "43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+          "source_url": "https://doi.org/10.1186/s12885-024-12706-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e:p9",
+        "source_issue_ids": [],
+        "text": "Page 9 of 12 Rasmussen et al. BMC Cancer (2024) 24:998\n\npathways’. However, in Denmark, diagnostic investigations will take place at a maximum of 6 days after referral to a CCP for multiple myeloma, and thus, the risk of an emergency situation in this short time span is limited. Indeed, it has previously been shown that approximately 2% of cancer cases will have an unplanned admission after referral to a CPP [13], and this only have minimal effect on the estimates of associations between diagnostic pathway and prognosis.\n\nWe analysed all-cause mortality adjusted for comorbidity. The association between prognosis and being diagnosed in an unplanned pathway still remained, however, we cannot rule out that both death from other causes and severe cancer stage explain the poorer prognosis in unplanned pathways.\n\nThe results may be prone to both lead bias and length time bias. Some of the observed inferior survival in patients diagnosed in an unplanned pathway may result from having lived with undiagnosed multiple myeloma for a longer time than patients diagnosed in elective pathways. This is supported by the association found between being diagnosed in an unplanned pathway and having complications at the time of diagnosis. However, the difference in overall survival according to diagnostic pathway persisted for up to three years after diagnosis, which suggests an intrinsic survival difference according to pathway. Patients diagnosed in an unplanned pathway had more aggressive disease, and the impaired survival in this group may primarily be due to rapid development of more lethal disease, which may challenge timely diagnostic workup. However, the association between prognosis and being diagnosed in an unplanned pathway persisted in the analyses adjusted for cytogenetic risk and restricted to patients with high-risk cytogenetics. The reasons for the unplanned pathways were not explored and may be related a condition unrelated to the multiple myeloma. Following, the association between diagnosis in an unplanned pathway and prognosis may be unrelated to the multiple myeloma. However, this association was sensitive to multiple myeloma complications and cancer stage, which indicates a link to multiple myeloma.\n\nComparison with other studies Studies from the UK found that 36% [11] and 28% [15] of patients with multiple myeloma were diagnosed following an emergency presentation, which is in line with the 32% diagnosed in an unplanned pathway in the present study. The higher proportion in the first UK study probably reflect a study population diagnosed in 2006–2008 compared to 2012–2013 in the second study, and a pattern of higher proportions of emergency presentations in earlier years [12]. Still, differences exist between Denmark and UK in the organisation of healthcare systems and in the definition of unplanned pathways. E.g., the\n\nDanish definition of an unplanned contact include urgent referrals from a GP to a hospital department, whereas the UK version only includes contacts to an emergency department. However, prior analyses have shown stable associations between patient characteristics and prognosis and unplanned pathway regardless of the definitions and the healthcare systems [12].\n\nIn general, consistent variations are seen for the risk of unplanned pathways according to patient characteristics, morbidity, and cancer stage described in the literature specifically for multiple myeloma [11, 15] and for other cancers [12–14, 32–34]. Further, in line with our findings, Howell et al. [15] found more patients with complications in the population diagnosed through unplanned (emergency) routes. Studies have reported complications at diagnosis in 37% [15] and up to 75% of patients with multiple myeloma, the most common complications being bone pathology, anaemia, renal failure, infectious syndrome, and hypercalcemia [8, 10]. We found 72% with complications at diagnosis in our study, although we had no valid data on repeated infections.\n\nNumerous studies have reported inferior survival for cancer patients diagnosed in unplanned pathways [11– 13, 34]. A UK study on patients diagnosed with multiple myeloma in 2006–2008 reported a 1-year overall survival of 51% in unplanned pathways and 70% in elective pathways [11]. This pattern is in line with our findings, yet with a markedly worse survival for both groups in the UK. The better survival in our study may be caused by the general improvement in cancer survival since then, the positive development in myeloma treatments in the last two decades, and a poorer cancer survival in general in the UK compared to Denmark [35].\n\nInterpretation and clinical implications A low number of GP contacts at 24–36 months before the diagnosis was strongly associated with being diagnosed in an unplanned pathway. Continuity in general practice has previously been shown to be associated with the quality of care and mortality [36, 37], and our results support this. More complications at diagnosis in unplanned pathways may reflect a sub-optimal and prolonged diagnostic pathway, where suspicion is not raised until the disease has progressed into a clinically severe state. Delayed diagnosis may be induced by patients, general practice, or the healthcare system [38]. Multimorbidity is associated with increased patient intervals when the chronic condition and the cancer have overlapping symptoms [39]. This is likely to be the case for multiple myeloma which often debuts with unspecific symptoms. Moreover, competing demands in patients with preexisting comorbidity, i.e., prioritizing the co-morbidity over mention of possible cancer symptoms [39] and symptom masking or reluctance in GPs to refer too many patients",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e"
+}

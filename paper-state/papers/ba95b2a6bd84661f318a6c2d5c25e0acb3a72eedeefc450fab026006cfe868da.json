@@ -1,0 +1,239 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:23:55.333909+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Amyloidoma and Plasmacytoma Presented as a Solitary Lung Nodule in a Patient of Multiple Myeloma With AL-Amyloidosis: A Case Report and Review of Literature",
+        "year": null
+      },
+      "doi": "10.1177/23247096231184768",
+      "format": "pdf",
+      "id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+      "url": "https://doi.org/10.1177/23247096231184768"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/23247096231184768",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_sha256": "13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_url": "https://doi.org/10.1177/23247096231184768"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4:p1",
+        "source_issue_ids": [],
+        "text": "1184768 HICXXX10.1177/23247096231184768Journal of Investigative Medicine High Impact Case ReportsYadav et al case-report20232023\n\nCase Report\n\nAmyloidoma and Plasmacytoma Presented as a Solitary Lung Nodule in a Patient of Multiple Myeloma With AL-Amyloidosis: A Case Report and Review of Literature\n\nRuchi Yadav, MD1 , Lishi Sun, MD1, Akhtar Cheema, MD1, Vivek Yadav, MD2, and Jen Chin Wang, MD1\n\nJournal of Investigative Medicine High Impact Case Reports Volume 11: 1–7 © 2023 American Federation for Medical Research DOI: 10.1177/23247096231184768 journals.sagepub.com/home/hic\n\nhttps://doi.org/10.1177/23247096231184768\n\nAbstract Nodular amyloidoma in the lungs is a rare entity, also the occurrence of extramedullary plasmacytoma (EMP) in the lungs is rare. To have concomitant EMP and amyloidoma presented as a single lung mass is even rarer. There was only one similar case reported in the abstract form previously. Our case did not respond to many novel chemotherapy agents, suggesting that this combination of amyloidoma and plasmacytoma belonged to a poor prognosis entity, requiring different treatment modalities, such as early bone marrow transplantation or CART (chimeric antigen receptors T) therapy.\n\nKeywords amyloidoma, plasmacytoma, lung nodule, multiple myeloma, systemic AL-amyloidosis\n\nIntroduction\n\nAmyloidosis is a spectrum of diseases, where insoluble misfolded proteins in the form of fibrils, are deposited in the extracellular matrix of various tissues and organs.1 The International Society of Amyloidosis Nomenclature Committee has criteria to define different types of amyloidosis, based on the characterization of the amyloid fibril protein, by protein sequence analysis, namely, AL (amyloid light chain), AA (amyloid A), ATTR (amyloid transthyretin).1,2 Amyloidosis in the lungs is divided into 3 forms, namely— diffuse alveolar-septal amyloidosis, tracheobronchial amyloidosis, and nodular pulmonary amyloidosis—also known as lung amyloidoma lung.3 Diffuse alveolar-septal type is the common presentation of systemic AL-amyloidosis, whereas lung amyloidoma, a localized AL deposit, in the presence of systemic AL-amyloidosis were rare as only 2 cases have been reported so far.4\n\nExtramedullary plasmacytoma (EMP) comprises approximately 3% to 5% of all plasma cell neoplasms, with 80% found in the head and neck region, especially the upper aerodigestive tract.5-7\n\nHere, we presented a rare simultaneous occurrence of amyloidoma and plasmacytoma in a single lung mass. There has been one case, in abstract forms, reported of primary\n\npulmonary plasmacytoma with amyloidoma lung in a case of multiple myeloma (MM).8 We like to present a similar occurrence of simultaneous amyloidoma and plasmacytoma detected as a single lung mass and also illustrated the poor outcome of myeloma with associated AL-amyloidosis.\n\nCase Presentation\n\nA 51-year-old African American male, non-morbidly obese, chronic heavy active smoker, with a past medical history of hypertension, presented with pain in the right axilla coupled with numbness, pins, and needles sensations in the right upper extremity, after he fell. His family and surgical history were insignificant. Physical examination was essentially unremarkable except for bilateral gynecomastia. Routine\n\n1Brookdale University Hospital Medical Center, Brooklyn, NY, USA 2State University of New York Downstate Health Sciences University, Brooklyn, USA\n\nReceived April 27, 2023. Revised June 6, 2023. Accepted June 11, 2023.\n\nCorresponding Author: Ruchi Yadav, Department of Internal Medicine, Brookdale University Hospital Medical Center, One Brookdale Plaza, Brooklyn, NY 11212, USA. Email: drruchi2776@gmail.com\n\nCreative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/23247096231184768",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_sha256": "13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_url": "https://doi.org/10.1177/23247096231184768"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4:p2",
+        "source_issue_ids": [],
+        "text": "2 Journal of Investigative Medicine High Impact Case Reports\n\nblood work showed the following laboratory findings: white blood cell (WBC) count—21.8 × 109/L with a neutrophilic predominance (79%), hemoglobin—10.8 g/dl, platelet count—409 × 109/L, blood urea nitrogen—16 mg/dl, creatinine—1.5 mg/dl, estimated glomerular filtration rate (GFR)—49 ml/min, lactate dehydrogenase (LDH)—486 IU/L (313-618 IU/L), serum protein—9.4 g/dl (6.3-8.2 g/dl), albumin—3.8 g/dl (3.5-5 g/dl). Serum protein electrophore-sis showed a monoclonal spike predominantly involving the gamma globulin region with a minimal spike in the alpha-1 globulin and alpha-2 globulin regions. Serum-free light-chain analysis showed a free kappa of 237.3 mg/L (3.3-19.4 mg/L) and free lambda of 15.9 mg/L (5.7-26.3 mg/L). The serum immunoglobulin (Ig) (IgG) level was 2402 mg/dl, the IgA level was 130 mg/dl and the IgM level was 30 mg/dl. Serum immunofixation showed IgG kappa monoclonal band. Urine immunofixation showed monoclonal gammopathy and 24-hour urine protein excretion was 3000 mg/24 h (42-225 mg/24 h). His beta-2 microglobulin was 7.98 mg/dl (< 2.51) and albumin was 3.0 g/L. Chest X-ray detected a large pleural-based mass with associated rib destruction in the right thorax as shown in Figure 1. Computerized tomography (CT) chest with contrast showed a large heterogeneous soft tissue mass in the right upper lobe measuring 13.5 × 12.4 × 9.2 cm associated with adjacent rib destruction and extension into the soft tissues of the right chest wall as shown in Figures 2 and 3. A percutaneous transthoracic image-guided biopsy of the lung mass was done and pathology was reported as amyloid sheets deposition on light microscopy with myeloma cells as shown in Figures 4 and 5. Abdominal fat pad biopsy showed no evidence of amyloid deposits or AL type. Renal biopsy (Figures 6-8) was positive for AL-amyloidosis. Later, bone marrow biopsy was performed and showed predominantly atypical plasma cells, in the range of 20% to 30% with an average of 25%, suggestive of plasma cell neoplasm with patchy interstitial deposition of eosinophilic amorphous material, confirmed by Congo red stain as positive for amyloidosis which on immunohistochemistry showed positive staining for Amyloid A. amyloidosis. AL kappa type was confirmed by the liquid chromatography-tandem mass spectrometry done at Mayo Clinical laboratories as shown in Figure 9. Flow cytometry of bone marrow aspirates was consistent with a plasma cell neoplasm with 5% of the monoclonal IgG kappa (CD 38 bright) population present. Focal in-situ hybridization (FISH) was positive for a gain of 11q or trisomy 11; no evidence of CCND1-IGH, no evidence of t (11;14) gene rearrangement, no evidence of p53 (17p13) deletion or amplification, and no evidence of FGFR3-IGH (translocation t (4;14) gene rearrangement). Cytogenetics showed a normal karyotype. A skeletal survey was obtained of the radius and ulna, sternum, ribs, bilateral tibia and fib-ula, bilateral femora, skull, and pelvis, which showed a large destructive lesion of the right fourth rib with associated\n\nFigure 1. PA/lateral radiograph of the chest. Demonstrates an eccentrically based circumscribed mass in the periphery of the right mid- to upper-thorax demonstrating obtuse margins with tapering superiorly and inferiorly; note the absence of air bronchograms, indicating pleural origin. There is associated destruction of the angle/body of the right fourth rib. Abbreviation: PA, posterior anterior.\n\nmass with lytic lesions in the left humeral shaft and right femoral shaft, findings suggestive of MM. Further work-up for possible amyloidosis involvement showed N-terminal pro-brain natriuretic peptide (NT-proBNP)—464 pg/ml (0-125 pg/ml), troponin-I—0.040 ng/ml [0-0.34 ng/ml]. Based on paraproteinemia work, bone marrow biopsy, and radiographic findings, he was diagnosed as MM with amyloidosis. The patient was immediately started on weekly cyclophosphamide 300 mg/m2, bortezomib 1.3 mg/ m2—days 1, 4, 8, 11, and dexamethasone 40 mg (CyBorD regimen) with a cycle duration of 28 days. After 5 cycles of the CyBorD regimen, the patient was noted to have a partial response based on International Myeloma Working Group Criteria with a notable M protein decrease of more than 50%, but less than 90% (partial response). Later, the patient developed more marked edema of both lower extremities. He was found to have elevated D-dimers and subsequent ultrasound of the bilateral lower extremities detected an acute deep venous thrombosis of the right pop-liteal vein, for which warfarin was started. Creatinine increased to 2.09 mg/dl from a baseline of 1.2 to 1.5 mg/dl. A follow-up CT chest without contrast showed a minimal decrease in the size of the chest wall mass; the size of the mass decreased to 9.6 cm in the largest dimension. Positron emission tomography (PET) CT showed the chest wall mass to measure 10 × 9 × 8.5 cm with an standardized",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/23247096231184768",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_sha256": "13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_url": "https://doi.org/10.1177/23247096231184768"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4:p3",
+        "source_issue_ids": [],
+        "text": "Yadav et al 3\n\nFigure 2. Initial CT scan of the chest without contrast. (A) Axial plane soft tissue window: There is a corresponding eccentrically based, circumscribed, heterogeneous, pleura-based mass in the right upper lobe with the peripheral area of low intensity, without associated calcifications, measuring 11 × 11 × 9 cm. Associated small to moderate simple pleural effusion. No suspicious mediastinal, hilar, or axillary lymphadenopathy. (B) Coronal plane bone window: There is associated expansion of the third through the fifth ribs with destruction/involved of the body and angle of the fourth rib and extension beyond the rib cage into the right hemithorax soft tissues. Abbreviation: CT, computerized tomography.\n\nFigure 3. CT of the chest with IV contrast. (A) Axial and (B) coronal plane soft tissue window demonstrates pleura-based mass measuring 12 × 10 × 8 cm with peripheral curvilinear calcifications and minimal to no enhancement. Small simple right pleural effusion. No pulmonary embolism. Increased compressive atelectasis of the right upper lobe. Abbreviations: CT, computerized tomography; IV, intravenous.\n\nFigure 4. Lung core biopsy, H&E stain: 50×. Abundant homogeneous and eosinophilic pink material consistent with amyloid with scattered atypical plasma cells. Abbreviation: H&E, hematoxylin and eosin.\n\nFigure 5. Lung core biopsy. Amyloid A on immunohistochemical stain. 50×. Positive for deposits of amyloid.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/23247096231184768",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_sha256": "13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_url": "https://doi.org/10.1177/23247096231184768"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4:p4",
+        "source_issue_ids": [],
+        "text": "4 Journal of Investigative Medicine High Impact Case Reports\n\nFigure 6. Kidney biopsy H&E stain. The mycangium shows moderate mesangial expansion with amorphous eosinophilic material. Abbreviation: H&E, hematoxylin and eosin.\n\nFigure 7. Congo red stain. It shows salmon-colored areas in the glomeruli.\n\nFigure 8. Immunofluorescence stain of kidney biopsy. There is homogeneous mesangial, capillary loops, and interstitial staining for kappa.\n\nFigure 9. Bone marrow biopsy, H&E stain, 50×. Plasma cell neoplasm. Monoclonal IgG kappa plasma cells by flow cytometry. Bone marrow biopsy showed predominantly atypical plasma cells, in the range of 20% to 30% with an average of 25%, suggestive of plasma cell neoplasm with patchy interstitial deposition of eosinophilic amorphous material, confirmed by Congo red stain as positive for amyloidosis which on immunohistochemistry showed positive staining for amyloid A amyloidosis. Liquid chromatography-tandem mass spectrometry (LCMS/MS) on bone marrow tested positive for AL-amyloid. Abbreviations: H&E, hematoxylin and eosin; IgG, immunoglobulin G; AL, amyloid light.\n\nuptake value (SUV) uptake of 3—indicating it is mostly amyloid. Because of his partial response to the treatment, chemotherapy was switched to daratumumab 16 mg/kg weekly, lenalidomide 25 mg daily for 21 days with a 7 days break, along with dexamethasone 20 mg/weekly. However, after only 2 cycles of daratumumab/lenalidomide/dexamethasone, the patient was noted to have persistent nephrotic range proteinuria with a protein level of 30.8 g in the 24-hour urine sample; troponin-I level of 0.076 ng/ml (0-0.034 ng/ml) and NT-proBNP of 9500 pg/ml (0-125 pg/ ml). Bendamustine 50 mg/m2 every 4 weeks was then added to the regimen. Although the patient’s myeloma parameters improved, due to his worsening amyloidosis evident by increasing proteinuria, declining renal functions, rising proBNP and troponin-I levels as in Figure 10, and worsening of general-ized edema, we referred him to a tertiary care center for more aggressive and advanced management and auto­logous bone marrow transplantation. After the stem cell collection at a tertiary care center, the patient was placed on daratumumab/revlimid and dexamethasone for attaining a deeper response to his myeloma before autologous transplantation. Unfortunately, his course got complicated with hypervol-emia, hypoxic respiratory failure, and acute respiratory dis-tress syndrome (ARDS) secondary to respiratory syncytial virus/parainfluenza/stenotrophomonas pneumonia requiring prolonged intubation and management with Ribavirin and Bactrim. Also, vancomycin-resistant Enterococcus urinary tract infection was managed with Linezolid. Recurrent",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/23247096231184768",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_sha256": "13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_url": "https://doi.org/10.1177/23247096231184768"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4:p5",
+        "source_issue_ids": [],
+        "text": "Yadav et al 5\n\nFigure 10. Clinical graph depicting the levels of NT-proBNP (N-terminal pro-brain natriuretic peptide), troponin-I levels, 24-hour urine total protein. The patient was diagnosed in December with MM and AL-amyloidosis. CyBorD regimen was started in January. NT-proBNP, troponin-I, and 24-hour total protein progressions are depicted in this clinical graph over 6 months. Normal range of NT-proBNP = 0 to 125 pg/ml, troponin-I = 0 to 0.034 ng/ml, 24-hour total protein = 42 to 225 mg/24 h. The data were plotted as troponin-I levels as values × 101 ng/ml, 24-hour total protein as values × 103 mg, and NT-proBNP as values × 102 pg/ml. Abbreviations: AL, amyloid light; MM, multiple myeloma; CyBorD, cyclophosphamide, bortezomib, and dexamethasone.\n\nbouts of Clostridium Difficile Colitis were treated with prolonged vancomycin taper along with fidaxomicin but caused an interruption in myeloma/amyloidosis treatment and his autologous stem cell transplant (ASCT) planning. The patient was put back on the myeloma treatment with pomalidomide and dexamethasone with stabilization of myeloma, renal function, and proteinuria after the infection was controlled. The patient is being prepared by the tertiary center for ASCT at the time of writing this article.\n\nDiscussion\n\nAmyloidosis is characterized by the deposition of homogeneous eosinophilic material called amyloid, which on Congo red staining appears orange-red with bright field microscopy and shows apple-green birefringence under polarized light. This is the traditional gold standard to identify amyloid in histological sections.9 Immunohistochemistry is used to identify the amyloid subtypes, namely, AL, AA, and ATTR; which is performed on frozen or paraffin sections with immunofluorescence/immunoperoxidase tech-niques, respectively.9 Due to the abundant background staining, it may pose a challenge for subtyping by immunohistochemistry hence laser microdissection followed by\n\nmass spectrometry-based proteomic analysis is done on formalin-fixed, paraffin-embedded tissue.9 This is the latest and preferred method for amyloid subtyping as we had done in our case. Amyloidosis in the lungs most commonly presents as the tracheobronchial type seen in about 53% of cases and diffuse alveolar-septal type is least commonly seen in about 3% of cases usually detected as a post-mortem finding.10 Amyloidoma lung is a rare finding, typically seen as localized AL or AA mixed deposits. Due to the lack of adequate controlled clinical trials, the management of amyloidoma lung has to be individualized.11 As nodular pulmonary amyloidosis (lung amyloidoma) presents in localized form, treatment is conservative excision with excellent long-term prognosis, provided there is no evidence of systemic amyloidosis.12-15\n\nEMP usually involves submucosal lymphoid tissue of the nasopharynx/paranasal sinuses without affecting the bone marrow. Pulmonary parenchyma is an uncommon site of EMP as only isolated cases with histological proofs have been reported.16-18 EMP has a rare incidence but carries an excellent prognosis when presented as solitary lesions due to its radiosensitive nature. Around 25% of patients with EMP have monoclonal gammopathy.19 The incidence of EMP in",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/23247096231184768",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_sha256": "13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_url": "https://doi.org/10.1177/23247096231184768"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4:p6",
+        "source_issue_ids": [],
+        "text": "6 Journal of Investigative Medicine High Impact Case Reports\n\nnewly diagnosed MM was 7% to 18% and 6% to 20% of patients developed it later in the course of the disease.20 Depending on the presentation, most cases of solitary pulmonary plasmacytoma are treated with surgical resection and/or radiation, while the one with systemic myeloma needs systemic chemotherapy.21\n\nAL-amyloidosis usually has male predominance with 64 years being the median age at diagnosis, with an incidence of 6 to 10 cases/million/year.22,23 Nearly, 17 000 people are affected and 11 000 die of MM every year.23 Fifteen percent of patients with myeloma have some degree of underlying amyloidosis but more than 80% of patients who present with clinically significant AL-amyloidosis, have a very low grade and otherwise “benign” monoclonal gammopathies. The plasma cell burden in AL-amyloidosis is usually 5% to 10%, although, in approximately 10% to 15% of patients, AL-amyloidosis occurs in association with MM.23-25\n\nSo, we demonstrated that our patient had extensive amyloidosis involvement in the form of a kidney, lung, and possible cardiac involvement, as demonstrated by elevated troponin and NT-Pro-BNP levels. We further demonstrated the amyloidosis type was AL-amyloidosis by MS performed by Mayo Clinics Laboratory.26 Based on the staging system for AL-amyloidosis, he had stage III amyloidosis as defined by the revised Mayo Clinics criteria with troponin levels > 0.025 ng/ml and d-FLC (difference between involved and uninvolved free light-chain assay) > 180 mg/L.27 Along with that, our patient was found to have multiple bone lesions detected by skeletal survey and CT scan; therefore, he was a case of AL-amyloidosis with coexisting MM, called AL-CRAB ( light chain (AL) amyloidosis with hypercalcemia, renal failure, anemia, and lytic bone lesions attrib-utable to clonal expansion of plasma cells).28 AL-amyloidosis with bone marrow plasma cells of more than 10% and was categorizing the patient to a high-risk and poor prognosis category.28 So, our case with concomitant amyloidoma and plasmacytoma appears to belong to the category of AL-CRAB amyloidosis and with plasma cells, more than 10%, carried a poor prognosis. Various studies show that ASCT with high-dose melpha-lan (100-200 mg/m2) conditioning is an effective treatment for primary AL-amyloidosis.29-31 CyBorD was reported to be an effective treatment in transplant-ineligible patients and with stage III cardiac involvement in amyloidosis.31 The introduction of novel agents, such as bortezomib, lenalidomide, and thalidomide has brought changes in the management of myeloma, ranging from the palliative cure to clinical improvement, but maintaining a balance between their toxic and therapeutic levels is a challenge in amyloidosis.32 Daratumumab, a monoclonal antibody to CD38, is used in the treatment of AL-amyloidosis. Early data from phase I and phase II studies show that daratumumab is tol-erated well in this population and induces rapid and deep responses in AL-amyloidosis. The result showed that 78% (7 of 12) achieved a hematologic response, and 7 patients\n\nhad at least 1 grade ≥ 3 adverse events including cardiac events (4 patients).33,34 Our patient with AL-amyloidosis did not respond to the CyBorD regimen or daratumumab, and amyloidosis got worse with increasing troponin, NT-pro-BNP, and 24-hour urinary protein levels as shown in Figure 10. Our case with concomitant amyloidoma and plasmacytoma as a single pulmonary mass may likely represent a poor prognostic category with poor response to chemotherapy which may alert the physician to think about doing an early stem cell transplant or CART (chimeric antigen receptors T) therapy.35,36\n\nConclusion\n\nA rare occurrence of lung amyloidoma and plasmacytoma coexisting together in a single lung mass was found and proved by tissue biopsy. This combination represented AL-amyloidosis with MM, therefore representing a poor prognostic feature. With our case further demonstrating poor response to many novel chemotherapy agents, an early bone marrow transplantation or CART therapy may need to be considered.\n\nDeclaration of Conflicting Interests\n\nThe author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.\n\nFunding\n\nThe author(s) received no financial support for the research, authorship, and/or publication of this article.\n\nEthics Approval\n\nEthics approval to report this case was obtained from Brookdale Hospital Institutional Review Board. Our institution does not require ethical approval for reporting individual case reports.\n\nInformed Consent\n\nBrookdale Hospital Institutional Review Board does not need consent for publishing case reports.\n\nORCID iDs\n\nRuchi Yadav https://orcid.org/0000-0002-8207-2424\n\nJen Chin Wang https://orcid.org/0000-0002-9623-6645\n\nReferences\n\n1. Kapoor R, Bhattacharyya T, Bahl A, Agarwal R, Bal A, Gulati A. Primary amyloidoma of lung treated with radiation: a rare case report. Lung India. 2014;31(4):404-406. 2. Ikeda S, Takabayashi Y, Maejima Y, et al. Nodular lung disease with five year survival and unilateral pleural effusion in AL amyloidosis. Amyloid. 1999;6(4):292-296. 3. Milani P, Basset M, Russo F, Foli A, Palladini G, Merlini G. The lung in amyloidosis. Eur Respir Rev. 2017;26:170046.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/23247096231184768",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_sha256": "13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+          "source_url": "https://doi.org/10.1177/23247096231184768"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4:p7",
+        "source_issue_ids": [],
+        "text": "Yadav et al 7\n\n4. Okuda M, Okuda Y, Ogura T, et al. Primary lung involvement with amyloid deposition in Waldenstöm’s macroglobulinemia: observations from over 20 years. Respirology. 2004;9(3): 414-418. 5. Fletcher CDM. Diagnostic Histopathology of Tumors: 2 Volume Set. US Elsevier Health Bookshop: 2020. 6. Batsakis JG, Medeiros JL, Luna MA, El-Naggar AK. Plasma cell dyscrasias and the head and neck. Ann Diagn Pathol. 2002; 6(2):129-140. 7. Prasad R, Verma SK, Sodhi R. Multiple myeloma with lung plasmacytoma. Lung India. 2011;28(2):136-138. 8. Tabassomi M, Almasri E, Abdulhaq H. Unusual presentation of pulmonary plasmacytoma and amyloidoma in a patient with multiple myeloma. Am J Respir Crit. 2012;185:A6649. 9. Khoor A, Colby TV. Amyloidosis of the lung. Arch Pathol Lab Med. 2017;141(2):247-254. 10. Gandham AK, Gayathri A, Sundararajan L. Pulmonary amyloidosis: a case series. Lung India. 2019;36(3):229-232. 11. Lachmann HJ, Hawkins PN. Amyloidosis and the lung. Chron Respir Dis. 2006;3(4):203-214. 12. Lee SH, Ko YC, Jeong JP, et al. Single nodular pulmonary amyloidosis: case report. Tuberc Respir Dis. 2015;78(4):385-389. 13. Liu M, Wei S, Li X, Liu H, Zhou Q, Chen J. Pulmonary nodular amyloidosis in a patient undergoing lobectomy: a case report. J Med Case Rep. 2013;7:248. 14. Suzuki H, Matsui K, Hirashima T, et al. Three cases of the nodular pulmonary amyloidosis with a longterm observation. Intern Med. 2006;45(5):283-286. 15. O’Sullivan P, Müller NL. Pulmonary and nodal multiple myeloma mimicking lymphoma. Br J Radiol. 2006;79(943): e25-e27. 16. Niţu M, Crișan E, Olteanu M, Călăraşu C, Olteanu M, Popescu MR. Lung involvement in multiple myeloma—case study. Curr Health Sci J. 2014;40(4):274-276. 17. Duggal RK, Ramachandran K. Multiple myeloma with extramedullary dissemination in the lung. JIACM. 2002;3(1):93-95. 18. Mohammad Taheri Z, Mohammadi F, Karbasi M, et al. Primary pulmonary plasmacytoma with diffuse alveolar consolidation: a case report. Pathol Res Int. 2010;2010:463465. 19. Bladé J, de Larrea CF, Rosiñol L. Extramedullary involvement in multiple myeloma. Haematologica. 2012;97(11):1618-1619. 20. Nie S, Peng DC, Gong HH, Ye CL, Nie X, Li HJ. Primary pulmonary plasmacytoma: a case report introduction. World J Surg Oncol. 2016;14:205. 21. Cordier JF. Pulmonary amyloidosis in hematological disorders. Semin Respir Crit Care Med. 2005;26(5):502-513. 22. Müller AM, Geibel A, Neumann HP, et al. Primary (AL) amyloidosis in plasma cell disorders. Oncologist. 2006;11(7): 824-830.\n\n23. Sanchorawala V. Light-chain (AL) amyloidosis: diagnosis and treatment. Clin J Am Soc Nephrol. 2006;1(6):1331-1341. 24. Andrei M, Wang JC. Cutaneous light chain amyloidosis with multiple myeloma: a concise review. Hematol Oncol Stem Cell Ther. 2019;12(2):71-81. 25. Kourelis TV, Dasari S, Theis JD, et al. Clarifying immunoglobulin gene usage in systemic and localized immunoglobulin light-chain amyloidosis by mass spectrometry. Blood. 2017; 129(3):299-306. 26. Dispenzieri A, Gertz MA, Kyle RA, et al. Serum cardiac tro-ponins and N-terminal pro-brain natriuretic peptide: a staging system for primary systemic amyloidosis. J Clin Oncol. 2004; 22(18):3751-3757. 27. Palladini G, Merlini G. What is new in diagnosis and management of light chain amyloidosis? Blood. 2016;128(2): 159-168. 28. Kourelis TV, Kumar SK, Gertz MA, et al. Coexistent multiple myeloma or increased bone marrow plasma cells define equally high-risk populations in patients with immunoglobulin light chain amyloidosis. J Clin Oncol. 2013;31(34): 4319-4324. 29. Bahlis NJ, Lazarus HM. Multiple myeloma-associated AL amyloidosis: is a distinctive therapeutic approach warranted? Bone Marrow Transplant. 2006;38(1):7-15. 30. Chaulagain CP, Comenzo RL. How we treat systemic light-chain amyloidosis. Clin Adv Hematol Oncol. 2015;13(5): 315-324. 31. Comenzo R, Kastritis E, Maurer M, et al. Subcutaneous daratumumab (DARA SC) plus cyclophosphamide, bortezomib, and dexamethasone (CyBorD) in patients (Pts) with newly diagnosed amyloid light chain (AL) amyloidosis: safety run-in results of andromeda. J Clin Oncol. 2018;36(suppl 15):8011 32. Palladini G, Perfetti V, Perlini S, et al. The combination of thalidomide and intermediate-dose dexamethasone is an effective but toxic treatment for patients with primary amyloidosis (AL). Blood. 2005;105(7):2949-2951. 33. Cohen AD, Scott EC, Liedtke M, et al. A phase I dose-esca-lation study of carfilzomib in patients with previously-treated systemic light-chain (AL) amyloidosis. Blood. 2014;124(21): 4741. 34. Vaxman I, Gertz M. Recent advances in the diagnosis, risk stratification, and management of systemic light-chain amyloidosis. Acta Haematol. 2019;141(2):93-106. 35. Shah UA, Mailankody S. CAR T and CAR NK cells in multiple myeloma: expanding the targets. Best Pract Res Clin Haematol. 2020;33(1):101141. doi:10.1016/j.beha.2020.101141 36. Hosen N. Chimeric antigen receptor T-cell therapy for multiple myeloma. Cancera (basel). 2019;11(12):2024. doi:10.3390/ cancers11122024",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4"
+}

@@ -1,0 +1,268 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T17:44:48.395402+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Soluble B-cell maturation antigen as a monitoring marker for multiple myeloma",
+        "year": null
+      },
+      "doi": "10.3389/pore.2023.1611171",
+      "format": "pdf",
+      "id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+      "url": "https://doi.org/10.3389/pore.2023.1611171"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/pore.2023.1611171",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_sha256": "78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_url": "https://doi.org/10.3389/pore.2023.1611171"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398:p1",
+        "source_issue_ids": [],
+        "text": "OPEN ACCESS\n\nEDITED BY Anna Sebestyén, Semmelweis University, Hungary\n\n*CORRESPONDENCE Gergely Varga, vargager@gmail.com\n\nRECEIVED 09 March 2023\n\nACCEPTED 18 April 2023\n\nPUBLISHED 28 April 2023\n\nCITATION Wiedemann Á, Szita VR, Horváth R, Szederjesi A, Sebő A, Tóth AD, Masszi T and Varga G (2023), Soluble B-cell maturation antigen as a monitoring marker for multiple myeloma. Pathol. Oncol. Res. 29:1611171. doi: 10.3389/pore.2023.1611171\n\nCOPYRIGHT © 2023 Wiedemann, Szita, Horváth, Szederjesi, Sebő, Tóth, Masszi and Varga. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.\n\nTYPE Original Research\n\nPUBLISHED 28 April 2023\n\nDOI 10.3389/pore.2023.1611171\n\nSoluble B-cell maturation antigen as a monitoring marker for multiple myeloma\n\nÁdám Wiedemann , Virág Réka Szita, Róbert Horváth, Attila Szederjesi, Attila Sebő, András Dávid Tóth, Tamás Masszi and Gergely Varga*\n\nDepartment of Internal Medicine and Haematology, Semmelweis University, Budapest, Hungary\n\nObjective: Response to treatment in multiple myeloma (MM) is routinely measured by serum and urine M-protein and free light chain (FLC), as described by the International Myeloma Working Group (IMWG) consensus statement. A non-negligible subgroup of patients however present without measurable biomarkers, others become oligo or non-secretory during recurrent relapses. The aim of our research was to evaluate soluble B-cell maturation antigen (sBCMA) as a monitoring marker measured concurrent with the standard monitoring in MM patients at diagnosis, at relapse and during follow up, in order to establish its potential usefulness in oligo and non-secretory disease.\n\nMethod: sBCMA levels were measured in 149 patients treated for plasma cell dyscrasia (3 monoclonal gammopathy of unknown signiﬁcance, 5 smoldering myeloma, 7 plasmacytoma, 8 AL amyloidosis and 126 MM) and 16 control subjects using a commercial ELISA kit. In 43 newly diagnosed patients sBCMA levels were measured at multiple timepoints during treatment, and compared to conventional IMWG response and progression free survival (PFS).\n\nResults: sBCMA levels among control subjects were signiﬁcantly lower than among newly diagnosed or relapsed MM patients [20.8 (14.7–38.7) ng/mL vs. 676 (89.5–1,650) and 264 (20.7–1,603) ng/mL, respectively]. Signiﬁcant correlations were found between sBCMA and the degree of bone marrow plasma cell inﬁltration. Out of the 37 newly diagnosed patients who have reached partial response or better per IMWG criteria, 33 (89%) have had at least a 50% drop in sBCMA level by therapy week 4. Cohorts made similarly to IMWG response criteria—achieving a 50% or 90% drop in sBCMA levels compared to level at diagnosis—had statistically signiﬁcant differences in PFS.\n\nConclusion: Our results conﬁrmed that sBCMA levels are prognostic at important decision points in myeloma, and the percentage of BCMA change is predictive for PFS. This highlights the great potential use of sBCMA in oligo-and non-secretory myeloma.\n\nPathology & Oncology Research Published by Frontiers 01",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/pore.2023.1611171",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_sha256": "78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_url": "https://doi.org/10.3389/pore.2023.1611171"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398:p2",
+        "source_issue_ids": [],
+        "text": "Wiedemann et al. 10.3389/pore.2023.1611171\n\nKEYWORDS\n\nmultiple myeloma, monitoring, monoclonal gammopathie, soluble B-cell maturation antigen, BCMA\n\nIntroduction\n\nAt ﬁrst glance, the monitoring of multiple myeloma (MM) seems straightforward compared to other types of cancers. The tumor cells usually keep the innate ability of normal plasma cells (PC) to synthetize large quantities of monoclonal immunoglobulins and/or produce free immunoglobulin light chains (FLC), which are present in the serum of patients and can then be utilized to deﬁne the well-established International Myeloma Working Group (IMWG) response criteria (1, 2). However, approximately 3% of MM patients present without conventionally measurable serum markers. Several different etiologies can account for this occurrence. Defects in the immunoglobulin synthesis result in non-producer patients, in whom even the use of free light chain assay will not reveal measurable disease (3–7). Another subgroup of patients has defects in the secretion of immunoglobulins, leading to oligosecretory multiple myeloma. The deﬁning criteria for these patients (serum M-protein of <10.0 g/L, urine M-protein of <200 mg/24 h, and free light chain of <100 mg/L) can make reliable measurements and therefore the monitoring of disease activity challenging. This is a particularly common problem in AL amyloidosis. The exact frequency of non- and oligosecretory myeloma is difﬁcult to quantify, as with each subsequent relapse the tendency of clonal evolution into FLC only or true non-secretory myeloma increases. This often goes parallel with the development of other high risk features, such as genomic instability, extramedullary disease manifestations and drug resistance (8). Oligo- and non-secretory myeloma patients present a problematic subgroup. Their diagnosis is frequently delayed; they do not meet the inclusion criteria of most clinical trials. To objectively measure response to treatment, FDG PET-CT and bone marrow biopsy are the only techniques currently being used, making the evaluation of the optimal timing to end or restart active therapy a challenge. The nature of these modalities also prevent them from being repeated on any regular basis. B-cell maturation antigen (BCMA) is a member of the tumor necrosis factor receptor superfamily, present almost exclusively on the surface of mature B-cells and plasma cells. Recently it became a popular target for the development of cellular and non-cellular immunotherapies in MM, several of which are now licensed for treatment, such as belantamab mafodotin (9), ciltacabtagene autoleucel (10), idecabtagene vicleucel (11), and teclistamab (12). BCMA is actively cleaved from the plasma cell surface by the ubiquitous multisubunit gamma-secretase complex, which then releases a soluble BCMA fragment (sBCMA) into the serum (13). Soluble BCMA was evaluated at ﬁrst from the\n\nviewpoint of BCMA-targeted therapies: cleavage not only leads to the reduction of ligand density on tumor cells, sBCMA is capable of inhibiting CAR-T-cell function as well. Decreasing sBCMA levels can be a sign of biallelic loss of the BCMA target (14), whereas the reappearance of sBCMA can indicate the elimination of the anti-BCMA CAR-T-cell clone (15). The use of sBCMA as a prognostic and/or monitoring tool was suggested in non-BCMA targeted therapies as well. The levels of sBCMA not only positively correlate with disease stage, its increase was also reported through the progression from monoclonal gammopathy of unknown signiﬁcance (MGUS) to active MM (16, 17). In another study, sBCMA levels were shown to correlate with the proportion of plasma cells found in bone marrow biopsies, the quality of response to therapy, and were prognostic towards progression free survival (PFS) and overall survival (OS) as well (18). Importantly, serum B-cell maturation antigen levels do not show any dependence on renal function, like free light chains do. Compared to M-protein, sBCMA has a drastically shorter plasma half-life (24–36 h), permitting rapid changes in measurable serum values, which could in turn reﬂect the ongoing changes in plasma cell burden, making it a potentially great monitoring tool (18). The aim of our research was to evaluate sBCMA as a monitoring marker measured concurrent with the standard monitoring in MM patients at diagnosis, at relapse and during follow up, in order to establish its potential usefulness in oligo and non-secretory disease.\n\nMaterials and methods\n\nPatients\n\nPeripheral blood samples were obtained from patients with MM at their standard clinic visits parallel with the conventional monitoring strategy, and were kept frozen at −95°C until evaluation. Standard monitoring included routine full blood count and chemistry, serum and urine electrophoresis (SPEP and UPEP), serum FLC, and in addition immunoﬁxation (IFX) when needed. These assays were performed in the hospital’s routine laboratory and served as benchmark values for the study. Newly diagnosed and relapsed patients had follow up tests 1 week after treatment initiation (±3 days) and then monthly (±7 days). Samples were collected after written consent from 3 MGUS, 5 smoldering MM, 7 plasmacytoma, 8 AL amyloidosis and 126 MM patients, as well as 16 normal controls, who were included in our research (Table 1.). Out of the 126 MM patients, 90 had multiple measurements evaluated. 43 out of\n\nPathology & Oncology Research Published by Frontiers 02",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/pore.2023.1611171",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_sha256": "78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_url": "https://doi.org/10.3389/pore.2023.1611171"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398:p3",
+        "source_issue_ids": [],
+        "text": "Wiedemann et al. 10.3389/pore.2023.1611171\n\nTABLE 1 Subjects included in the analysis.\n\nCategory Number of subjects\n\nHealthy control 16\n\nMGUS 3\n\nSmouldering myeloma 5\n\nAmyloidosis 8\n\nPlasmacytoma 7\n\nMM 126\n\nNewly diagnosed 56\n\nRelapsed 19\n\nFollow up 51\n\nthese were newly diagnosed, being treated with bortezomib-thalidomide-dexamethasone (VTD) protocol, which was the standard approach in Hungary at the time.\n\nELISA assay\n\nFrozen serum samples were thawed and diluted 1:500. An enzyme-linked immunosorbent assay with a polyclonal anti-BCMA antibody (Human BCMA/TNFRSF17 DuoSet ELISA DY193—R&D Systems, Minneapolis, MN, United States) was used to measure the sBCMA levels, as previously published (19). The ELISA plates were read by IL Biokit ELx800 ELISA Reader (Werfen Company, Barcelona, Spain) plate reader at 450 nm using Biotek Gen5 1.11 software.\n\nResponse categories and statistics\n\nSoluble BCMA levels were then analyzed both as absolute values and also as percentage of the original reading to indicate response. We followed the way IMWG deﬁned response categories based on the change from initial M-protein and FLC, i.e., as 50% and 90% drop from the original level to deﬁne sBCMA response categories sBCMA-SD, PR and VGPR. The overall response rate was deﬁned as the collective proportion of patients with complete response (CR), very good partial remission (VGPR), partial remission (PR), or stable disease (SD) as their best response (1). The primary endpoint for outcome was PFS which was measured from start of treatment to disease progression or death. Comparisons of dichotomous variables were performed by Fisher’s exact test. Continuous variables were compared using Mann-Whitney U test and Spearmann correlation analysis. PFS and OS were estimated by Kaplan–Meier analysis. The analyses were carried out using the SPSS (version 20.0; SPSS, Chicago, IL) software package.\n\nThe study was approved by the Institutional Review Board and informed consent was obtained in accordance with the Declaration of Helsinki.\n\nResults\n\nSoluble BCMA levels correlated with disease stage\n\nThe median sBCMA level among the normal controls was 20.8 (14.7–38.7) ng/mL, in the MGUS cases 18.1 (12.0–20.5) ng/ mL. In newly diagnosed, as well as relapsed patients the sBCMA levels were signiﬁcantly higher: median 676.0 (89.5–1650.0) and 264 (20.7–1603.0) ng/mL respectively. In responding patients, the median sBCMA levels were signiﬁcantly lower: patients in CR had 9.5 (0.0–55.0) ng/mL, VGPR 19.3 (4.0–57.0) ng/mL, PR 59.5 (0.0–1160.0) ng/mL, SD 104.5 (13.5–1660.0) ng/mL. There were more outliers in the more broadly deﬁned IMWG response categories (i.e., PR and SD). Importantly, in paired analysis using Mann-Whitney U test, there were statistically signiﬁcant differences between all categories of active disease and response, as well as between normal or MGUS and active myeloma (Figures 1A–C). We found signiﬁcant correlations between sBCMA level and bone marrow PC inﬁltration (BM biopsy PC% and sBCMA Spearman r = 0.6376; p = 0.0044, BM aspiration PC% and sBCMA Spearman r = 0.5203; p = 0.0054) and sBCMA and B2MG levels (Spearman r = 0.3643; p =0.01). Lactate dehydrogenase levels were unfortunately not collected systematically in all cases, so we did not have the power to analyze its connection with sBCMA.\n\nChanges in BCMA levels during treatment in responding patients\n\n37 newly diagnosed patients were treated with VTD protocol and reached at least partial response according to IMWG criteria, as well as had BCMA levels measured at least twice following treatment initiation. At week one, 30 of these patients had a sBCMA measurement, 19 of whom had an at least 50% drop by this time compared to the initial result. All 37 patients had a repeat BCMA level measurement by week 4 (done either on week 1 or week 4), and only 4 of them failed to show more than 50% drop. For a graphic illustration of these responses see Figures 2A, B. The difference between week 0 measurements and any other timepoints was statistically signiﬁcant. sBCMA levels correlated with changes in M-protein and serum FLC levels measured at the same timepoints in individual patients. See Figures 3A–G for eight examples.\n\nPathology & Oncology Research Published by Frontiers 03",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/pore.2023.1611171",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_sha256": "78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_url": "https://doi.org/10.3389/pore.2023.1611171"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398:p4",
+        "source_issue_ids": [],
+        "text": "Wiedemann et al. 10.3389/pore.2023.1611171\n\nFIGURE 1 Evaluation of soluble BCMA levels: (A) There was signiﬁcant difference between normal controls, MGUS cases, and MM patients with active disease or in remission, (B,C) Paired analysis of sBCMA levels using Mann-Whitney U test shows signiﬁcant difference between IMWG response groups Abbreviations: sBCMA, soluble B-cell maturation antigen; MGUS, monoclonal gammopathy of undetermined signiﬁcance; DG, diagnosis; CR, complete remission; VGPR, very good partial response; PR, partial response; SD, stable disease; PD, progressive disease; IMWG, International Myeloma Working Group.\n\nChanges in BCMA levels in patients requiring salvage treatment and in relapse\n\nThere were 6 newly diagnosed patients who failed to reach PR or progressed on VTD treatment, requiring a change to salvage therapy (to daratumumab-bortezomib-dexamethasone in 3, bortezomib-lenalidomide-dexamethasone in 1, carﬁlzomib-lenalidomide-dexamethasone in 1 and carﬁlzomib-venetoclax-dexamethasone in 1 case). Figures 2C, D shows\n\nsBCMA levels before and after these treatment changes demonstrating that all of them reached at least sBCMA-PR after switch. During the follow up, 6 further patients relapsed biochemically based on M-protein and/or sFLC measurements, according to IMWG criteria. Parallel with this, each of these cases showed a marked rise in their sBCMA, with at minimum a doubling of their initial value.\n\nPathology & Oncology Research Published by Frontiers 04",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/pore.2023.1611171",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_sha256": "78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_url": "https://doi.org/10.3389/pore.2023.1611171"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398:p5",
+        "source_issue_ids": [],
+        "text": "Wiedemann et al. 10.3389/pore.2023.1611171\n\nFIGURE 2 sBCMA levels measured in patients who had induction treatment with VTD protocol. (A,B) percentage of sBCMA drop in patient achieved IMWG-PR or better response compared to day 0 (100%), (A) box and whisker plot and (B) graphic representation of individual cases; and (C,D) patients not achieving PR after ﬁrst line treatment and therefor having salvage treatment, (C) box and whisker plot of percentage of sBCMA change before and after switch to salvage treatment compared to presentation (100%), (D) graphic representation of the individual cases, arrows indicating the time of treatment change. Abbreviations: sBCMA, soluble B-cell maturation antigen; PR, partial response.\n\nMonth 1 sBCMA level changes deﬁne cohorts of patients with distinct survival probabilities\n\nAll patients who had week 0 and week 4 (±7 days) sBCMA measurements were included in this part of the analysis. We followed the IMWG standard for the analysis of M-protein and sFLC changes, and used the 50% and 10% sBCMA change thresholds to deﬁne response categories of sBCMA-SD, sBCMA-PR and sBCMA-VGPR. Following this, we analyzed PFS in these subgroups, and found marked differences (PFS not reached in responding patients and only 5 months in those not reaching sBCMA-PR, p < 0.001, Figure 4).\n\nNon-secretory patients, localized relapse and amyloidosis\n\nOnly two of the follow up patients were true non-secretory, and one had oligosecretory disease, none of\n\nthem showed signs of relapse. We had limited experience with only plasmocytic relapse which was observed in 6 patients. All 6 had at least doubling of the sBCMA level, compared to nadir exceeding the 95% conﬁdence interval of CR and VGPR patients, but the absolute rise was small (<100 ng/mL). The number of patients with amyloidosis was also two small to draw any conclusions, but BCMA levels were lower in this group (<100 ng/mL in all but one case).\n\nDiscussion\n\nOur results indicate the feasibility of using sBCMA for the monitoring of MM in conjunction with or—in the case of nonsecretory MM—instead of standard SPEP, UPEP and FLC measurements. We successfully used the conventional 50% and 10% thresholds when segregating sBCMA response into SD, PR\n\nPathology & Oncology Research Published by Frontiers 05",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/pore.2023.1611171",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_sha256": "78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_url": "https://doi.org/10.3389/pore.2023.1611171"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398:p6",
+        "source_issue_ids": [],
+        "text": "Wiedemann et al. 10.3389/pore.2023.1611171\n\nFIGURE 3 Graphic comparison of the changes in conventional myeloma biomarkers and sBCMA levels during the treatment of eight different patients from our cohort. SPEP is multiplied by 10 in selected diagrams for easier representation. Abbreviations: sBCMA, soluble B-cell maturation antigen; SPEP, serum protein electrophoresis; iFLC, involved free light chain; VTD, bortezomib-thalidomide-dexamethason; VenKD, venetoclax-carﬁlzomib-dexamethason; KRd, carﬁlzomib-lenalidomid-dexamethason; DVd, daratumumab-bortezomib-dexamethason; KD, carﬁlzomib-dexamethason; Rd, lenalidomid-dexamethason.\n\nand VGPR groups, and found at least 100% rise from baseline in all cases of relapse. We think that sBCMA used this way could be a valuable addition to standard monitoring, especially in non- and oligosecretory disease. The problem with cases relapsing as oligo- or non-secretory is that lacking early biochemical warning signs, we are forced to wait until patients become outright symptomatic—often suffering serious consequences, such as skeletal fractures—until we may know they are truly relapsing. This is in part because mild variations in the M-protein and FLC levels are not\n\nuncommon, and moderate relapse symptoms such as anaemia, renal failure and bone pain may be related to other diseases or pre-existing conditions. In such situations, another layer of information could prove invaluable, giving a warning signal to prompt more frequent monitoring, bone marrow analysis or PET-CT. Mass spectrometry was recently used in some of the leading laboratories to replace gel electrophoretic techniques (20, 21). Matrix-assisted laser desorption/ ionization time of ﬂight (MALDI TOF) mass spectrometry\n\nPathology & Oncology Research Published by Frontiers 06",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/pore.2023.1611171",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_sha256": "78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_url": "https://doi.org/10.3389/pore.2023.1611171"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398:p7",
+        "source_issue_ids": [],
+        "text": "Wiedemann et al. 10.3389/pore.2023.1611171\n\nFIGURE 4 Kaplan-Meier analysis of progression free survival (PFS) in different sBCMA response groups, classiﬁed by sBCMA levels after 4 weeks of treatment. Abbreviations: sBCMA, soluble B-cell maturation antigen; VGPR, very good partial response; PR, partial response; SD, stable disease.\n\nis several magnitudes more sensitive compared to the standard monitoring (i.e., SPEP, IFX, UPEP and FLC used together), reaching sensitivity similar to bone marrow based MRD techniques (22). Still, these promising techniques are only available in a handful of outstanding laboratories, and this situation is not expected to change in the near future. Possible limitations are the large initial cost of the installation of a mass spectrometer, and the lack of sufﬁcient expertise in most laboratories. In addition to these, the current IMWG categories are established using gel techniques, and replacing them with mass spectrometry based measurements would require standardization as well as large scale validation. Another potential candidate to improve myeloma monitoring is the Hevylite assay, developed by Binding Site, the same company that produced Freelite. For obvious reasons Hevylite will not be of help with light chain only oligosecretory disease, but can increase the sensitivity of monoclonal IgA and IgG detection at the point when SPEP and IFX cannot give a numerical value any longer due to the presence of polyclonal immunoglobulins (23). As a result Hevylite was included in the IMWG monitoring guideline in 2016, but so far did not get accepted generally in the routine clinical practice (24). One important issue with FLC as a monitoring tool is that what we actually measure is the total FLC level and not the monoclonal fraction, and both kappa and lambda FLC levels\n\nare affected by renal clearance as well as immune activation. As renal failure is one of the important hallmarks of multiple myeloma, the abnormally elevated polyclonal FLC background very frequently makes FLC interpretation difﬁcult, if not impossible. As Ghermezi et al. demonstrated, sBCMA levels are not dependent on renal function, and therefore can eliminate this important complication. Another protein expressed on the surface of plasmacells similarly to BCMA is CD-138 (Syndecan) which is also shed into serum. This marker was suggested as independent prognostic parameter in multiple myeloma (25, 26), and the drop of serum level correlated with outcome in a cohort of patients (26, 27). We did not include oligo and non-secretory patients in this analysis, and the benchmark we compared sBCMA response to, were the standard biomarkers IMWG suggests to use. We believe that our ﬁndings can still be generalized and utilized in oligo and non-secretory MM. Further studies enrolling oligo and non-secretory MM patients are warranted. In conclusion, sBCMA is a cheap, noninvasive and easy to utilize ELISA measurement to monitor myeloma suggested to be used when the current monitoring strategy cannot give a reliable result.\n\nData availability statement\n\nThe raw data supporting the conclusion of this article will be made available by the authors, without undue reservation.\n\nEthics statement\n\nThe studies involving human participants were reviewed and approved by SE RKEB 12/2023. The patients/participants provided their written informed consent to participate in this study.\n\nAuthor contributions\n\nAW, VS, and GV treated the patients and collected the clinical information. RH, AW, and AS performed the laboratory analysis. AW, VS, AT, TM, and GV wrote the paper. All authors read and approved the ﬁnal manuscript.\n\nConﬂict of interest\n\nThe authors declare that the research was conducted in the absence of any commercial or ﬁnancial relationships that could be construed as a potential conﬂict of interest.\n\nPathology & Oncology Research Published by Frontiers 07",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/pore.2023.1611171",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_sha256": "78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+          "source_url": "https://doi.org/10.3389/pore.2023.1611171"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398:p8",
+        "source_issue_ids": [],
+        "text": "Wiedemann et al. 10.3389/pore.2023.1611171\n\nReferences\n\n1. Durie BGM, Harousseau J-L, Miguel JS, Bladé J, Barlogie B, Anderson K, et al. International uniform response criteria for multiple myeloma. Leukemia (2006) 20: 1467–73. doi:10.1038/sj.leu.2404284\n\n2. Kyle RA, Rajkumar SV. Criteria for diagnosis, staging, risk stratiﬁcation and response assessment of multiple myeloma. Leukemia (2009) 23:3–9. doi:10.1038/ leu.2008.291\n\n3. Blade J, Kyle RA. Nonsecretory myeloma, immunoglobulin D myeloma, and plasma cell leukemia. Hematol/oncol Clin North Am (1999) 13:1259–72. doi:10. 1016/S0889-8588(05)70125-8\n\n4. Smith DB, Harris M, Gowland E, Chang J, Scarffe JH. Non-secretory multiple myeloma: A report of 13 cases with a review of the literature. Hematol Oncol (1986) 4(4):307–13. doi:10.1002/hon.2900040407\n\n5. Ma ES, Shek TW, Ma SY. Non-secretory plasma cell myeloma of the true non-producer type. Br J Haematol (2007) 138(5):561. doi:10.1111/j.1365-2141.2007. 06691.x\n\n6. Decourt C, Galea HR, Sirac C, Cogné M. Immunologic basis for the rare occurrence of true nonsecretory plasma cell dyscrasias. J Leukoc Biol (2004) 76(3): 528–36. doi:10.1189/jlb.0803382\n\n7. Coriu D, Weaver K, Schell M, Eulitz M, Murphy CL, Weiss DT, et al. A molecular basis for nonsecretory myeloma. Blood (2004) 104(3):829–31. doi:10. 1182/blood-2004-02-0477\n\n8. Meister S, Schubert U, Neubert K, Herrmann K, Burger R, Gramatzki M, et al. Extensive immunoglobulin production sensitizes myeloma cells for proteasome inhibition. Cancer Res (2007) 67(4):1783–92. doi:10.1158/0008-5472.CAN-06-2258\n\n9. Trudel S, Lendvai N, Popat R, Voorhees PM, Reeves B, Libby EN, et al. Targeting B-cell maturation antigen with GSK2857916 antibody-drug conjugate in relapsed or refractory multiple myeloma (BMA117159): A dose escalation and expansion phase 1 trial. Lancet Oncol (2018) 19(12):1641–53. doi:10.1016/S1470- 2045(18)30576-X\n\n10. Berdeja JG, Madduri D, Usmani SZ, Jakubowiak A, Agha M, Cohen AD, et al. Ciltacabtagene autoleucel, a B-cell maturation antigen-directed chimeric antigen receptor T-cell therapy in patients with relapsed or refractory multiple myeloma (CARTITUDE-1): A phase 1b/2 open-label study. Lancet (2021) 398(10297): 314–24. doi:10.1016/S0140-6736(21)00933-8\n\n11. Raje N, Berdeja J, Lin Y, Siegel D, Jagannath S, Madduri D, et al. Anti-BCMA CAR T-cell therapy bb2121 in relapsed or refractory multiple myeloma. N Engl J Med (2019) 380(18):1726–37. doi:10.1056/NEJMoa1817226\n\n12. Moreau P, Garfall AL, van de Donk NWCJ, Nahi H, San-Miguel JF, Oriol A, et al. Teclistamab in relapsed or refractory multiple myeloma. N Engl J Med (2022) 387(6):495–505. doi:10.1056/NEJMoa2203478\n\n13. Laurent SA, Hoffmann FS, Kuhn PH, Cheng Q, Chu Y, Schmidt-Supprian M, et al. γ-Secretase directly sheds the survival receptor BCMA from plasma cells. Nat Commun (2015) 6:7333. doi:10.1038/ncomms8333\n\n14. Samur MK, Fulciniti M, Aktas Samur A, Bazarbachi AH, Tai YT, Prabhala R, et al. Biallelic loss of BCMA as a resistance mechanism to CAR T cell therapy in a patient with multiple myeloma. Nat Commun (2021) 12(1):868. doi:10.1038/ s41467-021-21177-5\n\n15. Seipel K, Porret N, Wiedemann G, Jeker B, Bacher VU, Pabst T. sBCMA plasma level dynamics and anti-BCMA CAR-T-cell treatment in relapsed multiple myeloma. Curr Issues Mol Biol (2022) 44(4):1463–71. doi:10.3390/cimb44040098\n\n16. Sanchez E, Li M, Kitto A, Li J, Wang CS, Kirk DT, et al. Serum B-cell maturation antigen is elevated in multiple myeloma and correlates with disease status and survival. Br J Haematol (2012) 158(6):727–38. doi:10.1111/j.1365-2141. 2012.09241.x\n\n17. Visram A, Soof C, Rajkumar SV, Kumar SK, Bujarski S, Spektor TM, et al. Serum BCMA levels predict outcomes in MGUS and smoldering myeloma patients. Blood Cancer J (2021) 11(6):120. doi:10.1038/s41408-021-00505-4\n\n18. Ghermezi M, Li M, Vardanyan S, Harutyunyan NM, Gottlieb J, Berenson A, et al. Serum B-cell maturation antigen: A novel biomarker to predict outcomes for multiple myeloma patients. Haematologica (2017) 102(4):785–95. doi:10.3324/ haematol.2016.150896\n\n19. Ghermezi M, Vardanyan S, Harutyunyan NM, Gottlieb J, Berenson A, Andreu-Vieyra C, et al. Serum B-cell maturation antigen is a novel prognostic indicator for multiple myeloma patients and correlates with clinical status and survival. Blood (2014) 124(21):3405. doi:10.1182/blood.V124.21.3405.3405\n\n20. Puig N, Contreras MT, Agulló C, Martínez-López J, Oriol A, Blanchard MJ, et al. Mass spectrometry vs immunoﬁxation for treatment monitoring in multiple myeloma. Blood Adv (2022) 6(11):3234–9. doi:10.1182/bloodadvances.2021006762\n\n21. Dasari S, Kohlhagen MC, Dispenzieri A, Willrich MAV, Snyder MR, Kourelis TV, et al. Detection of plasma cell disorders by mass spectrometry: A comprehensive review of 19,523 cases. Mayo Clin Proc (2022) 97(2):294–307. doi:10.1016/j.mayocp.2021.07.024\n\n22. Dispenzieri A, Arendt B, Dasari S, Kohlhagen M, Kourelis T, Kumar SK, et al. Blood mass spectrometry detects residual disease better than standard techniques in light-chain amyloidosis. Blood Cancer J (2020) 10(2):20. doi:10.1038/s41408-020- 0291-8\n\n23. Tovar N, Fernández de Larrea C, Elena M, Cibeira MT, Aróstegui JI, Rosiñol L, et al. Prognostic impact of serum immunoglobulin heavy/light chain ratio in patients with multiple myeloma in complete remission after autologous stem cell transplantation. Biol Blood Marrow Transpl (2012) 18(7):1076–9. doi:10.1016/j. bbmt.2012.03.004\n\n24. Kumar S, Paiva B, Anderson KC, Durie B, Landgren O, Moreau P, et al. International Myeloma Working Group consensus criteria for response and minimal residual disease assessment in multiple myeloma. Lancet Oncol (2016) 17(8):e328–46. doi:10.1016/s1470-2045(16)30206-6\n\n25. Seidel C, Sundan A, Hjorth M, Turesson I, Dahl IM, Abildgaard N, et al. Serum syndecan-1: A new independent prognostic marker in multiple myeloma. Blood (2000) 95(2):388–92. doi:10.1182/blood.v95.2.388\n\n26. Richard L, Janet AD, Gulnaz B, Nicola JB, Tim P, Paul AM, et al. Soluble syndecan-1 level at diagnosis is an independent prognostic factor in multiple myeloma and the extent of fall from diagnosis to plateau predicts for overall survival. B J Haem (2005) 130:542–8. doi:10.1111/j.1365-2141.2005.05647.x\n\n27. Janosi J, Sebestyen A, Mikala G, Nemeth J, Kiss Z, Valyi-Nagy I. Soluble syndecan-1 levels in different plasma cell dyscrasias and in different stages of multiple myeloma. Haematologica (2004) 89:370–1.\n\nPathology & Oncology Research Published by Frontiers 08",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398"
+}

@@ -1,0 +1,355 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:10:49.480229+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "International myeloma working group risk stratification model for smoldering multiple myeloma (SMM).",
+        "year": null
+      },
+      "doi": "10.1038/s41408-020-00366-3",
+      "format": "pdf",
+      "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+      "url": "https://doi.org/10.1038/s41408-020-00366-3"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p1",
+        "source_issue_ids": [],
+        "text": "1234567890():,; 1234567890():,;\n\n1234567890():,; 1234567890():,;\n\nMateos et al. Blood Cancer Journal (2020) 10:102 https://doi.org/10.1038/s41408-020-00366-3 Blood Cancer Journal\n\nA R T I C L E O p e n A c c e s s\n\nInternational Myeloma Working Group risk stratiﬁcation model for smoldering multiple myeloma (SMM)\n\nMaría-Victoria Mateos 1, Shaji Kumar 2, Meletios A. Dimopoulos 3, Verónica González-Calle1, Efstathios Kastritis3, Roman Hajek4, Carlos Fernández De Larrea5, Gareth J. Morgan6, Giampaolo Merlini 7, Hartmut Goldschmidt 8, Catarina Geraldes9, Alessandro Gozzetti 10, Charalampia Kyriakou11, Laurent Garderet12, Markus Hansson 13, Elena Zamagni14, Dorotea Fantl15, Xavier Leleu16, Byung-Su Kim17, Graça Esteves18, Heinz Ludwig19, Saad Usmani 20, Chang-Ki Min21, Ming Qi22, Jon Ukropec22, Brendan M. Weiss22, S. Vincent Rajkumar 2, Brian G. M. Durie23 and Jesús San-Miguel 24\n\nAbstract Smoldering multiple myeloma (SMM) is an asymptomatic precursor state of multiple myeloma (MM). Recently, MM was redeﬁned to include biomarkers predicting a high risk of progression from SMM, thus necessitating a redeﬁnition of SMM and its risk stratiﬁcation. We assembled a large cohort of SMM patients meeting the revised IMWG criteria to develop a new risk stratiﬁcation system. We included 1996 patients, and using stepwise selection and multivariable analysis, we identiﬁed three independent factors predicting progression risk at 2 years: serum M-protein >2 g/dL (HR: 2.1), involved to uninvolved free light-chain ratio >20 (HR: 2.7), and marrow plasma cell inﬁltration >20% (HR: 2.4). This translates into 3 categories with increasing 2-year progression risk: 6% for low risk (38%; no risk factors, HR: 1); 18% for intermediate risk (33%; 1 factor; HR: 3.0), and 44% for high risk (29%; 2–3 factors). Addition of cytogenetic abnormalities (t(4;14), t(14;16), +1q, and/or del13q) allowed separation into 4 groups (low risk with 0, low intermediate risk with 1, intermediate risk with 2, and high risk with ≥3 risk factors) with 6, 23, 46, and 63% risk of progression in 2 years, respectively. The 2/20/20 risk stratiﬁcation model can be easily implemented to identify high-risk SMM for clinical research and routine practice and will be widely applicable.\n\nIntroduction Smoldering multiple myeloma (SMM) represents a transitional stage between monoclonal gammopathy of undetermined signiﬁcance (MGUS) and active multiple myeloma (MM)1,2. Before International Myeloma Working Group (IMWG) revised the MM diagnostic criteria,\n\nCorrespondence: Shaji Kumar (Kumar.Shaji@mayo.edu) 1Servicio de Hematologia, Hospital Universitario de Salamanca, Centro de Investigación del Cáncer, Instituto de Biología Molecular y Cellular del Cáncer (Universitario de Salamanca-Consejo Superior de Investigaciones Cientíﬁcas), Salamanca, Spain 2Division of Hematology, Mayo Clinic, Rochester, MN, USA Full list of author information is available at the end of the article These authors contributed equally: María-Victoria Mateos, Shaji Kumar\n\nSMM was deﬁned by the presence of either a serum monoclonal protein of ≥3 g/dL (or ≥500 mg/24 h in urine or both) and/or ≥10% bone marrow plasma cells (BMPCs) without evidence of any CRAB symptoms (hypercalcemia, renal impairment, anemia, or lytic bone lesions). SMM is a heterogeneous disease with a risk of progression to MM of 10% per year during the ﬁrst 5 years following diagnosis, decreasing to 3% per year over the subsequent 5 years, and 1% per year after the 10 years of diagnosis3. The Mayo Clinic and the Spanish Group had previously created different risk stratiﬁcation models that can identify SMM patients with a 2-year risk of progression to MM of ≥50%. The Mayo Clinic model included M-protein (≥3 g/dL),\n\n© The Author(s) 2020\n\nOpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,whichpermitsuse,sharing,adaptation,distributionandreproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p10",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 10 of 11\n\nFISH data can improve the model and should be considered in all patients diagnosed with SMM. In addition, development of a scoring system allows for more individualized risk assessment. The trials going on and incorporating these features for the selection of the high-risk SMM patients will contribute to validate the model and ancillary biological studies can help to optimize it in the future. Future studies should focus on incorporating other tumor cell characteristics such as the presence of mutations as well as alterations in the tumor microenviron-ment, especially changes in the immune parameters.\n\nAcknowledgements We would like to acknowledge Amirah Limayo and Lisa Paik at the International Myeloma Foundation for their contribution and Anja Haltner, Steven Doucette, and Chris at the Cornerstone group for their role in the statistical analysis. The data collection study was conducted by the International Myeloma Foundation as an International Myeloma Working Group project supported in part by a grant funded by Janssen.\n\nAuthor details 1Servicio de Hematologia, Hospital Universitario de Salamanca, Centro de Investigación del Cáncer, Instituto de Biología Molecular y Cellular del Cáncer (Universitario de Salamanca-Consejo Superior de Investigaciones Cientíﬁcas), Salamanca, Spain. 2Division of Hematology, Mayo Clinic, Rochester, MN, USA. 3Hematology and Medical Oncology, Department of Clinical Therapeutics, National and Kapodistrian University of Athens, School of Medicine, Athens, Greece. 4Department of HematoOncology, University Hospital Ostrava and Faculty of Medicine, Ostrava University, Ostrava, Czech Republic. 5Department of Hematology, Amyloidosis and Myeloma Unit, Hospital Clínic, IDIBAPS, University of Barcelona, Barcelona, Spain. 6Perlmutter Cancer Center, NY Langone Health, New York, NY, USA. 7Department of Molecular Medicine, Amyloidosis Research and Treatment Center, Foundation ‘Istituto di Ricovero e Cura a Carattere Scientiﬁco (IRCCS) Policlinico San Matteo’, University of Pavia, Pavia, Italy. 8Department of Internal Medicine V, University Medical Hospital and National Center of Tumor Diseases, Heidelberg, Germany. 9Department of Clinical Hematology, Centro Hospitalar e Universitário de Coimbra, Coimbra, Portugal. 10Department of Medicine, Surgery and Neurosciences, University of Siena, Siena, Italy. 11Department of Haematology, London North West Healthcare, London, UK. 12Service d’Hématologie, Hôpital Pitié Salpêtrière, Paris, France. 13Department of Hematology, Sahlgrenska University Hospital, Goteborg and Skane University Hospital, Lund, Sweden. 14Department of Experimental, Diagnostic and Specialty Medicine – DIMES, University of Bologna, Bologna, Italy. 15Department of Hematology, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina. 16Department of Hematology, Hopital de La Milétrie, CHU, Poitiers, France. 17Department of Hemato-Oncology, Hallym University Dongtan Sacred Heart Hospital, Hwasung, South Korea. 18Department of Hematology, Hospital de Santa Maria, Lisboa, Portugal. 19Department of Medicine, Center for Oncology, Hematology and Palliative Care, Wilhelminenspital, Vienna, Austria. 20Department of Hematology and Medical Oncology, Atrium Health/Levine Cancer Institute, Charlotte, NC, USA. 21Hematology, Department of Internal Medicine, Seoul St. Mary’s Hospital, The Catholic University of Korea, Seoul, South Korea. 22Janssen Pharmaceuticals, Horsham, PA, USA. 23Cedars-Sinai Outpatient Cancer Center, Los Angeles, CA, USA. 24Clinica Universidad de Navarra, CIMA, CIBERONC, IDISNA, Pamplona, Spain\n\nAuthor contributions M.-V.M. and S.K. designed the study, directed the analysis, and wrote the manuscript. J.S.-M., B.G.M.D., and S.V.R. were involved in the study design and analyses. M.A.D., V.G.-C., E.K., R.H., C.F.d.L., G.J.M., G.M., H.G., C.G., A.G., C.K., L.G., M.H., E.Z., D.F., X.L., B.-S.K., G.E., H.L., S.U., and C.-K.M. enrolled patients and contributed to the manuscript writing. M.Q., J.U., and B.M.W. were involved with study design and manuscript review. The ﬁrst two (M.-V.M., S.K.) and last two authors (B.G.M.D., J.S.-M.) had full access to all the data in the study. All authors accepted responsibility for the decision to submit the ﬁndings for publication.\n\nBlood Cancer Journal\n\nConﬂict of interest M.-V.M. reports grants from Janssen, Celgene, Amgen, Takeda, Abbvie, GSK, Adaptive, EDO Mundipharma, Pharmamar, Roche, Seattle Genetics, outside the submitted work; S.K. reports research funding for clinical trials to the institution: Celgene, Takeda, Janssen, BMS, KITE, Merck, AbbVie, Medimmune, Novartis, Roche-Genentech, Amgen, Tenebio, Carsgen; and Consulting/ Advisory Board participation: (with no personal payments) Celgene, Takeda, Janssen, AbbVie, Genentech, Amgen, Molecular Partners and (with personal payment) Oncopeptides, Gene Centrix, Cellectar. M.A.D. reports personal fees from Amgen, Celgene, Takeda, Janssen, and BMS, outside the submitted work. V.G.-C. reports grants from Janssen, personal fees from Advisory Board of Prothena, non-ﬁnancial support from Janssen and Celgene, outside the submitted work; E.K. reports grants and personal fees from Amgen, personal fees and non-ﬁnancial support from Genesis Pharma, grants, personal fees, and non-ﬁnancial support from Janssen, personal fees from Takeda and Pﬁzer, during the conduct of the study; R.H. has nothing to disclose. C.F.d.L. reports grants, personal fees, and non-ﬁnancial support from Janssen, Celgene, Takeda, and Amgen, outside the submitted work; G.J.M.: Advisory Boards from Celgene, BMS, Sanoﬁ, Karyopharm, Janssen, Roche, and Genentech. G.M. has nothing to disclose. H.G. reports grants, personal fees and other fees from Celgene, Janssen, BMS, and Sanoﬁ, grants and other from Chugai, grants from John Hopkins University and Dietmar Hopp Stiftung, other fees from Amgen, Molecular Partners, MSD, Mundipharma, and Art Tempi, personal fees and other fees from Takeda and Novartis, non-ﬁnancial support and other fees from Adaptive Biotechnology, outside the submitted work. C.G. has nothing to disclose. A.G. reports grants and personal fees from Janssen, personal fees from Celgene, Amgen, and Takeda, outside the submitted work; C.K. has nothing to disclose. L.G. has nothing to disclose. M.H. has nothing to disclose. E.Z.: Advisory Board for Sanoﬁ, BMS, Janssen, and Takeda. D.F. reports personal fees from Amgen, Janssen, Varifarma, Tecnofarma, Takeda, Sanoﬁ, Glaxo, and Bristol Myers, outside the submitted work; X.L. has nothing to disclose. B.-S.K. reports grants from National Research Foundation of Korea (NRF), during the conduct of the study; G.E. has nothing to disclose. H.L. reports grants from Amgen, Takeda, personal fees from Amgen, Takeda, Janssen, BMS, Celgene, Seattle Genetics, and Sanoﬁ, outside the submitted work; S.U. reports grants and personal fees from Amgen, Celgene, Sanoﬁ, Seattle Genetics, Janssen, Takeda, SkylineDX, and Merck, personal fees from Abbvie and MundiPharma, grants from BMS and Pharmacyclics, outside the submitted work; C.-K.M. has nothing to disclose. M.Q.: employment from Janssen Research and Development; stock or other ownership from Janssen Research and Development. J.U.: employment from Janssen; stock or other ownership from Janssen. B.M.W. is an employee of Janssen Research & Development. S. V.R. has nothing to disclose. B.G.M.D.: Advisory Board for Amgen, Janssen, Celgene/BMS, and Takeda. J.S.-M. reports other fees from Amgen, BMS, Celgene, Janssen, MSD, Novartis, Takeda, Sanoﬁ, Roche, GSK, AbbVie, and Karyopharm, outside the submitted work.\n\nPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afﬁliations.\n\nReceived: 8 June 2020 Revised: 16 September 2020 Accepted: 22 September 2020\n\nReferences 1. Kyle, R. A. & Greipp, P. R. Smoldering multiple myeloma. N. Engl. J. Med. 302, 1347–1349 (1980). 2. Rajkumar, S. V., Landgren, O. & Mateos, M. V. Smoldering multiple myeloma. Blood 125, 3069–3075 (2015). 3. Kyle, R. A. et al. Clinical course and prognosis of smoldering (asymptomatic) multiple myeloma. N. Engl. J. Med. 356, 2582–2590 (2007). 4. Dispenzieri, A. et al. Immunoglobulin free light chain ratio is an independent risk factor for progression of smoldering (asymptomatic) multiple myeloma. Blood 111, 785–789 (2008). 5. Perez-Persona, E. et al. New criteria to identify risk of progression in monoclonal gammopathy of uncertain signiﬁcance and smoldering multiple",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p11",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 11 of 11\n\nmyeloma based on multiparameter ﬂow cytometry analysis of bone marrow plasma cells. Blood 110, 2586–2592 (2007). 6. Mateos, M. V. et al. Lenalidomide plus dexamethasone for high-risk smoldering multiple myeloma. N. Engl. J. Med. 369, 438–447 (2013). 7. Lonial, S. et al. E3A06: Randomized phase III trial of lenalidomide versus observation alone in patients with asymptomatic high-risk smoldering multiple myeloma. J. Clin. Oncol. 37, 8001–8001 (2019). 8. Rajkumar, S. V. et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 15, e538–e548 (2014). 9. Zamagni, E. et al. 18F-FDG PET/CT focal, but not osteolytic, lesions predict the progression of smoldering myeloma to active disease. Leukemia 30, 417–422 (2016). 10. Rajkumar, S. V. et al. Impact of primary molecular cytogenetic abnormalities and risk of progression in smoldering multiple myeloma. Leukemia 27, 1738–1744 (2013). 11. Fernandez de Larrea, C. et al. Evolving M-protein pattern in patients with smoldering multiple myeloma: impact on early progression. Leukemia 32, 1427–1434 (2018). 12. Ravi, P. et al. Changes in uninvolved immunoglobulins during induction therapy for newly diagnosed multiple myeloma. Blood Cancer J. 7, e569 (2017). 13. Gonzalez-Calle, V. et al. Bence Jones proteinuria in smoldering multiple myeloma as a predictor marker of progression to symptomatic multiple myeloma. Leukemia 30, 2026–2031 (2016). 14. Dhodapkar, M. V. et al. Clinical, genomic, and imaging predictors of myeloma progression from asymptomatic monoclonal gammopathies (SWOG S0120). Blood 123, 78–85 (2014). 15. Breiman, L. Random forests. Mach. Learn. 45, 5–32 (2001).\n\n16. Svetnik, V. et al. Random forest: a classiﬁcation and regression tool for com-pound classiﬁcation and QSAR modeling. J. Chem. Inf. Comp. Sci. 43, 1947–1958 (2003). 17. Massaro, J. M. et al. Managing and analysing data from a large-scale study on Framingham offspring relating brain structure to cognitive function. Stat. Med. 23, 351–367 (2004). 18. Kyle, R. A. & Rajkumar, S. V. Multiple myeloma. N. Engl. J. Med. 351, 1860–1873 (2004). 19. Kumar, S. K. & Rajkumar, S. V. The multiple myelomas - current concepts in cytogenetic classiﬁcation and therapy. Nat. Rev. Clin. Oncol. 15, 409–421 (2018). 20. Witzig, T. E. et al. A phase III randomized trial of thalidomide plus zoledronic acid versus zoledronic acid alone in patients with asymptomatic multiple myeloma. Leukemia 27, 220–225 (2013). 21. Rajkumar, S. V. et al. Thalidomide as initial therapy for early-stage myeloma. Leukemia 17, 775–779 (2003). 22. Lakshman, A. et al. Risk stratiﬁcation of smoldering multiple myeloma incorporating revised IMWG diagnostic criteria. Blood Cancer J. 8, 59 (2018). 23. Misund, K. et al. MYC dysregulation in the progression of multiple myeloma. Leukemia 34, 322–326 (2020). 24. Bustoros, M. et al. Genomic proﬁling of smoldering multiple myeloma identiﬁes patients at a high risk of disease progression. J. Clin. Oncol. 38, 2380–2389 (2020). 25. Manier, S., Kawano, Y., Bianchi, G., Roccaro, A. M. & Ghobrial, I. M. Cell auton-omous and microenvironmental regulation of tumor progression in precursor states of multiple myeloma. Curr. Opin. Hematol. 23, 426–433 (2016). 26. Dhodapkar, M. V. MGUS to myeloma: a mysterious gammopathy of under-explored signiﬁcance. Blood 128, 2599–2606 (2016).\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p2",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 2 of 11\n\nBMPCs inﬁltration (≥10%), and the ratio of serum free light chain (sFLC) (≥8 or <0.125) to categorize patients into three subgroups, with a 52% risk of progression in 2 years for those presenting with all three risk factors4. The Spanish model used the presence of ≥95% clonal plasma cells among all BMPCs by immunophenotyping and the presence of immune paresis and identiﬁes a subgroup of patients having both features with a 50% risk of progression at 2 years5. The standard of care for SMM, irrespective of the risk status of the patients, has been observation. However, there are two randomized studies conﬁrming the beneﬁt of early treatment in reducing the risk of progression to MM. The Spanish Myeloma Group conducted the ﬁrst phase III trial in high-risk SMM, comparing lenalidomide plus dexamethasone (Ld) versus observation, and Ld sig-niﬁcantly delayed the progression to MM and patients lived longer (overall survival (OS))6. The Eastern Coop-erative Oncology Group (ECOG) group has also reported a signiﬁcant beneﬁt for the early treatment with single-agent lenalidomide versus observation in SMM7. Although the Spanish trial did not lead to a change in the standard of care, it encouraged the IMWG to revise the criteria for the deﬁnition of SMM and MM to identify a subset of SMM with a 2-year risk of progression of approximately 80% who were then categorized as MM. The identiﬁcation of this subgroup is based on the presence of any one of these biomarkers: BMPCs ≥60% or involved/uninvolved sFLC ratio ≥100, and presence of >1 focal lesion on magnetic resonance imaging, in patients having bone marrow with at least 10% of clonal BMPC inﬁltration. This led to a paradigm shift as these patients were then regarded as having myeloma and were offered therapy8. Other groups, in parallel, also created different models to identify SMM patients with a progression risk at 2 years of 50% using different features like positive uptake on positron emission tomography–computed tomography (PET-CT), type of M-protein, cytogenetic abnormalities, increase in serum M-protein and decrease in hemoglobin count over time, presence of Bence Jones proteinuria, or genetic signatures, among others9–14. At the same time, many clinical trials are ongoing in high-risk SMM according to different risk models, and all these devel-opments brought to the fore two issues: (i) the hetero-geneity of the different risk models developed using rather small series of SMM patients and (ii) the real impact of the revised SMM deﬁnition. This forms the basis of the current study. We studied a large cohort of SMM patients to identify factors that predicted progression to MM with the goal of developing an easy risk score to predict the 2-year progression risk. The factors identiﬁed were M-protein (>2 g/ dL), BMPCs inﬁltration (>20%), and the ratio of involved\n\nBlood Cancer Journal\n\nversus uninvolved sFLC (>20). In addition, we have also created a risk score that accounts for the entire range of the variable measurements, which can be used to provide a more individualized 2-year risk of progression for every SMM patient.\n\nPatients and methods Patients with SMM diagnosed after January 2004 were included in this retrospective medical chart review from participating IMWG sites globally. The SMM deﬁnition required to be included in the study was based on the 2014 IMWG criteria8. Patients included in this analysis required baseline data from diagnosis (+/−3 months), no progression to MM or other plasma cell disorders within 6 months from diagnosis, a minimum follow-up of 1 year, and should not have been included in any therapeutic trial. Trained staff collected data from the patient medical charts in three case report forms: (i) patient registration and demographics form, (ii) diagnosis and baseline assessment form, and (iii) 12-month assessment form. The Institutional Review Board at each site approved the study. The study was conducted in accordance with the Declaration of Helsinki and the International Council for Harmonisation Guidelines. The primary objective was to develop a risk stratiﬁcation model that will identify SMM patients who have high risk of progression to MM or other plasma cell disorders (50% progression risk within the ﬁrst 2 years from diagnosis) based on the 2014 IMWG criteria for deﬁnition of both SMM and MM. Time to progression (TTP) to MM or amyloidosis was the primary end point and was deﬁned as the time elapsed between diagnosis of SMM and when the patient experienced progressive disease. All patients who did not progress at the time of last follow-up were censored in the TTP analysis. A secondary objective was to create a risk scoring tool that would allow individualized estimate of risk at various time points from diagnosis.\n\nStatistical methods Due to the nature of the study, no formal hypothesis was used to calculate the sample size. We summarized categorical variables as proportions and continuous variables as medians (range). Univariate Cox regressions were run for each factor to assess an initial relationship between a factor and progression to MM or related disorders. For each factor where p ≤0.25, optimal cut points were identiﬁed using Youden’s Index. Receiver operating characteristic (ROC) curves were generated, with the cut-off maximizing both sensitivity and speciﬁcity deter-mined. Sensitivity and speciﬁcity were reported for these optimal cut points. Interaction term between candidate variables were included in the model selection if candidate",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p3",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 3 of 11\n\nvariables with correlations satisfy the above criteria. Using the optimal cut points, a stepwise regression analysis was used to determine predictive variables using a required selection stay criterion of 0.001. A random forest algorithm consisting of an ensemble of decisions trees15 created using the random Forest package was used to conﬁrm variable selection16. Important prognostic variables for predicting probability of progression at 2 years were identiﬁed and ranked based on the percentage change in mean squared error. Similar methods were used to identify the most signiﬁcant cytogenetic abnormalities associated with progression to MM in patients with available information. Patients were categorized based on the number of risk categories present and Cox proportional hazard regression models were used to calculate hazard ratios (HRs) and 95% conﬁdence intervals (CIs). Kaplan–Meier curves were used to illustrate TTP across the number of risk categories present. A risk score was developed to elucidate the potential strength of individual relationships between each of the previously deﬁned variables based on the method descri-bed by Sullivan et al.17. Variables were categorized based on clinically relevant as well as spline functions to establish the general trends in the risk of progression with increasing laboratory values. Scores for each risk factor were assigned relative weights of each coefﬁcient in the multivariable regression model. Predicted risk of progression were summarized based on this scoring tool. Analyses were conducted in SAS version 9.4 (The SAS Institute, Cary, NC) and R Core Team (2018).\n\nResults Patient characteristics One thousand nine hundred and ninety-six SMM patients from 75 centers in 23 countries were included. Baseline characteristics are in Table 1. The median age at diagnosis was 64 years (interquartile range (IQR): 56–72). The median serum M-component and BMPC inﬁltration were 1.8 g/dL (IQR: 1.1–2.6) and 15% (IQR: 12–25), respectively. Concerning cytogenetic information (available in 689 patients), trisomies and del13q/monosomy 13 were the most frequent abnormalities (31.4% and 28.4%, respectively). 1q gain was reported in 25.4% and t(4;14) and del(17p/monosomy 17) in 10.2% and 5.4%, respectively.\n\nSurvival outcomes The median follow-up from diagnosis was 3.0 years (IQR 1.6–5.1). At the data cut-off, 815 (41%) patients had progressed to MM or a related disorder. The median TTP for the entire cohort was 6.4 years (95% CI 6.0–7.2); the 2-, 5-, and 10-year risk of progression were 22, 42, and 64%, respectively (Fig. 1). The estimated 5- and 10-year OS for\n\nBlood Cancer Journal\n\nTable 1 Baseline characteristics of the study population.\n\nMissing data\n\n(n)\n\nQuantity, median\n\n(IQR) or %\n\nAge (years), median (range) 0 64 (56–72)\n\nGender (Male), % 0 978 (49%)\n\nHemoglobin (g/dL) 54 12.9 (11.8–13.8)\n\nCreatinine (mg/dL) 136 0.88 (0.71–1.04)\n\nCalcium (mg/dL) 172 9.3 (9–9.7)\n\nAlbumin (g/dL) 179 4 (3.7–4.3)\n\nBeta-2 microglobulin (mg/dL) 357 2.3 (1.8–3)\n\nSerum M-protein (g/dL) 0 1.8 (1.1–2.6)\n\nSerum FLC ratio 633 6.2 (2.1–24.1)\n\nHeavy-chain type 120\n\nIgA 452 (24.1%)\n\nIgD 6 (0.3%)\n\nIgG 1402 (74.7%)\n\nIgM 16 (0.9%)\n\nLight-chain type 24\n\nKappa 1199 (60.8%)\n\nLambda 773 (39.2%)\n\nImmunoparesisa 235 992 (56.3%)\n\nUrine M-spike (mg/24 h) 792 0 (0–30)\n\nBMPCb, higher of biopsy and\n\naspirate %\n\n0 15 (12–25)\n\naImmunoparesis was deﬁned as reduction in one or more of the uninvolved immunoglobulin level below normal range. bBone marrow plasma cell percentage.\n\nthe entire cohort from SMM diagnosis was 93.8% (92.0–95.2) and 88.3% (84.8–91.1), respectively.\n\nRisk factors for progression and stratiﬁcation model The factors initially included in the univariate analysis for predicting progression risk at 2 years from the diagnosis are shown in Table 2 indicating those included in the model because of their capacity for predicting risk of progression to MM at 2 years (p value ≤0.25). From among these, the stepwise model selection and random forest algorithm identiﬁed serum M-protein concentration, involved to uninvolved sFLC ratio, and BMPC percentage as the most relevant factors predicting progression to MM, and based on Youden’s Index in the ROC analyses, the optimal cut-offs for the risk factors were 1.9 g/dL for serum M-protein (speciﬁcity 60% and sensitivity 71%), 19.3 for the involved to uninvolved sFLC ratio (speciﬁcity 79% and sensitivity 55%), and 16.4% for the BMPC inﬁltration (speciﬁcity 55% and sensitivity 75%) as shown in Table 3. For convenience and simplicity, we",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p4",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 4 of 11\n\nFig. 1 Probability of progression over time in the full study cohort (n = 1996). The median time to progression for the entire cohort was 6.4 years (95% CI 6.0–7.2); the 2-, 5-, and 10-year risk of progression were 22, 42, and 64%, respectively.\n\nTable 2 Identiﬁcation of factors for risk stratiﬁcation model.\n\np value Candidate factors (p value <0.25) Hazard ratio (95% CI)\n\nAge (per 10 years) 0.034 Yes 1.09 (1.01, 1.19)\n\nFemale sex 0.4552 No 0.93 (0.77, 1.13)\n\nHemoglobin (g/dL) <0.0001 Yes 0.87 (0.82, 0.93)\n\nCreatinine (mg/dL) 0.1192 Yes 1.2 (0.96, 1.5)\n\nCalcium (mg/dL) 0.6844 No 0.98 (0.9, 1.07)\n\nAlbumin (g/dL) 0.0786 Yes 0.84 (0.68, 1.02)\n\nSerum M-protein (g/dL) <0.0001 Yes 1.09 (1.06, 1.12)\n\nBeta-2 microglobulin (mg/dL) <0.0001 Yes 1.21 (1.14, 1.29)\n\nAbsolute difference Kappa–Lambda (mg/dL), per 100 <0.0001 Yes 1.03 (1.01, 1.04)\n\nInvolved to uninvolved sFLC ratio, per 100 <0.0001 Yes 1.1 (1.06, 1.13)\n\nHeavy-chain type (IgG versus IgM) 0.5003 No 0.92 (0.73, 1.17)\n\nHeavy-chain type (IgG versus IgA) 0.3336 No 0.92 (0.78, 1.09)\n\nLight-chain type (Kappa versus Lambda) 0.0611 Yes 0.83 (0.68, 1.01)\n\nImmunoﬁxation 0.9641 No n/a\n\nImmunoparesisa <0.0001 Yes 1.53 (1.24, 1.89)\n\nUrine M-spike (mg/24 h), per 1000 0.163 Yes 1.05 (0.98, 1.14)\n\nBMPCb %, per 10 <0.0001 Yes 1.44 (1.36, 1.52)\n\nn/a not applicable. aImmunoparesis was deﬁned as reduction in one or more of the uninvolved immunoglobulin level below normal range. bBone marrow plasma cell percentage\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p5",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 5 of 11\n\nTable 3 Receiver operating characteristic (ROC) curves with area under the curve (AUC) analysis to identify optimal cut-offs for continuous risk factors (identiﬁed from Table 2) with respect to progression to MM within 2 years.\n\nCut point Speciﬁcity (%) Sensitivity (%)\n\nAge (per 10 years) 57 28 80.6\n\nHemoglobin (g/dL) 13.3 39.9 73.3\n\nCreatinine (mg/dL) 0.81 42.9 66\n\nAlbumin (g/dL) 4.09 46.4 64\n\nSerum M-protein (g/dL) 1.91 60 70.6\n\nBeta-2 microglobulin\n\n(mg/dL)\n\n2.57 65.7 52.8\n\nAbsolute difference\n\nKappa-Lambda (mg/dL),\n\nper 100\n\nInvolved to uninvolved\n\nsFLC ratio, per 100\n\n18.5 66 54.6\n\n19.3 78.7 54.7\n\nUrine M-spike (mg/24 h), per 1000 75 83.1 29.8\n\nBMPC, higher of biopsy\n\nand aspirate %\n\n16.4 58.1 71.8\n\ndecided to use 2 g/dL, 20%, and 20% as cut-off levels for these factors. Using these cut points, multivariable analysis identiﬁed the presence of serum M-protein >2 g/dL as an independent prognostic factor predicting high risk of progression to MM (HR: 2.07, 95% CI: 1.62–2.65), together with involved to uninvolved sFLC ratio >20 (HR: 2.66, 95% CI: 2.09–3.38) and BMPC inﬁltration >20% (HR: 2.39, 95% CI: 1.87–3.05). We then proceeded to create a risk stratiﬁcation model including 1363 patients in whom all three factors were available: ﬁve hundred and twenty-two patients (38%) did not present any of the factors (reference group) with a risk of progression at 2 years of 6% (the low-risk group); 1 out of the 3 factors was identiﬁed in 445 patients (33%) with a 18% risk of progression to MM at 2 years (HR: 2.99, 95% CI: 1.97–4.54) (the intermediate-risk group); and the high-risk group deﬁned by the presence of 2 or 3 risk factors included 396 patients (29%) with a 44% progression risk at 2 years (HR: 9.02, 95% CI: 6.15–13.2) (Fig. 2a). Of the 396 patients included in the high-risk group, 92 presented with the 3 risk factors and had a slightly higher risk of progression to MM (Fig. 2b). We explored the added value of the presence of any cytogenetic abnormalities to the 2/20/20 risk model if all factors were available (689 patients). The stepwise model selection identiﬁed the presence of t(4;14), t(14;16), +1q,\n\nBlood Cancer Journal\n\nand del13q/monosomy 13 by ﬂuorescence in situ hybri-dization (FISH) as the most relevant ones. This model deﬁned four groups of SMM patients with different progression risk at 2 years (Fig. 3): low risk with a progression risk at 2 years of 6% (n = 225; 33%) and deﬁned by the presence of none of the factors; low–intermediate (n = 224; 33%) if one factor was present and the progression risk at 2 years was 23% (HR: 4.16, 95% CI: 2.26–7.67); intermediate risk (n = 177; 26%) deﬁned by the presence of 2 factors and risk of progression at 2 years of 46% (HR: 9.82, 95% CI: 5.46–17.7); and the high risk (n = 63; 9%) with a progression risk at 2 years of 63% (HR: 15.5, 95% CI: 8.23–29.0) if ≥3 of the factors were present.\n\nScoring tool to predict risk of progression at 2 years Based on the univariate and multivariate analysis previously conducted, the three risk factors (serum M-protein, involved to uninvolved sFLC ratio, and BMPC inﬁltration) together with the cytogenetic abnormalities were included in a logistic regression model for creating a scoring tool to provide a more individualized assessment of risk. This approach allowed us to utilize the variables along the entire range of values instead of using single cut points. Six hundred and eighty-nine patients were included and Tables 4 and 5 present the score for each risk factor and the predicted risk according to individual risk scores. Patients with total risk score between 0 and 4 had a 2-year progression risk of 3.8% (reference group). The risk was 26% (HR: 7.56, 95% CI: 3.77–15.2) for patients with a total score between 5 and 8, and for those with a score between 9 and 12, the risk of progression at 2 years was 51% (HR: 17.3, 95% CI: 8.63–34.8). When the score was >12, the 2-year progression risk was 73% (HR: 31.9, 95% CI: 15.4–66.3) (Fig. 4).\n\nDiscussion The treatment paradigms for myeloma has evolved rapidly in the past decade with introduction of new therapies, leading to improved survival18,19. The mostly incurable nature of MM and a better understanding of the disease biology coupled with the prolonged precursor phase has inevitably directed our attention to developing strategies for prevention or early intervention with the goal of delaying onset of active disease or potentially eradicating the clone20,21. The redeﬁnition of active myeloma was a ﬁrst step in early intervention, with treatment initiation not solely based on CRAB criteria. The current study ﬁlls an important gap in terms of a risk stratiﬁcation approach for the newly deﬁned SMM that will allow us to design future clinical trials. We present here a simple risk stratiﬁcation model that can be applied across the globe using easily available data to identify a subgroup of SMM patients with 50% progression risk at 2 years, deﬁned by the presence of two or three factors",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p6",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 6 of 11\n\n100 a\n\nProbability of progression (%)\n\n80\n\n60\n\n40\n\n20\n\nHigh-risk group\n\nIntermediate-risk group\n\nLow-risk group\n\n0\n\n0 1 2 3 4 5 6 7 8 9 10 11 12\n\nTime to progression (years)\n\nRisk Stratification groups Number of risk factors Hazard Ratio (95% CI) Risk of progression (2 years) # of patients\n\n) % 3 . 8 3 ( 2 2 5 % 2 . 6 e c n e r e f e R 0 k si R - w o L\n\n) % 7 . 2 3 ( 5 4 4 % 9 . 7 1 ) 4 5 . 4 – 7 9 . 1 ( 9 9 . 2 1 e t aid e m r e t n I\n\n) % 1 . 9 2 ( 6 9 3 % 2 . 4 4 ) 2 . 3 1 – 5 1 . 6 ( 2 0 . 9 3 - 2 h gi H\n\nb\n\nProbability of progression (%)\n\n100\n\n80\n\n60\n\n40\n\n20\n\nHigh-risk group\n\nIntermediate-risk group\n\nLow-intermediate-risk group\n\nLow-risk group\n\n0\n\n0 1 2 3 4 5 6 7 8 9 10 11 12\n\nTime to progression (years)\n\nRisk Stratification groups Number of risk factors Hazard Ratio (95% CI) Risk of progression (2 years) # of patients\n\n) % 3 . 8 3 ( 2 2 5 % 2 . 6 e c n e r e f e R 0 k si R - w o L\n\n) % 7 . 2 3 ( 5 4 4 % 9 . 7 1 ) 4 5 . 4 – 7 9 . 1 ( 9 9 . 2 1 e t aid e m r e t n I\n\n) % 1 . 9 2 ( 6 9 3 % 2 . 4 4 ) 2 . 3 1 – 5 1 . 6 ( 2 0 . 9 3 - 2 h gi H\n\nFig. 2 Risk of progression at 2 years based on presence or absence of risk factors in patients with smoldering multiple myeloma. a Probability of progression at 2 years in the three different subgroups of patients according to the model 2/20/20. Patients with no risk factors (low-risk group) had a risk of progression at 2 years of 6%, those with one factor (intermediate-risk group) had a risk of progression of 18% at 2 years, and those with ≥2 factors (high-risk group) had a 44% progression risk at 2 years. b Probability of progression at 2 years according to the model 2/20/20 with separation of high-risk group based on presence of 2 or 3 risk factors. Of the 396 patients included in the high-risk group, 92 presented with the three risk factors and had a slightly higher risk of progression to MM.\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p7",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 7 of 11\n\nProbability of progression (%)\n\n100\n\n80\n\n60\n\n40\n\n20\n\n0\n\nHigh-risk group\n\nIntermediate-risk group\n\nLow-intermediate-risk group\n\nLow-risk group\n\n0 1 2 3 4 5 6 7 8 9 10 11 12\n\nTime to progression (years)\n\nRisk Stratification groups Number of risk factors Hazard Ratio (95% CI) Risk of progression (2 years) # of patients\n\n) % 7 . 2 3 ( 5 2 2 % 0 . 6 e c n e r e f e R 0 w o L\n\n) % 5 . 2 3 ( 4 2 2 % 8 . 2 2 ) 7 6 . 7 – 6 2 . 2 ( 6 1 . 4 1 e t aid e m r e t ni-w o L\n\n) % 7 . 5 2 ( 7 7 1 % 5 . 5 4 ) 7 . 7 1 – 6 4 . 5 ( 2 8 . 9 2 e t aid e m r e t n I\n\n) % 1 . 9 ( 3 6 % 1 . 3 6 ) 0 . 9 2 – 3 2 . 8 ( 5 . 5 1 4 - 3 h gi H\n\nFig. 3 Probability of progression at 2 years in the four different subgroups of patients according to the model 2/20/20 plus cytogenetic abnormalities (t(4;14), t(14;16), +1q, and/or del13q/monosomy 13). This model deﬁned four groups of SMM patients: low risk with none of the factors had a progression risk at 2 years of 6%, low–intermediate with one factor present had a progression risk at 2 years of 23%, intermediate risk with the presence of 2 factors had a risk of progression at 2 years of 37%, and the high risk with ≥3 of the factors had a progression risk at 2 years of 63%.\n\namong M-protein >2 g/dL, BMPCs inﬁltration >20%, or the ratio of involved to uninvolved sFLC >20. In this study, we used 2-year progression as the end point in order to maintain the approach used in the previous models but now excluding the ultrahigh risk patients with ≥80% risk of progression at 2 years who are essentially active M by current deﬁnition. This group represents a relevant population for early intervention and inclusion in trials in order to either prevent the MM development or potentially cure the disease. The updated IMWG deﬁnition segregated from the classical SMM deﬁnition those patients with an imminent risk of progression to MM; now considered as MM. This subset of patients could potentially overestimate the progression risk in the classical SMM series and should therefore be excluded from the SMM risk stratiﬁcation models. The Mayo Clinic group recently examined their cohort of SMM patients by removing those with MM according to the 2014 IMWG criteria, and they identiﬁed SMM at 50% risk of progression at 2 years based on M-protein (>2 g/dL), BMPC inﬁltration (>20%), and the ratio of involved to uninvolved sFLC (>20)22. Importantly, this international database of nearly 2000 SMM patients conﬁrmed the Mayo Clinic 2/20/20 model, providing\n\nBlood Cancer Journal\n\nrobust validation for this new categorization of SMM patients. In addition, the model is based on three features easily available at most centers. Moreover, a subanalysis conducted in a subset of patients with FISH information showed that the presence of any one of the cytogenetic abnormalities such as t(4;14), t(14;16), +1q, or del13q/ monosomy 13 was an additional predictor of progression in this study. This is in line with a previous observation from the Mayo Clinic study that identiﬁed the presence of t(4;14), del17p), and/or hyperdiploidy as predictors of progression10. Altogether these data reinforce the concept that the genomic information such as mutations and translocation affecting MYC may contribute to reﬁne the model, but this will require prospective validation in other studies23. Different investigators have deﬁned alternative models to evaluate the risk of progression from SMM to MM. Most have been based on measurements of tumor bulk: size of M-spike, sFLCs, type of immunoglobulin IgA versus IgG, proportion of clonal plasma cells >95% of aberrant cells, circulating plasma cells, or immune paresis. These models are useful and have driven the clinical research so far, being validated in clinical trials. However, new models have emerged based on relatively small series",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p8",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 8 of 11\n\nTable 4 Logistic regression equation to develop the risk score predicting progression risk at 2 years.\n\nRisk factor Coefﬁcient Odds ratio (95% CI) p value Score\n\nFLC IU\n\n0–10 (reference) – – – 0\n\n>10–25 0.69 1.99 (1.15, 3.45) 0.014 2\n\n>25–40 0.96 2.61 (1.36, 4.99) 0.004 3\n\n>40 1.56 4.73 (2.88, 7.77) <0.0001 5\n\nM-protein\n\n0–1.5 (reference) – – – 0\n\n>1.5–3 0.95 2.59 (1.56, 4.31) 0.0002 3\n\n>3 1.3 3.65 (2.02, 6.61) <0.0001 4\n\nBMPC\n\n0–15 (reference) – – – 0\n\n>15–20 0.57 1.77 (1.03, 3.06) 0.04 2\n\n>20–30 1.01 2.74 (1.6, 4.68) 0.0002 3\n\n>30–40 1.57 4.82 (2.5, 9.28) <0.0001 5\n\n>40 2 7.42 (3.23, 17.02) <0.0001 6\n\nFISH abnormality 0.83 2.28 (1.53, 3.42) <0.0001 2\n\nFLC IU involved to uninvolved serum-free light chain ratio.\n\nof patients utilizing new imaging assessments like PET-CT, genetic signatures, Bence Jones proteinuria, or dynamic models such as the evolution of the M-component and the decrease of hemoglobin, among others. Although many of them identify SMM patients with ≥50% risk of progression to MM within the ﬁrst 2 years since diagnosis, in clinical practice, physicians are frequently confused about what model to use to deﬁne the risk of progression in SMM; moreover, many ongoing clinical trials in SMM use different inclusion criteria, which may be a confounding factor upon analyzing the efﬁcacy of new drugs/combinations in this setting. Taken together, this model derived from an international SMM population with commonly available and reproducible biomarkers could be employed as a standard in registration trials as well as routine clinical practice. The phase 3 trial conducted by the ECOG group eval-uating single-agent lenalidomide versus observation in SMM patients showed a signiﬁcant beneﬁt in progression-free survival for the high-risk subset deﬁned as in the current study using the 2/20/20 model7. Moreover, the same group decided to amend their new phase 3 trial comparing Ld versus Ld plus daratumumab in high-risk SMM in order to introduce the 2/20/20 model as inclusion criteria. The ASCENT trial conducted by the\n\nTable 5 Predictive values of risk score tool.\n\nTotal risk score Predicted risk at 2 years based on Actual (% with 2-year progression) Predictive value\n\nRisk score Full regression model Positive Negative\n\n0 3.2 3.3 1 (1.3%) 25.8 n/a\n\n2 6.2 6.1 3 (5.4%) 29.1 98.8\n\n3 8.5 8.3 2 (2.6%) 31.5 97.1\n\n4 11.6 11.1 3 (10.3%) 36.1 97.2\n\n5 15.7 14.8 19 (19.2%) 37.7 96.3\n\n6 20.8 19.4 11 (23.4%) 43 91.8\n\n7 27 25 16 (27.6%) 46 89.9\n\n8 34.3 31.5 21 (35%) 50.4 87.6\n\n9 42.5 39 17 (48.6%) 55.4 85\n\n10 51 46.9 18 (41.9%) 57 82.8\n\n11 59.5 55 17 (50%) 63.2 81\n\n12 67.5 62.9 13 (61.9%) 69.4 79.3\n\n13 74.6 70.1 8 (50%) 72.5 77.9\n\n14 80.5 76.5 11 (78.6%) 82.9 77.2\n\n15 85.4 81.8 10 (83.3%) 85.7 76\n\n16+ 89.2 86.2 8 (88.9%) 88.9 75\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-00366-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_sha256": "e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+          "source_url": "https://doi.org/10.1038/s41408-020-00366-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e:p9",
+        "source_issue_ids": [],
+        "text": "Mateos et al. Blood Cancer Journal (2020) 10:102 Page 9 of 11\n\nProbability of progression (%)\n\n100\n\n80\n\n60\n\n40\n\n20\n\nHigh-risk group\n\nIntermediate-risk group\n\nLow-intermediate-risk group\n\nLow-risk group\n\n0\n\n0 1 2 3 4 5 6 7 8 9 10 11 12\n\nTime to progression (years)\n\nRisk Stratification groups Total risk score Hazard Ratio (95% CI) Risk of progression (2 years) # of patients\n\n) % 0 . 5 3 ( 1 4 2 % 8 . 3 e c n e r e f e R 4 - 0 w o L\n\n) % 3 . 8 3 ( 4 6 2 % 2 . 6 2 ) 2 . 5 1 – 7 7 . 3 ( 6 5 . 7 8 - 5 e t aid e m r e t ni-w o L\n\n) % 3 . 9 1 ( 3 3 1 % 1 . 1 5 ) 8 . 4 3 – 3 6 . 8 ( 3 . 7 1 2 1 - 9 e t aid e m r e t n I\n\n) % 4 . 7 ( 1 5 % 5 . 2 7 ) 3 . 6 6 – 4 . 5 1 ( 9 . 1 3 2 1 > h gi H\n\nFig. 4 Risk of progression according to the risk score. Risk score was developed using the entire range of the values for BMPC, serum FLC, and serum M-spike as well as cytogenetic abnormality. Patients with total risk score between 0 and 4 had a 2-year progression risk of 3.8%, patients with a total score between 5 and 8 had a risk of 26%, those with a score between 9 and 12 had a risk of progression of 51%, and those with a score >12 had a risk of progression of 73%.\n\nInternational Myeloma Foundation with a curative strat-egy is using the same model. While we used 2-year progression as the end point to deﬁne a high-risk SMM population, we have also created a more precise and individualized scoring tool to classify individuals by risk of progression using the entire spec-trum of values for each patient (in place of dichotomous division) including M-spike, BMPC inﬁltration, and sFLC ratio. Accordingly, this scoring tool is able to precisely identify SMM patients with extremely low risk of progression at 2 years (close to MGUS), as well as SMM with a risk of progression at 2 years even >50%. Thus, using this risk scoring, SMM patients with total risk score of 1 have 90% of probability of not developing MM in 2 years (negative predictive value (NPV) = 90%), while for those patients with total risk score of 9, the probability of developing MM in 2 years will be of 93% (positive predictive value = 93%). However, the identiﬁcation of SMM patients who will not progress with near certainty (100% NPV) is difﬁcult, and in the subgroup of patients with total risk score of 0, the risk does exist. There are some limitations in this study because of its retrospective nature as well as the missing data observed for some variables that may have led to their exclusion in the multistep process. This is the case for the presence of\n\nBlood Cancer Journal\n\nimmune paresis, percentage of plasma cells with aberrant phenotype or circulating plasma cells, or the evolution of the M-component and the decrease in hemoglobin. In addition, differences in the speciﬁc methodology used for FISH may vary from institution to institution. One additional limitation is its complete reliance on clinical features. It has been recently shown that the mutational landscape, particularly mutations in the RAS family as well as c-Myc alterations, may independently predict progression risk24. Moreover, the transition process from SMM to MM could also involve growth of preexisting clones due to a more permissive bone marrow micro-environment25,26. The current study also does not factor in other demographic factors such as race as the numbers were insufﬁcient to explore this. In summary, our study identiﬁes a subgroup of SMM patients with 50% progression risk at 2 years from diagnosis based on the presence of two or three factors among M-protein (>2 g/dL), BMPC inﬁltration (>20%), or the ratio of involved versus uninvolved sFLC (>20). This model is easily reproducible and available worldwide, could be used to identify high-risk SMM patients in the context of clinical research, and will contribute in the near future to be able to offer early treatment to a more homogeneous subgroup of SMM patients. Availability of",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e"
+}

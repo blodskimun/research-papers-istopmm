@@ -1,0 +1,326 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:44:11.061692+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Impact of COVID-19 pandemic on utilisation of healthcare services: a systematic review",
+        "year": null
+      },
+      "doi": "10.1136/bmjopen-2020-045343",
+      "format": "pdf",
+      "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+      "url": "https://doi.org/10.1136/bmjopen-2020-045343"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p1",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\nTo cite: Moynihan R, Sanders S, Michaleff ZA, et al. Impact of COVID-19 pandemic on utilisation of healthcare services: a systematic review. BMJ Open 2021;11:e045343. doi:10.1136/ bmjopen-2020-045343\n\n► ►Prepublication history and supplemental material for this paper is available online. To view these files, please visit the journal online (http://​dx.​doi.​ org/​10.​1136/​bmjopen-​2020-​ 045343).\n\nReceived 29 September 2020 Revised 21 December 2020 Accepted 02 February 2021\n\n© Author(s) (or their employer(s)) 2021. Re-­use permitted under CC BY-­NC. No commercial re-­use. See rights and permissions. Published by BMJ.\n\nFor numbered affiliations see end of article.\n\nCorrespondence to Mr Ray Moynihan; ​raymoynihan@​bond.​edu.​au\n\nOriginal research\n\nImpact of COVID-19 pandemic on utilisation of healthcare services: a systematic review\n\nRay Moynihan ‍ ‍ ,1 Sharon Sanders,1 Zoe A Michaleff ‍ ‍ ,1 Anna Mae Scott ‍ ‍ ,1 Justin Clark,1 Emma J To,2 Mark Jones,1 Eliza Kitchener,3 Melissa Fox,4 Minna Johansson,5 Eddy Lang ‍ ‍ ,2 Anne Duggan,6 Ian Scott ‍ ‍ ,7 Loai Albarqouni ‍ ‍ 1\n\nABSTRACT Objectives To determine the extent and nature of changes in utilisation of healthcare services during COVID-19 pandemic. Design Systematic review. Eligibility Eligible studies compared utilisation of services during COVID-19 pandemic to at least one comparable period in prior years. Services included visits, admissions, diagnostics and therapeutics. Studies were excluded if from single centres or studied only patients with COVID-19. Data sources PubMed, Embase, Cochrane COVID-19 Study Register and preprints were searched, without language restrictions, until 10 August, using detailed searches with key concepts including COVID-19, health services and impact. Data analysis Risk of bias was assessed by adapting the Risk of Bias in Non-­randomised Studies of Interventions tool, and a Cochrane Effective Practice and Organization of Care tool. Results were analysed using descriptive statistics, graphical figures and narrative synthesis. Outcome measures Primary outcome was change in service utilisation between prepandemic and pandemic periods. Secondary outcome was the change in proportions of users of healthcare services with milder or more severe illness (eg, triage scores). Results 3097 unique references were identified, and 81 studies across 20 countries included, reporting on >11 million services prepandemic and 6.9 million during pandemic. For the primary outcome, there were 143 estimates of changes, with a median 37% reduction in services overall (IQR −51% to −20%), comprising median reductions for visits of 42% (−53% to −32%), admissions 28% (−40% to −17%), diagnostics 31% (−53% to −24%) and for therapeutics 30% (−57% to −19%). Among 35 studies reporting secondary outcomes, there were 60 estimates, with 27 (45%) reporting larger reductions in utilisation among people with a milder spectrum of illness, and 33 (55%) reporting no difference. Conclusions Healthcare utilisation decreased by about a third during the pandemic, with considerable variation, and with greater reductions among people with less severe illness. While addressing unmet need remains a priority, studies of health impacts of reductions may help health systems reduce unnecessary care in the postpandemic recovery. PROSPERO registration number CRD42020203729.\n\nStrengths and limitations of this study\n\n► ►The review is the first broad synthesis of global studies of pandemic-­related changes in utilisation across all categories of healthcare services. ► ►The review provides novel findings informing design of future studies of pandemic-­related changes in utilisation and its impacts. ► ►Limitations include the possibility of publication bias and the potential of our eligibility criteria to exclude important data sources such as studies in single centres and unpublished data sets from health systems. ► ►Heterogeneous designs and settings precluding meta-­analysis.\n\nINTRODUCTION As the COVID-19 pandemic continues, many studies have reported major changes in utilisation of healthcare services because of such measures as lockdowns and stay-­at-­home orders.1–3 These changes include large reductions in services, particularly in places hit hard by the pandemic, but also some selective increases, such as for telemedicine.4 Many people have missed out on much needed care, such as vaccination or life-­extending interventions for cancer.2 5 6 A WHO survey found disruption to healthcare services greatest among lower income countries,7 and there are estimates that reduction of essential maternal and child health interventions may cause more than a million additional child deaths.8 Concurrently, the pandemic may also have resulted in some people being spared unnecessary or inappropriate care which has the potential to cause harm.9 10 The problem of too much medicine is well documented,11–17 and multiple global campaigns are addressing this challenge, such as Choosing Wisely, which is active in more than 20 countries.18 As some nations are forced to\n\n1 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p10",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\n22 Beller EM, Glasziou PP, Altman DG, et al. PRISMA for Abstracts: reporting systematic reviews in Journal and conference Abstracts. PLoS Med 2013;10:e1001419. 23 Sterne JA, Hernán MA, Reeves BC, et al. ROBINS-­I: a tool for assessing risk of bias in non-­randomised studies of interventions. BMJ 2016;355:i4919. 24 Higgins JPT, Thomas J, Chandler J, eds. Cochrane handbook for systematic reviews of interventions, version 6.0 (updated July 2019). London: Cochrane, 2019. 25 Cochrane Effective Practice and Organisation of Care (EPOC). Suggested risk of bias criteria for EPOC reviews. EPOC resources for review authors, 2017. Available: ​Epoc.​cochrane.​org/​resources/​epoc-​ resources-​review-​authors 26 Campbell M, McKenzie JE, Sowden A, et al. Synthesis without meta-­analysis (swim) in systematic reviews: reporting guideline. BMJ 2020;368:l6890. 27 Mafham MM, Spata E, Goldacre R, et al. COVID-19 pandemic and admission rates for and management of acute coronary syndromes in England. Lancet 2020;396:381–9. 28 Naidich JJ, Boltyenkov A, Wang JJ, et al. Impact of the Coronavirus Disease 2019 (COVID-19) Pandemic on Imaging Case Volumes. J Am Coll Radiol 2020;17:865-872. 29 Norbash AM, Moore AV, Recht MP, et al. Early-­Stage radiology volume effects and considerations with the coronavirus disease 2019 (COVID-19) pandemic: adaptations, risks, and lessons learned. J Am Coll Radiol 2020;17:1086–95. 30 Pignon B, Gourevitch R, Tebeka S, et al. Dramatic reduction of psychiatric emergency consultations during lockdown linked to COVID-19 in Paris and suburbs. Psychiatry Clin Neurosci 2020;74:557–9. 31 Secco GG, Zocchi C, Parisi R, et al. Decrease and delay in hospitalization for acute coronary syndromes during the 2020 SARS-­ CoV-2 pandemic. Can J Cardiol 2020;36:1152–5.\n\n32 Santana R, Sousa JS, Soares P, et al. The demand for hospital emergency services: trends during the first month of COVID-19 response. Port J Public Health 2020;38:30–6. 33 Marijon E, Karam N, Jost D, et al. Out-­Of-­Hospital cardiac arrest during the COVID-19 pandemic in Paris, France: a population-­based, observational study. Lancet Public Health 2020;5:e437–43. 34 Perlini S, Canevari F, Cortesi S, et al. Emergency department and out-­of-­hospital emergency system (112-­AREU 118) integrated response to coronavirus disease 2019 in a northern Italy centre. Intern Emerg Med 2020;15:825–33. 35 Schriger DL. Learning from the decrease in US emergency department visits in response to the coronavirus disease 2019 pandemic. JAMA Intern Med 2020;180:1334–5. 36 Scaramuzza A, Tagliaferri F, Bonetti L, et al. Changing admission patterns in paediatric emergency departments during the COVID-19 pandemic. Arch Dis Child 2020;105:704.2–6. 37 Auener S, Kroon D, Wackers E, et al. COVID-19: a window of opportunity for positive healthcare reforms. Int J Health Policy Manag 2020;9:419–22. 38 Health Consumers Queensland. Priority Queensland populations, 2020. Available: http://www.​hcq.​org.​au/​wp-​content/​uploads/​2020/​ 06/​HCQ-​consumer-​consultation-​Priority-​QLD-​Populations.​pdf 39 Health Consumers Queensland. Re-­balancing the health system: consumer perspectives, 2020. Available: http://www.​hcq.​org.​au/​ wp-​content/​uploads/​2020/​04/​Re-​balancing-​the-​health-​system-​ summary-​for-​consumers.​pdf 40 Woodward G, Stukel T, Schull M. Utilization of Ontario’s health system during the 2003 SARS outbreak. Institute for clinical evaluative sciences, 2004. Available: https://www.​ices.​on.​ca/​flip-​ publication/​Utilization-​of-​Ontarios-​Health-​System-​During-​the-​2003-​ SARS-​Outbreak/​files/​assets/​basic-​html/​index.​html#1 41 Chu D, Chen R-­C, Ku C-­Y, et al. The impact of SARS on hospital performance. BMC Health Serv Res 2008;8:228.\n\n10 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p2",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\ndo more with less in the postpandemic period, learning from this ‘natural experiment’ in reduced care may help health systems identify and address unnecessary care, and move towards greater sustainability.9 10\n\nInvestigating the impact of changes in healthcare utilisation on health outcomes and costs presents major methodological challenges. First, there are many reasons why people have missed care, including fear of becoming infected while visiting a care facility, inability to access care due to lockdown policies and suspension and cancella-tion of services such as elective surgery. Second, disentan-gling populations who have missed necessary care from those who have avoided unnecessary care requires sensi-tive and nuanced analysis, with adjustment for multiple potentially confounding variables. For instance, simply showing no adverse outcomes in the short term from missing an episode of care does not prove it was unnecessary. Notwithstanding these challenges, quantifying and characterising the unprecedented recent changes in utilisation, and their impact on health outcomes and costs, may help health systems optimise postpandemic use of resources. To this end, we conducted what is, to our knowl-edge, the first systematic review of studies reporting on pandemic-­related changes in overall healthcare utilisation. In undertaking this review, we also sought to inform and optimise the design of future investigations of both the ongoing changes in utilisation, and the impacts of this natural experiment with less care on health outcomes and costs.\n\nMETHODS As per a detailed protocol registered on PROSPERO19 and uploaded to the Open Science Framework20 (online supplemental file 1) we found, appraised and synthesised studies that compared healthcare utilisation during the COVID-19 pandemic with a corresponding prepandemic period. Our abstract and full review follow the Preferred Reporting Items for Systematic Reviews and Meta-­Analyses (PRISMA) statements21 22 (online supplemental file 2).\n\nEligibility criteria and search strategy Inclusion and exclusion criteria We included studies which compared utilisation of healthcare services over a period of time during the pandemic, as defined by their authors (the intervention) with a corresponding period in the year/s before the pandemic (the comparator). Healthcare service utilisation included but was not limited to visits or presentations, admissions or hospitalisations, diagnostic services and therapeutic or preventive interventions. Letters or preprints were included if providing enough data for extraction. We excluded surveys of practitioners, studies reporting only on utilisation by patients diagnosed with COVID- 19, studies reporting utilisation data for less than 1 week, from a single centre only, or for non-­medical allied health\n\nservices, and modelling studies that predicted impacts on utilisation.\n\nOutcome measures The primary outcome was the change in utilisation of a healthcare service—such as a visit to a hospital or receipt of diagnostic imaging—between the prepandemic and pandemic periods, expressed as a change in absolute numbers and/or percentage change. The secondary outcome was change in the proportions of people using the service, across different levels of disease severity, as reported by authors of the primary study, using, for example, a triage score.\n\nData sources, searches and screening We searched PubMed, Embase, the Cochrane COVID-19 Study Register and preprint servers via Europe PMC from inception until 10 August 2020, with search strings that included the following broad concepts: COVID-19, health services, admissions and impact (online supplemental file 3). No restrictions by language were imposed. Following screening of articles for inclusion, we conducted a backward (cited) and forward (citing) citation analysis in Scopus/Web of Science on all included studies, and additional articles were screened for inclusion. We also consulted experts for other public reports. Pairs of review authors (RM, SS, ZAM, AMS, JC, EK, EJT, LA) independently screened the titles and abstracts against the inclusion criteria, and repeated the process following full-­text retrieval. Any screening disagreements were resolved by discussion, or reference to a third author (RM or LA). A list of studies in single centres, excluded at screening stage, was recorded and is available on request from authors.\n\nData collection and analysis Data extraction Pairs of authors (RM, SS, ZAM, AMS, EJT, LA) independently extracted data from included studies and resolved discrepancies, with referral, as necessary, to a third author (LA, RM). We developed, piloted and used a data extraction form in Microsoft Excel for study characteristics and outcome data. We extracted data on study location, design, setting (eg, hospital), pandemic period and comparator, and primary and secondary outcomes. Pairs of review authors (RM, SS, ZAM, AMS, LA, EJT) independently assessed the risk of bias for each included study using a risk of bias tool adapted from the Risk of Bias in Non-­randomized Studies of Interventions tool23 24 as per guidance provided by Cochrane for assessing risk of bias in uncontrolled before-­after studies including interrupted time series,23 and a tool developed by the Cochrane Effective Practice and Organization of Care group.25 All disagreements were resolved by discussion or referral to a third author (RM, LA, SS). The domains assessed included bias related to: confounding ((A) the possibility that extraneous events occurring around the time of the pandemic may have influenced the outcome,\n\n2 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p3",
+        "source_issue_ids": [],
+        "text": "(B) how well the study accounted for preintervention trends in utilisation); selection of participants; outcome measurement; and selective reporting of results (online supplemental file 4). Each potential source of bias was graded as low, high or unclear, with the exception of grading for the preintervention trends, which was graded as low, moderate or high.\n\nData synthesis and analysis As anticipated in the protocol, the considerable clinical and statistical heterogeneity in settings, outcome measures and methods precluded a formal quantitative meta-­analysis. Hence, we summarised the results using descriptive statistics (percentage change expressed as median and IQR), graphical figures and a narrative synthesis. In line with the ‘Synthesis without meta-­analysis (SWiM) in systematic reviews: reporting guideline’,26 we summarised findings for the primary outcome grouped by four service types: visits or presentations; admissions or hospitalisations; diagnostic or imaging investigations; and therapeutic or preventive interventions. For the secondary outcome, given the wide variation in how severity was reported in the primary studies, we developed and report three categories which relied on the indicators of disease severity employed by primary study authors: a larger or smaller reduction among those with milder forms of illness, compared with people with more severe forms of illness; and no difference. An example of a secondary outcome for a study of emergency department (ED) visits would be the triage scores, used to assess severity of those attending. Two authors (RM, LA) independently assigned a category for each secondary outcome, informed where possible by statistics provided in primary studies, with oversight and resolution of any discrepancies from within the clinical authorship team (IS, EL, MiJ). As per details in the protocol, we planned to conduct a limited meta-­analysis and sensitivity analysis in situations where there was a sufficient number of clinically and statistically homogeneous studies. Also, as per protocol, we restricted our analysis to data in the primary studies, rather than correlating findings with external information, such as stages of lockdown.\n\nPatient and public involvement The most senior officer from a state peak consumer health organisation is a coauthor on this review and was involved in the study before the protocol was finalised. The consumer representative provided feedback on the protocol and draft manuscripts, was consulted during the process of the review, was involved with interpretation of results and will advise on methods for dissemination of study results to the public.\n\nChanges from protocol Several minor changes comprised: during data extraction we could not confidently assess whether each used service was not provided or just deferred; finalisation of the\n\nOpen access\n\nadapted tool for risk of bias resulted in five domains, not six (two domains related to outcome measurement were combined), with one domain assessed as low, moderate, high, rather than unclear, low and high, with each grade supported by a comment; and given the very large number of included studies, we included data from studies reporting only a percentage change in service utilisation, without contacting authors requesting the absolute numbers.\n\nRESULTS Study selection We identified 4817 records through electronic database searching, 323 more through forward-­backward citation analysis and 1 from other sources, for a total of 3097 unique records. After screening titles and abstracts, we excluded 2929 records, and selected 179 records for full-­ text screening, of which 98 were excluded with reasons recorded. This left 81 studies which were included in the review (figure 1).\n\nCharacteristics of included studies The 81 included studies collectively report on more than 6.9 million services in the pandemic and over 11 million in the comparator prepandemic period. Studies reported across multiple locations: 3 were multinational; 20 origi-nated from the USA; 15 from Italy; 8 from France; 6 from Germany; 5 from the UK; 3 from Spain; 2 from each of Taiwan, Hong Kong, Greece, Denmark, Qatar, Australia; and 1 from each of Argentina, China, Canada, Brazil, Belgium, Chile, Monaco, Turkey and Portugal. Four studies were from low-­income or middle-­income countries. The healthcare setting was: hospitals only (41; 51%); both ED and hospitals (12; 15%); ED only (15; 19%); and primary care and/or community (9; 11%). More than one-­third of studies reported on healthcare services related to cardiovascular diseases (n=33; 41%); 14 (17%) to emergency services; 12 (15%) to general services such as immunisation and primary care; and 22 (27%) on services related to different conditions including orthopaedic and trauma services, gastroenterology and mental health. Of the included studies, 14 (17%) were national studies and 9 (11%) used time-­trend data (table 1; online supplemental file 5).\n\nRisk of bias assessment For the majority of studies there was insufficient information on which to judge the possibility that extraneous events occurring between prepandemic and pandemic periods may have influenced healthcare utilisation, or to assess the risk of bias arising from differences between those eligible to use healthcare services in the prepandemic and pandemic periods (76/81; 94%). Sixty-­nine per cent (56/81) of studies were considered to be at high risk of bias due to insufficient data for characterising prepandemic utilisation. In contrast, 3 (4%) studies were judged to be at low risk of bias on this domain due to\n\n3 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p4",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\nFigure 1 Preferred Reporting Items for Systematic Reviews and Meta-­Analyses (PRISMA) flow diagram.\n\nadequate data and analysis to permit characterisation of prepandemic trends in utilisation. Sixty-­three per cent (51/81) of studies were judged to be at high or unclear risk of bias from using different methods used to assess utilisation in the prepandemic and pandemic periods, or lacking information on which to judge this domain. Most studies (n=74; 91%) were judged to be at low risk of bias in selective reporting of results (figure 2).\n\nMain findings The 81 studies reported 143 estimates of changes in healthcare utilisation between pandemic and prepandemic periods, of which 136 (95.1%) were a reduction. The percentage change ranged from a 49% increase to an 87% decrease with a median 37.2% reduction (IQR −50.5% to −19.8%). For the 64 estimates about changes in cardiovascular service utilisation, from 33 studies, the median reduction was 29.3% (−41.3% to −17%). For the 13 estimates from the nine studies using time-­ trend data, the median reduction was 37.3% (−45% to −25.2%). For all studies, the weekly median percentage changes starting from mid-­February until late May 2020\n\nare plotted graphically in figure 3, showing greatest reductions through March and April (full data in online supplemental file 5). We categorised the 143 estimates of change into four groups according to the type of healthcare service: 41 estimates for healthcare visits; 43 estimates for admissions; 12 estimates for diagnostics (eg, imaging, pathology, screening investigations); and 47 estimates for therapeutics (eg, surgery, vaccinations). All medians are reported in table 2, with results of individual studies reported in online supplemental file 5.\n\nChanges in visits The percentage change for healthcare visits or presentations ranged from a 49% increase to an 86% decrease, with a median 42.3% reduction (−52.8% to −31.5%). Major reductions in visits to EDs were seen in multiple studies, such as a large national US study from the Centers for Disease Control and Prevention reporting a 42% reduction during April, rising to a 26% reduction at the end of May, compared with 2019.1 That study found the largest absolute reduction involved people\n\n4 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p5",
+        "source_issue_ids": [],
+        "text": "Table 1 Summary characteristics of included studies (n=81)\n\nCharacteristics of included studies n (%)\n\nScope\n\n\u0007National 14 (17)\n\n\u0007Multicentre 67 (83)\n\nDisease categories\n\n\u0007Cardiovascular 33 (41)\n\n\u0007Emergency services (adult and paediatric) 14 (17)\n\n\u0007General (including vaccination and hospice) 12 (15)\n\n\u0007Digestive 5 (6)\n\n\u0007Orthopaedic and trauma 5 (6)\n\n\u0007Others (eg, mental health, urology, neurology) 12 (15)\n\nSetting\n\n\u0007Hospitals (or inpatient care) 41 (51)\n\n\u0007Emergency 15 (19)\n\n\u0007Emergency and hospital 12 (15)\n\n\u0007Community and/or outpatient 9 (11)\n\n\u0007Hospital and outpatient 4 (5)\n\nStudy design*\n\n\u0007Time trend\n\n\u0007Time trend—multiple prior year 5 (6)\n\n\u0007Time trend—single prior year 4 (5)\n\n\u0007Same period (before–after)\n\n\u0007Same period—multiple prior year 16 (20)\n\n\u0007Same period—single prior year 56 (69)\n\nCountry\n\n\u0007Multinational 3 (4)\n\n\u0007Americas 24 (30)\n\n\u0007Europe 45 (56)\n\n\u0007Asia and Australia 9 (11)\n\n*This refers to the type of data used in included studies rather than the type of analysis.\n\nOpen access\n\npresenting with abdominal pain, with over 66 000 fewer ED visits per week for this complaint during April. In terms of age group, the largest reduction (−72%) was seen for children 10 years and under.1 A meta-­analysis\n\nof a subgroup of six studies of ED visits that reported adequate data for meta-­analysis (effect estimates and 95% CIs) was attempted, but demonstrated considerable heterogeneity (I2>95%).\n\nFigure 2 Summary of risk of bias assessments.\n\n5 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p6",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\nFigure 3 Pandemic-­related changes in healthcare utilisation.\n\nChanges in admissions The percentage change in the number of admissions ranged from a 20% increase to an 87% decrease, with a median 28.4% reduction (−40.4% to −17.4%). For example, a large study of the weekly admission rates for acute coronary syndrome in England showed a substan-tial reduction by the end of March (−40%) which partly rebounded by the last week of May 2020 (−16%).27\n\nChanges in diagnostics The percentage reduction ranged from 10% to 85%, with a median 31.4% reduction (−52.5% to −23.8%); no study reported any increase in the use of diagnostic and imaging procedures. The magnitude of reductions in diagnostic tests and imaging followed a trend over time similar to those observed in the previous categories, but with a far smaller number of estimates (see online supplemental files 4 and 5). For example, a study of imaging case volumes within the largest healthcare system in New York State found a 28% reduction in imaging volumes for March to mid-­April 2020 across all locations and imaging modalities,28 while a separate US study found volumes recovering through late April, but still 36% lower in the third week of May, compared with 2019.29\n\nChanges in therapeutics The percentage change in therapeutic and preventive care ranged from a 27% increase to an 80% decrease, with a median 29.6% reduction (−56.8% to −19.2%). For example, a large study of routine childhood vaccination in England found fewer children receiving the first measles-­mumps-­rubella dose, with a reduction of 24% in the final week of March, which rose to a 27% increase in the third week of April, compared with the same period in 2019.5\n\nSecondary outcome Thirty-­eight of the included studies reported a total of 60 secondary outcomes relating to potential changes in healthcare utilisation according to the disease severity of the service user. Despite the considerable heterogeneity in settings and services, for almost half of these outcomes (27 of 60; 45%), we observed a pattern of larger reductions in utilisation among those with milder or less severe illness compared with those with more severe disease. For 33 of 60 outcomes (55%) there was no difference (figure 4). No studies reported a smaller reduction among those with milder forms of illness. A national Italian study of urgent endoscopy reported a 40% reduction in utilisation overall, with bigger reductions in the proportion of patients with a negative finding\n\n6 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p7",
+        "source_issue_ids": [],
+        "text": "Open access\n\nTable 2 Median changes in utilisation across categories of healthcare services\n\nHealthcare service Number of estimates (number of studies) Total volume of services (pandemic and comparator)\n\nMedian change (%) IQR\n\nTotal 143 (81) 19 808 921 (P: 6 948 834; C: 11 102 936) −37.2 −50.5% to −19.8%\n\nHealthcare services categories*\n\n\u0007Visits 41 (33) 14 090 495 (P: 4 631 899; C: 7 723 639) −42.3 −52.8% to −31.5%\n\n\u0007Admissions 43 (32) 1 690 021 (P: 749 942; C: 939 737) −28.4 −40.4% to −17.4%\n\n\u0007Diagnostics 12 (7) 1 692 388 (P: 640 885; C: 1 051 503) −31.4 −52.5% to −23.8%\n\n\u0007Therapeutics 47 (28) 2 336 017 (P: 926 108; C: 1 388 057) −29.6 −56.8% to −19.2%\n\nDisease categories\n\n\u0007CVD 64 (33) 2 586 270 (P: 1 166 610; C: 1 400 041) −29.3 −41.3% to −17.0%\n\n\u0007Emergency services 17 (14) 10 572 517 (P: 3 252 399; C: 5 585 161) −44.0 −48.0% to −31.5%\n\nStudy design and data \u0007Studies using time-­trend data 13 (9) 6 263 331 (P 1 974 605; C: 3 425 412) −37.3 −45.0% to −25.2%\n\n*Each study could have included services across multiple categories. In order to calculate the total volume of healthcare services, we used numbers as reported in the primary studies, whenever available. If not explicitly reported, we estimated these numbers using data plotted in the figures reported in the primary studies, when available. For studies that have not reported these absolute numbers anywhere—but only reported a percentage change—their services have not been included in these totals. In addition, there will be some discrepancy between the total numbers, and the sum of pandemic and prepandemic periods, because in some cases, a study may have included a total number of services, but without breaking it down into any absolute numbers for the pandemic or prepandemic period. C, comparator prepandemic period; CVD, cardiovascular disease; P, pandemic period.\n\non upper endoscopy between prepandemic and pandemic periods.3 A study of three psychiatric emergency services in Paris found a 55% overall reduction in presentations in the first 4 weeks of lockdown, with greater reductions for consultations for anxiety and stress, and smaller reductions for consultations for psychotic disorders.30 Authors speculated that ‘some people may find new strengths and coping strategies during disasters’ and ‘the current\n\nresults may arise from an elevation in resilience’. Most strikingly, multiple studies reporting reduced acute coronary syndrome presentations found these reductions were much greater for the less severe non-­ST-­segment elevation myocardial infarction (NSTEMI) events compared with ST-­segment elevation myocardial infarc-tions (STEMIs).27 31 An example is a large English study reporting reductions in admissions of 42% for NSTEMI events versus 23% for STEMI.27 In contrast, other studies found no change in presentations according to severity, including a national Portuguese study reporting a 48% reduction in ED episodes—from an expected 570 000 to an observed 295 000 in March 2020—but no significant change in proportions of different triage categories.32\n\nFigure 4 Differential reductions in utilisation relating to severity.\n\nDISCUSSION This review of 81 studies involving over 17.9 million services provided across 20 countries found consistent evidence of major reductions in the utilisation of healthcare services during the pandemic period up to May 2020, compared with previous years, despite some studies reporting increases. Although a meta-­analysis was not possible, we found a median reduction of 37% of services\n\n7 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p8",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\noverall, which was highest for visits (42%) and slightly lower for admissions (28%), diagnostics (31%) and therapeutics (30%). Many studies also found larger reductions in utilisation among populations with milder or less severe illness. Few studies were assessed as having a low risk of bias, with lowest risk of bias for studies using time-­ trend data to establish trends in the years leading up to 2020. For the nine studies using time trends, the median reduction in utilisation was 37%. Our review has several strengths. First, we synthesised the most recent data reported in primary studies up to the end of May 2020, which corresponds to the peak of the pandemic in many countries, and provides a baseline for longer term data on ongoing changes in utilisation and the cumulative deficit of care. Second, the review constitutes the first broad synthesis of global studies of pandemic-­related changes in utilisation across all categories of healthcare services. Third, the review adhered to rigorous Cochrane,24 PRISMA21 22 and SWiM26 standards. Study limitations include the inability to undertake a meta-­analysis because of considerable heterogeneity, the possibility of publication bias, the potential of our eligibility criteria to exclude important data sources such as studies in single centres and unpublished data sets from health systems, subjectivity in our assessments of the secondary outcomes and the use of an adapted but unval-idated risk of bias tool. The massive global reduction in healthcare utilisation summarised in this review makes a compelling case for prioritising efforts that address the unmet needs of those with non-­COVID-19 illness. Consistent messages from the primary studies include calls for monitoring the long-­term impacts of this missed care, public campaigns to urge people to seek medical care when they need it and better preparedness for reducing the extent of missed care in future waves of the pandemic. Evidence of excess population mortality, in addition to deaths from COVID-19, and related phenomena such as increases in out-­of-­hospital cardiac arrests and contacts with emergency phone lines33 34 make these calls to action even more urgent. Conversely, the review’s finding that reductions often tended to be greater for milder or less severe forms of illness, combined with existing evidence about too much medicine,11–17 suggests that for some people, missing care may not have caused harm. This unprecedented pandemic-­induced natural experiment in reduced healthcare utilisation provides a genuine opportunity to learn more about what services populations and healthcare systems came to regard as lesser priorities, when redistribution of resources towards more essential services was needed to minimise mortality in a crisis. As others have suggested,35 36 greatly reduced ED attendances around the world for non-­urgent complaints indicate an opportunity to inform and imple-ment new strategies and models of care that maximise the appropriateness of visits in the future. Even at the heart and height of the epidemic in Northern Italy, in paediatric EDs doctors found reductions in the mildest\n\nBox 1 Future research\n\n► ►For future studies of changes in healthcare utilisation during the pandemic Aim for time-­series analyses; multiple years prepandemic as comparator. Aim to detect impacts on equity, such as different groups differentially affected. Need to cautiously interpret drivers and impacts of changes. Aim to analyse local, provincial and national data sets. Consider potential for multinational research collaborations with health systems. ► ►For future studies of impacts of the ‘natural experiment’ in reduced care Aim for long-­term cohort studies, with focus on specific conditions, or interventions. Seek strong clinical, patient and public input, independence of commercial interests. Qualitative analyses with patients and public on reasons for and impacts of missing care. ► ►For those interested in opportunity to address problem of too much medicine Studies of pandemic-­related changes in rates of overtreatment and overdiagnosis. Urgent need to learn from ‘natural experiment’ before rates return to prior levels. Correlate condition-­specific granular analyses, with existing data on medical overuse. Consider using pandemic learnings to guide trials of deimplemen-tation strategies. Consider potential researcher–clinician–consumer–health system collaborations.\n\npresentations accounted for more of the decrease in overall presentations, suggesting that ‘most of the non-­ relevant pathologies usually seen at our EDs have been avoided’, thus freeing resources to ‘provide critical services to patients suffering from medical emergencies in a timely manner’.36 Our review adds weight to the view that the postpandemic recovery provides a rare window of opportunity for systematic changes in healthcare systems aimed at reducing low-­value care, including overtreatment and overdiagnosis.9 10 37\n\nMany questions about the causes and impacts of the changes in healthcare utilisation documented in our review call for careful analysis and further research (see box 1). High-­quality time-­trend analyses are needed to better understand the extent and nature of ongoing changes in utilisation, as are long-­term cohort studies for collecting patient-­centred outcomes to assess impacts on health, costs and equity. Consultations with consumers during the pandemic highlight the need to understand how the pandemic may differentially impact the most vulnerable, and the need to prioritise those at most need.38 39 Rigorous qualitative research investigating people’s experience of avoiding or missing care, and professional responses to changes in process and practice, will also be important. We found no study which explicitly examined changes in utilisation of low-­value healthcare\n\n8 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2020-045343",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_sha256": "5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+          "source_url": "https://doi.org/10.1136/bmjopen-2020-045343"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e:p9",
+        "source_issue_ids": [],
+        "text": "services, which warrants further research. The extent and effects of substitution, such as with telehealth or self-­care, also require investigation. Experience with severe acute respiratory syndrome almost 20 years ago revealed significant drops in healthcare service utilisation in the most affected regions40 and long periods before some rates returned to baseline.41 Given the growing evidence about unnecessary care since then, it may be more beneficial for populations and their health systems if utilisation rates of some services do not return to prepandemic levels. Addressing genuine unmet need and winding back the harm and waste of unnecessary care are not conflicting interests, but rather two sides of a coherent strategy to efficiently improve human health.\n\nAuthor affiliations 1Institute for Evidence-­Based Healthcare, Bond University, Gold Coast, Queensland, Australia 2Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada 3Faculty of Medicine, Dentistry and Health, Griffith University, Brisbane, Queensland, Australia 4Health Consumers Queensland, Adelaide, Queensland, Queensland 5Cochrane Sustainable Healthcare Field, Lund, Sweden 6Australian Commission on Safety and Quality in Healthcare, Sydney, New South Wales, Australia 7Internal Medicine and Clinical Epidemiology, Princess Alexander Hospital, Brisbane, Queensland, Australia\n\nTwitter Loai Albarqouni @lnb6des\n\nAcknowledgements Thanks to Paul Glasziou, Kim Sutherland and Karsten Jorgensen for comments on a draft of this manuscript.\n\nContributors Conception/design: RM, LA, SS, ZAM, AMS, JC, MaJ, MiJ. Acquisition, analysis or interpretation of data: RM, SS, ZAM, AMS, JC, EJT, MaJ, EK, MF, MiJ, EL, AD, IS, LA. First draft of the manuscript: RM, LA. Manuscript drafting, revision, approval: RM, SS, ZAM, AMS, JC, EJT, MaJ, EK, MF, MiJ, EL, AD, IS, LA. Overall guarantors: RM, LA. The guarantor accepts full responsibility for the work and/or the conduct of the study, had access to the data and controlled the decision to publish.\n\nFunding RM is funded by an Australian National Health and Medical Research Council (NHMRC fellowship grant number 1124207), and is a chief investigator of NHMRC Centre for Research Excellence (grant number 1104136).\n\nDisclaimer All authors write as individuals and do not necessarily represent the views of their employers or affiliated organisations.\n\nCompeting interests RM has helped organise the Preventing Overdiagnosis international scientific conferences.\n\nPatient consent for publication Not required.\n\nProvenance and peer review Not commissioned; externally peer reviewed.\n\nData availability statement All data relevant to the study are included in the article or uploaded as supplemental information. We have provided all data about all included studies, and a list of those studies, in the supplemental files.\n\nSupplemental material This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-­reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.\n\nOpen access This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-­commercially, and license their derivative works on different terms, provided the original work is\n\nOpen access\n\nproperly cited, appropriate credit is given, any changes made indicated, and the use is non-­commercial. See: http://​creativecommons.​org/​licenses/​by-​nc/​4.​0/.\n\nORCID iDs Ray Moynihan http://​orcid.​org/​0000-​0001-​9283-​742X Zoe A Michaleff http://​orcid.​org/​0000-​0002-​0360-​4956 Anna Mae Scott http://​orcid.​org/​0000-​0002-​0109-​9001 Eddy Lang http://​orcid.​org/​0000-​0003-​0850-​4337 Ian Scott http://​orcid.​org/​0000-​0002-​7596-​0837 Loai Albarqouni http://​orcid.​org/​0000-​0002-​4114-​9106\n\nREFERENCES 1 Hartnett KP, Kite-­Powell A, DeVies J. National syndromic surveillance program community of practice. impact of COVID-19 pandemic on emergency department visits—United states, January 1, 2019–May 30, 2020. MMWR Morb Mortal Wkly Rep 2020:699–704. 2 Baum A, Schwartz MD. Admissions to Veterans Affairs hospitals for emergency conditions during the COVID-19 pandemic. JAMA 2020;324:96–9. 3 Salerno R, Conti CB, De Silvestri A, et al. The impact of covid-19 pandemic on urgent endoscopy in Italy: a nation-­wide multicenter study. Scand J Gastroenterol 2020;55:870–6. 4 Mann DM, Chen J, Chunara R, et al. COVID-19 transforms health care through telemedicine: evidence from the field. J Am Med Inform Assoc 2020;27:1132–5. 5 McDonald HI, Tessier E, White JM, et al. Early impact of the coronavirus disease (COVID-19) pandemic and physical distancing measures on routine childhood vaccinations in England, January to April 2020. Euro Surveill 2020;25:pii=2000848. 6 Maringe C, Spicer J, Morris M, et al. The impact of the COVID-19 pandemic on cancer deaths due to delays in diagnosis in England, UK: a national, population-­based, modelling study. Lancet Oncol 2020;21:1023–34. 7 World health Organization. Pulse survey on continuity of essential health services during the COVID-19 pandemic interim report. WHO reference number: WHO/2019-­nCoV/EHS_continuity/survey/. 1. Geneva: World health Organization, 2020. 8 Roberton T, Carter ED, Chou VB, et al. Early estimates of the indirect effects of the COVID-19 pandemic on maternal and child mortality in low-­income and middle-­income countries: a modelling study. Lancet Glob Health 2020;8:e901–8. 9 Sorenson C, Japinga M, Crook H. Building a better health care system Post-­Covid-19: steps for reducing low-­value and Wasteful care. NEJM Catalyst 2020;1. 10 Moynihan R, Johansson M, Maybee A, et al. Covid-19: an opportunity to reduce unnecessary healthcare. BMJ 2020;370:m2752. 11 Morgan DJ, Dhruva SS, Coon ER. Update on medical overuse: a review. JAMA Intern Med 2019;2019:1568–74. 12 Berwick DM, Hackbarth AD. Eliminating waste in US health care.\n\nJAMA 2012;307:1513–6. 13 OECD. Tackling Wasteful spending on health. Paris: OECD Publishing, 2017. 14 Canadian Institute for Healthcare Information. Unnecessary care in Canada: infographic, 2017. Available: https://www.​cihi.​ca/​en/​ unnecessary-​care-​in-​canada-​infographic 15 Glasziou P, Moynihan R, Richards T, et al. Too much medicine; too little care. BMJ 2013;347:f4247. 16 Pathirana T, Wang Yu M, Martiny F. Drivers and potential solutions for overdiagnosis: perspectives from the low and middle income countries. BMJ Evidence-­Based Medicine 2019;24:A6–7. 17 Armchair Medical TV. Laragh gollogly: official welcome. preventing overdiagnosis international scientific Conference, Sydney, 5-7 Dec 2019, 2019. Available: https://www.​armchairmedical.​tv/​media/​Official+​Welcome+ Fiona+Godlee+BMJ+%26+Laragh+Gollogy+WHO/0_ lt786rva/146828052 Accessed September 15, 2020 18 Born K, Kool T, Levinson W. Reducing overuse in healthcare: advancing choosing wisely. BMJ 2019;367:l6317. 19 Moynihan R, Sanders S, Michaleff Z. Pandemic changes in healthcare utilisation: a protocol for a systematic review. Prospero 2020 CRD42020203729, 2020. Available: https://www.​crd.​york.​ac.​ uk/​prospero/​display_​record.​php?​ID=​CRD42020203729 [Accessed 16 Feb 2021]. 20 OSFHOME. Open science framework, 2011. Available: https://​osf.​io/ 21 Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-­analyses: the PRISMA statement. PLoS Med 2009;6:e1000097.\n\n9 Moynihan R, et al. BMJ Open 2021;11:e045343. doi:10.1136/bmjopen-2020-045343",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e"
+}

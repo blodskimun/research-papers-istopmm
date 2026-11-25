@@ -1,0 +1,471 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:32:49.577022+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Cohort profile: COVIDMENT: COVID-19 cohorts on mental health across six nations",
+        "year": null
+      },
+      "doi": "10.1093/ije/dyab234",
+      "format": "pdf",
+      "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+      "url": "https://doi.org/10.1093/ije/dyab234"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p1",
+        "source_issue_ids": [],
+        "text": "IEA\n\nInternational Epidemiological Association\n\nInternational Journal of Epidemiology, 2022, e108–e122\n\nhttps://doi.org/10.1093/ije/dyab234 Advance Access Publication Date: 20 November 2021\n\nCohort Profile\n\nCohort Profile\n\nCohort Profile: COVIDMENT: COVID-19 cohorts on mental health across six nations\n\nAnna Ba´ra Unnarsdo´ ttir ,1† Aniko´ Lovik,2† Chloe Fawns-Ritchie,3,4†\n\nHelga Ask,5† Kadri K~oiv,6† Kristen Hagen,7† Maria Didriksen ,8†\n\nLea Arregui Nordahl Christoffersen,9† Alexander Berg Garðarsson,1\n\nAndrew McIntosh,10 Anna K Ka¨hler,11 Archie Campbell ,4,12\n\nArna Hauksdo´ ttir,1 Christian Erikstrup ,13 Dorte Helenius Mikkelsen,9\n\nDrew Altschul ,3 Edda Bjork Thordardottir,1 Emma Maria Frans,11\n\nGerd Kvale,14,15 Gunnar To´ masson,1,16 Hanna Maria Kariis,6\n\nHarpa Lind Jo´ nsdo´ ttir,1,17 Harpa Ru´ narsdo´ ttir,1 Ingibjo¨ rg Magnu´ sdo´ ttir,1\n\nJarle Eid,18 Jo´ hanna Jakobsdo´ ttir,1 Kaspar Rene´ Nielsen,19\n\nKathrine Agerga˚rd Kaspersen,13,20 Lili Milani,6\n\nLill-Iren Schou Trogstad,21 Lu Yi,11 Mie Topholm Bruun,22\n\nPatrick F Sullivan,11,23 Per Minor Magnus,24 Qing Shen ,11\n\nRagnar Nesva˚g,5 Ragnhild E Brandlistuen ,25,26 Reedik Ma¨gi,6\n\nSisse Rye Ostrowski,8,27 Solveig Løkhammer,28 Stian Solem,14,29\n\nTed Reichborn-Kjennerud,5,30 Thomas Folkmann Hansen,31,32\n\nThomas Werge,9 Thor Aspelund ,1,33 David J Porteous,4,12†\n\nFang Fang ,2† Kelli Lehto,6† Ole A Andreassen,34,35†\n\nOle Birger Vesterager Pedersen,36† Stephanie Le Hellard14,28†\n\nUnnur A Valdimarsdo´ ttir1,11,37*†\n\n1Center of Public Health Sciences, Faculty of Medicine, University of Iceland, Reykjavik, Iceland; 2Unit of Integrative Epidemiology, Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden; 3Department of Psychology, University of Edinburgh, Edinburgh, UK; 4Centre for Genomic and Experimental Medicine, University of Edinburgh, Western General Hospital, Edinburgh, UK; 5Department of Mental Disorders, Norwegian Institute of Public Health, Oslo, Norway; 6Estonian Genome Centre, Institute of Genomics, University of Tartu, Estonia; 7Department of Psychiatry, Molde Hospital, Møre og Romsdal Hospital Trust, Molde, Norway; 8Department of Clinical Immunology, Copenhagen University Hospital Rigshospitalet, Copenhagen, Denmark; 9Institute of Biological Psychiatry, Mental Health Services Copenhagen, Copenhagen University Hospital, Copenhagen, Denmark; 10Division of Psychiatry, University of Edinburgh, Royal Edinburgh Hospital, Edinburgh, UK; 11Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden; 12Centre for Medical Informatics, Usher Institute, Edinburgh, UK; 13Department of Clinical Immunology, Aarhus University Hospital, Aarhus N, Denmark; 14BCBP, Division of Psychiatry, Haukeland University Hospital, Bergen, Norway; 15Department of Clinical Psychology, University of Bergen, Bergen, Norway; 16Department of Rheumatology, University Hospital, Iceland; 17Faculty of Psychology, School of Health Sciences, University of Iceland, Reykjavik, Iceland; 18Faculty of Psychology, Center for Crisis\n\nV C The Author(s) 2021. Published by Oxford University Press on behalf of the International Epidemiological Association. e108 This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p10",
+        "source_issue_ids": [],
+        "text": "International Journal of Epidemiology, 2022, Vol. 51, No. 3 e117\n\nSupplementary data at IJE online, for a detailed overview of measures). Pre-COVID mental health data are available for participants of all cohorts through self-reports or record linkage to population registers. Most cohorts are linked to national health registries, with lifelong data on mental disorders and comorbid diseases including pre-COVID conditions and long-term post-COVID outcomes. Several cohorts also include biobanks that will be used to study genetic and biological risk factors.\n\nWhat has it found? Key findings\n\nTable 1 shows the sociodemographic characteristics of the COVIDMENT cohorts. Most of the cohorts had higher levels of female participation (57.7–81.5%), except the Danish DBDS with 50.7% males. The mean age of cohort participants ranged from 44.1 years (Estonian EstBB-C19) to 58.5 years (Danish DBDS) and the majority were in a relationship (60.5–76.4%). An exception is the Norwegian BRY.DEG2020 where the mean age was 31.8 years and 56.7% of participants were single. The highest educational level varied between cohorts, e.g. university education or higher was reported by 89.2% in the Danish DBDS and 47.1% in the Scottish CovidLife. In terms of health-related risk factors, the highest prevalence of obesity was observed in the Icelandic C-19 Resilience (30.1%) and the lowest prevalence was observed in the Swedish Omtanke2020 (13.3%). The highest prevalence of current smoking was in the Norwegian BRY.DEG2020 (19.1%) and the lowest in the Norwegian MoBa (6.3%). The proportion with chronic somatic diseases (e.g. hypertension, lung disease) varied considerably across cohorts, ranging from 15.1% in the Norwegian MoBa to 48.7% in the Danish DBDS. The highest proportion of participants infected with SARS-CoV-2 was in the Estonian EstBB-C19 (25.2%) and the Norwegian BRY.DEG2020 (13.8%). The corresponding proportion was 10.1% in the Scottish CovidLife, 8.4% in the Swedish Omtanke2020, 4.3% in the Danish DBDS, 4.1% in the Icelandic C-19 Resilience and 1.2% in the Norwegian MoBa.\n\nTable 3 shows the prevalence of depressive symptoms above cut-off (measured as \u000310 on PHQ-9/>11 on EST-Q2) across cohorts adjusted for or stratified by age and sex. The overall prevalence of reporting depressive symptoms above cut-off ranged from 4.2% to 20.8% across the cohorts, namely 20.8% in Scottish CovidLife, 17.1% in Norwegian BRY.DEG2020, 17.1% in Swedish Omtanke2020, 16.6% in Icelandic C-19 Resilience, 15.0% in Estonian EstBB-C19, 7.6% in Danish DBDS and 4.2% in Norwegian MoBa. Across all cohorts, the average prevalence of depressive symptoms was 12.7% (95% CI: 8.0–19.8%) after adjusting\n\nfor age, sex and season. The highest prevalence of depressive symptoms was consistently noted among young adults, i.e. 18–29years of age, declining sharply thereafter in a stepwise fashion. Similarly, the prevalence of depressive symptoms was higher among females (5.0–24.4%) than males (3.5–17.7%) after adjusting for age.\n\nFigure 2 shows the prevalence of depressive symptoms above cut-off for all cohorts (excluding COVID-19 cases) by nationwide incidence of weekly COVID-19 cases per 100 000 persons during the 2 preceding weeks before responding to the PHQ-9/EST-Q2. We used a generalized ad-ditive mixed model to fit a multi-level model to the data, with a random effect for each study to account for correla-tions in the data within each study. The association between the prevalence of depressive symptoms with COVID-19 incidence was modelled using penalized regression spline for week (Supplementary Figure S1, available as Supplementary data at IJE online). The distribution of the outcome was as-sumed quasi-binomial and each observation was weighted with the accompanying sample size. The adjustment for season was made by using a penalized spline for week (Supplementary Figure S2, available as Supplementary data at IJE online). Trends varied across countries (Supplementary Table S3, available as Supplementary data at IJE online) but overall we found the association to be non-linear. The prevalence of depressive symptoms was highest at 14.3% (95% CI: 9.4–21.8%) when the COVID-19 incidence was around 30 weekly cases per 100 000 persons. This represents 61.0% (95% CI: 34.0–94.1%) higher prevalence of depressive symptoms than the prevalence, 8.9% (95% CI: 5.6–13.6%), at a COVID-19 incidence of 0 weekly cases per 100 000 persons. When the COVID-19 incidence was 60 weekly cases per 100 000 persons, the prevalence of depressive symptoms was 12.4% (95% CI: 7.9–19.4%), close to the average prevalence (Supplementary Figure S3, available as Supplementary data at IJE online). Combined, these results suggest some influence of weekly COVID-19 incidence on population depressive symptoms primarily at the lower range of incidence rates, possibly reflecting early rise or the end of an epidemic wave.\n\nWhat are the main strengths and weaknesses?\n\nThe COVIDMENT project is a large-scale multinational collaboration between Denmark, Estonia, Iceland, Norway, Scotland and Sweden, which was established to significantly advance current knowledge of mental morbidity trajectories during and beyond the COVID-19 pandemic, by using ongoing semi-harmonized batteries of validated mental health assessments with longitudinal follow-up of 392 817 individuals, as well as large, data-rich record linkages to the national",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p11",
+        "source_issue_ids": [],
+        "text": "e118 International Journal of Epidemiology, 2022, Vol. 51, No. 3\n\nTable 3 Proportion above cut-off for depressive symptoms across categories of gender and age in the COVIDMENT cohorts\n\nDenmark Estonia Iceland Norway Norway Scotland/UK Sweden DBDS EstBB-C19 C19-Resilience BRY.DEG2020 MoBa CovidLife Omtanke2020 (N ¼ 68 973) (N ¼ 11 289) (N ¼ 22 849) (N ¼ 19 343) (N ¼ 91 950) (N ¼ 16 356) (N ¼ 27 952)\n\nN \u000310 PHQ-9 % (95% CI) N >11 EST-Q2 % (95% CI) N \u000310 PHQ-9 % (95% CI) N \u000310 PHQ-9 % (95% CI) N \u000310 PHQ-9 % (95% CI) N \u000310 PHQ-9 % (95% CI) N \u000310 PHQ-9 % (95% CI)\n\nTotal 5946 7.6% (7.4–7.9%)a 2335 15.0% (14.2–15.8%)a 4084 16.6% (16.0–17.2%)a 7059 17.1% (16.1–18.1%)a 4482 4.2% (4.0–4.3%)a 3268 20.8% (20.0–21.6%)a 4946 17.1% (16.5–17.7%)a\n\nGender Male 2189 6.1% (5.9–6.4%)b 476 11.9% (10.9–13.0%)b 778 13.5% (12.7–14.4%)b 1411 15.1% (14.2–16.2%)b 1364 3.5% (3.3–3.7%)b 732 17.7% (16.6–18.9%)b 720 14.8% (14.0–15.7%)b\n\nFemale 3757 9.5% (9.2–9.8%)b 1859 18.8% (17.8–19.8%)b 3287 20.2% (19.6–20.8%)b 5587 19.2% (18.2–20.3%)b 3118 5.0% (4.8–5.2%)b 2536 24.4% (23.6–25.2%)b 4226 19.8% (19.2–20.3%)b\n\nOther – – – – 19 35.8% (26.0–49.3%)b 61 24.4% (20.5–29.0%)b – – – – – –\n\nMissing – – – – – – – – – – – – – – Age (years) 18–29 1292 21.1% (21.1–22.2%)c 506 30.7% (28.4–33.1%)c 630 37.0% (34.7–39.5%)c 5332 42.5% (41.5–43.6%)c – – 366 45.0% (41.6–48.6%)c 1322 38.5% (36.88–40.1%)c\n\n30–39 919 12.7% (12.0–13.5%)c 758 21.5% (20.1–23.0%)c 702 27.0% (25.2–28.9%)c 895 29.2% (27.6–30.9%)c 541 7.8% (7.2–8.5%)c 535 31.5% (29.2–33.9%)c 1190 26.2% (24.9–27.5%)c\n\n40–49 840 8.7% (8.2–9.3%)c 552 17.6% (16.3–19.0%)c 877 19.2% (18.0–20.4%)c 457 18.2% (16.7–19.8%)c 2729 4.4% (4.3–4.6%)c 644 25.5% (23.8–27.4%)c 886 19.0% (17.9–20.1%)c\n\n50–59 765 6.6% (6.1–7.0%)c 331 13.3% (12.0–14.8)c 928 14.3% (13.4–15.2%)c 277 16.0% (14.3–17.8%)c 1159 4.2% (4.0–4.5%)c 794 20.2% (18.9–21.6%)c 830 14.9% (14.0–15.9%)c\n\n60–69 393 4.5% (4.1–4.9%)c 143 10.7% (9.2–12.5%)c 714 11.2% (10.5–12.0%)c 79 11.4% (9.3–14.0%)c 53 4.4% (3.4–5.7%)c 669 12.7% (11.8–13.6%)c 437 10.0% (9.2–10.9%)c\n\n70þ 1737 6.4% (6.2–6.7%)c 45 8.8% (6.7–11.7%)c 233 6.7% (5.9–7.6%)c 19 10.2% (6.4–15.0%)c – – 260 8.1% (7.3–9.1%)c 281 8.0% (7.2–9.0%)c\n\nData until 12 August 2021 for all cohorts. Total number of participants is less than in Table 1 due to missing responses or ongoing inclusion in all cohorts. aAdjusted to age 50 years and gender distribution (males 49.9%, females 49.9%, other 0.2%). bAdjusted to age 50 years. cAdjusted for gender distribution (males 49.9%, females 49.9%, other 0.2%).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p12",
+        "source_issue_ids": [],
+        "text": "International Journal of Epidemiology, 2022, Vol. 51, No. 3 e119\n\nFigure 2 National COVID-19 incidence and depressive symptoms across cohorts. The COVID-19 incidence is deﬁned as the average number of con-ﬁrmed cases per week per 100 000 persons in the 2 weeks prior to participants’ response to the PHQ-9/EST-Q2 (COVID-19 cases excluded). Dotted black line represents trend with 95% conﬁdence interval (blue area)\n\nhealth registry resources. These resources are well powered for a systematic exploration of trans-national heterogeneity in pandemic effects, including how variations in mitigating responses to COVID-19 pandemic and disease burden across countries impact on psychiatric symptoms and disorders, both in exposed populations and on a population level. A weakness of the COVIDMENT project is that different strategies were used for recruitment to the various cohorts. Some cohorts, for example MoBa, EstBB-C19 and DBDS, consist of already established cohorts, some perhaps with over-representation of healthy individuals (e.g. blood donors and parents). Other cohorts, such as Omtanke2020, BRY.DEG2020 and C-19 Resilience, sent invitations to existing cohort members but also opened for volunteering participants through social media, which may have resulted in selection bias. Indeed, compared with the general populations, most of the cohorts include an over-representation of women as well as individuals of older age and higher education.48–59 Recruitment differences may to some extent explain the differences in prevalence of depressive symptoms above cut-off across cohorts. Yet, prevalence differences in depressive disorders have been observed across European countries using similar recruitment.47 Also, some cohorts targeted invitations to individuals diagnosed with SARS-CoV-2 or tested for SARS-CoV-2 with an RT-PCR test (i.e. C-19 Resilience and EstBB-C19), whereas other cohorts did not. The different recruitment strategies across cohorts may to some extent explain the higher levels of depressive symptoms\n\nwhen tested individuals are targeted for inclusion. Second, the cohorts rely on self-reported questionnaire data with associated risks of measurement errors. However, this risk is mitigated by also obtaining data on clinical diagnoses of psychiatric disorders from the population registers, which is a distinctive feature of the participating cohorts and countries.\n\nCan I get hold of the data? Where can I find out more?\n\nThe individual-level data underlying this article were sub-ject to ethical approval and cannot be shared publicly due to data protection laws in each participating country. The data can be shared on reasonable request to the corresponding author. We encourage scientists who are inter-ested in collaboration with the COVIDMENT project to contact investigators via the study website [www.covid ment.is] or reach out to the principal investigator of the project. Prof. Valdimarsdo´ttir [unnurav@hi.is], for further information.\n\nEthics approval\n\nThe DBDS was approved by the Zealand and Central Denmark Regional Committees on Health Research Ethics (SJ-740 and M-2009237) and the Data Protection Agency (P-2019–99). The EstBB-C19 and EstBB-MHDC were approved by the Estonian Committee on Bioethics and Human Research (1.1–12/1277 and 1.1–12/2860). The C-19 Resilience was approved by the National",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p13",
+        "source_issue_ids": [],
+        "text": "e120 International Journal of Epidemiology, 2022, Vol. 51, No. 3\n\nBioethics Committee (NBC no. 20–073, 21–071) as well as the National Data Protection Authority. The BRY.DEG2020 was approved by the Regional Committees for Medical and Health Research Ethics (123324). The MoBa was approved by the Regional Committees for Medical and Health Research Ethics (127708/14140/20138); this also includes approval to link the MoBa data with data from national health registries (including psychiatric and COVID-19 diagnostic information). The GS was approved by the East of Scotland Research Ethics Service (EoSRES). The Omtanke2020 ethical approval no. is 2020–01785.\n\nSupplementary Data\n\nSupplementary data are available at IJE online.\n\nFunding\n\nThis work was partly supported by NordForsk through the funding to mental morbidity trajectories in COVID-19 across risk populations of five nations, project number 105668. T.F.H. is supported by the Novo Nordisk Foundation (grants NNF14CC0001, NNF17OC0027594) and Candy’s Foundation. L.Y. is supported by US NIMH (R01 MH123724).\n\nAuthor Contributions\n\nThe COVIDMENT cohorts and/or their data collections were designed by A.B.U., A.L., C.F-R., H.A., K.K., K.H., M.D., D.J.P., F.F., K.L., R.M., L.M., O.A.A., O.B.V.P., S.L.H., U.A.V. and their respective teams. U.A.V. and A.B.U. directed the combined effort of this study im-plementation. U.A.V. and T.A. designed the analytical strategy in close collaboration with all team members, and all authors helped to inter-pret the findings. A.B.U., A.L., C.F-R., H.A., K.K., K.H., M.D. and L.A.N.C. conducted the literature review and drafted the manuscript under supervision of U.A.V. All authors revised the manuscript for crit-ical content and approved the final version of the manuscript.\n\nConflict of Interest\n\nA.M. has received speakers’ fees from Illumina and Janssen and has received research grant funding from the Sackler Trust, outside of the current work. All other authors declare no conflict of interest.\n\nReferences\n\n1. Editorial. Keep mental health in mind. Nat Med 2020;26:631. 2. Holmes EA, O’Connor RC, Perry VH et al. Multidisciplinary research priorities for the COVID-19 pandemic: a call for action for mental health science. Lancet Psychiatry 2020;7: 547–60. 3. Rogers JP, Chesney E, Oliver D et al. Psychiatric and neuropsy-chiatric presentations associated with severe coronavirus infections: a systematic review and meta-analysis with compari-son to the COVID-19 pandemic. Lancet Psychiatry 2020;7: 611–27. 4. Vindegaard N, Benros ME. COVID-19 pandemic and mental health consequences: systematic review of the current evidence. Brain Behav Immun 2020;89:531–42.\n\n5. Daly M, Sutin AR, Robinson E. Longitudinal changes in mental\n\nhealth and the COVID-19 pandemic: evidence from the UK Household Longitudinal Study. Psychol Med 2020;Nov 13: 1–10. 6. Pierce M, Hope H, Ford T et al. Mental health before and during the COVID-19 pandemic: a longitudinal probability sample sur-\n\nvey of the UK population. Lancet Psychiatry 2020;7:883–92. 7. Knudsen AKS, Stene-Larsen K, Gustavson K et al. Prevalence of mental disorders, suicidal ideation and suicides in the general population before and during the COVID-19 pandemic in\n\nNorway: a population-based repeated cross-sectional analysis. Lancet Reg Health Eur 2021;4:100071. 8. van der Velden PG, Hyland P, Contino C, von Gaudecker HM, Muffels R, Das M. Anxiety and depression symptoms, the recovery from symptoms, and loneliness before and after the COVID-\n\n19 outbreak among the general population: ﬁndings from a Dutch population-based longitudinal study. PLoS One 2021;16: e0245057. 9. Kwong ASF, Pearson RM, Adams MJ et al. Mental health before and during the COVID-19 pandemic in two longitudinal UK\n\npopulation cohorts. Br J Psychiatry 2020;Nov 24:1–10. 10. Bueno-Notivol J, Gracia-Garcı´a P, Olaya B, Lasheras I, Lo´pez-\n\nAnto´n R, Santaba´rbara J. Prevalence of depression during the COVID-19 outbreak: a meta-analysis of community-based studies. Int J Clin Health Psychol 2021;21:100196. 11. Ettman CK, Abdalla SM, Cohen GH, Sampson L, Vivier PM,\n\nGalea S. Prevalence of depression symptoms in US adults before and during the COVID-19 pandemic. JAMA Netw Open 2020; 3:e2019686. 12. Hao F, Tan W, Jiang L et al. Do psychiatric patients experience more psychiatric symptoms during COVID-19 pandemic and\n\nlockdown? A case-control study with service and research impli-cations for immunopsychiatry. Brain Behav Immun 2020;87: 100–06. 13. Grolli RE, Mingoti MED, Bertollo AG et al. Impact of COVID- 19 in the mental health in elderly: psychological and biological\n\nupdates. Mol Neurobiol 2021;58:1905–12. 14. Luo M, Guo L, Yu M, Jiang W, Wang H. The psychological and\n\nmental impact of coronavirus disease 2019 (COVID-19) on medical staff and general public – a systematic review and meta-analysis. Psychiatry Res 2020;291:113190. 15. Creese B, Khan Z, Henley W et al. Loneliness, physical activity,\n\nand mental health during COVID-19: a longitudinal analysis of depression and anxiety in adults over the age of 50 between 2015 and 2020. Int Psychogeriatr 2020;33:1–10. 16. Tang F, Liang J, Zhang H, Kelifa MM, He Q, Wang P. COVID- 19 related depression and anxiety among quarantined respond-\n\nents. Psychol Health 2021;36:164–78. 17. Wu T, Jia X, Shi H et al. Prevalence of mental health problems\n\nduring the COVID-19 pandemic: a systematic review and meta-analysis. J Affect Disord 2021;281:91–98. 18. Mækelæ M, Reggev N, Dutra N et al. Perceived efﬁcacy of COVID-19 restrictions, reactions and their impact on mental health during the early phase of the outbreak in six countries. R\n\nSoc Open Sci 2020;7:200644. 19. Bo HX, Li W, Yang Y et al. Posttraumatic stress symptoms and attitude toward crisis mental health services among clinically",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p14",
+        "source_issue_ids": [],
+        "text": "International Journal of Epidemiology, 2022, Vol. 51, No. 3 e121\n\nstable patients with COVID-19 in China. Psychol Med 2021;51: 1052–53. 20. Zhang J, Lu H, Zeng H et al. The differential psychological dis-tress of populations affected by the COVID-19 pandemic. Brain Behav Immun 2020;87:49–50. 21. Mazza MG, De Lorenzo R, Conte C et al.; COVID-19 BioB Outpatient Clinic Study group. Anxiety and depression in COVID-19 survivors: role of inﬂammatory and clinical predic-tors. Brain Behav Immun 2020;89:594–600. 22. Taquet M, Luciano S, Geddes J, Harrison P. Bidirectional associ-ations between COVID-19 and psychiatric disorder: retrospec-tive cohort studies of 62 354 COVID-19 cases in the USA. Lancet Psychiatry 2021;8:130–40. 23. Pedersen O, Erikstrup C, Kotze SR et al. The Danish Blood Donor Study: a large, prospective cohort and biobank for medical research. Vox Sang 2012;102:271. 24. Burgdorf K, Felsted N, Mikkelsen S et al. Digital questionnaire platform in the Danish blood donor study. Comput Methods Programs Biomed 2016;135:101–04. 25. Didriksen M, Werge T, Nissen J et al. Impact of COVID-19 Pandemic on sleep quality, stress level and health-related quality of life—a large prospective cohort study on adult Danes. Int J Environ Res Public Health 2021;18:7610. 26. Leitsalu L, Haller T, Esko T et al. Cohort Proﬁle: Estonian Biobank of the Estonian Genome Center, University of Tartu. Int J Epidemiol 2015;44:1137–47. 27. Univerisity of Bergen. TakeCare2020. 2020. https://www.uib. no/en/takecare2020 (29 March, 2021, date last accessed). 28. Magnus P, Birke C, Vejrup K et al. Cohort Proﬁle Update: The Norwegian Mother and Child Cohort Study (MoBa). Int J Epidemiol 2016;45:382–88. 29. Nilsen RM, Vollset SE, Gjessing HK et al. Self-selection and bias in a large prospective pregnancy cohort in Norway. Paediatr Perinat Epidemiol 2009;23:597–608. 30. Smith BH, Campbell A, Linksted P et al. Cohort Proﬁle: Generation Scotland: Scottish Family Health Study (GS: SFHS). The study, its participants and their potential for genetic research on health and illness. Int J Epidemiol 2013;42:689–700. 31. Fawns-Ritchie C, Altschul D, Campbell A et al. CovidLife: a re-source to understand mental health, well-being and behaviour during the COVID-19 pandemic in the UK [version 1; peer review: awaiting peer review]. Wellcome Open Res 2021;6:176. 32. Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med 2001;16: 606–13. 33. Aluoja A, Shlik J, Vasar V, Luuk K, Leinsalu M. Development and psychometric properties of the Emotional State Questionnaire, a self-report questionnaire for depression and anxiety. Nord J Psychiatry 1999;53:443–49. 34. O¨ o¨pik P, Aluoja A, Kalda R, Maaroos H-I. Screening for depression in primary care. Fam Pract 2006;23:693–98. 35. Spitzer RL, Kroenke K, Williams JB, Lo¨we B. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med 2006;166:1092–97. 36. Eilertsen T, Hansen B, Kvale G, Abramowitz JS, Holm SE, Solem S. The dimensional obsessive-compulsive scale: development and validation of a short form (DOCS-SF). Front Psychol 2017;8: 1503.\n\n37. Prins A, Bovin MJ, Smolenski DJ et al. The primary care PTSD\n\nscreen for DSM-5 (PC-PTSD-5): development and evaluation within a veteran primary care sample. J Gen Intern Med 2016; 31:1206–11. 38. Weathers FW, Litz BT, Herman DS, Huska JA, Keane TM. The PTSD Checklist (PCL): reliability, validity, and diagnostic utility.\n\nIn: Annual Convention of the International Society for Traumatic Stress Studies, October 1993. San Antonio, TX, 1993, p. 462. 39. Cohen S, Williamson, GS. Perceived stress in a probability\n\nsample of the United States. In: Spacapan S, Oskamp S, Eds., The Social Psychology of Health. Saga Publications, Inc, 1988: 31–67. 40. Eskildsen A, Dalgaard VL, Nielsen KJ et al. Cross-cultural adap-tation and validation of the Danish consensus version of the 10-\n\nitem Perceived Stress Scale. Scand J Work Environ Health 2015; 41:486–90. 41. Horowitz M, Wilner N, Alvarez W. Impact of Event Scale: a measure of subjective stress. Psychosom Med 1979;41:209–18. 42. Hughes ME, Waite LJ, Hawkley LC, Cacioppo JT. A short scale for measuring loneliness in large surveys: results from two population-based studies. Res Aging 2004;26:655–72. 43. Buysse DJ, Reynolds CF, Monk TH, Berman SR, Kupfer DJ. The\n\nPittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research. Psychiatry Res 1989;28:193–213. 44. Pallesen S, Bjorvatn B, Nordhus IH, Sivertsen B, Hjørnevik M, Morin CM. A new scale for measuring insomnia: the Bergen Insomnia Scale. Percept Mot Skills 2008;107:691–706. 45. Chalder T, Berelowitz G, Pawlikowska Tet al. Development of a\n\nfatigue scale. J Psychosom Res 1993;37:147–153. 46. Saffer BY, Lanting SC, Koehle MS, Klonsky ED, Iverson GL.\n\nAssessing cognitive impairment using PROMIS V R applied cognition-abilities scales in a medical outpatient sample. Psychiatry Res 2015;226:169–72. 47. Arias-de la Torre J, Vilagut G, Ronaldson A et al. Prevalence and variability of current depressive disorder in 27 European coun-\n\ntries: a population-based study. Lancet Public Health 2021;6: e729–38. 48. Statistics Danmark. Folketal (Population). 2021. https://www. dst.dk/da/Statistik/emner/befolkning-og-valg/befolkning-og-befol kningsfremskrivning/folketal (August 2021, date last accessed). 49. Statistics Iceland. Population by Sex and Age 1841–2021. 2021.\n\nhttps://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__mannfjoldi__1_ yﬁrlit__yﬁrlit_mannfjolda/MAN00101.px/table/tableViewLayout1/ ?rxid ¼ 25fccf6d-ea97-49ad-9d9a-76087aa232c9 (27 August 2021, date last accessed). 50. Statistics Estonia. Rahvastik aasta alguses ja aastakeskmine\n\nrahvaarv soo ja vanuse ja¨rgi (Population at the beginning of the year and mean annual population by sex and age). 2021. https://andmed.stat.ee/et/stat/rahvastik__rahvastikunaita\n\njad-ja-koosseis__rahvaarv-ja-rahvastiku-koosseis/RV0212/table/ tableViewLayout1 (27 August 2021, date last accessed). 51. Statistics Danmark. 2021. Befolkningens Højest Fuldførte Uddannelse (Highest completed educational level in the population). https://www.dst.dk/da/Statistik/emner/uddannelse-og-\n\nviden/befolkningens-uddannelsesstatus/befolkningens-hoejst-fuld foerte-uddannelse (27 August 2021, date last accessed).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p15",
+        "source_issue_ids": [],
+        "text": "e122 International Journal of Epidemiology, 2022, Vol. 51, No. 3\n\n52. Statistics Iceland. Educational Attainment of the Population by Levels According to ISCED 2011 2003–2019. 2020. https://px.hag stofa.is/pxen/pxweb/en/Samfelag/Samfelag__skolamal__5_menntu narstada/SKO00007.px/?rxid ¼ dce281ba-853e-4265-876e- 9a151acc131b (27 August 2021, date last accessed). 53. Statistics Estonia. Va¨hemalt 15 aastased hariduse, soo, vanus-ru¨hma ja maakonna ja¨rgi, 1. jaanuar (At least 15-year-old persons by education, sex, age group and country, 1 January (2012-2017)). 2020. https://andmed.stat.ee/et/stat/rahvastik__ rahvastikunaitajad-ja-koosseis__rahvaarv-ja-rahvastiku-koos seis/RV0231U/table/tableViewLayout1v (27 August 2021, date last accessed). 54. Statistics Sweden. Population by Age and Sex. Year 1860– 2020. 2020. https://www.statistikdatabasen.scb.se/pxweb/en/ ssd/START__BE__BE0101__BE0101A/BefolkningR1860N/ (27 August 2021, date last accessed).\n\n55. StatBank Norway. Population, by Sex and One-Year Age Groups 1986–2021. 2021. https://www.ssb.no/en/statbank/ta ble/07459/ (27 August 2021, date last accessed). 56. Scotland’s Census. Population. 2021. https://www.scotlandscen sus.gov.uk/census-results/at-a-glance/population (27 August 2021, date last accessed). 57. Statistics Sweden. Population 16–95þ Years of Age by Region, Level of Education, Age and Sex. Year 2008–2020. 2020. https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__UF__ UF0506/UtbBefRegionR/ (27 August 2021, date last accessed). 58. Statistics Norway. Education. 2021. https://www.ssb.no/en/ utdanning (30 August 2021, date last accessed). 59. Scotland’s Census. Scottish Council Area 2011 by Highest Level of Qualiﬁcation by Term-Time Address (Indicator) and Age. 2013. https://www.scotlandscensus.gov.uk/webapi/jsf/tableView/ tableView.xhtml (30 August 2021, date last accessed).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p2",
+        "source_issue_ids": [],
+        "text": "International Journal of Epidemiology, 2022, Vol. 51, No. 3 e109\n\nPsychology, University of Bergen, Bergen, Norway; 19Department of Clinical Immunology, Aalborg University Hospital, Aalborg, Denmark; 20Danish Big Data Centre for Environment and Health (BERTHA), Aarhus University, Roskilde, Denmark; 21Division of Infection Control and Environmental Health, Norwegian Institute of Public Health, Oslo, Norway; 22Department of Clinical Immunology, Odense University Hospital, Odense, Denmark; 23Departments of Genetics and Psychiatry, University of North Carolina, NC, USA; 24Centre for Fertility and Health, Norwegian Institute of Public Health, Oslo, Norway; 25Department of Child Health and Development, Norwegian Institute of Public Health, Oslo, Norway; 26Norwegian Mother, Father and Child Cohort Study (MoBa), Norwegian Institute of Public Health, Oslo, Norway; 27Department Clinical Medicine, University of Copenhagen, Copenhagen, Denmark; 28NORMENT, Department of Clinical Science, University of Bergen, Bergen, Norway; 29Department of Psychology, Norwegian University of Science and Technology, Trondheim, Norway; 30Faculty of Medicine, Institute of Clinical Medicine, University of Oslo, Oslo, Norway; 31Danish Headache Center, Department of Neurology, Copenhagen University Hospital Rigshopitalet, Glostrup, Denmark; 32NovoNordisk Foundation Center for Protein Research, Copenhagen University, Copenhagen, Denmark; 33Icelandic Heart Association, Kopavogur, Iceland; 34Faculty of Medicine, NORMENT Centre, Institute of Clinical Medicine, University of Oslo, Oslo, Norway; 35Faculty of Medicine, NORMENT Centre, Division of Mental Health and Addiction, Oslo University Hospital, Oslo, Norway; 36Department of Clinical Immunology, Zealand University Hospital, Denmark; and 37Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA\n\n*Corresponding author. Center of Public Health Sciences, Faculty of Medicine, University of Iceland, Sturlugata 8, 101 Reykjavik, Iceland. E-mail: unnurav@hi.is †Equal contributions. Received 15 June 2021; Editorial decision 8 October 2021; Accepted 21 October 2021\n\nKey Features\n\n• COVIDMENT [www.covidment.is] is a NordForsk-funded research collaboration across six nations, with the\n\noverarching aim to signiﬁcantly advance current knowledge on mental morbidity trajectories associated with the\n\ncoronavirus disease 2019 (COVID-19) in the general population and in speciﬁc risk groups.\n\n• From March 2020 through August 2021, 392 817 individuals have been recruited to the seven COVIDMENT cohorts:\n\nthe Danish Blood Donor Study (N ¼ 71 562), the Estonian Biobank COVID-19 and Mental Health Data Collection\n\ncohorts (N ¼ 13 329 and N ¼ 86 116, respectively), the Icelandic COVID-19 National Resilience Cohort (N ¼ 22 849),\n\nthe Norwegian BRY.DEG2020 (N ¼ 19 343), the Norwegian Mother, Father and Child Cohort Study (N ¼ 132 486), the\n\nScottish Generation Scotland/CovidLife (N ¼ 18 518) and the Swedish Omtanke2020 (N ¼ 28 614). Semi-harmonized\n\nquestionnaire data have been collected across all COVIDMENT cohorts with longitudinal data available, e.g. through\n\nlinkage to the national registers.\n\n• The average age of participants ranged from 31.8 to 58.5 years across cohorts. The prevalence of depressive\n\nsymptoms above cut-off point varied considerably across cohorts (4.2–20.8%). The prevalence of depressive\n\nsymptoms was highest at COVID-19 incidence of 30 cases per week per 100 000 persons, i.e. 14.3% [95% conﬁdence\n\ninterval (CI): 9.4–21.8%], which was 61.0% (95% CI: 34.0–94.1%) higher than the prevalence at COVID-19 incidence of\n\n0 cases per week per 100 000 persons (P ¼ 1.1 x 10 ^(\u00026)).\n\n• We welcome proposals for collaboration; please visit our website [www.covidment.is] for further information.\n\nWhy were the cohorts set up?\n\nWith more than 218 million cases and 4.5 million deaths worldwide (Worldometers, 31 August 2021), the COVID-19 pandemic has had an unprecedented influence on the global economy and population health. As a potent global disaster,\n\nit is likely to significantly affect the incidence of adverse mental health symptoms and psychiatric disorders, particularly in vulnerable and highly affected populations. The World Health Organization and leading scientific journals have alerted concerning the potential adverse mental health impact",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p3",
+        "source_issue_ids": [],
+        "text": "e110 International Journal of Epidemiology, 2022, Vol. 51, No. 3\n\nof COVID-19 and emphasized the need for multinational research in this area,1,2 which additionally provides new insights into disease mechanisms.2\n\nAlthough a substantial number of studies on the mental health effects of COVID-19 has been published, the existing literature is largely limited by relatively small studies of convenience samples without pre-pandemic data, longitudinal data or cross-national comparisons.3,4 Some,5,6 but not all7,8 studies have reported evidence for a negative impact on mental health in the general adult population, including a rise in prevalence of symptoms of anxiety9 and depression10,11 during the COVID-19 pandemic. Previous history of psychiatric problems,12 higher age13 and female sex14 have been suggested as risk factors for mental health problems during the COVID-19 pandemic, although the weight of these factors is bound to vary over time and geo-graphical areas and largely depends on the severity of out-breaks. Furthermore, COVID-19-mandated restrictions, such as quarantine measures, complete or partial lockdown and isolation, have been associated with deterioration in mental health15–17 and so has dissatisfaction with governmental pandemic mitigations.18\n\nThe severity of the pandemic and mitigating strategies has varied considerably across countries. For example, as of 31 August 2021, the cumulative number of deaths due to COVID-19 stands at 1940 per one million inhabitants in the UK, 1440 in Sweden, 973 in Estonia, 444 in Denmark, 149 in Norway and 96 in Iceland (Worldometers, 2021). The variation in national pandemic response efforts and actual disease burden have implica-tions for the proportion of citizens with first-hand exposure to COVID-19. Furthermore, mitigation responses may also affect health behaviours, social interactions, sense of security and trust in authorities, with potential downstream impact on population mental health. A key objective of the COVIDMENT initiative is to investigate whether differences in disease burden and mitigating responses to COVID-19 across countries (displayed in Figure 1) impact on psychiatric symptoms and disorders. Due to the relatively narrow time window since the start of the pandemic, the long-term mental health consequences in exposed populations during the COVID-19 pandemic (i.e. patients, loved ones and front-line workers), as well as among those suffering unemployment or income losses, have not yet been sufficiently explored. Although research is still limited to small studies with short follow-up period, high prevalence of post-traumatic stress disorder (PTSD)19,20 and other mental health symptoms,21\n\nalong with elevated rates of diagnosed psychiatric disorders, have been observed during the first weeks after hospital discharge of COVID-19 inpatients.22 For how long\n\nsuch adverse mental health effects remain after recovery from COVID-19 is yet to be investigated. Moreover, con-siderable mental health impact has been noted among family members of COVID-19 patients,3 with as yet unknown long-term consequences. Taken together, well-designed studies with long-term follow-up of COVID-19 patients, their loved ones and other high-risk groups are imperative for a comprehensive understanding of the mental health impact of the pandemic.1\n\nBased on the extensive research experience and existing infrastructures within the CoMorMent collaboration (an ongoing Horizon2020 programme on psychiatric and car-diometabolic comorbidities), we set out to establish new cohorts focusing on mental health indicators across six European nations during the pandemic. Funded by NordForsk (project No. 105668), the overarching aim of the COVIDMENT collaboration is to significantly advance current knowledge of long-term mental morbidity trajectories in the COVID-19 pandemic, both in the general population and in the specific risk groups.\n\nWho is in the cohorts?\n\nA total of 392 817 individuals have now been recruited to the cohorts and the timeline of each data collection is shown in Figure 1. Background characteristics of all cohorts with currently available data for analysis (N ¼ 389 925) are shown in Table 1 and the main sociodemographic characteristics of responders compared with the total population of each nation are shown in Supplementary Table S1, available as Supplementary data at IJE online. The design and recruitment process of each cohort are de-scribed below.\n\nThe Danish Blood Donor Study (DBDS)\n\nDBDS is an ongoing national cohort study currently com-prising about 120 000 blood donors23 with about 95% participation rate among invited blood donors.24 All participants answer a health-related questionnaire and provide a blood sample for research purposes. Prospective assess-ment of long-term health changes related to COVID-19 has been obtained thrice through the governmental, personal, password-protected e-mail-system e-boks.25 The first wave of the COVID-19 questionnaire was sent out in May 2020 (participation rate 63.5%), the second was sent out in October 2020 (participation rate 63.7%) and the third was sent ultimo May 2021 and is still ongoing (medio August 2021). A total of 71 562 participants have answered at least one of the COVID-19 questionnaires, and among active DBDS blood donors, approximately 87 700 had been tested for SARS-CoV-2 antibodies by April 2021.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p4",
+        "source_issue_ids": [],
+        "text": "International Journal of Epidemiology, 2022, Vol. 51, No. 3 e111\n\nFigure 1 Daily COVID-19 cases per 100 000 persons, changes in social gathering restrictions (green means looser restrictions and red means stricter, according to Oxford COVID-19 Government Response Tracker) and timeline of waves (W) of data collections in each cohort\n\nParticipants lost to follow-up were slightly younger and less educated compared with those who remained in the cohort. Compared with the Danish national population above 18 years of age, the DBDS slightly over-sampled men, individuals of higher age (70þ years) and highly educated individuals. Written informed consents were collected from all participants. The study was funded by the Danish regions and the Independent Research Fund Denmark (0214-00127B).\n\nThe Estonian Biobank (EstBB) cohorts (EstBB-C19 and EstBB-MHDC)\n\nEstBB is a population-based cohort (N ¼ 200 000) with genotype and a rich variety of phenotypic and health-related information.26 At recruitment, participants signed a broad consent form allowing follow-up linkage of their electronic health records (EHR) and contact for future studies, thereby providing a longitudinal collection of their phenotypic information. A COVID-19-related data",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p5",
+        "source_issue_ids": [],
+        "text": "e112 International Journal of Epidemiology, 2022, Vol. 51, No. 3\n\nTable 1 Sociodemographic characteristics of the COVIDMENT cohorts\n\nDenmark Estonia Estonia Iceland Norway Norway Scotland/UK Sweden (DBDS) (EstBB-C19) (EstBB-MHDC) (C19-Resilience) (BRY.DEG2020) (MoBa)b (GS/CovidLife) (Omtanke2020) (N ¼ 68 973) (N ¼ 13 329) (N ¼ 86 116) (N ¼ 22 849) (N ¼ 19 343) (N ¼ 132 486) (N ¼ 18 518) (N ¼ 28 311)\n\nGender Male 34 999 (50.7%) 4061 (30.5%) 25 278 (29.4%) 6872 (30.1%) 4640 (24.0%) 56 934 (42.3%) 6014 (32.5%) 5234 (18.5%) Female 33 974 (49.3%) 9268 (69.5%) 60 838 (70.7%) 15 933 (69.7%) 14 584 (75.4%) 75 552 (57.7%) 12 375 (66.8%) 23 077 (81.5%) Other – – – 44 (0.2%) 119 (0.6%) – – 0 (0.0%) Missing 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 129 (0.7%) 0 (0.0%) Age (years) Mean age (SD) 58.5 (17.0) 44.1 (13.4) 48.4 (14.6) 54.4 (14.3) 31.8 (12.8) 46.7 (5.5) 56.4 (14.3) 48.6 (15.8) 18–29 5547 (8.0%) 1778 (13.3%) 8897 (10.3%) 1472 (6.4%) 11 716 (60.6%) – 986 (5.3%) 3940 (13.9%) 30–39 6878 (10.0%) 3779 (28.4%) 17 863 (20.7%) 2238 (9.8%) 2861 (14.8%) 11 193 (8.5%) 1798 (9.7%) 5218 (18.4%) 40–49 9265 (13.4%) 3329 (25.0%) 19 412 (22.5%) 4043 (17.7%) 2315 (12.0%) 83 164 (62.8%) 2567 (13.9%) 5411 (19.1%) 50–59 11 303 (16.4%) 2518 (18.9%) 18 968 (22.0%) 5871 (25.7%) 1609 (8.3%) 36 195 (27.3%) 4055 (21.9%) 6043 (21.4%) 60–69 8656 (12.5%) 1379 (10.4%) 13 505 (15.7%) 5890 (25.8%) 656 (3.4%) 1801 (1.4%) 5526 (29.8%) 4462 (15.8%) 70þ 27 324 (39.6%) 546 (4.1%) 7471 (8.7%) 3334 (14.6%) 186 (1.0%) 98 (0.0%) 3376 (18.2%) 3237 (11.4%) Missing – – – – – 35 (0.0%) 210 (1.1%) – Education Compulsory 3956 (5.7%) 277 (2.1%) 3057 (3.6%) 3305 (14.5%) 91 (0.5%) 3536 (2.7%) 1538 (8.3%) d\n\nUpper secondary, 2252 (3.3%)* 5101 (38.3%) 34 475 (40.0%) 7080 (31.0%) 3194 (16.5%) 43 137 (32.6%) 6153 (33.2%) Vocational, or otherc\n\nBachelor’s/diploma 47 056 (68.2%) 3638 (27.3%) 20 816 (24.2%) 7161 (31.3%) 7468 (38.6%) 43 426 (32.8%) 4204 (22.7%) university degree Master’s or PhD 14 502 (21.0%) 4155 (31.2%) 27 125 (31.5%) 5148 (22.5%) 3739 (19.3%) 29 358 (22.2%) 4526 (24.4%) No formal education 818 (1.2%) – 185 (0.2%) – – – 385 (2.1%) Missing 389 (0.6%) 158 (1.2%) 458 (0.5%) 155 (0.7%) 4510 (25.1%) 13 029 (9.8%) 1712 (9.2%) Marital status In a relationship 41 721 (60.5%) – 62 546 (72.6%) 17 455 (76.4%) 8690 (43.3%) – 13 962 (75.4%) 20 500 (72.4%) Single 26 554 (38.5%) 22 960 (26.7%) 5292 (23.2%) 10 974 (56.7%) 4185 (22.6%) 7664 (27.1%) Missing 698 (1.0%) 610 (0.7%) 102 (0.4%) 0 (0.0%) 371 (2.0%) 147 (0.5%) Body mass index (BMI, kg/m2) <25, normal weight 30 681 (44.4%) 5840 (43.8%) 38 147 (44.3%) 6601 (28.9%) – 34 910 (43.5%) 7190 (38.8%) 14 467 (51.1%) 25–30, overweight 26 599 (38.6%) 4002 (30.0%) 27 586 (32.0%) 8797 (38.5%) 30 300 (37.7%) 6296 (34.0%) 8169 (28.9%) >30, obese 10 985 (15.9%) 2531 (19.0%) 18 139 (21.1%) 6881 (30.1%) 13 876 (17.3%) 4644 (25.1%) 3707 (13.1%) Missing 708 (1.0%) 956 (7.2%) 2244 (2.6%) 570 (2.5%) 1188 (1.5%) 388 (2.1%) 1968 (6.9%)\n\n(Continued)",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p6",
+        "source_issue_ids": [],
+        "text": "International Journal of Epidemiology, 2022, Vol. 51, No. 3 e113\n\nTable 1 Continued\n\nDenmark Estonia Estonia Iceland Norway Norway Scotland/UK Sweden (DBDS) (EstBB-C19) (EstBB-MHDC) (C19-Resilience) (BRY.DEG2020) (MoBa)b (GS/CovidLife) (Omtanke2020) (N ¼ 68 973) (N ¼ 13 329) (N ¼ 86 116) (N ¼ 22 849) (N ¼ 19 343) (N ¼ 132 486) (N ¼ 18 518) (N ¼ 28 311)\n\nNone 15 452 (22.4%) 7469 (56.0%) d 13 359 (58.5%) – 94 375 (71.2.%) 11 231 (60.6%) 18 726 (66.1%) One 15 786 (22.9%) 3914 (29.4%) 6577 (28.8%) 17 671 (13.3%) 5076 (27.4%) 6500 (23.0%) Two 10 046 (14.6%) 1004 (7.5%) 2112 (9.2%) 2141 (1.6%) 1501 (8.1%) 1731 (6.1%) >Two 7716 (11.2%) 410 (3.1%) 650 (2.8%) 302 (0.2%) 425 (2.3%) 604 (2.1%) Missing 19 973 (29.0%) 532 (4.0%) 151 (0.7%) 17 997 (13.6%) 285 (1.5%) 750 (2.6%) COVID-19 diagnosis No 49 460 (71.7%) 9863 (74.0%) d 21 916 (95.9%) 16 625 (86.0%) 130 889 (98.8%) 15 109 (88.9%) 11 887 (42.0%) Yes 3000 (4.3%) 3356 (25.2%) 933 (4.1%) 2671 (13.8%) 1597 (1.2%) 1706 (10.1%) 2387 (8.4%) Missing 16 513 (24.0%) 110 (0.8%) 0 (0.0%) 47 (2.4%) 0 (0.0%) 182 (1.1%) 14 037 (49.6%)c\n\nCurrent smoking No 62 345 (90.4%) 10 944 (82.1%) 63 877 (74.2%) 19 900 (87.1%) 15 643 (80.9%) 84 523 (63.8%) 16 413 (88.6%) 22 824 (80.6%) Yes 6549 (9.5%) 1787 (13.4%) 19 049 (22.1%) 2808 (12.3%) 3700 (19.1%) 8383 (6.3%) 1317 (7.1%) 4662 (16.5%) Missing 79 (0.1%) 598 (4.5%) 141 (0.6%) – 39 580 (29.9%) 788 (4.3%) 825 (2.9%) Somatic diseasesa\n\nMissing means not tested in Sweden. SD, standard deviation. aSomatic diseases include hypertension, heart disease, lung disease, chronic renal failure, cancer, diabetes or immune suppression/immunosuppressive therapy. bAmount of missing in MoBa data also reﬂects MoBa Corona data collections with varying response rate. cVocational school was in the same category as Bachelor’s/diploma university degree for Danish cohort. dWill be obtained from registers.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p7",
+        "source_issue_ids": [],
+        "text": "e114 International Journal of Epidemiology, 2022, Vol. 51, No. 3\n\ncollection (EstBB-C19) was established in May 2020 when invitations to fill in web-based questionnaires, including questions on COVID-19 symptoms and associated risk factors as well as mental health assessments, were sent out to EstBB participants who had been tested for SARS-CoV-2 with a reverse transcription polymerase chain reaction (RT-PCR) test, based on EHR updates. Personal invitations were sent out between May and December 2020, and thereafter the questionnaire was available to the full EstBB cohort upon login to the online participant survey environment. Currently, 13 329 individuals have responded (participation rate 12.4%). A more comprehensive mental health questionnaire-based data collection (EstBB-MHDC, N ¼ 86 116 responders) was carried out in the full EstBB cohort from March to July 2021 and is currently in preparation for analysis (participation rate 46.7%). A total of 184 622 invitations were sent out by e-mail to all living EstBB participants with a valid e-mail address and the recruitment was ac-companied by a media campaign to increase participation rate. The EstBB C19 and MHDC cohorts over-represent women, individuals between 30 and 59years of age and those with higher education, when compared with the general population of Estonia. The research in the Estonian Biobank was supported by the European Union through the European Regional Development Fund (project no. 2014-2020.4.01.15- 0012), and the Estonian Research Council through grant no. PSG615, the programme Mobilitas Pluss (MOBTP142), funding of Estonian sub-project of NordForsk project no. 105668, and National Programme for Addressing Socio-Economic Challenges through R&D (RITA), supported by the Estonian Government and European Regional Development Fund (RITA1/02-112).\n\nThe Icelandic COVID-19 national resilience cohort (C-19 Resilience)\n\nC-19 Resilience was established in April 2020, with the overarching aim of understanding the long-term public health impact of the COVID-19 pandemic in Iceland. Eligible for participation were all Icelandic and English-speaking individuals 18 years or older who had an Icelandic electronic ID (as of 1 January 2020, the total adult population was 282 770). Recruitment was obtained via social media and invitations were sent to participants in ongoing cohort studies in Iceland [the SAGA cohort (N ¼ 31 795 women), iStopMM (N ¼ 80 730 men and women) and Health and Well-being of Icelanders (N ¼ 6102 men and women)]. In addition, all individuals in Iceland who tested positive for SARS-CoV-2 by RT-PCR in Iceland through 2020 received an invitation in June 2020 and February 2021 (N ¼ 4262; response rate 21.8%). All participants signed an electronic informed\n\nconsent and subsequently answered a web-based questionnaire. To August 2021, two waves of follow-ups have been completed with 24 917 providing informed consent (8.8% of the total population); 22 849 of these participants have complete data, of whom 15 832 (63.5%) have provided data at more than one time point). Participants lost to follow-up are slightly younger (mean age 52.3 years vs 55.1 years) but only minor differences were found for sex and education. The C-19 Resilience cohort is over-represented by women and participants are on average of higher age and education compared with the general population. The study was originally supported with funds from the Icelandic government.\n\nThe Norwegian BRY.DEG2020\n\nBRY.DEG2020 (TAKE.CARE2020) is a longitudinal survey study established in March 2020 at the University of Bergen and Haukeland University Hospital, with the overarching aim to monitor the effect of the pandemic and its restrictions on mental health, using self-report data. Participants were recruited via social media and e-mail lists for universities across Norway and from patient organiza-tions. Participants aged 18 years and older signed an informed consent before answering the survey. The first study wave was sent out in April 2020 (N ¼ 19 343, of whom 13 500 agreed to be recontacted), the second in December 2020 (N ¼ 6320) and the third is planned in October 2022.27 Compared with the general Norwegian population, women and young individuals with higher education are ove-rrepresented in BRY.DEG2020. The group lost to follow-up differed from those remaining by having a lower age (mean age 30.6 vs 34.7 years), more men, more students and fewer with a completed bachelor’s degree. The project was funded by the University of Bergen and Helse Bergen.\n\nThe Norwegian Mother, Father and Child Cohort study (MoBa)\n\nMoBa is a population-based pregnancy cohort study conducted by the Norwegian Institute of Public Health.28\n\nPregnant women attending a routine ultrasound examina-tion were invited and recruited from all over Norway in 1999–2008. The participation rate is 41%. During the pregnancy and with regular follow-up questionnaires, participants (mothers, fathers and children) have completed extensive questionnaires on lifestyle, health and well-being. The cohort now includes 114 500 children (aged 12–22 years), 95 200 mothers and 75 200 fathers. Since March 2020, all adult MoBa participants have been invited to complete short bi-weekly COVID-19 surveys,",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p8",
+        "source_issue_ids": [],
+        "text": "International Journal of Epidemiology, 2022, Vol. 51, No. 3 e115\n\nwith some repeated questions. As of August 2021, 35 waves of data collection have been completed, including responses from more than 132 486 adults (participation rate ranging from 46% to 83%). Like in other pregnancy cohorts, MoBa participants have healthier lifestyle and higher socioeconomic position than the general population. Younger women, smokers and women with low educational level were less likely to participate.29 MoBa is supported by the Norwegian Ministry of Health and Care Services and the Ministry of Education and Research. MoBa researchers and the COVID-19 data collection in MoBa are supported by the Research Council of Norway (223 273, 273 291, 312 721, 324 620).\n\nThe Scottish Generation Scotland study\n\nThe Scottish Generation Scotland study (GS)30 is a population- and family-based cohort with broad consent for genetic, health, well-being and lifestyle studies. The main recruitment (24 096 individuals in 5501 family groups) took place during 2006–11. In 2020, a series of CovidLife surveys31 were conducted to measure mental health during the COVID-19 pandemic. Survey invitations were sent to 22 796 members of GS who provided an e-mail address for recontact, as well as to other adults in the UK through col-laborators and social media channels. The first wave ran from April 2020 [N ¼ 18 518, of whom 16 995 resided in Scotland, 1395 elsewhere in the UK and 4847 were GS participants (21.3% of those invited)], the second from July 2020 (N ¼ 11 319) and the third from February 2021 (N ¼ 10 386). Women, participants aged over 50 and those with higher qualifications were over-represented in the CovidLife sample compared with the Scottish population. Except for age, demographics (e.g. sex and education) remained largely consistent with those reported at baseline, suggesting minimal effects of attrition. The mean age was higher in follow-ups (FU) (FU1 ¼ 58.6 years, FU2 ¼ 59.0 years) than at baseline (56.4 years). GS received sup-port from the Chief Scientist Office of the Scottish Government Health Directorates (CZD/16/6) and the Scottish Funding Council (HR03006) and is currently supported by the Wellcome Trust (216767/Z/19/Z). Recruitment to the CovidLife study was facilitated by SHARE, the Scottish Health Research Register and Biobank. SHARE is supported by NHS Research Scotland, the Universities of Scotland and the Chief Scientist Office of the Scottish Government.\n\nThe Swedish Omtanke2020\n\nWith funding from Swedish Research Council (grant number D0886501), Omtanke2020 started in June 2020 and is an\n\nongoing prospective, longitudinal cohort study with monthly data collections from volunteering participants through online surveys. It is open to participation to all residents of Sweden who are 18years or older, and have the electronic identification BankID. Participants are recruited through mass media or invitations sent to participants of existing cohorts [mainly LifeGene (N ¼ 3592), KARMA (N ¼ 5342, all women), Swedish Twin Registry (N ¼ 3460); participation rate is 7–11%, depending on the cohort]. Recruitment ended on 8 June 2021. To August 2021, up to 12 waves (baseline and 11 follow-ups) have been completed [baseline (N ¼ 28 293 completed/28 614 started), FU1 (N ¼ 20 543), FU2 (N ¼ 17 743), FU3 (N ¼ 14 619), FU4 (N ¼ 12 790), FU5 (N ¼ 11 506), FU6 (N ¼ 10 629, long follow-up), FU7 (N ¼ 9496), FU8 (N ¼ 7107), FU9 (N ¼ 4757), FU10 (N ¼ 3303) and FU11 (N ¼ 2208, last monthly follow-up)]. Waves 2–12 are still open, but currently participants aged 50years or younger and men are slightly more likely to drop out. Mean age for those who dropped out after baseline is 45.3years and the mean age for those who filled out at least one follow-up survey is 49.5years. Compared with the general population of Sweden, women, persons aged between 40 and 69years and urban residents are over-represented in the cohort. Further information will be obtained through annual follow-ups (starting Winter 2021/22) and linkage to Swedish population and health registers as well as the existing cohorts.\n\nWhat has been measured?\n\nQuestionnaires in all cohorts include several validated mental health instruments, including screening measures for depressive symptoms [measured with Patient Health Questionnaire- 9 (PHQ-9),32 Emotional State Questionnaire (EST-Q2)],33,34\n\nanxiety [General Anxiety Disorder-7 (GAD-7),35 EST-Q2,34\n\nthe Dimensional Obsessive-Compulsive Scale (DOCS-SF)],36\n\nPTSD [the Primary Care PTSD Screen for DSM-5 (PC-PTSD- 5),37 PTSD Checklist for DSM-5 (PCL) short form],38 stress [Perceived Stress Scale 4 (PSS-4),39 Perceived Stress Scale 10 (PSS-10),40 Impact of Event Scale—Revised (IES-R-15)],41\n\nloneliness [UCLA Loneliness Scale version 3 (UCLA-3),42\n\nEST-Q2)]34 sleep [Pittsburgh Sleep Quality Index (PSQI),43\n\nEST-Q2,34 Bergen Insomnia Scale (BIS)],44 fatigue [EST-Q2,34 Chalder Fatigue Questionnaire (CFQ)],45 cognitive function [Patient-Reported Outcomes Measurement Information System (PROMIS) short form]46 as well as happiness (summarized in Table 2). In addition, participants in each cohort answered extensive questionnaires on general health and working and life conditions during COVID-19, as well as questions on COVID-19-specific factors, such as COVID-19 symptoms, SARS-CoV-2 infection status and hos-pitalization (see Supplementary Table S2, available as",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1093/ije/dyab234",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_sha256": "7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+          "source_url": "https://doi.org/10.1093/ije/dyab234"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280:p9",
+        "source_issue_ids": [],
+        "text": "e116 International Journal of Epidemiology, 2022, Vol. 51, No. 3\n\nTable 2 Validated mental health instruments in the COVIDMENT cohorts, including register data\n\nDenmark Estonia Estonia Iceland Norway Norway Scotland/UK Sweden DBDS EstBB-C19 EstBB-MHDC C19-Resilience BRY.DEG2020 MoBa GS/CovidLife Omtanke2020\n\nDepression PHQ-9 EST-Q2 EST-Q2 PHQ-9 PHQ-9 PHQ-9 PHQ-9 PHQ-9 Anxiety ASS EST-Q2 EST-Q2 GAD-7 GAD-7; GAD-7 GAD-7 GAD-7 DOCS-SF PTSD PC-PTSD-5 PCL short form PC-PTSD-5 (modiﬁed) PC-PTSD-5 PC-PTSD-5 (modiﬁed) Stress PSS-10 Single item PSS-4 IES-R-15 PSS-4 PSS-4; PSS-4 Stressed by C19 Mental health (general) SF-12 Single item SRMH HSCL-5 SWEMWBS SRMH\n\n* * x/* x/* x x x x\n\nPre-existing psychiatric conditions\n\nHappiness Single item Single item Single item SWLS Single item Loneliness UCLA-3 Single item from EST-Q2 Single item from EST-Q2 Single item from UCLA UCLA-3 Single item Single item\n\nEST-Q2 EST-Q2 5 items from the PSQI BIS PSQI Average hours, 5 items from PSQI sleep quality\n\nSleep Sleep quality; insomnia; daytime fatigue; restless legs; average hours\n\nFatigue Daytime fatigue (3 items) EST-Q2 EST-Q2 Single item Single item CFQ; Single item (since July 2021) long Covid items Cognitive function Four items PROMIS short form Difﬁculty concentrating; harder to ﬁnd the right word; memory\n\nDigit-symbol, Difﬁculty concentrating (since July 2021)\n\nverbal ﬂuency, vocabulary, logical memory\n\nData from surveys are marked with x; register data are marked with *. PHQ-9 , Patient Health Questionnaire;29 EST-Q2 , Emotional State Questionnaire;30 GAD-7 , General Anxiety Disorder;31 ASS, Angst-Symptom-Spørgeskemaet;44 DOCS-SF, Dimensional Obsessive-Compulsive Scale;32 PC-PTSD-5 , Primary Care PTSD Screen for DSM-5;33 PCL, PTSD Checklist;34 PSS-435/PSS-10,36 Perceived Stress Scale; IES-R-15 , Impact of Event Scale—Revised;37 SRHM, Self-rated Mental Health;45 SF-12 , Short-Form Health Survey;46 HSCL-547, Hopkins Symptom Checklist; SWEMWBS, Short Warwick-Edinburgh Mental Well-being Scale;48 SWLS, Satisfaction With Life Scale;49 UCLA-3 , Loneliness Scale Version 3;50 PSQI-9 , Pittsburgh Sleep Quality Index39 BIS, Bergen Insomnia Scale;40 CFQ, Chalder Fatigue Scale;41 PROMIS, Patient-Reported-Outcomes-Measurement Information System.42",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280"
+}

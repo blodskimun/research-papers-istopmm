@@ -1,0 +1,471 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:10:32.730963+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Gastrointestinal bleeding as initial presentation of extramedullary plasma cell neoplasms: A case report and review of the literature",
+        "year": null
+      },
+      "doi": "10.4253/wjge.v11.i4.308",
+      "format": "pdf",
+      "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+      "url": "https://doi.org/10.4253/wjge.v11.i4.308"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p1",
+        "source_issue_ids": [],
+        "text": "W J G E\n\nWorld Journal of Gastrointestinal Endoscopy\n\nSubmit a Manuscript: https://www.f6publishing.com World J Gastrointest Endosc 2019 April 16; 11(4): 308-321\n\nDOI: 10.4253/wjge.v11.i4.308 ISSN 1948-5190 (online)\n\nCASE REPORT\n\nGastrointestinal bleeding as initial presentation of extramedullary plasma cell neoplasms: A case report and review of the literature\n\nEvangelia Iosif, Clare Rees, Salome Beeslaar, Awad Shamali, Roberto Lauro, Charis Kyriakides\n\nORCID number: Evangelia Iosif (0000-0002-6369-7568); Clare Rees (0000-0002-6560-9242); Salome Beeslaar (N/A); Awad Shamali (Not applicable); Roberto Lauro (0000-0001-7344-9472); Charis Kyriakides (N.A.).\n\nAuthor contributions: Iosif E, Shamali A, Kyriakides C and Lauro R designed the study; Iosif E, Rees C, Beeslar S contributed to data acquisition and interpretation; Iosif E, Rees C and Kyriakides C wrote the manuscript. The final manuscript was approved by all authors. Rees C and Kyriakides C were the supervising consultants.\n\nInformed consent statement: Informed consent obtained from the patient in the form of pre-operative written consent.\n\nConflict-of-interest statement: All authors declare no conflict of interest for this article.\n\nCARE Checklist (2016) statement: The authors have read the CARE Checklist (2016), and the manuscript was prepared and revised according to the CARE Checklist (2016).\n\nOpen-Access: This article is an open-access article which was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works\n\nEvangelia Iosif, Awad Shamali, Roberto Lauro, Charis Kyriakides, Department of Gastrointestinal Surgery, Frimley Park Hospital, Frimley, Camberley GU16 7UJ, United Kingdom\n\nClare Rees, Department of Haematology, Frimley Park Hospital, Frimley, Camberley GU16 7UJ, United Kingdom\n\nSalome Beeslaar, Department of Histopathology, Frimley Park Hospital, Frimley, Camberley GU16 7UJ, United Kingdom\n\nCorresponding author: Evangelia Iosif, MD, MSc, Surgeon, Department of Gastrointestinal Surgery, Frimley Park Hospital, Frimley Health NHS Foundation Trust, Portsmouth Road, Frimley, Camberley GU16 7UJ, United Kingdom. e.iosif@nhs.net Telephone: +44-125-2649406\n\nAbstract\n\nBACKGROUND Plasma-cell neoplasms rarely involve the gastrointestinal tract and manifest as gastrointestinal bleeding. Plasmablastic myeloma is an aggressive plasma cell neoplasm associated with poor outcomes. A small number of cases with gastrointestinal involvement is reported in the literature and therefore high index of suspicion is essential for avoiding delays in diagnosis and treatment.\n\nCASE SUMMARY Our aim is to present our experience of a 70-year-old patient with a secondary presentation of plasmablastic myeloma manifesting as unstable upper gastrointestinal bleeding and to review the literature with the view to consolidate and discuss information about diagnosis and management of this rare entity. In addition to our case, a literature search (PubMed database) of case reports of extramedullary plasma cell neoplasms manifesting as upper gastrointestinal bleeding was performed. Twenty-seven cases of extramedullary plasmacytoma (EMP) involving the stomach and small bowel presenting with upper gastrointestinal bleeding were retrieved. The majority of patients were males (67%). The average age on diagnosis was 62.7 years. The most common site of presentation was the stomach (41%), followed by the duodenum (15%). The most common presenting complaint was melena (44%). In the majority of cases, the EMPs were a secondary manifestation (63%) at the background of multiple myeloma (26%), plasmablastic myeloma (7%) or high-grade plasma cell myeloma (4%). Oesophagogastroscopy was the main diagnostic modality and chemotherapy the preferred treatment option for secondary EMPs.\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4 308",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p10",
+        "source_issue_ids": [],
+        "text": "Figure 5\n\nIosif E et al. Gastrointestinal bleeding in EMPs\n\nFigure 5 Location in the gastrointestinal tract of the extramedullary plasma cell neoplasms in the case reports reviewed.\n\nthe infiltration of the ileal wall with pleomorphic plasma cell infiltrates in the form of EMP and to the potential coagulopathy due to IgG lambda paraproteinaemia (level prior to treatment 17 g/L).\n\nOnce the patients are clinically stable and the diagnosis of extramedullary plasma cell neoplasm has been established, it is vital to confirm whether there is bone marrow involvement as this will not only affect the choice of treatment but also the prognosis[1]. The presence of clonal plasma cells in the bone marrow in association with the presence of M-protein in serum or urine and evidence of end organ dysfunction differentiates cases of secondary extramedullary involvement from cases of primary EMPs[28,33,39]. In general, primary EMPs have a more favourable prognosis than extramedullary manifestations of plasma cell myelomas.\n\nThe decision for the treatment pathway arises from multidisciplinary team discussions and it is usually in the form of local radiotherapy and surgery for cases of primary extramedullary plasma cell neoplasms and systemic chemotherapy for secondary neoplasms. Systemic therapy is in the form of induction chemotherapy with immunomodulatory agents (e.g., thalidomide), proteasome inhibitors (bortezomib) and corticosteroids (e.g., dexamethasone) which can be reinforced with autologous hematopoietic stem cell transplantation[1,32]. Autologous stem cell transplantation can prolong overall survival[40]. In our case, VCD regimen was attempted initially. Velcade (Bortezomib) is an inhibitor of ubiquitin-mediated proteasome degradation, and its combination with the alkylating agent cyclophosphamide and dexamethasone constitutes first line induction regimen. Due to progression of the disease we escalated to BTD regimen, introducing the thalidomide which it is broadly used in current practice for patients who relapse early after initial chemotherapy[41-43]. Thalidomide is a glutamic acid derivative which inhibits the production of tumour necrosis factor a (TNFa) and angiogenic cytokines inhibiting angiogenesis in plasma cell myelomas[32]. A thalidomide analogue, called lenalidomide can also be used in relapse refractory cases and was indeed used as third line in our case. Lenalidomide is a third-generation immunomodulatory medication with anti-TNF and anti-cancer activity[32,44,45].\n\nThe information provided in the cases we have reviewed about the outcome and prognosis of the patients with gastrointestinal bleeding is very scattered. However, we acknowledge the presence of poor prognostic factors for plasma cell neoplasms in literature. Plasmablastic variant tends to have worse prognosis than other plasma cell neoplasms[31]. The International staging system is used as a prognostic tool to estimate median survival based on the albumin and β2 microglobulin levels. Stage I with β2 microglobulin < 3.5 mg/L and albumin > 35g/L is associated with the best prognosis and a median survival of 62 mo. This was not the case with our patient who was categorised as ISS stage III on diagnosis with β2 microglobulin of > 5.5 mg/L and a median survival of 29 mo[32,46,47]. Numerous genetic alterations have also been associated with tumour progression and aggressive behaviour including chromosome 1q21 amplifications, and 1p deletions, KRAS and TP53 mutations and finally translocations of MYC[31], supporting the fact that cytogenetic or FISH analyses should\n\n317\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p11",
+        "source_issue_ids": [],
+        "text": "Iosif E et al. Gastrointestinal bleeding in EMPs\n\nFigure 6\n\nFigure 6 Main presenting complaints described in the case reports reviewed. UGI: Upper gastrointestinal.\n\nbe performed in all cases of plasma cell myelomas to define prognosis[33]. Further markers of poor prognosis and tumour aggressiveness that were demonstrated in our case was the nuclear expression of cyclin D1 at the small bowel segment, and the Ki- 67 expression[48,49].\n\nCONCLUSION\n\nAlthough very rare in presentation, upper gastrointestinal extramedullary plasma cell tumours should be considered in the differential diagnosis of patients with gastrointestinal bleeding especially in the presence of a concurrent systemic haematological malignancy. The presence of gastrointestinal involvement and aggressive behaviour of this plasma cell neoplasm are associated with poor prognosis despite aggressive therapy and it is therefore fundamental to establish an accurate diagnosis early in order to avoid any delays in treatment.\n\n318\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p12",
+        "source_issue_ids": [],
+        "text": "Figure 7\n\nIosif E et al. Gastrointestinal bleeding in EMPs\n\nFigure 7 Primary of secondary nature of the extramedullary plasmacytomas described in the case reports reviewed. EMP: Extramedullary plasmacytoma; MM: Multiple myeloma.\n\nFigure 8\n\nFigure 8 Associated clinical manifestations of extramedullary plasmacytomas apart from gastrointestinal bleeding described in the case reports reviewed. GI: gastrointestinal; EMP: Extramedullary plasmacytoma; UGI: Upper gastrointestinal.\n\nREFERENCES\n\n1 Lopes da Silva R. Extramedullary plasmacytoma of the small intestine: clinical features, diagnosis and treatment. J Dig Dis 2012; 13: 10-18 [PMID: 22188911 DOI: 10.1111/j.1751-2980.2011.00544.x] 2 Lin M, Zhu J, Shen H, Huang J. Gastrointestinal bleeding as an initial manifestation in asymptomatic multiple myeloma: A case report and review of the literature. Oncol Lett 2013; 5: 218-220 [PMID: 23255923 DOI: 10.3892/ol.2012.945] 3 Daram SR, Paine ER, Swingley AF. Upper gastrointestinal bleeding in a patient with multiple myeloma. Gastroenterology 2012; 142: e8-e9 [PMID: 22197163 DOI: 10.1053/j.gastro.2011.02.069] 4 DiMinno G, Coraggio F, Cerbone AM, Capitanio AM, Manzo C, Spina M, Scarpato P, Dattoli GM, Mattioli PL, Mancini M. A myeloma paraprotein with specificity for platelet glycoprotein IIIa in a patient with a fatal bleeding disorder. J Clin Invest 1986; 77: 157-164 [PMID: 2935559 DOI: 10.1172/JCI112270] 5 Saif MW, Allegra CJ, Greenberg B. Bleeding diathesis in multiple myeloma. J Hematother Stem Cell Res 2001; 10: 657-660 [PMID: 11672511 DOI: 10.1089/152581601753193869] 6 Chang SS, Lu CL, Tsay SH, Chang FY, Lee SD. Amyloidosis-induced gastrointestinal bleeding in a patient with multiple myeloma. J Clin Gastroenterol 2001; 32: 161-163 [PMID: 11205655 DOI: 10.1097/00004836-200102000-00015]\n\n319\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p13",
+        "source_issue_ids": [],
+        "text": "Iosif E et al. Gastrointestinal bleeding in EMPs\n\n7 Line DH, Lewis RH. Gastric plasmacytoma. Gut 1969; 10: 230-233 [PMID: 5781143 DOI: 10.1136/gut.10.3.230] 8 Yasar B, Gunes P, Guler O, Yagcı S, Benek D. Extramedullary relapse of multiple myeloma presenting as massive upper gastrointestinal bleeding: a rare complication. Korean J Intern Med 2015; 30: 538-539 [PMID: 26161021 DOI: 10.3904/kjim.2015.30.4.538] 9 Krishnamoorthy N, Bal MM, Ramadwar M, Deodhar K, Mohandas KM. A rare case of primary gastric plasmacytoma: an unforeseen surprise. J Cancer Res Ther 2010; 6: 549-551 [PMID: 21358099 DOI: 10.4103/0973-1482.77067] 10 Morinaga R, Otsu S, Kashima K, Watanabe K. Extramedullary plasmacytoma as an uncommon cause of gastrorrhagia. Intern Med 2010; 49: 1679-1680 [PMID: 20686317 DOI: 10.2169/internalmedicine.49.3778] 11 Ruiz Montes F, Reñé Espinet JM, Buenestado García J, Panades Siurana MJ, Egido García R, Ramos Yañez J. Primary gastric plasmacytoma of rapid growth presenting with upper gastrointestinal bleeding. Am J Gastroenterol 1995; 90: 1349-1350 [PMID: 7639249] 12 Katodritou E, Kartsios C, Gastari V, Verrou E, Mihou D, Banti A, Lazaraki G, Lazaridou A, Kaloutsi V, Zervas K. Successful treatment of extramedullary gastric plasmacytoma with the combination of bortezomib and dexamethasone: first reported case. Leuk Res 2008; 32: 339-341 [PMID: 17560647 DOI: 10.1016/J.LEUKRES.2007.04.016] 13 Chim CS, Wong WM, Nicholls J, Chung LP, Liang R. Extramedullary sites of involvement in hematologic malignancies: case 3. Hemorrhagic gastric plasmacytoma as the primary presentation in multiple myeloma. J Clin Oncol 2002; 20: 344-347 [PMID: 11773190 DOI: 10.1200/JCO.2002.20.1.344] 14 Sanal SM, Yaylaci M, Mangold KA, Pantazis CG. Extensive extramedullary disease in myeloma. An uncommon variant with features of poor prognosis and dedifferentiation. Cancer 1996; 77: 1298-1302 [PMID: 8608506 DOI: 10.1002/(SICI)1097-0142(19960401)77:7<1298::AID-CNCR11>3.0.CO;2-X] 15 Güngör G, Göktepe MH, Kayaçetın E, Tuna T, Esen H, Demır A. Atypical gastrointestinal plasmacytomas presenting with gastrointestinal bleeding in a patient with multiple myeloma. Turk J Gastroenterol 2012; 23: 85-87 [PMID: 22505389 DOI: 10.4318/TJG.2012.0331] 16 Sloyer A, Katz S, Javors FA, Kahn E. Gastric involvement with excavated plasmacytoma: case report and review of endoscopic criteria. Endoscopy 1988; 20: 267-269 [PMID: 3049053 DOI: 10.1055/S-2007-1018190] 17 Hamilton JW, McCluggage WG, Jones F, Collins J. Extramedullary gastric plasmacytoma. Ulster Med J 1999; 68: 103-105 [PMID: 10661638] 18 Gradishar W, Recant W, Shapiro C. Obstructing plasmacytoma of the duodenum: first manifestation of relapsed multiple myeloma. Am J Gastroenterol 1988; 83: 77-79 [PMID: 3337064] 19 Siddique I, Papadakis KA, Weber DM, Glober G. Recurrent bleeding from a duodenal plasmacytoma treated successfully with embolization of the gastroduodenal artery. Am J Gastroenterol 1999; 94: 1691- 1692 [PMID: 10364048 DOI: 10.1111/j.1572-0241.1999.01166.x] 20 Fowell AJ, Poller DN, Ellis RD. Diffuse luminal ulceration resulting from duodenal plasmacytoma. Gastrointest Endosc 2007; 65: 707-708 [PMID: 17173910 DOI: 10.1016/J.GIE.2006.08.015] 21 Licci S. Duodenal localization of plasmablastic myeloma. World J Gastrointest Pathophysiol 2017; 8: 93- 95 [PMID: 28573072 DOI: 10.4291/wjgp.v8.i2.93] 22 Maskin LP, Díaz MF, Hlavnicka A, Rubio H, de la Cámara A, Gastaminza MM, Wainsztein NA. Gastrointestinal bleeding secondary to multiple gastric plasmacytoma. Am J Clin Oncol 2008; 31: 100-101 [PMID: 18376236 DOI: 10.1097/01.coc.0000197666.87791.61] 23 Ammar T, Kreisel F, Ciorba MA. Primary antral duodenal extramedullary plasmacytoma presenting with melena. Clin Gastroenterol Hepatol 2010; 8: A32 [PMID: 19286477 DOI: 10.1016/j.cgh.2009.03.005] 24 Wang CC, Chang MH, Lin CC. A rare cause of gastrointestinal bleeding. Multiple myeloma with extramedullary gastroduodenal plasmacytoma. Gastroenterology 2013; 145: e1-e2 [PMID: 23900105 DOI: 10.1053/j.gastro.2013.05.005] 25 Esfandyari T, Abraham SC, Arora AS. Gastrointestinal plasmacytoma that caused anemia in a patient with multiple myeloma. Nat Clin Pract Gastroenterol Hepatol 2007; 4: 111-115 [PMID: 17268546 DOI: 10.1038/ncpgasthep0719] 26 INGEGNO AP. Plasmacytoma of the gastrointestinal tract: report of a case involving the jejunum and review of the literature. Gastroenterology 1954; 26: 89-102 [PMID: 13117223] 27 Michotey G, Brunel R. [Plasmacytoma of the small intestine. A case revealed by a perforation]. Arch Fr Mal App Dig 1970; 59: 270-271 [PMID: 5463212] 28 Reddy R, Vohra S, Macurak R. Secondary Extramedullary Plasmablastic Myeloma of the Small Bowel. Clin Gastroenterol Hepatol 2015; 13: A23-A24 [PMID: 26122762 DOI: 10.1016/j.cgh.2015.06.029] 29 Fisher B, Klein DL. Metastasizing plasma cell tumor of the small bowel. Am J Gastroenterol 1975; 64: 371-375 [PMID: 813520] 30 Prachayakul V, Aswakul P, Deesomsak M, Pongpaibul A. Multifocal plasmacytoma presenting with upper gastrointestinal bleeding, chronic diarrhea, and multiple sites of small-bowel intussusception. Endoscopy 2013; 45 Suppl 2 UCTN: E84-E85 [PMID: 23526532 DOI: 10.1055/s-0032-1326262] 31 Monohan G. Plasmablastic Myeloma versus Plasmablastic Lymphoma: Different Yet Related Diseases. IJHT 2018; 6: 25-8 [DOI: 10.15406/htij.2018.06.00146] 32 Cook L, Macdonald DH. Management of paraproteinaemia. Postgrad Med J 2007; 83: 217-223 [PMID: 17403946 DOI: 10.1136/pgmj.2006.054627] 33 Campo E, Swerdlow SH, Harris NL, Pileri S, Stein H, Jaffe ES. The 2008 WHO classification of lymphoid neoplasms and beyond: evolving concepts and practical applications. Blood 2011; 117: 5019- 5032 [PMID: 21300984 DOI: 10.1182/blood-2011-01-293050] 34 Srija M, Zachariah PP, Unni VN, Mathew A, Rajesh R, Kurian G, Neeraj S, Seethalekshmi NV, Smitha NV. Plasmablastic myeloma presenting as rapidly progressive renal failure in a young adult. Indian J Nephrol 2014; 24: 41-44 [PMID: 24574631 DOI: 10.4103/0971-4065.125081] 35 Sukpanichnant S, Cousar JB, Leelasiri A, Graber SE, Greer JP, Collins RD. Diagnostic criteria and histologic grading in multiple myeloma: histologic and immunohistologic analysis of 176 cases with clinical correlation. Hum Pathol 1994; 25: 308-318 [PMID: 8150462 DOI: 10.1016/0046-8177(94)90204-6] 36 Wei A, Juneja S. Bone marrow immunohistology of plasma cell neoplasms. J Clin Pathol 2003; 56: 406- 411 [PMID: 12783964 DOI: 10.1136/jcp.56.6.406] 37 Eckert F, Schmid L, Kradolfer D, Schmid U. Bone-marrow plasmocytosis--an immunohistological study. Blut 1986; 53: 11-19 [PMID: 3719110 DOI: 10.1007/BF00320578]\n\n320\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p14",
+        "source_issue_ids": [],
+        "text": "Iosif E et al. Gastrointestinal bleeding in EMPs\n\n38 Goasguen JE, Zandecki M, Mathiot C, Scheiff JM, Bizet M, Ly-Sunnaram B, Grosbois B, Monconduit M, Michaux JL, Facon T. Mature plasma cells as indicator of better prognosis in multiple myeloma. New methodology for the assessment of plasma cell morphology. Leuk Res 1999; 23: 1133-1140 [PMID: 10613359 DOI: 10.1016/S0145-2126(99)00132-0] 39 International Myeloma Working Group. Criteria for the classification of monoclonal gammopathies, multiple myeloma and related disorders: a report of the International Myeloma Working Group. Br J Haematol 2003; 121: 749-757 [PMID: 12780789 DOI: 10.1046/j.1365-2141.2003.04355.x] 40 Attal M, Harousseau JL, Stoppa AM, Sotto JJ, Fuzibet JG, Rossi JF, Casassus P, Maisonneuve H, Facon T, Ifrah N, Payen C, Bataille R. A prospective, randomized trial of autologous bone marrow transplantation and chemotherapy in multiple myeloma. Intergroupe Français du Myélome. N Engl J Med 1996; 335: 91-97 [PMID: 8649495 DOI: 10.1056/NEJM199607113350204] 41 Barlogie B, Desikan R, Eddlemon P, Spencer T, Zeldis J, Munshi N, Badros A, Zangari M, Anaissie E, Epstein J, Shaughnessy J, Ayers D, Spoon D, Tricot G. Extended survival in advanced and refractory multiple myeloma after single-agent thalidomide: identification of prognostic factors in a phase 2 study of 169 patients. Blood 2001; 98: 492-494 [PMID: 11435324 DOI: 10.1182/blood.V98.2.492] 42 Palumbo A, Giaccone L, Bertola A, Pregno P, Bringhen S, Rus C, Triolo S, Gallo E, Pileri A, Boccadoro M. Low-dose thalidomide plus dexamethasone is an effective salvage therapy for advanced myeloma. Haematologica 2001; 86: 399-403 [PMID: 11325646] 43 Palumbo A, Bertola A, Falco P, Rosato R, Cavallo F, Giaccone L, Bringhen S, Musto P, Pregno P, Caravita T, Ciccone G, Boccadoro M. Efficacy of low-dose thalidomide and dexamethasone as first salvage regimen in multiple myeloma. Hematol J 2004; 5: 318-324 [PMID: 15297848 DOI: 10.1038/sj.thj.6200403] 44 Mazumder A, Jagannath S. Thalidomide and lenalidomide in multiple myeloma. Best Pract Res Clin Haematol 2006; 19: 769-780 [PMID: 16997182 DOI: 10.1016/j.beha.2006.06.006] 45 Mazumder A, Kaufman J, Niesvizky R, Lonial S, Vesole D, Jagannath S. Effect of lenalidomide therapy on mobilization of peripheral blood stem cells in previously untreated multiple myeloma patients. Leukemia 2008; 22: 1280-1; author reply 1281-2 [PMID: 18033320 DOI: 10.1038/sj.leu.2405035] 46 Anderson KC, Alsina M, Atanackovic D, Biermann JS, Chandler JC, Costello C, Djulbegovic B, Fung HC, Gasparetto C, Godby K, Hofmeister C, Holmberg L, Holstein S, Huff CA, Kassim A, Krishnan AY, Kumar SK, Liedtke M, Lunning M, Raje N, Singhal S, Smith C, Somlo G, Stockerl-Goldstein K, Treon SP, Weber D, Yahalom J, Shead DA, Kumar R; National Comprehensive Cancer Network. Multiple Myeloma, Version 2.2016: Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw 2015; 13: 1398-1435 [PMID: 26553768 DOI: 10.6004/jnccn.2015.0167] 47 Smith A, Wisloff F, Samson D; UK Myeloma Forum; Nordic Myeloma Study Group; British Committee for Standards in Haematology. Guidelines on the diagnosis and management of multiple myeloma 2005. Br J Haematol 2006; 132: 410-451 [PMID: 16412016 DOI: 10.1111/j.1365-2141.2005.05867.x] 48 Athanasiou E, Kaloutsi V, Kotoula V, Hytiroglou P, Kostopoulos I, Zervas C, Kalogiannidis P, Fassas A, Christakis JI, Papadimitriou CS. Cyclin D1 overexpression in multiple myeloma. A morphologic, immunohistochemical, and in situ hybridization study of 71 paraffin-embedded bone marrow biopsy specimens. Am J Clin Pathol 2001; 116: 535-542 [PMID: 11601138 DOI: 10.1309/BVT4-YP41-LCV2-5GT0] 49 Drach J, Gattringer C, Glassl H, Drach D, Huber H. The biological and clinical significance of the KI-67 growth fraction in multiple myeloma. Hematol Oncol 1992; 10: 125-134 [PMID: 1592363 DOI: 10.1002/hon.2900100209]\n\n321\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p15",
+        "source_issue_ids": [],
+        "text": "Published By Baishideng Publishing Group Inc 7041 Koll Center Parkway, Suite 160, Pleasanton, CA 94566, USA\n\nTelephone: +1-925-2238242\n\nFax: +1-925-2238243 E-mail: bpgoffice@wjgnet.com Help Desk: https://www.f6publishing.com/helpdesk\n\nhttps://www.wjgnet.com\n\n© 2019 Baishideng Publishing Group Inc. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p2",
+        "source_issue_ids": [],
+        "text": "on different terms, provided the original work is properly cited and the use is non-commercial. See: http://creativecommons.org/licen ses/by-nc/4.0/\n\nManuscript source: Unsolicited manuscript\n\nReceived: February 17, 2019 Peer-review started: February 17, 2019 First decision: March 11, 2019 Revised: March 27, 2019 Accepted: April 8, 2019 Article in press: April 9, 2019 Published online: April 16, 2019\n\nP-Reviewer: Fiori E, Lee CL S-Editor: Dou Y L-Editor: A E-Editor: Wu YXJ\n\nIosif E et al. Gastrointestinal bleeding in EMPs\n\nCONCLUSION Despite their rare presentation, upper gastrointestinal EMPs should be considered in the differential diagnosis of patients with gastrointestinal bleeding especially in the presence of systemic haematological malignancy.\n\nKey words: Gastrointestinal bleeding; Extramedullary plasma cell neoplasm; Plasmablastic myeloma; Multiple myeloma; Extramedullary plasmacytoma; Case report\n\n©The Author(s) 2019. Published by Baishideng Publishing Group Inc. All rights reserved.\n\nCore tip: The involvement of gastrointestinal tract by plasma cell neoplasms and the manifestation as gastrointestinal bleeding is very rare. However, patients can be profoundly unstable on presentation requiring immediate diagnosis and intervention. As the existing literature is very scattered and it mainly consists of case reports, we are aiming with our present work not only to describe our experience but also to review, consolidate and discuss information about diagnosis and management of this rare cause of gastrointestinal bleeding. The management these patients requires a multidisciplinary team approach and should involve not only the gastroenterology and surgical teams but also haematology and oncology teams for achievement of the best possible outcomes.\n\nCitation: Iosif E, Rees C, Beeslaar S, Shamali A, Lauro R, Kyriakides C. Gastrointestinal bleeding as initial presentation of extramedullary plasma cell neoplasms: A case report and review of the literature. World J Gastrointest Endosc 2019; 11(4): 308-321 URL: https://www.wjgnet.com/1948-5190/full/v11/i4/308.htm DOI: https://dx.doi.org/10.4253/wjge.v11.i4.308\n\nINTRODUCTION\n\nPlasmablastic myeloma is a rare variant of multiple myeloma and is categorised amongst the plasma cell neoplasms. It is characterised by the neoplastic proliferation of a single clone of plasma cells which produces a monoclonal immunoglobulin. The malignant plasmablastic clones reside in the bone marrow but in rare occasions can migrate into extramedullary tissues like the upper respiratory tract, lymph nodes, central nervous system and gastrointestinal tract and present with symptoms or complications from the organs involved. Gastrointestinal involvement includes lesions in the stomach, liver and large bowel, with involvement of the small bowel being a rare presentation.\n\nThe most frequent manifestation of gastrointestinal tract extramedullary plasma cell neoplasm is abdominal pain which can be associated with symptoms of small bowel obstruction. Gastrointestinal bleeding can also occur, more often in gastric and jejunal lesions compared to ileal. It can present as haematemesis, melena or anaemia due to chronic blood loss due to vascular or ulcerated bleeding lesions[1,2]. The pathogenesis of gastrointestinal bleeding in plasma cell myelomas is multifactorial. Direct plasma cell infiltrates in the form of extramedullary plasmacytomas (EMPs)[2,3], coagulation abnormalities as a result of paraproteinaemia[4,5], peptic ulcers secondary to corticosteroid and anti-inflammatory therapeutic regimes and[2] finally amyloid infiltrates of the bowel wall[6]. Patients presenting with GI bleeding could be challenging in diagnosis and treatment, as they might be clinically unstable requiring an immediate intervention.\n\nThe literature is scattered with case reports of patients who have been affected with extramedullary plasma cell neoplasms with gastrointestinal tract involvement, especially with GI bleeding. We are aiming not only to describe our experience of one case of upper gastrointestinal bleeding due to secondary extramedullary plasma cell neoplasm but also to provide a comprehensive review of all published cases of stomach and small bowel EMPs to date with similar presentation.\n\nCASE PRESENTATION\n\nChief complaints This is a case of a 70-year-old male patient who initially presented to his oncologist at\n\n309\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p3",
+        "source_issue_ids": [],
+        "text": "Iosif E et al. Gastrointestinal bleeding in EMPs\n\nanother hospital with right shoulder and neck pain associated with paraesthesia affecting the C8-T1 dermatome area. The patient was then admitted to our hospital under the gastroenterology team with fresh bleeding per rectum and melena.\n\nHistory of present illness Two-day history of melena and fresh PR bleeding without any abdominal pain.\n\nHistory of past illness His past medical history included essential hypertension, paroxysmal atrial fibrillation on beta blockers but not on anticoagulation, a prostatectomy (TURP) for cancer and still on hormone therapy for non- metastatic prostate cancer. To investigate his shoulder pain and paraesthesia he underwent (at his local hospital under oncology team) a magnetic resonance imaging (MRI) of his spine which revealed multiple bony lesions and a soft tissue lesion at the level of T8-T9 vertebrae. A staging computer tomography (CT) of chest, abdomen and pelvis did not reveal any additional pathology. To reduce the risk of cord compression urgent radiotherapy (five sessions) at T7-T10 level was given.\n\nPersonal and family history His family history was clear and didn’t include any haematological or gastrointestinal malignancies.\n\nPhysical examination upon admission On examination patient was pale, clammy and sweaty, hypotensive but not markedly tachycardic (on beta blockers). His abdomen was soft, mildly tender in the centre but with no signs of peritonism. Digital rectal examination revealed the presence of fresh blood and melena in the rectum.\n\nLaboratory examinations The patient’s haemoglobin on presentation was 58 g/L, MCV 92.3 fL, MCH 29 pg, MCHC 315 g/L consistent with normochromic normocytic anaemia and acute severe blood loss. His urea was raised 9.9 mmol/L sign of blood digestion in the upper gastrointestinal tract.\n\nImaging examinations When the patient presented in our Centre, due to haemodynamic instability, after initial resuscitation and blood transfusion he had an oesophagogastroscopy which apart from mild gastritis showed no cause for his symptoms. A CT angiogram did not show any signs of active bleeding but mild prominence of the colonic hepatic flexure and the rectum was reported. A subsequent colonoscopy to the terminal 30cm of ileum reported large clots in the large and small bowel but no obvious bleeding point was demonstrated. Following this, he underwent a small bowel capsule endoscopy (Figure 1) which showed mid-small bowel bleeding from a likely submucosal lesion which was associated with intestinal lymphangiectasia. As he continued to bleed a further CT angiogram was performed. This last showed a potential small bowel mass with a contrast blush suggestive of slow haemorrhage, therefore the patient was taken to theatre for an emergency laparotomy and resection of the small bowel lesion.\n\nIntra-operative findings and post-operative course The lesion was located at the proximal ileum (150 cm from DJ flexure), was resected and sent for histology and a primary side-to-side small bowel anastomosis was performed. There was no macroscopic evidence of lymphadenopathy, peritoneal or disseminated malignant disease intraoperatively. A segment of proximal ileum 95 mm in length was resected, which on opening, revealed a centrally ulcerated fungoid lesion which was 32 mm in maximum diameter and 40 mm from the nearest end resection margin. The lesion had a solid white appearance and involved the entire thickness of the bowel wall.\n\nThe patient had a smooth and uncomplicated post-operative recovery and was discharged from the hospital a week following his laparotomy.\n\nFINAL DIAGNOSIS\n\nHistopathology revealed sheets of pleomorphic cells which had a plasmacytoid appearance with highly atypical nuclei containing prominent nucleoli (Figure 2). On immunohistochemical staining the cells were positive for CD38 (Figure 3A), CD138 (Figure 3B), MUM-1 (Figure 3C), Ki 67 (MIB-1) (Figure 3D) with lambda light chain restriction (Figure 4). There was also weak nuclear expression for cyclin D1 in some of\n\n310\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p4",
+        "source_issue_ids": [],
+        "text": "Figure 1\n\nIosif E et al. Gastrointestinal bleeding in EMPs\n\nFigure 1 Images from small bowel capsule endoscopy. A: Images from small bowel capsule endoscopy demonstrates a submucosal lesion in the mid-small bowel; B-D: It demonstrates in close proximity to active bleeding, which was likely to be the cause of the patient’s presenting complain; E, F: Progressively darker bleeding towards the rest of the ileum turning to melena.\n\nthe cells. The morphological and immunophenotypical features were those of a high-grade plasma cell neoplasm.\n\nConsidering the presence of bony lytic lesions and IgG lambda paraproteinaemia (17 g/L, lambda light chains 84.1 mg/L) a diagnosis of plasma cell myeloma was given. A bone marrow biopsy confirmed the diagnosis of myeloma. This showed several markedly pleomorphic small nodular foci of tumour comprising plasmablastic cells with prominent nucleoli. Those cells, which represented 10%-15% of the marrow cellularity, were identical to the cells seen in the small bowel resection, confirming bone marrow involvement with an aggressive plasmablastic neoplasm. Bone marrow cytogenetic studies showed gain of 1q21.3, consistent with aggressive tumour behaviour.\n\nTREATMENT\n\nAfter discussion in the local network haematology multidisciplinary team meeting a trial of VCD (Velcade/ Cyclophosphamide/ Dexamethasone) chemotherapeutic regimen was given, with a view to consolidative autologous stem cell transplantation in the event of a good response. Thalidomide was avoided initially in view of perceived thrombotic risk post-surgery. Despite reduction in his paraprotein to 7 g/L, clinical examination after 2 cycles of treatment showed clear progression of a soft tissue lesion arising from the right first rib and progression was confirmed on MRI and PET-CT imaging. He wished to continue active treatment and was commenced on second-line treatment with Bendamustine/Thalidomide/Dexamethasone, with a view to switching to Lenalidomide/Ixazomib/Dexamethasone therapy in the event of disease progression.\n\nOUTCOME AND FOLLOW-UP\n\nDue to disease progression, and no further response to active treatment, the patient was fast tracked with the palliative care team involvement to Hospice where he died six months after his diagnosis.\n\n311\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p5",
+        "source_issue_ids": [],
+        "text": "Iosif E et al. Gastrointestinal bleeding in EMPs\n\nFigure 2\n\nFigure 2 Haematoxylin and eosin staining. Infiltration with sheets of neoplastic pleomorphic cells with plasmacytoid appearance involving the full thickness of the bowel wall. Plasmablasts have highly atypical nuclei with prominent nucleoli. Magnifications: A: ×4; B: ×10; C: ×20; D: ×40.\n\nDISCUSSION\n\nLiterature review methods In addition to presenting and discussing our case, a literature search (PubMed database) was performed using the following searching terms: “extramedullary plasmacytoma”, “gastrointestinal plasmacytoma”, “gastrointestinal bleeding”, “small bowel extramedullary plasmacytoma”, “plasmablastic myeloma”. The search was limited to articles published in the English language. All published case reports presenting cases of EMP manifesting as upper gastrointestinal bleeding have been analysed. The following variables have been extracted, when available: patient’s age, gender, location of EMP in the gastrointestinal tract, presenting complaint, associated symptoms, primary or secondary nature of EMP, diagnostic modalities, treatment choices and outcomes. Cases involving colonic EMP and therefore not presented as upper gastrointestinal bleeding were excluded from the analysis. GraphPad Prism 6 (GraphPad Software, San Diego, CA, United States) and Microsoft Excel (Version 16.15) were used to design the graphs extracted from our results.\n\nLiterature review results Sixty-eight cases of EMP involving the upper gastrointestinal tract have been reported in the literature[1]. Twenty-seven cases, including our case of EMP involving the stomach and small bowel presenting with upper gastrointestinal bleeding were retrieved and have been included in our analysis. Patients’ characteristics (age, gender), presenting symptoms, tumour characteristics (location, primary or secondary nature), details about diagnostic and treatment modalities and all the available information about follow up and survival are shown on (Table 1). The majority of patients were males (67% vs 18% females) and details about gender were not available in four cases (15%). The average age on diagnosis was 62.7 years. In regards to the location of the EMPs, the most common site of presentation was the stomach (41%)[7-17], followed by the duodenum (15%)[18-21], but noticeable is the presence of concurrent lesions in stomach and duodenum (22%)[2,3,22-25]. Jejunal EMPs were less common (11%)[26-28], whereas ileal presentation was the rarest and was mentioned only in one more case report apart from our case (7%)[29]. A very rare presentation with concurrent lesions in the duodenum, jejunum and ileum was also mentioned[30]\n\n(Figure 5). A total of 18% of cases had localisation distal to the Treitz ligament and therefore diagnosis was difficult using oesophagogastroscopy.\n\nGastrointestinal bleeding in these cases had different presentations. The most\n\n312\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p6",
+        "source_issue_ids": [],
+        "text": "Figure 3\n\nIosif E et al. Gastrointestinal bleeding in EMPs\n\nFigure 3 Small bowel plasmablastic myeloma staining. A: Small bowel plasmablastic myeloma positive CD38 staining. CD38 is routinely used for identification of plasma cell neoplasms and stains primarily the membrane due to expression of the transmembrane protein cyclic ADP ribose hydrolase; B: Same specimen positive for CD 138 staining. CD138 is a transmembrane heparan sulphate proteoglycan (syndecan-1). CD138 staining is positive in normal B-cell precursors and plasma cells, along as plasmablastic lymphomas and myelomas; C: Same specimen positive for MUM-1 (Multiple Myeloma-1) nuclear stain. MUM-1 is a nuclear transcriptional factor that is expressed in late plasma cell directed stages of B cell differentiation and also in activated T cells; D: Small bowel plasmablastic myeloma staining positive for Ki 67 (MIB-1). MIB-1 is the IgG1 antibody against Ki 67 which can be detected in the cellular nucleus and is a marker of cell proliferation. Strong expression of the nuclear marker Ki 67 with MIB-1 staining indicates high proliferation rate and is a sign of clinical aggressiveness.\n\ncommon presenting complaint was melena (44%)[7,9,10,13-16,18,19,23,24,29] and four patients (15%) had melena associated with anaemia[21,27,28]. In five cases (19%), the gastrointestinal bleeding was reported as Upper gastrointestinal bleeding with no further clarification[11,12,20,22,30]. Haematemesis was the presenting complaint in 7% of cases[3,26] and concurrent melena and haematemesis in 7%[8,17]. One patient presented with haematochezia (4%)[2], and one patient was found to have secondary gastroduodenal EMP as part of his investigations for anaemia[25] (Figure 6).\n\nIn the majority of the cases analysed the EMPs were a secondary manifestation (63%) at the background of either multiple myeloma (26%)[3,8,14,16,18,25] or more rarely plasmablastic myeloma (7%)[28] or high-grade plasma cell myeloma (4%)[21]. However, there were ten cases (37%)[9-12,19,20,23,26,27,29] of primary EMPs not associated with systemic disease (Figure 7).\n\nApart from the gastrointestinal bleed, other frequent clinical manifestations are demonstrated in (Figure 8) and they include abdominal pain, diarrhoea, symptoms of bowel obstruction and other gastrointestinal symptoms (jaundice, dyspepsia and anorexia). Bone pain due to bony lesions, weight loss and skin lesions were also present in cases of secondary EMP.\n\nOesophagogastroscopy was the main initial diagnostic modality used in 26 out of the 27 cases analysed. For lesions located in jejunum and ileum, where Oesophagogastroscopy was not diagnostic further investigations (small bowel capsule endoscopy, CT angiogram, laparotomy) were used.\n\nUnfortunately, we were unable to retrieve any data about the treatment eleven of the cases had because there was no information on the reports. For the remaining sixteen case reports there were ten cases of secondary EMP, eight of which received chemotherapy[2,15,17,21,25,28,30], only one radiotherapy due to patient’s co-morbid status[18]\n\nand three had surgical treatment[7,18]. The treatment modality selected for the remaining six cases of primary EMP varied between surgery in three cases[26,27,29], chemotherapy in one case[12], radiotherapy in one case[23] and embolization of gastroduodenal artery in one case[19]. Data about patients’ follow up and outcome were very scattered and incomplete and therefore no significant results and associations could be made.\n\n313\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p7",
+        "source_issue_ids": [],
+        "text": "Iosif E et al. Gastrointestinal bleeding in EMPs\n\nFigure 4\n\nFigure 4 Small bowel plasmablastic myeloma specimen. A: Small bowel plasmablastic myeloma specimen demonstrating strong staining with lambda in keeping with lambda light chain restriction; B: Same specimen showing very weak staining with kappa.\n\nDiscussion Despite plasma cell neoplasms being a rare cause of gastrointestinal bleeding, patients affected could present clinically unstable requiring an immediate intervention and therefore, by presenting a review of the above mentioned twenty-seven cases, we have created a consolidative reference for further use not only by haematologists and oncologists, who are more familiar with the presentation, diagnosis and management of these rear entities but also for all the clinicians who deal with unstable patients with gastrointestinal tract bleeding on the acute setting.\n\nBasic understanding of the biology of plasma cell neoplasms is fundamental. Plasma cell neoplasms have the mutual characteristic of neoplastic proliferation of a single clone of plasma cells which produces a monoclonal immunoglobulin[31,32]. Monoclonal immunoglobulin’s (M-protein) detection in the serum or urine indicates an underlying clonal plasma cell disorder and its level can be used to determine myeloma activity. M-protein’s properties are associated with the adverse effects that can be observed in patients with paraproteinaemia. These include its ability to agglutinate red blood cells causing increased blood viscosity and to bind into normal blood clotting factors causing bleeding and clotting abnormalities. In addition, its deposition in tissues can result in organ dysfunction and specifically its ability to bind to nerves can lead to neuropathy[32].\n\nPlasmablastic myeloma is considered a rare variant of multiple myeloma and it is categorised amongst the plasma cell neoplasms. The diagnosis of plasma cell myeloma and subsequently the diagnosis of plasmablastic variant involves: (1) the presence of M-protein in serum or urine (usually > 30 g/L of IgG in serum or > 1g/24 h of urine light chain, but no minimal levels are designated); (2) the presence of monoclonal plasma cells in bone marrow biopsy (usually > 10% of the nucleated BM cells); and (3) evidence of organ or tissue impairment related to M-protein (hypercalcaemia, renal failure, anaemia, bony lytic lesions, hyperviscosity, recurrent infections)[33]. In the cases with extramedullary involvement and gastrointestinal manifestation with gastrointestinal bleeding, attempt for direct visualisation of the bleeding lesion is recommended with diagnostic and simultaneously therapeutic purposes. Oesophagogastroscopy was the main diagnostic modality used in the majority of the cases we have reviewed, during which biopsies are retrieved to provide histopathologic confirmation. However, 18% of cases were located distal to the Treitz ligament and therefore diagnosis was difficult using oesophagogastroscopy and further investigations were required.\n\nPlasma cell neoplasms present distinct histopathological and immunohistochemical characteristics. Specifically, in plasmablastic myeloma, the abnormal plasma cells (plasmablasts) are large with hyperchromatic centrally placed nuclei (> 10 μm in diameter) and often prominent nucleoli. They have high nuclear to cytoplasmic ratio and high mitotic activity[34]. Plasma cell aggregates composed of more than 10 plasma cells with perivascular distribution can be seen in one third of the myeloma bone marrow biopsies[35,36]. Pathological plasma cells express strong CD38, CD138 and light chain restriction. CD38 stains primarily the plasma cell cytoplasmic membrane due to expression of the transmembrane protein cyclic ADP ribose hydrolase and it is routinely used for identification of plasma cell neoplasms. CD138 (syndecan-1) is a transmembrane heparan sulphate proteoglycan which is present on the cytoplasmic membrane of up to 95% of plasma cells[36]. In addition, the low ratio of cytoplasmic κ to λ light chains favours the diagnosis of myeloma versus reactive plasmacytosis[37]. If plasmablasts comprise 2% or more of the nucleated cells in the bone marrow aspirate\n\n314\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p8",
+        "source_issue_ids": [],
+        "text": "Iosif E et al. Gastrointestinal bleeding in EMPs\n\nTable 1 Case reports from the literature review performed\n\nRef. Year Age Gender Location of\n\nEMP\n\nPresenting\n\nComplaint Outcome Other symptoms\n\nPrimary or Secondary\n\nDiagnostic\n\ntests Treatment\n\nLine et al[7] 1969 46 Male Gastric Melena Dead after 2\n\nyr\n\nBone pain\n\nand swelling, weight loss,\n\nindigestion\n\nSecondary Barium\n\nmeal, laparotomy\n\nSTx\n\nYasar et al[8]\n\n2015 69 Male Gastric Melena, Haemateme\n\nsis\n\nN/A None Secondary\n\n(BG: MM)\n\nOGD N/A\n\nKrishnamo orthy et al[9]\n\nMorinaga et al[10]\n\nRuiz Montes et al[11]\n\n2010 57 Male Gastric Melena N/A None Primary OGD N/A\n\n2010 61 Male Gastric Melena N/A Abdominal\n\ndistention\n\nPrimary CT AP OGD N/A\n\n1995 N/A N/A Gastric Upper GI\n\nBleeding\n\nN/A None Primary OGD N/A\n\nKatodritou et al[12]\n\nChim et al[13]\n\nSanal et al[14]\n\nGüngör et al[15]\n\nDaram et al[3]\n\nSloyer et al[16]\n\nHamilton et al[17]\n\nMaskin et al[22]\n\n2008 68 Male Gastric Upper GI\n\nBleeding\n\nRemission 13 mo post\n\ndiagnosis\n\nNone Primary OGD CTx (Bortezomib\n\n+ Dexamethas\n\none)\n\n2002 N/A N/A Gastric Melena N/A N/A Secondary (new Dx of\n\nMM)\n\nOGD N/A\n\n1996 75 Male Gastric Melena N/A Obstructive\n\njaundice (pancreatic plasmacyto\n\nma), bony lesions, Skin\n\nlesions\n\nSecondary\n\n(BG: MM)\n\nOGD N/A\n\n2009 77 Male Gastric Melena N/A Skin lesions Secondary\n\n(BG: MM)\n\n2012 53 Female Gastric Duodenal\n\nHaemateme\n\nsis\n\nN/A None Secondary\n\n(BG: MM)\n\nOGD CTx\n\nOGD N/A\n\n1988 60 Male Gastric Melena N/A Bone pain\n\n(bony lesions)\n\n1999 53 Male Gastric Melena/Hae\n\nmatemesis\n\nDead in < 12\n\nmo\n\nEpigastric\n\npain Previous\n\norbital plasmacyto\n\nma\n\nSecondary\n\n(BG: MM)\n\nSecondary (new Dx of\n\nMM)\n\nOGD N/A\n\nOGD CTx\n\n2008 53 Male Gastric/Duo\n\ndenal\n\nUGI Bleeding\n\nN/A Back pain\n\n(bony lesions), Anorexia, Vomiting\n\nSecondary (new Dx of\n\nMM)\n\nOGD N/A\n\nAmmar et al[23]\n\n2010 69 Female Gastric/Duo\n\ndenal\n\nLin et al[2] 2012 47 Male Gastric/Duo\n\ndenal\n\nMelena Alive (report\n\nin 2012)\n\nHaemato -\n\nchezia\n\nAlive for 6-\n\nmo follow\n\nup\n\nFatigue Primary OGD RTx (Patient\n\nnot fit for ChemoTx/S urg) PTC for\n\nsubsequent\n\nbiliary obstruction\n\nPalpitations Secondary (new Dx of\n\nMM)\n\nOGD, small\n\ncapsule endoscopy\n\nCTx (Melphalan, prednisone,\n\noral thalidomide\n\n) +/- Stem\n\ncell transplantati\n\non\n\n315\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.4253/wjge.v11.i4.308",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_sha256": "2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+          "source_url": "https://doi.org/10.4253/wjge.v11.i4.308"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3:p9",
+        "source_issue_ids": [],
+        "text": "Iosif E et al. Gastrointestinal bleeding in EMPs\n\nWang et al[24]\n\nEsfandyari et al[25]\n\nGradishar et al[18]\n\nSiddique et al[19]\n\nFowell et al[20]\n\nLicci et al[21]\n\nPrachayak ul et al[30]\n\nIngegno et al[26]\n\nMichotey et al[27]\n\nReddy et al[28]\n\nFisher et al[29]\n\nMonohan et al[31]\n\n2013 52 Female Gastric/Duo\n\ndenal\n\n2007 70 Male Gastric/Duo\n\ndenal\n\nMelena Dead after 2\n\nmo\n\nBack pain,\n\nweakness\n\n(bony lesions), dyspnoea\n\n(pleural effusion)\n\nSecondary (new Dx of\n\nMM)\n\nAnaemia Dead Astenia Secondary\n\n(BG: MM)\n\n1988 65 Male Duodenal Melena Alive (reported in\n\n2012)\n\nAbdominal\n\npain, obstruction\n\nSecondary\n\n(BG: MM)\n\nOGD N/A\n\nOGD CTx\n\nOGD RTx STx\n\n1999 N/A N/A Duodenal Melena N/A None Primary OGD Gastroduod\n\nenal artery embolizatio\n\nn\n\n2007 88 Male Duodenal UGI Bleeding\n\nN/A Abdominal\n\npain, dyspepsia,\n\ndiarrhoea,\n\nfever, weight loss\n\nPrimary OGD N/A\n\n2017 60 Female Duodenal Melena Anaemia\n\nN/A Weight loss Secondary (High-grade\n\nplasma cell\n\nmyeloma)\n\nOGD CTx\n\n2013 48 Male Duodenumj\n\nejunum,\n\nileum\n\nUGI Bleeding\n\nN/A Abdominal\n\npain + Diarrhoea Bony lesions\n\nSecondary (new Dx of\n\nMM)\n\nOGD CTx\n\n1954 51 Female Jejunum Haemateme\n\nsis\n\nAlive after\n\n32 mo\n\nNone Primary OGD STx\n\n1970 N/A N/A Jejunum Melena, Anaemia\n\n2015 69 Male Jejunum Melena, Anaemia\n\nN/A Abdominal\n\npain\n\nPrimary OGD STx\n\nN/A None Secondary\n\n(BG of plasmablasti\n\nc myeloma)\n\nOGD, Small\n\nbowel endoscopy,\n\ndouble balloon endero-\n\nscopy\n\nCTx (cyclophosp\n\nhamide, bortezomib, dexamethas\n\none) +/- stem cell transplantati\n\non\n\n1975 81 Male Ileum Melena N/A Obstruction, skin lesions, lymphadeno\n\n-pathy\n\nPrimary OGD Laparotomy\n\n2018 70 Male Ileum Melena, Anaemia\n\nDied 6 mo\n\nafter diagnosis\n\nBony lesions Secondary\n\n(BG of plasma-\n\nblastic myeloma)\n\nOGD Colonoscopy Small\n\ncapsule endoscopy\n\nCT Angiogram\n\nSTx\n\nCTx STx (emergency)\n\nEMP: Extramedullary Plasmacytoma; N/A: N/A; OGD: Oesophagogastroscopy; GI: Gastrointestinal; CTx: Chemotherapy; RTx: Radiotherapy; STx: Surgery; MM: Multiple myeloma; Dx: Diagnosis; CT AP: Computed tomography abdomen and pelvis; UGI: Upper gastrointestinal.\n\nthen the plasma cell myeloma can be classified as plasmablastic[34,38]. In general, plasmablastic morphologic features are associated with a poor clinical prognosis.\n\nPlasmablastic myeloma is associated with frequent extramedullary involvement which is one of the features of clinical aggressiveness reflecting independence from the bone marrow stroma derived growth factors. Gastrointestinal involvement includes lesions in the stomach, liver and large bowel, with the involvement of the small bowel being a rare presentation, with 68 cases[1] been reported in literature currently. The most frequent manifestation of small bowel EMP is abdominal pain but gastrointestinal bleeding can also occur, more often in gastric and jejunal lesions compared to ileal. It can present as haematemesis, melena or anaemia due to chronic blood loss due to vascular or ulcerated bleeding lesions[1,2]. The pathogenesis of gastrointestinal bleeding in plasma cell myelomas is multifactorial. In the case of the ileal plasmablastic myeloma we described, gastrointestinal bleeding was attributed to\n\n316\n\nWJGE https://www.wjgnet.com April 16, 2019 Volume 11 Issue 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3"
+}

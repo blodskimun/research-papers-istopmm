@@ -1,0 +1,123 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:59:47.583219+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Erratum to: Solitary plasmacytoma: population-based analysis of survival trends and effect of various treatment modalities in the USA",
+        "year": null
+      },
+      "doi": "10.1186/s12885-017-3427-x",
+      "format": "pdf",
+      "id": "literature:4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc",
+      "url": "https://doi.org/10.1186/s12885-017-3427-x"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-017-3427-x",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc",
+          "source_sha256": "4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc",
+          "source_url": "https://doi.org/10.1186/s12885-017-3427-x"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc:p1",
+        "source_issue_ids": [],
+        "text": "Thumallapally et al. BMC Cancer (2017) 17:443 DOI 10.1186/s12885-017-3427-x\n\nERRATUM Open Access\n\nErratum to: Solitary plasmacytoma: population-based analysis of survival trends and effect of various treatment modalities in the USA\n\nNishitha Thumallapally1*, Ahmed Meshref2, Mohammed Mousa2 and Terenig Terjanian3\n\nErratum After publication of the original article [1] the authors found the following errors had occurred:\n\n1. Figure titles were incorrect:\n\n\u0001 Figure 1 should be titled: Kaplan-Meier survival curve comparing sequence of RT in patients who received RT and surgery (Fig. 1) \u0001 Figure 2 should be titled: Kaplan-Meier survival curve comparing patients who received RT vs. no RT (Fig. 2) \u0001 Figure 3 should be titled: Kaplan-Meier survival curve comparing patients who received surgery vs. those that did not (Fig. 3)\n\n2. In Table 6, all P values should be <0.001 instead of >0.001 (Table 6)\n\nCorrected versions of these figures and tables are included in this Erratum.\n\n* Correspondence: nishithareddy99@gmail.com 1Department of Medicine, Staten Island University Hospital, 475 Seaview Avenue, Staten Island, NY 10305, USA\n\n© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-017-3427-x",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc",
+          "source_sha256": "4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc",
+          "source_url": "https://doi.org/10.1186/s12885-017-3427-x"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc:p2",
+        "source_issue_ids": [],
+        "text": "Thumallapally et al. BMC Cancer (2017) 17:443 Page 2 of 3\n\nCorrected Figure 1\n\nFig. 1 Kaplan-Meier survival curve comparing sequence of RT in patients who received RT and surgery\n\nCorrected Figure 2\n\nFig. 2 Kaplan-Meier survival curve comparing patients who received RT vs. no RT",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1186/s12885-017-3427-x",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc",
+          "source_sha256": "4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc",
+          "source_url": "https://doi.org/10.1186/s12885-017-3427-x"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc:p3",
+        "source_issue_ids": [],
+        "text": "Thumallapally et al. BMC Cancer (2017) 17:443 Page 3 of 3\n\nCorrected Figure 3\n\nFig. 3 Kaplan-Meier survival curve comparing patients who received surgery vs. those that did not\n\nCorrected Table 6\n\nTable 6 Cox proportional hazards model for prognostic factors\n\nVariables Hazard ratio 95% CI P value\n\nLower Upper\n\nAge < 60 years 0.380 0.330 0.440 < 0.001\n\nRadiation sequence with surgery 1.226 .966 1.557 .094\n\nRadiation 0.597 0.522 0.684 < 0.001\n\nSurgery 0.746 0.693 0.802 < 0.001\n\nAuthor details 1Department of Medicine, Staten Island University Hospital, 475 Seaview Avenue, Staten Island, NY 10305, USA. 2Department of Medicine, Suez Canal University, Ismailia, Egypt. 3Department of Hematology/oncology, Staten Island University Hospital, Staten Island, NY, USA.\n\nReceived: 13 June 2017 Accepted: 13 June 2017\n\nReference 1. Thumallapally, N, Meshref, A, Mousa, M and Terjanian, T. Solitary plasmacytoma: population-based analysis of survival trends and effect of various treatment modalities in the USA, BMC Cancer, 2017, 17:13, doi:10.1186/s12885-016-3015-5",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc"
+}

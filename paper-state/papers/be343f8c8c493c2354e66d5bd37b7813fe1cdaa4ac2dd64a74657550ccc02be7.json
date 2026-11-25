@@ -1,0 +1,1034 @@
+{
+  "audit": {
+    "draft": {
+      "after": {
+        "bibliography": {
+          "acquired_at": "2026-11-16T10:55:47.881946+00:00",
+          "acquired_from": null,
+          "acquisition_method": "user_provided_private_copy",
+          "title": "Approaching hypercalcemia in monoclonal gammopathy of undetermined significance: insights from the iStopMM screening study",
+          "year": "2025"
+        },
+        "source_url": "https://doi.org/10.1182/blood.2024025624",
+        "tables": [],
+        "text": "[[PAGE 1: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p1]]\n\n# Approaching hypercalcemia in monoclonal gammopathy of undetermined significance: insights from the iStopMM screening study\n\n**Authors:** Ástrún Helga Jónsdóttir (1), Helga Ágústa Sigurjónsdóttir (1,2), Sigrun Thorsteinsdóttir (1,3), Thorir Einarsson Long (1,4), Ingigerður Sólveig Sverrisdóttir (1,5), Elias Eythorsson (1,6), Jón Þórir Óskarsson (1,7), Runolfur Palsson (1,8), Olafur Skuli Indridason (8), Brynjar Viðarsson (9), Pall Torfi Onundarson (1), Ísleifur Ólafsson (7), Ingunn Þorsteindóttir (7), Bjarni A. Agnarsson (1,10), Margrét Sigurðardóttir (10), Ásbjörn Jónsson (11), Malin Hultcrantz (12), Brian G. M. Durie (13), Stephen Harding (14), Ola Landgren (15), Thorvardur Jon Love (1,16), Sigurður Yngvi Kristinsson (1,9), Sæmundur Rögnvaldsson (1,6)\n\n**Affiliations**\n\n- 1. Faculty of Medicine, University of Iceland, Reykjavik, Iceland\n- 2. Department of Endocrinology, Landspítali University Hospital, Reykjavik, Iceland\n- 3. Department of Hematology, Rigshospitalet, Copenhagen, Denmark\n- 4. Department of Nephrology, Skåne University Hospital, Lund, Sweden\n- 5. Department of Hematology, Sahlgrenska University Hospital, Gothenburg, Sweden\n- 6. Department of Internal Medicine, Landspítali University Hospital, Reykjavik, Iceland\n- 7. Department of Clinical Biochemistry and Hematology, Landspítali University Hospital, Reykjavik, Iceland\n- 8. Department of Nephrology, Landspítali University Hospital, Reykjavik, Iceland\n- 9. Department of Hematology, Landspítali University Hospital, Reykjavik, Iceland\n- 10. Department of Pathology, Landspítali University Hospital, Reykjavik, Iceland\n- 11. Department of Radiology, Akureyri Hospital, Akureyri, Iceland\n- 12. Myeloma Service, Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY\n- 13. Samuel Oschin Comprehensive Cancer Institute, Cedar-Sinai Outpatient Cancer Center, Los Angeles, CA\n- 14. The Binding Site, Birmingham, United Kingdom\n- 15. Myeloma Program, Department of Medicine, Sylvester Comprehensive Cancer Center, University of Miami, Miami, FL\n- 16. Department of Research, Landspítali University Hospital, Reykjavik, Iceland\n\n### Correspondence\n\nSæmundur Rögnvaldsson, University of Iceland, Sturlugata 8, 102 Reykjavík, Iceland; srognvald@hi.is.\n\n### Author contributions\n\nThe study concept was developed by S.R., Á.H.J., and S.Y.K.; Á.H.J. and S.R. wrote the first draft of the manuscript; and all authors offered additional input to the manuscript and approved the submitted version.\n\n### Conflict-of-interest disclosure\n\nS.T. has received honoraria for scientific talks from AbbVie and Thermo Fisher. M.H. has received research funding from AbbVie, BeiGene, Bristol Myers Squibb, Daiichi Sankyo, Cosette Pharmaceuticals, GlaxoSmithKline, Johnson & Johnson, and The Binding Site; has received consulting fees from Curio Science LLC, Projects in Knowledge, and Intellisphere LLC; and participated in scientific advisory boards for Bristol Myers Squibb, Johnson & Johnson, and GlaxoSmithKline. O.L. has received research funding from the National Institutes of Health, National Cancer Institute, US Food and Drug Administration, Leukemia and Lymphoma Society, Rising Tide Foundation, Multiple Myeloma Research Fund, International Myeloma Foundation, Paula and Rodger Riney Foundation, Tow Foundation, Myeloma Solutions Fund, Perelman Family Foundation, Amgen, Celgene, Janssen, Takeda, Glenmark, Seattle Genetics, and Karyopharm; honoraria for scientific talks/participated in advisory boards for Adaptive, Amgen, The Binding Site, Bristol Myers Squibb, Celgene, Cellectis, Glenmark, Janssen, Juno, and Pfizer; and served on independent data monitoring committees for Takeda, Merck, and Janssen. S.H. is currently employed at The Binding Site. S.Y.K. has received research funding from Amgen and Celgene and served on independent data monitoring committee for Janssen. S.R. has received honoraria for scientific talks from Siemens Healthineers and Johnson & Johnson. The remaining authors declare no competing financial interest.\n\n### Data availability\n\nCurrent approvals do not allow for sharing of the underlying study data. However, data may be shared with other investigators pending the review of the iStopMM investigators and the Icelandic Scientific Ethics Committee.\n\nThe online version of this article contains a data supplement.\n\nThere is a Blood Commentary on this article in this issue.\n\nThe publication costs of this article were defrayed in part by page charge payment. Therefore, and solely to indicate this fact, this article is hereby marked “advertisement” in accordance with 18 USC section 1734.\n\n[[PAGE 2: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p2]]\n\n## Abstract\n\nHypercalcemia in monoclonal gammopathy of undetermined significance (MGUS) presents a clinical challenge because it may indicate progression to multiple myeloma (MM) but could also be due to a multitude of unrelated disorders. To inform the approach to this clinical challenge, we conducted a nested cohort study within the Iceland Screens, Treats, or Prevents Multiple Myeloma screening study. Of the 75 422 Icelanders aged 40 years and above who underwent screening for MGUS, we included 2546 with MGUS who were in active follow-up, including regular serum calcium measurements. In total, 191 individuals (7.5%) had hypercalcemia detected at least once, of whom 93 had persistent hypercalcemia (48.7%). MM was found in 3 participants with persistent hypercalcemia (3.2%); all had concurrent bone disease and other end-organ damage. The most common causes of hypercalcemia were primary hyperparathyroidism (56.0%) and malignancies other than MM (16.0%). In this first comprehensive study on hypercalcemia in MGUS, we observed that hypercalcemia rarely indicated MGUS progression and never in the absence of other symptoms of MM. More than half of hypercalcemia cases were transient, and the underlying causes were similar to those in the general population. We conclude that hypercalcemia in MGUS should be approached in the same way as in those without MGUS.\n\n## Introduction\n\nMultiple myeloma (MM) is defined by the presence of monoclonal immunoglobulins (M-proteins) or free light chains in the serum and associated clinical hallmarks of hypercalcemia, renal impairment, anemia, and bone lesions (CRAB) or MM-defining biomarkers (Rajkumar et al., 2014). MM is preceded by monoclonal gammopathy of undetermined significance (MGUS), an asymptomatic premalignant state (Landgren et al., 2009). MGUS is common, with a prevalence of 4.2% in individuals above the age of 50 years. MGUS carries a 1% to 1.5% risk per year of progression to MM or related lymphoproliferative disorders (Kyle et al., 2006; Dispenzieri et al., 2010). No treatment is recommended for MGUS, but indefinite follow-up is recommended with the aim of detecting MGUS progression (Kyle et al., 2010). To identify progression in individuals with MGUS, regular\n\n[[PAGE 3: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p3]]\nblood testing is performed to detect changes in M protein concentrations and signs of MM-related end-organ damage, including hypercalcemia (Kyle et al., 2010).\n\nHypercalcemia is present in ~15% to 21% of newly diagnosed patients with MM, and virtually all patients with MM with hypercalcemia also have concurrent bone disease (Kastritis et al., 2011; Kyle et al., 2003; Zagouri et al., 2017).\n\nHowever, hypercalcemia is relatively common in the general population, with a prevalence of ~1% to 4%, and is caused by hyperparathyroidism or various malignancies in >90% of the cases (Frølich, 1998; Palmér et al., 1988; Potts & Jüppner, 2012).\n\nHypercalcemia in individuals with MGUS presents a clinical challenge as it may indicate progression to malignancy that requires prompt therapy, although, at the same time, it is not clear to what extent hypercalcemia in MGUS indicates progression. Current diagnostic criteria for MM recommend ruling out other causes of hypercalcemia in the absence of other diagnostic criteria (Rajkumar et al., 2014). However, these recommendations are based on expert opinion, and we are unaware of any studies providing evidence on approaching this clinical challenge. Therefore, we were motivated to evaluate the underlying causes of hypercalcemia in a prospectively followed MGUS cohort.\n\n## Study design\n\nThis study is based on the Iceland Screens, Treats, or Prevents Multiple Myeloma (iStopMM) study, a population-based screening study of MGUS, and a randomized controlled trial of follow-up strategies to evaluate population-based MGUS screening. In total, 75 422 Icelanders ≥40 years of age (51% of the eligible population) were screened for MGUS. Two-thirds of those with MGUS were invited for regular follow-up appointments that included serum calcium measurements. The methodology of iStopMM has been described in detail elsewhere and has been approved by the Icelandic Committee of Science Ethics (Number 16-022, date: 26 April 2016) (Rögnvaldsson et al., 2021).\n\nThis study included people who attended follow-up visits in iStopMM between April 2017 and February 2022. Serum calcium and albumin measurements were collected from a central Icelandic laboratory database, where virtually all these measurements in Iceland are stored. When possible, albumin-adjusted calcium was calculated (Payne et al., 1973). Hypercalcemia was defined as total serum calcium ≥2.55 mmol/L or ionized calcium levels ≥1.40 mmol/L (≥10.20 mg/dL and ≥5.61 mg/dL, respectively). When hypercalcemia was detected in iStopMM participants, ionized calcium and parathyroid hormone (PTH) were measured. Medical records of individuals with hypercalcemia were thoroughly evaluated in collaboration with a senior endocrinologist at Landspítali–The National University Hospital of Iceland to establish the persistence of hypercalcemia and to ascertain the underlying diagnosis made during subsequent clinical care. Information about MGUS-related factors was obtained from iStopMM. Descriptive statistics were used, and groups were compared using the Student t test and Fisher exact test.\n\n## Results and discussion\n\nOn the basis of a nationwide screening study that included 75 422 persons, we systematically studied 2546 individuals with MGUS to detect hypercalcemia. Of the 2546 persons with MGUS enrolled in the active follow-up, 191 (7.5%) had hypercalcemia detected at least once. Of those, 98 (51%) had hypercalcemia that either subsided without treatment or was found to be artifactual (eg, by subsequent measurement of ionized calcium). Thus, the hypercalcemia was transient in half of the cases (Figure 1). The findings highlight the importance of confirming hypercalcemia when detected by repeat measures and measures of ionized calcium.\n\n[[PAGE 4: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p4]]\n\nThe remaining 93 participants (49%) with persistent hypercalcemia had a median albumin-adjusted calcium and ionized calcium levels of 2.62 (range, 2.55-3.37) mmol/L and 1.46 (range, 1.33-1.87) mmol/L, respectively. As in the general population (Potts & Jüppner, 2012; Minisola et al., 2015), they were more likely to be female (68% vs 45%; P < .001) and older than other participants (median age 73 vs 70 years; P < .001). When compared with persons without hypercalcemia, there was no difference in the MGUS-related factors, except for the M protein isotype, with those with hypercalcemia more frequently having immunoglobulin A and immunoglobulin M MGUS (Table 1).\n\nThe cause of hypercalcemia was identified in 75 participants (81%). No definitive cause could be determined in 15 participants (16%), and 3 participants (3%) died from causes unrelated to the underlying plasma cell disorder before a diagnostic evaluation could be carried out. Hypercalcemia was caused by progression to MM in 3 cases (3%) (Figure 1). Bone disease and other concurrent CRAB features were present at diagnosis in all these cases (supplemental Table; available on the Blood website). One participant had hypercalcemia due to the progression to diffuse large B-cell lymphoma. Multiple other clinical signs and symptoms, including lymphadenopathy and B-symptoms, prompted the workup that led to the diagnosis. Hence, hypercalcemia rarely signified MGUS progression, and similar to previous studies (Kastritis et al., 2011; Kyle et al., 2003), no cases of hypercalcemia indicating MGUS progression were observed without other clinical hallmarks of MM, including bone disease. All observed cases of MM-related hypercalcemia were characterized by serum total calcium levels below the 2.75 mmol/L cutoff defined in current guidelines (Rajkumar et al., 2014). These findings suggest that hypercalcemia is not a reliable marker of MGUS progression and that current definitions poorly capture MM-related hypercalcemia.\n\nOverall, the causes of persistent hypercalcemia were similar to those in the general population (Potts & Jüppner, 2012; Minisola et al., 2015). Primary hyperparathyroidism was the most common cause of hypercalcemia (56.0%) and malignancies other than MM were the second most common cause (16.0%). Drug-induced hypercalcemia was caused by D-vitamin supplements in 5 cases and tacrolimus in 1 case. Sjögren syndrome was among other causes (Figure 2). These results reveal that hypercalcemia in individuals with MGUS is usually no different from hypercalcemia in those without MGUS. On the basis of these findings, we conclude that in the absence of other signs or symptoms of MGUS progression, hypercalcemia in those with MGUS should be approached in the same manner as in those without MGUS.\n\nThis study has several strengths. First, the cohort is based on a large screening study including more than 75 000 people. Serum calcium levels were systematically obtained, so the cohort has, in effect, also been screened for hypercalcemia. Second, the participants with MGUS were actively monitored for progression to MM or other lymphoproliferative\n\n[[PAGE 5: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p5]]\ndisorders, thus providing robust data on hypercalcemia occurring in this setting. Finally, medical records and laboratory test results are stored centrally, yielding a virtually complete data set, including clinical information and serum calcium measurements.\n\nThis study also has important limitations. The underlying causes of hypercalcemia were determined by a review of medical records, relying on adequate diagnostic evaluation and accurate clinical documentation, and in some cases, this was insufficient to establish the underlying cause. In particular, subclinical causes such as dietary factors could have gone unnoticed. However, as the participants were enrolled in follow-up for MGUS progression, including the development of hypercalcemia, MGUS progression is unlikely to have gone unnoticed. It is also important to keep in mind that although MM was ruled out as a cause of hypercalcemia at the time, it does not rule out future progression. Second, albumin-adjusted serum calcium levels have been criticized for being inaccurate, particularly in the setting of hypercalcemia (Kenny et al., 2021), which potentially explains the high rate of transient hypercalcemia observed in this study. However, only those with persistent hypercalcemia underwent additional evaluation, and this limitation is unlikely to have significantly affected the overall interpretation of the findings. Finally, this study is based on the ethnically and genetically homogenous Icelandic population, and thus, the rate and underlying causes of hypercalcemia may not be representative for other populations.\n\nIn conclusion, this first comprehensive study on hypercalcemia in MGUS revealed comparable causes of hypercalcemia in individuals with and without MGUS and that hypercalcemia is not a strong indicator of MGUS progression. Furthermore, hypercalcemia is often transient in individuals with MGUS. Thus, in the absence of other CRAB features, we suggest that hypercalcemia in individuals with MGUS would be approached in the same way as in those without MGUS. As a general approach to incident hypercalcemia, we recommend repeating serum calcium measurement, preferably by measuring serum ionized calcium, followed by measuring PTH if elevated calcium level is confirmed. If hypercalcemia is persistent and PTH level is below normal limits, indicating a normal physiologic response, further workup should be performed to rule out underlying malignancy, including progression to MM or related lymphoproliferative disorders (Rajkumar et al., 2014). These findings contribute to an evidence-based approach to the care of individuals with MGUS.\n\n## Supplementary Material\n\nRefer to Web version on PubMed Central for supplementary material.\n\n## Acknowledgments\n\nScreening tests were performed by the Binding Site.\n\nThis study is funded by the Black Swan Research Initiative of the International Myeloma Foundation, the European Research Council (Horizon 2020, grant agreement 716677), the Icelandic Research Fund (grant agreements 173857 and 2410755), Landspítali Research Fund, University of Iceland, the Icelandic Cancer Society, and the Leukemia and Lymphoma Society. O.L. is supported by the Sylvester Comprehensive Cancer Center, National Institutes of Health (NIH), National Cancer Institute (NCI) Core Grant (P30 CA240139), Riney Family Multiple Myeloma Research Program Fund, Tow Foundation, Myeloma Solutions Fund, and the Perelman Family Foundation. M.H. is supported by a Memorial Sloan Kettering, NIH, NCI Core Grant (P30 CA008748).\n\n[[PAGE 6: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p6]]\n## References\n\n- **Rajkumar et al., 2014** — 1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538–e548. [PubMed 25439696](https://pubmed.ncbi.nlm.nih.gov/25439696/)\n- **Landgren et al., 2009** — 2. Landgren O, Kyle RA, Pfeiffer RM, et al. Monoclonal gammopathy of undetermined significance (MGUS) consistently precedes multiple myeloma: a prospective study. Blood. 2009;113(22):5412– 5417. [PubMed 19179464](https://pubmed.ncbi.nlm.nih.gov/19179464/)\n- **Kyle et al., 2006** — 3. Kyle RA, Therneau TM, Rajkumar SV, et al. Prevalence of monoclonal gammopathy of undetermined significance. N Engl J Med. 2006;354(13):1362–1369. [PubMed 16571879](https://pubmed.ncbi.nlm.nih.gov/16571879/)\n- **Dispenzieri et al., 2010** — 4. Dispenzieri A, Katzmann JA, Kyle RA, et al. Prevalence and risk of progression of light-chain monoclonal gammopathy of undetermined significance: a retrospective population-based cohort study. Lancet. 2010; 375(9727):1721–1728. [PubMed 20472173](https://pubmed.ncbi.nlm.nih.gov/20472173/)\n- **Kyle et al., 2010** — 5. Kyle RA, Durie BGM, Rajkumar SV, et al. Monoclonal gammopathy of undetermined significance (MGUS) and smoldering (asymptomatic) multiple myeloma: IMWG consensus perspectives risk factors for progression and guidelines for monitoring and management. Leukemia. 2010;24(6):1121–1127. [PubMed 20410922](https://pubmed.ncbi.nlm.nih.gov/20410922/)\n- **Kastritis et al., 2011** — 6. Kastritis E, Katodritou E, Pouli A, et al. Frequency and prognostic significance of hypercalcemia in patients with multiple myeloma: an analysis of the database of the Greek Myeloma Study Group [abstract]. Blood. 2011;118(21):5083.\n- **Kyle et al., 2003** — 7. Kyle RA, Gertz MA, Witzig TE, et al. Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc. 2003;78(1):21–33. [PubMed 12528874](https://pubmed.ncbi.nlm.nih.gov/12528874/)\n- **Zagouri et al., 2017** — 8. Zagouri F, Kastritis E, Zomas A, et al. Hypercalcemia remains an adverse prognostic factor for newly diagnosed multiple myeloma patients in the era of novel antimyeloma therapies. Eur J Haematol. 2017;99(5):409–414. [PubMed 28675766](https://pubmed.ncbi.nlm.nih.gov/28675766/)\n- **Frølich, 1998** — 9. Frølich A. Prevalence of hypercalcaemia in normal and in hospital populations. Dan Med Bull. 1998;45(4):436–439. [PubMed 9777294](https://pubmed.ncbi.nlm.nih.gov/9777294/)\n- **Palmér et al., 1988** — 10. Palmér M, Jakobsson S, Akerström G, Ljunghall S. Prevalence of hypercalcaemia in a health survey: a 14-year follow-up study of serum calcium values. Eur J Clin Invest. 1988; 18(1):39–46. [PubMed 3130258](https://pubmed.ncbi.nlm.nih.gov/3130258/)\n- **Potts & Jüppner, 2012** — 11. Potts JT Jr, Jüppner HW. Disorders of the parathyroid gland and calcium homeostasis. In: Jameson J, Fauci AS, Kasper DL, Hauser SL, Longo DL, Loscalzo J, eds. Harrison’s Principles of Internal Medicine. Vol 2. 20th ed. McGraw-Hill Education; 2012:2921–2942.\n- **Rögnvaldsson et al., 2021** — 12. Rögnvaldsson S, Love TJ, Thorsteinsdottir S, et al. Iceland screens, treats, or prevents multiple myeloma (iStopMM): a population-based screening study for monoclonal gammopathy of undetermined significance and randomized controlled trial of follow-up strategies. Blood Cancer J. 2021;11(5):94. [PubMed 34001889](https://pubmed.ncbi.nlm.nih.gov/34001889/)\n- **Payne et al., 1973** — 13. Payne RB, Little AJ, Williams RB, Milner JR. Interpretation of serum calcium in patients with abnormal serum proteins. BMJ. 1973; 4(5893):643–646. [PubMed 4758544](https://pubmed.ncbi.nlm.nih.gov/4758544/)\n- **Minisola et al., 2015** — 14. Minisola S, Pepe J, Piemonte S, Cipriani C. The diagnosis and management of hypercalcaemia. BMJ. 2015;350:h2723. [PubMed 26037642](https://pubmed.ncbi.nlm.nih.gov/26037642/)\n- **Kenny et al., 2021** — 15. Kenny CM, Murphy CE, Boyce DS, Ashley DM, Jahanmir J. Things we do for no reason™: calculating a \"corrected calcium\" level. J Hosp Med. 2021;16(8):499–501. [PubMed 34197298](https://pubmed.ncbi.nlm.nih.gov/34197298/)\n\n[[PAGE 7: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p7]]\n## Key points\n\n- Hypercalcemia in MGUS rarely indicates progression to MM; no isolated hypercalcemia indicating progression was observed.\n\n- Hypercalcemia cases in MGUS had similar causes to those in the general population. The approach to isolated hypercalcemia should be general.\n\n[[PAGE 8: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p8]]\n![Figure 1](/library/paper/pdf-page?id=doi%3A10.1182%2Fblood.2024025624&page=8&sha256=498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7&xref=251)\n\n**Figure 1**. The distribution of persistent hypercalcemia and its underlying cause in individuals with MGUS identified by active follow-up of cases in the iStopMM study. LP, lymphoproliferative disorders other than MM.\n\n[[PAGE 9: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p9]]\n![Figure 2](/library/paper/pdf-page?id=doi%3A10.1182%2Fblood.2024025624&page=9&sha256=498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7&xref=268)\n\n**Figure 2**. Identified causes of hypercalcemia in individuals with MGUS according to sex. LP, lymphoproliferative disorders other than MM; PHPT, primary hyperparathyroidism; THPT, tertiary hyperparathyroidism.\n\n[[PAGE 10: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p10]]\n## Table 1. Demographic and clinical characteristics of individuals with MGUS enrolled in clinical follow-up in the iStopMM study, according to whether they had persistent hypercalcemia or not\n\n| Characteristic | Hypercalcemia (n = 93) | No hypercalcemia (n = 2453) | P value |\n| --- | --- | --- | --- |\n| Median age (range), y | 73 (41-92) | 70 (42-100) | &lt;.001 |\n| Female (%) | 68% | 45% | &lt;.001 |\n| Median M protein (range), g/L | 0.26 (0.06-3.3) | 0.23 (0.02-2.6) | .23 |\n| M protein type |  |  | .04 |\n| IgA | 13 (14%) | 247 (10%) |  |\n| IgG | 45 (48%) | 1250 (51%) |  |\n| IgM | 22 (24%) | 468 (19%) |  |\n| Light chain | 11 (12%) | 272 (11%) |  |\n| Biclonal | 2 (2%) | 216 (9%) |  |\n| Abnormal FLC ratio | 36 (39%) | 896 (37%) | .66 |\n| Percent BMPC |  |  | .42 |\n| 0%-5% | 15 (16%) | 478 (20%) |  |\n| 6%-10% | 13 (14%) | 467 (19%) |  |\n| 11%-60% | 9 (10%) | 192 (8%) |  |\n| ≥60% | 0 (0%) | 1 (0%) |  |\n| Missing | 56 (60%) | 1315 (54%) |  |\n| SMM | 7 (8%) | 200 (8%) | .98 |\n\n**Note:** Data are presented as numbers and percentages or ranges.\n\n**Abbreviations:** BMPC, bone marrow plasma cells; FLC, free light chain; SMM, smoldering multiple myeloma."
+      },
+      "at": "2026-11-20T14:49:44.025242+00:00",
+      "before": {
+        "bibliography": {
+          "acquired_at": "2026-11-16T10:55:47.881946+00:00",
+          "acquired_from": null,
+          "acquisition_method": "user_provided_private_copy",
+          "title": "Approaching hypercalcemia in monoclonal gammopathy of undetermined significance: insights from the iStopMM screening study",
+          "year": "2025"
+        },
+        "source_url": "https://doi.org/10.1182/blood.2024025624",
+        "tables": [],
+        "text": "[[PAGE 1: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p1]]\n\n# Approaching hypercalcemia in monoclonal gammopathy of undetermined significance: insights from the iStopMM screening study\n\n**Authors:** Ástrún Helga Jónsdóttir (1), Helga Ágústa Sigurjónsdóttir (1,2), Sigrun Thorsteinsdóttir (1,3), Thorir Einarsson Long (1,4), Ingigerður Sólveig Sverrisdóttir (1,5), Elias Eythorsson (1,6), Jón Þórir Óskarsson (1,7), Runolfur Palsson (1,8), Olafur Skuli Indridason (8), Brynjar Viðarsson (9), Pall Torfi Onundarson (1), Ísleifur Ólafsson (7), Ingunn Þorsteindóttir (7), Bjarni A. Agnarsson (1,10), Margrét Sigurðardóttir (10), Ásbjörn Jónsson (11), Malin Hultcrantz (12), Brian G. M. Durie (13), Stephen Harding (14), Ola Landgren (15), Thorvardur Jon Love (1,16), Sigurður Yngvi Kristinsson (1,9), Sæmundur Rögnvaldsson (1,6)\n\n**Affiliations**\n\n- 1. Faculty of Medicine, University of Iceland, Reykjavik, Iceland\n- 2. Department of Endocrinology, Landspítali University Hospital, Reykjavik, Iceland\n- 3. Department of Hematology, Rigshospitalet, Copenhagen, Denmark\n- 4. Department of Nephrology, Skåne University Hospital, Lund, Sweden\n- 5. Department of Hematology, Sahlgrenska University Hospital, Gothenburg, Sweden\n- 6. Department of Internal Medicine, Landspítali University Hospital, Reykjavik, Iceland\n- 7. Department of Clinical Biochemistry and Hematology, Landspítali University Hospital, Reykjavik, Iceland\n\n### Correspondence\n\nSæmundur Rögnvaldsson, University of Iceland, Sturlugata 8, 102 Reykjavík, Iceland; srognvald@hi.is.\n\n### Author contributions\n\nThe study concept was developed by S.R., Á.H.J., and S.Y.K.; Á.H.J. and S.R. wrote the first draft of the manuscript; and all authors offered additional input to the manuscript and approved the submitted version.\n\n### Conflict-of-interest disclosure\n\nS.T. has received honoraria for scientific talks from AbbVie and Thermo Fisher. M.H. has received research funding from AbbVie, BeiGene, Bristol Myers Squibb, Daiichi Sankyo, Cosette Pharmaceuticals, GlaxoSmithKline, Johnson & Johnson, and The Binding Site; has received consulting fees from Curio Science LLC, Projects in Knowledge, and Intellisphere LLC; and participated in scientific advisory boards for Bristol Myers Squibb, Johnson & Johnson, and GlaxoSmithKline. O.L. has received research funding from the National Institutes of Health, National Cancer Institute, US Food and Drug Administration, Leukemia and Lymphoma Society, Rising Tide Foundation, Multiple Myeloma Research Fund, International Myeloma Foundation, Paula and Rodger Riney Foundation, Tow Foundation, Myeloma Solutions Fund, Perelman Family Foundation, Amgen, Celgene, Janssen, Takeda, Glenmark, Seattle Genetics, and Karyopharm; honoraria for scientific talks/participated in advisory boards for Adaptive, Amgen, The Binding Site, Bristol Myers Squibb, Celgene, Cellectis, Glenmark, Janssen, Juno, and Pfizer; and served on independent data monitoring committees for Takeda, Merck, and Janssen. S.H. is currently employed at The Binding Site. S.Y.K. has received research funding from Amgen and Celgene and served on independent data monitoring committee for Janssen. S.R. has received honoraria for scientific talks from Siemens Healthineers and Johnson & Johnson. The remaining authors declare no competing financial interest.\n\n### Data availability\n\nCurrent approvals do not allow for sharing of the underlying study data. However, data may be shared with other investigators pending the review of the iStopMM investigators and the Icelandic Scientific Ethics Committee.\n\nThe online version of this article contains a data supplement.\n\nThere is a Blood Commentary on this article in this issue.\n\nThe publication costs of this article were defrayed in part by page charge payment. Therefore, and solely to indicate this fact, this article is hereby marked “advertisement” in accordance with 18 USC section 1734.\n\n[[PAGE 2: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p2]]\n**Affiliations (continued)**\n\n- 8. Department of Nephrology, Landspítali University Hospital, Reykjavik, Iceland\n- 9. Department of Hematology, Landspítali University Hospital, Reykjavik, Iceland\n- 10. Department of Pathology, Landspítali University Hospital, Reykjavik, Iceland\n- 11. Department of Radiology, Akureyri Hospital, Akureyri, Iceland\n- 12. Myeloma Service, Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY\n- 13. Samuel Oschin Comprehensive Cancer Institute, Cedar-Sinai Outpatient Cancer Center, Los Angeles, CA\n- 14. The Binding Site, Birmingham, United Kingdom\n- 15. Myeloma Program, Department of Medicine, Sylvester Comprehensive Cancer Center, University of Miami, Miami, FL\n- 16. Department of Research, Landspítali University Hospital, Reykjavik, Iceland\n\n## Abstract\n\nHypercalcemia in monoclonal gammopathy of undetermined significance (MGUS) presents a clinical challenge because it may indicate progression to multiple myeloma (MM) but could also be due to a multitude of unrelated disorders. To inform the approach to this clinical challenge, we conducted a nested cohort study within the Iceland Screens, Treats, or Prevents Multiple Myeloma screening study. Of the 75 422 Icelanders aged 40 years and above who underwent screening for MGUS, we included 2546 with MGUS who were in active follow-up, including regular serum calcium measurements. In total, 191 individuals (7.5%) had hypercalcemia detected at least once, of whom 93 had persistent hypercalcemia (48.7%). MM was found in 3 participants with persistent hypercalcemia (3.2%); all had concurrent bone disease and other end-organ damage. The most common causes of hypercalcemia were primary hyperparathyroidism (56.0%) and malignancies other than MM (16.0%). In this first comprehensive study on hypercalcemia in MGUS, we observed that hypercalcemia rarely indicated MGUS progression and never in the absence of other symptoms of MM. More than half of hypercalcemia cases were transient, and the underlying causes were similar to those in the general population. We conclude that hypercalcemia in MGUS should be approached in the same way as in those without MGUS.\n\n## Introduction\n\nMultiple myeloma (MM) is defined by the presence of monoclonal immunoglobulins (M-proteins) or free light chains in the serum and associated clinical hallmarks of hypercalcemia, renal impairment, anemia, and bone lesions (CRAB) or MM-defining biomarkers (Rajkumar et al., 2014). MM is preceded by monoclonal gammopathy of undetermined significance (MGUS), an asymptomatic premalignant state (Landgren et al., 2009). MGUS is common, with a prevalence of 4.2% in individuals above the age of 50 years. MGUS carries a 1% to 1.5% risk per year of progression to MM or related lymphoproliferative disorders (Kyle et al., 2006; Dispenzieri et al., 2010). No treatment is recommended for MGUS, but indefinite follow-up is recommended with the aim of detecting MGUS progression (Kyle et al., 2010). To identify progression in individuals with MGUS, regular\n\n[[PAGE 3: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p3]]\nblood testing is performed to detect changes in M protein concentrations and signs of MM-related end-organ damage, including hypercalcemia (Kyle et al., 2010).\n\nHypercalcemia is present in ~15% to 21% of newly diagnosed patients with MM, and virtually all patients with MM with hypercalcemia also have concurrent bone disease (Kastritis et al., 2011; Kyle et al., 2003; Zagouri et al., 2017).\n\nHowever, hypercalcemia is relatively common in the general population, with a prevalence of ~1% to 4%, and is caused by hyperparathyroidism or various malignancies in >90% of the cases (Frølich, 1998; Palmér et al., 1988; Potts & Jüppner, 2012).\n\nHypercalcemia in individuals with MGUS presents a clinical challenge as it may indicate progression to malignancy that requires prompt therapy, although, at the same time, it is not clear to what extent hypercalcemia in MGUS indicates progression. Current diagnostic criteria for MM recommend ruling out other causes of hypercalcemia in the absence of other diagnostic criteria (Rajkumar et al., 2014). However, these recommendations are based on expert opinion, and we are unaware of any studies providing evidence on approaching this clinical challenge. Therefore, we were motivated to evaluate the underlying causes of hypercalcemia in a prospectively followed MGUS cohort.\n\n## Study design\n\nThis study is based on the Iceland Screens, Treats, or Prevents Multiple Myeloma (iStopMM) study, a population-based screening study of MGUS, and a randomized controlled trial of follow-up strategies to evaluate population-based MGUS screening. In total, 75 422 Icelanders ≥40 years of age (51% of the eligible population) were screened for MGUS. Two-thirds of those with MGUS were invited for regular follow-up appointments that included serum calcium measurements. The methodology of iStopMM has been described in detail elsewhere and has been approved by the Icelandic Committee of Science Ethics (Number 16-022, date: 26 April 2016) (Rögnvaldsson et al., 2021).\n\nThis study included people who attended follow-up visits in iStopMM between April 2017 and February 2022. Serum calcium and albumin measurements were collected from a central Icelandic laboratory database, where virtually all these measurements in Iceland are stored. When possible, albumin-adjusted calcium was calculated (Payne et al., 1973). Hypercalcemia was defined as total serum calcium ≥2.55 mmol/L or ionized calcium levels ≥1.40 mmol/L (≥10.20 mg/dL and ≥5.61 mg/dL, respectively). When hypercalcemia was detected in iStopMM participants, ionized calcium and parathyroid hormone (PTH) were measured. Medical records of individuals with hypercalcemia were thoroughly evaluated in collaboration with a senior endocrinologist at Landspítali–The National University Hospital of Iceland to establish the persistence of hypercalcemia and to ascertain the underlying diagnosis made during subsequent clinical care. Information about MGUS-related factors was obtained from iStopMM. Descriptive statistics were used, and groups were compared using the Student t test and Fisher exact test.\n\n## Results and discussion\n\nOn the basis of a nationwide screening study that included 75 422 persons, we systematically studied 2546 individuals with MGUS to detect hypercalcemia. Of the 2546 persons with MGUS enrolled in the active follow-up, 191 (7.5%) had hypercalcemia detected at least once. Of those, 98 (51%) had hypercalcemia that either subsided without treatment or was found to be artifactual (eg, by subsequent measurement of ionized calcium). Thus, the hypercalcemia was transient in half of the cases (Figure 1). The findings highlight the importance of confirming hypercalcemia when detected by repeat measures and measures of ionized calcium.\n\n[[PAGE 4: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p4]]\n\nThe remaining 93 participants (49%) with persistent hypercalcemia had a median albumin-adjusted calcium and ionized calcium levels of 2.62 (range, 2.55-3.37) mmol/L and 1.46 (range, 1.33-1.87) mmol/L, respectively. As in the general population (Potts & Jüppner, 2012; Minisola et al., 2015), they were more likely to be female (68% vs 45%; P < .001) and older than other participants (median age 73 vs 70 years; P < .001). When compared with persons without hypercalcemia, there was no difference in the MGUS-related factors, except for the M protein isotype, with those with hypercalcemia more frequently having immunoglobulin A and immunoglobulin M MGUS (Table 1).\n\nThe cause of hypercalcemia was identified in 75 participants (81%). No definitive cause could be determined in 15 participants (16%), and 3 participants (3%) died from causes unrelated to the underlying plasma cell disorder before a diagnostic evaluation could be carried out. Hypercalcemia was caused by progression to MM in 3 cases (3%) (Figure 1). Bone disease and other concurrent CRAB features were present at diagnosis in all these cases (supplemental Table; available on the Blood website). One participant had hypercalcemia due to the progression to diffuse large B-cell lymphoma. Multiple other clinical signs and symptoms, including lymphadenopathy and B-symptoms, prompted the workup that led to the diagnosis. Hence, hypercalcemia rarely signified MGUS progression, and similar to previous studies (Kastritis et al., 2011; Kyle et al., 2003), no cases of hypercalcemia indicating MGUS progression were observed without other clinical hallmarks of MM, including bone disease. All observed cases of MM-related hypercalcemia were characterized by serum total calcium levels below the 2.75 mmol/L cutoff defined in current guidelines (Rajkumar et al., 2014). These findings suggest that hypercalcemia is not a reliable marker of MGUS progression and that current definitions poorly capture MM-related hypercalcemia.\n\nOverall, the causes of persistent hypercalcemia were similar to those in the general population (Potts & Jüppner, 2012; Minisola et al., 2015). Primary hyperparathyroidism was the most common cause of hypercalcemia (56.0%) and malignancies other than MM were the second most common cause (16.0%). Drug-induced hypercalcemia was caused by D-vitamin supplements in 5 cases and tacrolimus in 1 case. Sjögren syndrome was among other causes (Figure 2). These results reveal that hypercalcemia in individuals with MGUS is usually no different from hypercalcemia in those without MGUS. On the basis of these findings, we conclude that in the absence of other signs or symptoms of MGUS progression, hypercalcemia in those with MGUS should be approached in the same manner as in those without MGUS.\n\nThis study has several strengths. First, the cohort is based on a large screening study including more than 75 000 people. Serum calcium levels were systematically obtained, so the cohort has, in effect, also been screened for hypercalcemia. Second, the participants with MGUS were actively monitored for progression to MM or other lymphoproliferative\n\n[[PAGE 5: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p5]]\ndisorders, thus providing robust data on hypercalcemia occurring in this setting. Finally, medical records and laboratory test results are stored centrally, yielding a virtually complete data set, including clinical information and serum calcium measurements.\n\nThis study also has important limitations. The underlying causes of hypercalcemia were determined by a review of medical records, relying on adequate diagnostic evaluation and accurate clinical documentation, and in some cases, this was insufficient to establish the underlying cause. In particular, subclinical causes such as dietary factors could have gone unnoticed. However, as the participants were enrolled in follow-up for MGUS progression, including the development of hypercalcemia, MGUS progression is unlikely to have gone unnoticed. It is also important to keep in mind that although MM was ruled out as a cause of hypercalcemia at the time, it does not rule out future progression. Second, albumin-adjusted serum calcium levels have been criticized for being inaccurate, particularly in the setting of hypercalcemia (Kenny et al., 2021), which potentially explains the high rate of transient hypercalcemia observed in this study. However, only those with persistent hypercalcemia underwent additional evaluation, and this limitation is unlikely to have significantly affected the overall interpretation of the findings. Finally, this study is based on the ethnically and genetically homogenous Icelandic population, and thus, the rate and underlying causes of hypercalcemia may not be representative for other populations.\n\nIn conclusion, this first comprehensive study on hypercalcemia in MGUS revealed comparable causes of hypercalcemia in individuals with and without MGUS and that hypercalcemia is not a strong indicator of MGUS progression. Furthermore, hypercalcemia is often transient in individuals with MGUS. Thus, in the absence of other CRAB features, we suggest that hypercalcemia in individuals with MGUS would be approached in the same way as in those without MGUS. As a general approach to incident hypercalcemia, we recommend repeating serum calcium measurement, preferably by measuring serum ionized calcium, followed by measuring PTH if elevated calcium level is confirmed. If hypercalcemia is persistent and PTH level is below normal limits, indicating a normal physiologic response, further workup should be performed to rule out underlying malignancy, including progression to MM or related lymphoproliferative disorders (Rajkumar et al., 2014). These findings contribute to an evidence-based approach to the care of individuals with MGUS.\n\n## Supplementary Material\n\nRefer to Web version on PubMed Central for supplementary material.\n\n## Acknowledgments\n\nScreening tests were performed by the Binding Site.\n\nThis study is funded by the Black Swan Research Initiative of the International Myeloma Foundation, the European Research Council (Horizon 2020, grant agreement 716677), the Icelandic Research Fund (grant agreements 173857 and 2410755), Landspítali Research Fund, University of Iceland, the Icelandic Cancer Society, and the Leukemia and Lymphoma Society. O.L. is supported by the Sylvester Comprehensive Cancer Center, National Institutes of Health (NIH), National Cancer Institute (NCI) Core Grant (P30 CA240139), Riney Family Multiple Myeloma Research Program Fund, Tow Foundation, Myeloma Solutions Fund, and the Perelman Family Foundation. M.H. is supported by a Memorial Sloan Kettering, NIH, NCI Core Grant (P30 CA008748).\n\n[[PAGE 6: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p6]]\n## References\n\n- **Rajkumar et al., 2014** — 1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538–e548. [PubMed 25439696](https://pubmed.ncbi.nlm.nih.gov/25439696/)\n- **Landgren et al., 2009** — 2. Landgren O, Kyle RA, Pfeiffer RM, et al. Monoclonal gammopathy of undetermined significance (MGUS) consistently precedes multiple myeloma: a prospective study. Blood. 2009;113(22):5412– 5417. [PubMed 19179464](https://pubmed.ncbi.nlm.nih.gov/19179464/)\n- **Kyle et al., 2006** — 3. Kyle RA, Therneau TM, Rajkumar SV, et al. Prevalence of monoclonal gammopathy of undetermined significance. N Engl J Med. 2006;354(13):1362–1369. [PubMed 16571879](https://pubmed.ncbi.nlm.nih.gov/16571879/)\n- **Dispenzieri et al., 2010** — 4. Dispenzieri A, Katzmann JA, Kyle RA, et al. Prevalence and risk of progression of light-chain monoclonal gammopathy of undetermined significance: a retrospective population-based cohort study. Lancet. 2010; 375(9727):1721–1728. [PubMed 20472173](https://pubmed.ncbi.nlm.nih.gov/20472173/)\n- **Kyle et al., 2010** — 5. Kyle RA, Durie BGM, Rajkumar SV, et al. Monoclonal gammopathy of undetermined significance (MGUS) and smoldering (asymptomatic) multiple myeloma: IMWG consensus perspectives risk factors for progression and guidelines for monitoring and management. Leukemia. 2010;24(6):1121–1127. [PubMed 20410922](https://pubmed.ncbi.nlm.nih.gov/20410922/)\n- **Kastritis et al., 2011** — 6. Kastritis E, Katodritou E, Pouli A, et al. Frequency and prognostic significance of hypercalcemia in patients with multiple myeloma: an analysis of the database of the Greek Myeloma Study Group [abstract]. Blood. 2011;118(21):5083.\n- **Kyle et al., 2003** — 7. Kyle RA, Gertz MA, Witzig TE, et al. Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc. 2003;78(1):21–33. [PubMed 12528874](https://pubmed.ncbi.nlm.nih.gov/12528874/)\n- **Zagouri et al., 2017** — 8. Zagouri F, Kastritis E, Zomas A, et al. Hypercalcemia remains an adverse prognostic factor for newly diagnosed multiple myeloma patients in the era of novel antimyeloma therapies. Eur J Haematol. 2017;99(5):409–414. [PubMed 28675766](https://pubmed.ncbi.nlm.nih.gov/28675766/)\n- **Frølich, 1998** — 9. Frølich A. Prevalence of hypercalcaemia in normal and in hospital populations. Dan Med Bull. 1998;45(4):436–439. [PubMed 9777294](https://pubmed.ncbi.nlm.nih.gov/9777294/)\n- **Palmér et al., 1988** — 10. Palmér M, Jakobsson S, Akerström G, Ljunghall S. Prevalence of hypercalcaemia in a health survey: a 14-year follow-up study of serum calcium values. Eur J Clin Invest. 1988; 18(1):39–46. [PubMed 3130258](https://pubmed.ncbi.nlm.nih.gov/3130258/)\n- **Potts & Jüppner, 2012** — 11. Potts JT Jr, Jüppner HW. Disorders of the parathyroid gland and calcium homeostasis. In: Jameson J, Fauci AS, Kasper DL, Hauser SL, Longo DL, Loscalzo J, eds. Harrison’s Principles of Internal Medicine. Vol 2. 20th ed. McGraw-Hill Education; 2012:2921–2942.\n- **Rögnvaldsson et al., 2021** — 12. Rögnvaldsson S, Love TJ, Thorsteinsdottir S, et al. Iceland screens, treats, or prevents multiple myeloma (iStopMM): a population-based screening study for monoclonal gammopathy of undetermined significance and randomized controlled trial of follow-up strategies. Blood Cancer J. 2021;11(5):94. [PubMed 34001889](https://pubmed.ncbi.nlm.nih.gov/34001889/)\n- **Payne et al., 1973** — 13. Payne RB, Little AJ, Williams RB, Milner JR. Interpretation of serum calcium in patients with abnormal serum proteins. BMJ. 1973; 4(5893):643–646. [PubMed 4758544](https://pubmed.ncbi.nlm.nih.gov/4758544/)\n- **Minisola et al., 2015** — 14. Minisola S, Pepe J, Piemonte S, Cipriani C. The diagnosis and management of hypercalcaemia. BMJ. 2015;350:h2723. [PubMed 26037642](https://pubmed.ncbi.nlm.nih.gov/26037642/)\n- **Kenny et al., 2021** — 15. Kenny CM, Murphy CE, Boyce DS, Ashley DM, Jahanmir J. Things we do for no reason™: calculating a \"corrected calcium\" level. J Hosp Med. 2021;16(8):499–501. [PubMed 34197298](https://pubmed.ncbi.nlm.nih.gov/34197298/)\n\n[[PAGE 7: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p7]]\n## Key points\n\n- Hypercalcemia in MGUS rarely indicates progression to MM; no isolated hypercalcemia indicating progression was observed.\n\n- Hypercalcemia cases in MGUS had similar causes to those in the general population. The approach to isolated hypercalcemia should be general.\n\n[[PAGE 8: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p8]]\n![Figure 1](/library/paper/pdf-page?id=doi%3A10.1182%2Fblood.2024025624&page=8&sha256=498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7&xref=251)\n\n**Figure 1**. The distribution of persistent hypercalcemia and its underlying cause in individuals with MGUS identified by active follow-up of cases in the iStopMM study. LP, lymphoproliferative disorders other than MM.\n\n[[PAGE 9: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p9]]\n![Figure 2](/library/paper/pdf-page?id=doi%3A10.1182%2Fblood.2024025624&page=9&sha256=498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7&xref=268)\n\n**Figure 2**. Identified causes of hypercalcemia in individuals with MGUS according to sex. LP, lymphoproliferative disorders other than MM; PHPT, primary hyperparathyroidism; THPT, tertiary hyperparathyroidism.\n\n[[PAGE 10: literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p10]]\n## Table 1. Demographic and clinical characteristics of individuals with MGUS enrolled in clinical follow-up in the iStopMM study, according to whether they had persistent hypercalcemia or not\n\n| Characteristic | Hypercalcemia (n = 93) | No hypercalcemia (n = 2453) | P value |\n| --- | --- | --- | --- |\n| Median age (range), y | 73 (41-92) | 70 (42-100) | &lt;.001 |\n| Female (%) | 68% | 45% | &lt;.001 |\n| Median M protein (range), g/L | 0.26 (0.06-3.3) | 0.23 (0.02-2.6) | .23 |\n| M protein type |  |  | .04 |\n| IgA | 13 (14%) | 247 (10%) |  |\n| IgG | 45 (48%) | 1250 (51%) |  |\n| IgM | 22 (24%) | 468 (19%) |  |\n| Light chain | 11 (12%) | 272 (11%) |  |\n| Biclonal | 2 (2%) | 216 (9%) |  |\n| Abnormal FLC ratio | 36 (39%) | 896 (37%) | .66 |\n| Percent BMPC |  |  | .42 |\n| 0%-5% | 15 (16%) | 478 (20%) |  |\n| 6%-10% | 13 (14%) | 467 (19%) |  |\n| 11%-60% | 9 (10%) | 192 (8%) |  |\n| ≥60% | 0 (0%) | 1 (0%) |  |\n| Missing | 56 (60%) | 1315 (54%) |  |\n| SMM | 7 (8%) | 200 (8%) | .98 |\n\n**Note:** Data are presented as numbers and percentages or ranges.\n\n**Abbreviations:** BMPC, bone marrow plasma cells; FLC, free light chain; SMM, smoldering multiple myeloma."
+      },
+      "parent_release": "4ac62036ef19338f155609819494db37068d4cdfa2500f63e1ca204cc837ccd6",
+      "parent_snapshot": "45871cc2f189072cb3415f7700a6780f2b6d4fa6ed65eb922bda1dc383518c68",
+      "reason": "Merging affiliations between pages",
+      "release": "9e9468de11cfb29998875cb2ba90c01d745181ca60e36ee3c46c19831c5ff6da",
+      "reviewer": "Björn Leví",
+      "schema_version": 1,
+      "scope": "document",
+      "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "status": "draft",
+      "unit_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p1",
+      "unit_ids": [
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p1",
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p2",
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p3",
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p4",
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p5",
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p6",
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p7",
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p8",
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p9",
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p10"
+      ]
+    },
+    "publication": {
+      "after": {
+        "content_identity": "75ee8c2c71341026dc4b16c70973d0315932e33f08053724a6cbe0e72deefaa5"
+      },
+      "at": "2026-11-20T14:50:43.953428+00:00",
+      "before": {
+        "content_identity": "05f6bdc8657662bd2ac7ffb4a607ef451ee661c50656761e9905649837cc0575"
+      },
+      "chunks_stale": false,
+      "editorial_snapshot": "87badb8e47297040fdd7df5df126b5046040daa1f7ba64551dcae5e442f3802c",
+      "parent_release": "a42aa09e7327e4054b11eaab6dbd40be062c6dcf69e2e3b4e9e8f8d9aadb8a50",
+      "parent_snapshot": "85a6e6e3f62e23ea4a6da3c9b2fdbc7608ef1aa868bf3fafec975dfd0f0eb488",
+      "reason": "Merging affiliations between pages",
+      "release": "17b2c539e01a3a09a3098339c01ad730f04cabc44a25d142699d95030695a28d",
+      "reviewer": "Björn Leví",
+      "schema_version": 1,
+      "scope": "publication",
+      "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "unit_id": null
+    },
+    "unpublication": {
+      "after": {
+        "content_identity": null
+      },
+      "at": "2026-11-20T14:25:05.653293+00:00",
+      "before": {
+        "content_identity": "f9341563b9c75bd1388fa92fde84bf19028e6ea9f645cdd1febe482d4f91b53d"
+      },
+      "parent_release": "0e46b097e8fe35e662a0c6c39eb9cdeee68ba69ad7ca4d39f3da658239ff22a3",
+      "parent_snapshot": "22a7791cddbedcfdfc4f30ab58b96a6bcdd3344b52dd8678f34af199b943e2e8",
+      "reason": "Error in results and discussions, splitting paragraphs between pages",
+      "release": "9f56ace98e7ffa4e06dacfb336ff93f6363c04cad004d470181894902b69a526",
+      "reviewer": "Björn Leví",
+      "schema_version": 1,
+      "scope": "unpublication",
+      "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "unit_id": null
+    }
+  },
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-16T10:55:47.881946+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Approaching hypercalcemia in monoclonal gammopathy of undetermined significance: insights from the iStopMM screening study",
+        "year": "2025"
+      },
+      "doi": "10.1182/blood.2024025624",
+      "format": "pdf",
+      "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+      "rights": "restricted",
+      "sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "url": "https://doi.org/10.1182/blood.2024025624"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p1",
+        "source_issue_ids": [],
+        "text": "\n# Approaching hypercalcemia in monoclonal gammopathy of undetermined significance: insights from the iStopMM screening study\n\n**Authors:** Ástrún Helga Jónsdóttir (1), Helga Ágústa Sigurjónsdóttir (1,2), Sigrun Thorsteinsdóttir (1,3), Thorir Einarsson Long (1,4), Ingigerður Sólveig Sverrisdóttir (1,5), Elias Eythorsson (1,6), Jón Þórir Óskarsson (1,7), Runolfur Palsson (1,8), Olafur Skuli Indridason (8), Brynjar Viðarsson (9), Pall Torfi Onundarson (1), Ísleifur Ólafsson (7), Ingunn Þorsteindóttir (7), Bjarni A. Agnarsson (1,10), Margrét Sigurðardóttir (10), Ásbjörn Jónsson (11), Malin Hultcrantz (12), Brian G. M. Durie (13), Stephen Harding (14), Ola Landgren (15), Thorvardur Jon Love (1,16), Sigurður Yngvi Kristinsson (1,9), Sæmundur Rögnvaldsson (1,6)\n\n**Affiliations**\n\n- 1. Faculty of Medicine, University of Iceland, Reykjavik, Iceland\n- 2. Department of Endocrinology, Landspítali University Hospital, Reykjavik, Iceland\n- 3. Department of Hematology, Rigshospitalet, Copenhagen, Denmark\n- 4. Department of Nephrology, Skåne University Hospital, Lund, Sweden\n- 5. Department of Hematology, Sahlgrenska University Hospital, Gothenburg, Sweden\n- 6. Department of Internal Medicine, Landspítali University Hospital, Reykjavik, Iceland\n- 7. Department of Clinical Biochemistry and Hematology, Landspítali University Hospital, Reykjavik, Iceland\n- 8. Department of Nephrology, Landspítali University Hospital, Reykjavik, Iceland\n- 9. Department of Hematology, Landspítali University Hospital, Reykjavik, Iceland\n- 10. Department of Pathology, Landspítali University Hospital, Reykjavik, Iceland\n- 11. Department of Radiology, Akureyri Hospital, Akureyri, Iceland\n- 12. Myeloma Service, Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY\n- 13. Samuel Oschin Comprehensive Cancer Institute, Cedar-Sinai Outpatient Cancer Center, Los Angeles, CA\n- 14. The Binding Site, Birmingham, United Kingdom\n- 15. Myeloma Program, Department of Medicine, Sylvester Comprehensive Cancer Center, University of Miami, Miami, FL\n- 16. Department of Research, Landspítali University Hospital, Reykjavik, Iceland\n\n### Correspondence\n\nSæmundur Rögnvaldsson, University of Iceland, Sturlugata 8, 102 Reykjavík, Iceland; srognvald@hi.is.\n\n### Author contributions\n\nThe study concept was developed by S.R., Á.H.J., and S.Y.K.; Á.H.J. and S.R. wrote the first draft of the manuscript; and all authors offered additional input to the manuscript and approved the submitted version.\n\n### Conflict-of-interest disclosure\n\nS.T. has received honoraria for scientific talks from AbbVie and Thermo Fisher. M.H. has received research funding from AbbVie, BeiGene, Bristol Myers Squibb, Daiichi Sankyo, Cosette Pharmaceuticals, GlaxoSmithKline, Johnson & Johnson, and The Binding Site; has received consulting fees from Curio Science LLC, Projects in Knowledge, and Intellisphere LLC; and participated in scientific advisory boards for Bristol Myers Squibb, Johnson & Johnson, and GlaxoSmithKline. O.L. has received research funding from the National Institutes of Health, National Cancer Institute, US Food and Drug Administration, Leukemia and Lymphoma Society, Rising Tide Foundation, Multiple Myeloma Research Fund, International Myeloma Foundation, Paula and Rodger Riney Foundation, Tow Foundation, Myeloma Solutions Fund, Perelman Family Foundation, Amgen, Celgene, Janssen, Takeda, Glenmark, Seattle Genetics, and Karyopharm; honoraria for scientific talks/participated in advisory boards for Adaptive, Amgen, The Binding Site, Bristol Myers Squibb, Celgene, Cellectis, Glenmark, Janssen, Juno, and Pfizer; and served on independent data monitoring committees for Takeda, Merck, and Janssen. S.H. is currently employed at The Binding Site. S.Y.K. has received research funding from Amgen and Celgene and served on independent data monitoring committee for Janssen. S.R. has received honoraria for scientific talks from Siemens Healthineers and Johnson & Johnson. The remaining authors declare no competing financial interest.\n\n### Data availability\n\nCurrent approvals do not allow for sharing of the underlying study data. However, data may be shared with other investigators pending the review of the iStopMM investigators and the Icelandic Scientific Ethics Committee.\n\nThe online version of this article contains a data supplement.\n\nThere is a Blood Commentary on this article in this issue.\n\nThe publication costs of this article were defrayed in part by page charge payment. Therefore, and solely to indicate this fact, this article is hereby marked “advertisement” in accordance with 18 USC section 1734.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p10",
+        "source_issue_ids": [],
+        "text": "## Table 1. Demographic and clinical characteristics of individuals with MGUS enrolled in clinical follow-up in the iStopMM study, according to whether they had persistent hypercalcemia or not\n\n| Characteristic | Hypercalcemia (n = 93) | No hypercalcemia (n = 2453) | P value |\n| --- | --- | --- | --- |\n| Median age (range), y | 73 (41-92) | 70 (42-100) | &lt;.001 |\n| Female (%) | 68% | 45% | &lt;.001 |\n| Median M protein (range), g/L | 0.26 (0.06-3.3) | 0.23 (0.02-2.6) | .23 |\n| M protein type |  |  | .04 |\n| IgA | 13 (14%) | 247 (10%) |  |\n| IgG | 45 (48%) | 1250 (51%) |  |\n| IgM | 22 (24%) | 468 (19%) |  |\n| Light chain | 11 (12%) | 272 (11%) |  |\n| Biclonal | 2 (2%) | 216 (9%) |  |\n| Abnormal FLC ratio | 36 (39%) | 896 (37%) | .66 |\n| Percent BMPC |  |  | .42 |\n| 0%-5% | 15 (16%) | 478 (20%) |  |\n| 6%-10% | 13 (14%) | 467 (19%) |  |\n| 11%-60% | 9 (10%) | 192 (8%) |  |\n| ≥60% | 0 (0%) | 1 (0%) |  |\n| Missing | 56 (60%) | 1315 (54%) |  |\n| SMM | 7 (8%) | 200 (8%) | .98 |\n\n**Note:** Data are presented as numbers and percentages or ranges.\n\n**Abbreviations:** BMPC, bone marrow plasma cells; FLC, free light chain; SMM, smoldering multiple myeloma.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p2",
+        "source_issue_ids": [],
+        "text": "\n## Abstract\n\nHypercalcemia in monoclonal gammopathy of undetermined significance (MGUS) presents a clinical challenge because it may indicate progression to multiple myeloma (MM) but could also be due to a multitude of unrelated disorders. To inform the approach to this clinical challenge, we conducted a nested cohort study within the Iceland Screens, Treats, or Prevents Multiple Myeloma screening study. Of the 75 422 Icelanders aged 40 years and above who underwent screening for MGUS, we included 2546 with MGUS who were in active follow-up, including regular serum calcium measurements. In total, 191 individuals (7.5%) had hypercalcemia detected at least once, of whom 93 had persistent hypercalcemia (48.7%). MM was found in 3 participants with persistent hypercalcemia (3.2%); all had concurrent bone disease and other end-organ damage. The most common causes of hypercalcemia were primary hyperparathyroidism (56.0%) and malignancies other than MM (16.0%). In this first comprehensive study on hypercalcemia in MGUS, we observed that hypercalcemia rarely indicated MGUS progression and never in the absence of other symptoms of MM. More than half of hypercalcemia cases were transient, and the underlying causes were similar to those in the general population. We conclude that hypercalcemia in MGUS should be approached in the same way as in those without MGUS.\n\n## Introduction\n\nMultiple myeloma (MM) is defined by the presence of monoclonal immunoglobulins (M-proteins) or free light chains in the serum and associated clinical hallmarks of hypercalcemia, renal impairment, anemia, and bone lesions (CRAB) or MM-defining biomarkers (Rajkumar et al., 2014). MM is preceded by monoclonal gammopathy of undetermined significance (MGUS), an asymptomatic premalignant state (Landgren et al., 2009). MGUS is common, with a prevalence of 4.2% in individuals above the age of 50 years. MGUS carries a 1% to 1.5% risk per year of progression to MM or related lymphoproliferative disorders (Kyle et al., 2006; Dispenzieri et al., 2010). No treatment is recommended for MGUS, but indefinite follow-up is recommended with the aim of detecting MGUS progression (Kyle et al., 2010). To identify progression in individuals with MGUS, regular",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p3",
+        "source_issue_ids": [],
+        "text": "blood testing is performed to detect changes in M protein concentrations and signs of MM-related end-organ damage, including hypercalcemia (Kyle et al., 2010).\n\nHypercalcemia is present in ~15% to 21% of newly diagnosed patients with MM, and virtually all patients with MM with hypercalcemia also have concurrent bone disease (Kastritis et al., 2011; Kyle et al., 2003; Zagouri et al., 2017).\n\nHowever, hypercalcemia is relatively common in the general population, with a prevalence of ~1% to 4%, and is caused by hyperparathyroidism or various malignancies in >90% of the cases (Frølich, 1998; Palmér et al., 1988; Potts & Jüppner, 2012).\n\nHypercalcemia in individuals with MGUS presents a clinical challenge as it may indicate progression to malignancy that requires prompt therapy, although, at the same time, it is not clear to what extent hypercalcemia in MGUS indicates progression. Current diagnostic criteria for MM recommend ruling out other causes of hypercalcemia in the absence of other diagnostic criteria (Rajkumar et al., 2014). However, these recommendations are based on expert opinion, and we are unaware of any studies providing evidence on approaching this clinical challenge. Therefore, we were motivated to evaluate the underlying causes of hypercalcemia in a prospectively followed MGUS cohort.\n\n## Study design\n\nThis study is based on the Iceland Screens, Treats, or Prevents Multiple Myeloma (iStopMM) study, a population-based screening study of MGUS, and a randomized controlled trial of follow-up strategies to evaluate population-based MGUS screening. In total, 75 422 Icelanders ≥40 years of age (51% of the eligible population) were screened for MGUS. Two-thirds of those with MGUS were invited for regular follow-up appointments that included serum calcium measurements. The methodology of iStopMM has been described in detail elsewhere and has been approved by the Icelandic Committee of Science Ethics (Number 16-022, date: 26 April 2016) (Rögnvaldsson et al., 2021).\n\nThis study included people who attended follow-up visits in iStopMM between April 2017 and February 2022. Serum calcium and albumin measurements were collected from a central Icelandic laboratory database, where virtually all these measurements in Iceland are stored. When possible, albumin-adjusted calcium was calculated (Payne et al., 1973). Hypercalcemia was defined as total serum calcium ≥2.55 mmol/L or ionized calcium levels ≥1.40 mmol/L (≥10.20 mg/dL and ≥5.61 mg/dL, respectively). When hypercalcemia was detected in iStopMM participants, ionized calcium and parathyroid hormone (PTH) were measured. Medical records of individuals with hypercalcemia were thoroughly evaluated in collaboration with a senior endocrinologist at Landspítali–The National University Hospital of Iceland to establish the persistence of hypercalcemia and to ascertain the underlying diagnosis made during subsequent clinical care. Information about MGUS-related factors was obtained from iStopMM. Descriptive statistics were used, and groups were compared using the Student t test and Fisher exact test.\n\n## Results and discussion\n\nOn the basis of a nationwide screening study that included 75 422 persons, we systematically studied 2546 individuals with MGUS to detect hypercalcemia. Of the 2546 persons with MGUS enrolled in the active follow-up, 191 (7.5%) had hypercalcemia detected at least once. Of those, 98 (51%) had hypercalcemia that either subsided without treatment or was found to be artifactual (eg, by subsequent measurement of ionized calcium). Thus, the hypercalcemia was transient in half of the cases (Figure 1). The findings highlight the importance of confirming hypercalcemia when detected by repeat measures and measures of ionized calcium.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p4",
+        "source_issue_ids": [],
+        "text": "\nThe remaining 93 participants (49%) with persistent hypercalcemia had a median albumin-adjusted calcium and ionized calcium levels of 2.62 (range, 2.55-3.37) mmol/L and 1.46 (range, 1.33-1.87) mmol/L, respectively. As in the general population (Potts & Jüppner, 2012; Minisola et al., 2015), they were more likely to be female (68% vs 45%; P < .001) and older than other participants (median age 73 vs 70 years; P < .001). When compared with persons without hypercalcemia, there was no difference in the MGUS-related factors, except for the M protein isotype, with those with hypercalcemia more frequently having immunoglobulin A and immunoglobulin M MGUS (Table 1).\n\nThe cause of hypercalcemia was identified in 75 participants (81%). No definitive cause could be determined in 15 participants (16%), and 3 participants (3%) died from causes unrelated to the underlying plasma cell disorder before a diagnostic evaluation could be carried out. Hypercalcemia was caused by progression to MM in 3 cases (3%) (Figure 1). Bone disease and other concurrent CRAB features were present at diagnosis in all these cases (supplemental Table; available on the Blood website). One participant had hypercalcemia due to the progression to diffuse large B-cell lymphoma. Multiple other clinical signs and symptoms, including lymphadenopathy and B-symptoms, prompted the workup that led to the diagnosis. Hence, hypercalcemia rarely signified MGUS progression, and similar to previous studies (Kastritis et al., 2011; Kyle et al., 2003), no cases of hypercalcemia indicating MGUS progression were observed without other clinical hallmarks of MM, including bone disease. All observed cases of MM-related hypercalcemia were characterized by serum total calcium levels below the 2.75 mmol/L cutoff defined in current guidelines (Rajkumar et al., 2014). These findings suggest that hypercalcemia is not a reliable marker of MGUS progression and that current definitions poorly capture MM-related hypercalcemia.\n\nOverall, the causes of persistent hypercalcemia were similar to those in the general population (Potts & Jüppner, 2012; Minisola et al., 2015). Primary hyperparathyroidism was the most common cause of hypercalcemia (56.0%) and malignancies other than MM were the second most common cause (16.0%). Drug-induced hypercalcemia was caused by D-vitamin supplements in 5 cases and tacrolimus in 1 case. Sjögren syndrome was among other causes (Figure 2). These results reveal that hypercalcemia in individuals with MGUS is usually no different from hypercalcemia in those without MGUS. On the basis of these findings, we conclude that in the absence of other signs or symptoms of MGUS progression, hypercalcemia in those with MGUS should be approached in the same manner as in those without MGUS.\n\nThis study has several strengths. First, the cohort is based on a large screening study including more than 75 000 people. Serum calcium levels were systematically obtained, so the cohort has, in effect, also been screened for hypercalcemia. Second, the participants with MGUS were actively monitored for progression to MM or other lymphoproliferative",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p5",
+        "source_issue_ids": [],
+        "text": "disorders, thus providing robust data on hypercalcemia occurring in this setting. Finally, medical records and laboratory test results are stored centrally, yielding a virtually complete data set, including clinical information and serum calcium measurements.\n\nThis study also has important limitations. The underlying causes of hypercalcemia were determined by a review of medical records, relying on adequate diagnostic evaluation and accurate clinical documentation, and in some cases, this was insufficient to establish the underlying cause. In particular, subclinical causes such as dietary factors could have gone unnoticed. However, as the participants were enrolled in follow-up for MGUS progression, including the development of hypercalcemia, MGUS progression is unlikely to have gone unnoticed. It is also important to keep in mind that although MM was ruled out as a cause of hypercalcemia at the time, it does not rule out future progression. Second, albumin-adjusted serum calcium levels have been criticized for being inaccurate, particularly in the setting of hypercalcemia (Kenny et al., 2021), which potentially explains the high rate of transient hypercalcemia observed in this study. However, only those with persistent hypercalcemia underwent additional evaluation, and this limitation is unlikely to have significantly affected the overall interpretation of the findings. Finally, this study is based on the ethnically and genetically homogenous Icelandic population, and thus, the rate and underlying causes of hypercalcemia may not be representative for other populations.\n\nIn conclusion, this first comprehensive study on hypercalcemia in MGUS revealed comparable causes of hypercalcemia in individuals with and without MGUS and that hypercalcemia is not a strong indicator of MGUS progression. Furthermore, hypercalcemia is often transient in individuals with MGUS. Thus, in the absence of other CRAB features, we suggest that hypercalcemia in individuals with MGUS would be approached in the same way as in those without MGUS. As a general approach to incident hypercalcemia, we recommend repeating serum calcium measurement, preferably by measuring serum ionized calcium, followed by measuring PTH if elevated calcium level is confirmed. If hypercalcemia is persistent and PTH level is below normal limits, indicating a normal physiologic response, further workup should be performed to rule out underlying malignancy, including progression to MM or related lymphoproliferative disorders (Rajkumar et al., 2014). These findings contribute to an evidence-based approach to the care of individuals with MGUS.\n\n## Supplementary Material\n\nRefer to Web version on PubMed Central for supplementary material.\n\n## Acknowledgments\n\nScreening tests were performed by the Binding Site.\n\nThis study is funded by the Black Swan Research Initiative of the International Myeloma Foundation, the European Research Council (Horizon 2020, grant agreement 716677), the Icelandic Research Fund (grant agreements 173857 and 2410755), Landspítali Research Fund, University of Iceland, the Icelandic Cancer Society, and the Leukemia and Lymphoma Society. O.L. is supported by the Sylvester Comprehensive Cancer Center, National Institutes of Health (NIH), National Cancer Institute (NCI) Core Grant (P30 CA240139), Riney Family Multiple Myeloma Research Program Fund, Tow Foundation, Myeloma Solutions Fund, and the Perelman Family Foundation. M.H. is supported by a Memorial Sloan Kettering, NIH, NCI Core Grant (P30 CA008748).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p6",
+        "source_issue_ids": [],
+        "text": "## References\n\n- **Rajkumar et al., 2014** — 1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538–e548. [PubMed 25439696](https://pubmed.ncbi.nlm.nih.gov/25439696/)\n- **Landgren et al., 2009** — 2. Landgren O, Kyle RA, Pfeiffer RM, et al. Monoclonal gammopathy of undetermined significance (MGUS) consistently precedes multiple myeloma: a prospective study. Blood. 2009;113(22):5412– 5417. [PubMed 19179464](https://pubmed.ncbi.nlm.nih.gov/19179464/)\n- **Kyle et al., 2006** — 3. Kyle RA, Therneau TM, Rajkumar SV, et al. Prevalence of monoclonal gammopathy of undetermined significance. N Engl J Med. 2006;354(13):1362–1369. [PubMed 16571879](https://pubmed.ncbi.nlm.nih.gov/16571879/)\n- **Dispenzieri et al., 2010** — 4. Dispenzieri A, Katzmann JA, Kyle RA, et al. Prevalence and risk of progression of light-chain monoclonal gammopathy of undetermined significance: a retrospective population-based cohort study. Lancet. 2010; 375(9727):1721–1728. [PubMed 20472173](https://pubmed.ncbi.nlm.nih.gov/20472173/)\n- **Kyle et al., 2010** — 5. Kyle RA, Durie BGM, Rajkumar SV, et al. Monoclonal gammopathy of undetermined significance (MGUS) and smoldering (asymptomatic) multiple myeloma: IMWG consensus perspectives risk factors for progression and guidelines for monitoring and management. Leukemia. 2010;24(6):1121–1127. [PubMed 20410922](https://pubmed.ncbi.nlm.nih.gov/20410922/)\n- **Kastritis et al., 2011** — 6. Kastritis E, Katodritou E, Pouli A, et al. Frequency and prognostic significance of hypercalcemia in patients with multiple myeloma: an analysis of the database of the Greek Myeloma Study Group [abstract]. Blood. 2011;118(21):5083.\n- **Kyle et al., 2003** — 7. Kyle RA, Gertz MA, Witzig TE, et al. Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc. 2003;78(1):21–33. [PubMed 12528874](https://pubmed.ncbi.nlm.nih.gov/12528874/)\n- **Zagouri et al., 2017** — 8. Zagouri F, Kastritis E, Zomas A, et al. Hypercalcemia remains an adverse prognostic factor for newly diagnosed multiple myeloma patients in the era of novel antimyeloma therapies. Eur J Haematol. 2017;99(5):409–414. [PubMed 28675766](https://pubmed.ncbi.nlm.nih.gov/28675766/)\n- **Frølich, 1998** — 9. Frølich A. Prevalence of hypercalcaemia in normal and in hospital populations. Dan Med Bull. 1998;45(4):436–439. [PubMed 9777294](https://pubmed.ncbi.nlm.nih.gov/9777294/)\n- **Palmér et al., 1988** — 10. Palmér M, Jakobsson S, Akerström G, Ljunghall S. Prevalence of hypercalcaemia in a health survey: a 14-year follow-up study of serum calcium values. Eur J Clin Invest. 1988; 18(1):39–46. [PubMed 3130258](https://pubmed.ncbi.nlm.nih.gov/3130258/)\n- **Potts & Jüppner, 2012** — 11. Potts JT Jr, Jüppner HW. Disorders of the parathyroid gland and calcium homeostasis. In: Jameson J, Fauci AS, Kasper DL, Hauser SL, Longo DL, Loscalzo J, eds. Harrison’s Principles of Internal Medicine. Vol 2. 20th ed. McGraw-Hill Education; 2012:2921–2942.\n- **Rögnvaldsson et al., 2021** — 12. Rögnvaldsson S, Love TJ, Thorsteinsdottir S, et al. Iceland screens, treats, or prevents multiple myeloma (iStopMM): a population-based screening study for monoclonal gammopathy of undetermined significance and randomized controlled trial of follow-up strategies. Blood Cancer J. 2021;11(5):94. [PubMed 34001889](https://pubmed.ncbi.nlm.nih.gov/34001889/)\n- **Payne et al., 1973** — 13. Payne RB, Little AJ, Williams RB, Milner JR. Interpretation of serum calcium in patients with abnormal serum proteins. BMJ. 1973; 4(5893):643–646. [PubMed 4758544](https://pubmed.ncbi.nlm.nih.gov/4758544/)\n- **Minisola et al., 2015** — 14. Minisola S, Pepe J, Piemonte S, Cipriani C. The diagnosis and management of hypercalcaemia. BMJ. 2015;350:h2723. [PubMed 26037642](https://pubmed.ncbi.nlm.nih.gov/26037642/)\n- **Kenny et al., 2021** — 15. Kenny CM, Murphy CE, Boyce DS, Ashley DM, Jahanmir J. Things we do for no reason™: calculating a \"corrected calcium\" level. J Hosp Med. 2021;16(8):499–501. [PubMed 34197298](https://pubmed.ncbi.nlm.nih.gov/34197298/)",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p7",
+        "source_issue_ids": [],
+        "text": "## Key points\n\n- Hypercalcemia in MGUS rarely indicates progression to MM; no isolated hypercalcemia indicating progression was observed.\n\n- Hypercalcemia cases in MGUS had similar causes to those in the general population. The approach to isolated hypercalcemia should be general.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p8",
+        "source_issue_ids": [],
+        "text": "![Figure 1](/library/paper/pdf-page?id=doi%3A10.1182%2Fblood.2024025624&page=8&sha256=498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7&xref=251)\n\n**Figure 1**. The distribution of persistent hypercalcemia and its underlying cause in individuals with MGUS identified by active follow-up of cases in the iStopMM study. LP, lymphoproliferative disorders other than MM.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited draft; original extraction retained in prior snapshots; not published for retrieval.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p9",
+        "source_issue_ids": [],
+        "text": "![Figure 2](/library/paper/pdf-page?id=doi%3A10.1182%2Fblood.2024025624&page=9&sha256=498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7&xref=268)\n\n**Figure 2**. Identified causes of hypercalcemia in individuals with MGUS according to sex. LP, lymphoproliferative disorders other than MM; PHPT, primary hyperparathyroidism; THPT, tertiary hyperparathyroidism.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {
+      "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p1": {
+        "labels": {
+          "20": "Persistent hypercalcemia (sustained high calcium): frequency and cohort counts",
+          "22": "Hypercalcemia and progression from MGUS to multiple myeloma"
+        },
+        "ranges": [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            10
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            17
+          ],
+          [
+            18,
+            18
+          ],
+          [
+            19,
+            19
+          ],
+          [
+            20,
+            21
+          ],
+          [
+            22,
+            22
+          ],
+          [
+            23,
+            23
+          ],
+          [
+            24,
+            25
+          ],
+          [
+            26,
+            26
+          ],
+          [
+            27,
+            27
+          ],
+          [
+            28,
+            28
+          ],
+          [
+            29,
+            30
+          ],
+          [
+            31,
+            31
+          ],
+          [
+            32,
+            33
+          ],
+          [
+            34,
+            34
+          ],
+          [
+            35,
+            35
+          ],
+          [
+            36,
+            38
+          ]
+        ]
+      }
+    },
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-16T10:55:47.881946+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Approaching hypercalcemia in monoclonal gammopathy of undetermined significance: insights from the iStopMM screening study",
+        "year": "2025"
+      },
+      "doi": "10.1182/blood.2024025624",
+      "format": "pdf",
+      "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+      "rights": "restricted",
+      "sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+      "url": "https://doi.org/10.1182/blood.2024025624"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p1",
+        "source_issue_ids": [],
+        "text": "\n# Approaching hypercalcemia in monoclonal gammopathy of undetermined significance: insights from the iStopMM screening study\n\n**Authors:** Ástrún Helga Jónsdóttir (1), Helga Ágústa Sigurjónsdóttir (1,2), Sigrun Thorsteinsdóttir (1,3), Thorir Einarsson Long (1,4), Ingigerður Sólveig Sverrisdóttir (1,5), Elias Eythorsson (1,6), Jón Þórir Óskarsson (1,7), Runolfur Palsson (1,8), Olafur Skuli Indridason (8), Brynjar Viðarsson (9), Pall Torfi Onundarson (1), Ísleifur Ólafsson (7), Ingunn Þorsteindóttir (7), Bjarni A. Agnarsson (1,10), Margrét Sigurðardóttir (10), Ásbjörn Jónsson (11), Malin Hultcrantz (12), Brian G. M. Durie (13), Stephen Harding (14), Ola Landgren (15), Thorvardur Jon Love (1,16), Sigurður Yngvi Kristinsson (1,9), Sæmundur Rögnvaldsson (1,6)\n\n**Affiliations**\n\n- 1. Faculty of Medicine, University of Iceland, Reykjavik, Iceland\n- 2. Department of Endocrinology, Landspítali University Hospital, Reykjavik, Iceland\n- 3. Department of Hematology, Rigshospitalet, Copenhagen, Denmark\n- 4. Department of Nephrology, Skåne University Hospital, Lund, Sweden\n- 5. Department of Hematology, Sahlgrenska University Hospital, Gothenburg, Sweden\n- 6. Department of Internal Medicine, Landspítali University Hospital, Reykjavik, Iceland\n- 7. Department of Clinical Biochemistry and Hematology, Landspítali University Hospital, Reykjavik, Iceland\n- 8. Department of Nephrology, Landspítali University Hospital, Reykjavik, Iceland\n- 9. Department of Hematology, Landspítali University Hospital, Reykjavik, Iceland\n- 10. Department of Pathology, Landspítali University Hospital, Reykjavik, Iceland\n- 11. Department of Radiology, Akureyri Hospital, Akureyri, Iceland\n- 12. Myeloma Service, Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY\n- 13. Samuel Oschin Comprehensive Cancer Institute, Cedar-Sinai Outpatient Cancer Center, Los Angeles, CA\n- 14. The Binding Site, Birmingham, United Kingdom\n- 15. Myeloma Program, Department of Medicine, Sylvester Comprehensive Cancer Center, University of Miami, Miami, FL\n- 16. Department of Research, Landspítali University Hospital, Reykjavik, Iceland\n\n### Correspondence\n\nSæmundur Rögnvaldsson, University of Iceland, Sturlugata 8, 102 Reykjavík, Iceland; srognvald@hi.is.\n\n### Author contributions\n\nThe study concept was developed by S.R., Á.H.J., and S.Y.K.; Á.H.J. and S.R. wrote the first draft of the manuscript; and all authors offered additional input to the manuscript and approved the submitted version.\n\n### Conflict-of-interest disclosure\n\nS.T. has received honoraria for scientific talks from AbbVie and Thermo Fisher. M.H. has received research funding from AbbVie, BeiGene, Bristol Myers Squibb, Daiichi Sankyo, Cosette Pharmaceuticals, GlaxoSmithKline, Johnson & Johnson, and The Binding Site; has received consulting fees from Curio Science LLC, Projects in Knowledge, and Intellisphere LLC; and participated in scientific advisory boards for Bristol Myers Squibb, Johnson & Johnson, and GlaxoSmithKline. O.L. has received research funding from the National Institutes of Health, National Cancer Institute, US Food and Drug Administration, Leukemia and Lymphoma Society, Rising Tide Foundation, Multiple Myeloma Research Fund, International Myeloma Foundation, Paula and Rodger Riney Foundation, Tow Foundation, Myeloma Solutions Fund, Perelman Family Foundation, Amgen, Celgene, Janssen, Takeda, Glenmark, Seattle Genetics, and Karyopharm; honoraria for scientific talks/participated in advisory boards for Adaptive, Amgen, The Binding Site, Bristol Myers Squibb, Celgene, Cellectis, Glenmark, Janssen, Juno, and Pfizer; and served on independent data monitoring committees for Takeda, Merck, and Janssen. S.H. is currently employed at The Binding Site. S.Y.K. has received research funding from Amgen and Celgene and served on independent data monitoring committee for Janssen. S.R. has received honoraria for scientific talks from Siemens Healthineers and Johnson & Johnson. The remaining authors declare no competing financial interest.\n\n### Data availability\n\nCurrent approvals do not allow for sharing of the underlying study data. However, data may be shared with other investigators pending the review of the iStopMM investigators and the Icelandic Scientific Ethics Committee.\n\nThe online version of this article contains a data supplement.\n\nThere is a Blood Commentary on this article in this issue.\n\nThe publication costs of this article were defrayed in part by page charge payment. Therefore, and solely to indicate this fact, this article is hereby marked “advertisement” in accordance with 18 USC section 1734.",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p10",
+        "source_issue_ids": [],
+        "text": "## Table 1. Demographic and clinical characteristics of individuals with MGUS enrolled in clinical follow-up in the iStopMM study, according to whether they had persistent hypercalcemia or not\n\n| Characteristic | Hypercalcemia (n = 93) | No hypercalcemia (n = 2453) | P value |\n| --- | --- | --- | --- |\n| Median age (range), y | 73 (41-92) | 70 (42-100) | &lt;.001 |\n| Female (%) | 68% | 45% | &lt;.001 |\n| Median M protein (range), g/L | 0.26 (0.06-3.3) | 0.23 (0.02-2.6) | .23 |\n| M protein type |  |  | .04 |\n| IgA | 13 (14%) | 247 (10%) |  |\n| IgG | 45 (48%) | 1250 (51%) |  |\n| IgM | 22 (24%) | 468 (19%) |  |\n| Light chain | 11 (12%) | 272 (11%) |  |\n| Biclonal | 2 (2%) | 216 (9%) |  |\n| Abnormal FLC ratio | 36 (39%) | 896 (37%) | .66 |\n| Percent BMPC |  |  | .42 |\n| 0%-5% | 15 (16%) | 478 (20%) |  |\n| 6%-10% | 13 (14%) | 467 (19%) |  |\n| 11%-60% | 9 (10%) | 192 (8%) |  |\n| ≥60% | 0 (0%) | 1 (0%) |  |\n| Missing | 56 (60%) | 1315 (54%) |  |\n| SMM | 7 (8%) | 200 (8%) | .98 |\n\n**Note:** Data are presented as numbers and percentages or ranges.\n\n**Abbreviations:** BMPC, bone marrow plasma cells; FLC, free light chain; SMM, smoldering multiple myeloma.",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p2",
+        "source_issue_ids": [],
+        "text": "\n## Abstract\n\nHypercalcemia in monoclonal gammopathy of undetermined significance (MGUS) presents a clinical challenge because it may indicate progression to multiple myeloma (MM) but could also be due to a multitude of unrelated disorders. To inform the approach to this clinical challenge, we conducted a nested cohort study within the Iceland Screens, Treats, or Prevents Multiple Myeloma screening study. Of the 75 422 Icelanders aged 40 years and above who underwent screening for MGUS, we included 2546 with MGUS who were in active follow-up, including regular serum calcium measurements. In total, 191 individuals (7.5%) had hypercalcemia detected at least once, of whom 93 had persistent hypercalcemia (48.7%). MM was found in 3 participants with persistent hypercalcemia (3.2%); all had concurrent bone disease and other end-organ damage. The most common causes of hypercalcemia were primary hyperparathyroidism (56.0%) and malignancies other than MM (16.0%). In this first comprehensive study on hypercalcemia in MGUS, we observed that hypercalcemia rarely indicated MGUS progression and never in the absence of other symptoms of MM. More than half of hypercalcemia cases were transient, and the underlying causes were similar to those in the general population. We conclude that hypercalcemia in MGUS should be approached in the same way as in those without MGUS.\n\n## Introduction\n\nMultiple myeloma (MM) is defined by the presence of monoclonal immunoglobulins (M-proteins) or free light chains in the serum and associated clinical hallmarks of hypercalcemia, renal impairment, anemia, and bone lesions (CRAB) or MM-defining biomarkers (Rajkumar et al., 2014). MM is preceded by monoclonal gammopathy of undetermined significance (MGUS), an asymptomatic premalignant state (Landgren et al., 2009). MGUS is common, with a prevalence of 4.2% in individuals above the age of 50 years. MGUS carries a 1% to 1.5% risk per year of progression to MM or related lymphoproliferative disorders (Kyle et al., 2006; Dispenzieri et al., 2010). No treatment is recommended for MGUS, but indefinite follow-up is recommended with the aim of detecting MGUS progression (Kyle et al., 2010). To identify progression in individuals with MGUS, regular",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p3",
+        "source_issue_ids": [],
+        "text": "blood testing is performed to detect changes in M protein concentrations and signs of MM-related end-organ damage, including hypercalcemia (Kyle et al., 2010).\n\nHypercalcemia is present in ~15% to 21% of newly diagnosed patients with MM, and virtually all patients with MM with hypercalcemia also have concurrent bone disease (Kastritis et al., 2011; Kyle et al., 2003; Zagouri et al., 2017).\n\nHowever, hypercalcemia is relatively common in the general population, with a prevalence of ~1% to 4%, and is caused by hyperparathyroidism or various malignancies in >90% of the cases (Frølich, 1998; Palmér et al., 1988; Potts & Jüppner, 2012).\n\nHypercalcemia in individuals with MGUS presents a clinical challenge as it may indicate progression to malignancy that requires prompt therapy, although, at the same time, it is not clear to what extent hypercalcemia in MGUS indicates progression. Current diagnostic criteria for MM recommend ruling out other causes of hypercalcemia in the absence of other diagnostic criteria (Rajkumar et al., 2014). However, these recommendations are based on expert opinion, and we are unaware of any studies providing evidence on approaching this clinical challenge. Therefore, we were motivated to evaluate the underlying causes of hypercalcemia in a prospectively followed MGUS cohort.\n\n## Study design\n\nThis study is based on the Iceland Screens, Treats, or Prevents Multiple Myeloma (iStopMM) study, a population-based screening study of MGUS, and a randomized controlled trial of follow-up strategies to evaluate population-based MGUS screening. In total, 75 422 Icelanders ≥40 years of age (51% of the eligible population) were screened for MGUS. Two-thirds of those with MGUS were invited for regular follow-up appointments that included serum calcium measurements. The methodology of iStopMM has been described in detail elsewhere and has been approved by the Icelandic Committee of Science Ethics (Number 16-022, date: 26 April 2016) (Rögnvaldsson et al., 2021).\n\nThis study included people who attended follow-up visits in iStopMM between April 2017 and February 2022. Serum calcium and albumin measurements were collected from a central Icelandic laboratory database, where virtually all these measurements in Iceland are stored. When possible, albumin-adjusted calcium was calculated (Payne et al., 1973). Hypercalcemia was defined as total serum calcium ≥2.55 mmol/L or ionized calcium levels ≥1.40 mmol/L (≥10.20 mg/dL and ≥5.61 mg/dL, respectively). When hypercalcemia was detected in iStopMM participants, ionized calcium and parathyroid hormone (PTH) were measured. Medical records of individuals with hypercalcemia were thoroughly evaluated in collaboration with a senior endocrinologist at Landspítali–The National University Hospital of Iceland to establish the persistence of hypercalcemia and to ascertain the underlying diagnosis made during subsequent clinical care. Information about MGUS-related factors was obtained from iStopMM. Descriptive statistics were used, and groups were compared using the Student t test and Fisher exact test.\n\n## Results and discussion\n\nOn the basis of a nationwide screening study that included 75 422 persons, we systematically studied 2546 individuals with MGUS to detect hypercalcemia. Of the 2546 persons with MGUS enrolled in the active follow-up, 191 (7.5%) had hypercalcemia detected at least once. Of those, 98 (51%) had hypercalcemia that either subsided without treatment or was found to be artifactual (eg, by subsequent measurement of ionized calcium). Thus, the hypercalcemia was transient in half of the cases (Figure 1). The findings highlight the importance of confirming hypercalcemia when detected by repeat measures and measures of ionized calcium.",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p4",
+        "source_issue_ids": [],
+        "text": "\nThe remaining 93 participants (49%) with persistent hypercalcemia had a median albumin-adjusted calcium and ionized calcium levels of 2.62 (range, 2.55-3.37) mmol/L and 1.46 (range, 1.33-1.87) mmol/L, respectively. As in the general population (Potts & Jüppner, 2012; Minisola et al., 2015), they were more likely to be female (68% vs 45%; P < .001) and older than other participants (median age 73 vs 70 years; P < .001). When compared with persons without hypercalcemia, there was no difference in the MGUS-related factors, except for the M protein isotype, with those with hypercalcemia more frequently having immunoglobulin A and immunoglobulin M MGUS (Table 1).\n\nThe cause of hypercalcemia was identified in 75 participants (81%). No definitive cause could be determined in 15 participants (16%), and 3 participants (3%) died from causes unrelated to the underlying plasma cell disorder before a diagnostic evaluation could be carried out. Hypercalcemia was caused by progression to MM in 3 cases (3%) (Figure 1). Bone disease and other concurrent CRAB features were present at diagnosis in all these cases (supplemental Table; available on the Blood website). One participant had hypercalcemia due to the progression to diffuse large B-cell lymphoma. Multiple other clinical signs and symptoms, including lymphadenopathy and B-symptoms, prompted the workup that led to the diagnosis. Hence, hypercalcemia rarely signified MGUS progression, and similar to previous studies (Kastritis et al., 2011; Kyle et al., 2003), no cases of hypercalcemia indicating MGUS progression were observed without other clinical hallmarks of MM, including bone disease. All observed cases of MM-related hypercalcemia were characterized by serum total calcium levels below the 2.75 mmol/L cutoff defined in current guidelines (Rajkumar et al., 2014). These findings suggest that hypercalcemia is not a reliable marker of MGUS progression and that current definitions poorly capture MM-related hypercalcemia.\n\nOverall, the causes of persistent hypercalcemia were similar to those in the general population (Potts & Jüppner, 2012; Minisola et al., 2015). Primary hyperparathyroidism was the most common cause of hypercalcemia (56.0%) and malignancies other than MM were the second most common cause (16.0%). Drug-induced hypercalcemia was caused by D-vitamin supplements in 5 cases and tacrolimus in 1 case. Sjögren syndrome was among other causes (Figure 2). These results reveal that hypercalcemia in individuals with MGUS is usually no different from hypercalcemia in those without MGUS. On the basis of these findings, we conclude that in the absence of other signs or symptoms of MGUS progression, hypercalcemia in those with MGUS should be approached in the same manner as in those without MGUS.\n\nThis study has several strengths. First, the cohort is based on a large screening study including more than 75 000 people. Serum calcium levels were systematically obtained, so the cohort has, in effect, also been screened for hypercalcemia. Second, the participants with MGUS were actively monitored for progression to MM or other lymphoproliferative",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p5",
+        "source_issue_ids": [],
+        "text": "disorders, thus providing robust data on hypercalcemia occurring in this setting. Finally, medical records and laboratory test results are stored centrally, yielding a virtually complete data set, including clinical information and serum calcium measurements.\n\nThis study also has important limitations. The underlying causes of hypercalcemia were determined by a review of medical records, relying on adequate diagnostic evaluation and accurate clinical documentation, and in some cases, this was insufficient to establish the underlying cause. In particular, subclinical causes such as dietary factors could have gone unnoticed. However, as the participants were enrolled in follow-up for MGUS progression, including the development of hypercalcemia, MGUS progression is unlikely to have gone unnoticed. It is also important to keep in mind that although MM was ruled out as a cause of hypercalcemia at the time, it does not rule out future progression. Second, albumin-adjusted serum calcium levels have been criticized for being inaccurate, particularly in the setting of hypercalcemia (Kenny et al., 2021), which potentially explains the high rate of transient hypercalcemia observed in this study. However, only those with persistent hypercalcemia underwent additional evaluation, and this limitation is unlikely to have significantly affected the overall interpretation of the findings. Finally, this study is based on the ethnically and genetically homogenous Icelandic population, and thus, the rate and underlying causes of hypercalcemia may not be representative for other populations.\n\nIn conclusion, this first comprehensive study on hypercalcemia in MGUS revealed comparable causes of hypercalcemia in individuals with and without MGUS and that hypercalcemia is not a strong indicator of MGUS progression. Furthermore, hypercalcemia is often transient in individuals with MGUS. Thus, in the absence of other CRAB features, we suggest that hypercalcemia in individuals with MGUS would be approached in the same way as in those without MGUS. As a general approach to incident hypercalcemia, we recommend repeating serum calcium measurement, preferably by measuring serum ionized calcium, followed by measuring PTH if elevated calcium level is confirmed. If hypercalcemia is persistent and PTH level is below normal limits, indicating a normal physiologic response, further workup should be performed to rule out underlying malignancy, including progression to MM or related lymphoproliferative disorders (Rajkumar et al., 2014). These findings contribute to an evidence-based approach to the care of individuals with MGUS.\n\n## Supplementary Material\n\nRefer to Web version on PubMed Central for supplementary material.\n\n## Acknowledgments\n\nScreening tests were performed by the Binding Site.\n\nThis study is funded by the Black Swan Research Initiative of the International Myeloma Foundation, the European Research Council (Horizon 2020, grant agreement 716677), the Icelandic Research Fund (grant agreements 173857 and 2410755), Landspítali Research Fund, University of Iceland, the Icelandic Cancer Society, and the Leukemia and Lymphoma Society. O.L. is supported by the Sylvester Comprehensive Cancer Center, National Institutes of Health (NIH), National Cancer Institute (NCI) Core Grant (P30 CA240139), Riney Family Multiple Myeloma Research Program Fund, Tow Foundation, Myeloma Solutions Fund, and the Perelman Family Foundation. M.H. is supported by a Memorial Sloan Kettering, NIH, NCI Core Grant (P30 CA008748).",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p6",
+        "source_issue_ids": [],
+        "text": "## References\n\n- **Rajkumar et al., 2014** — 1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538–e548. [PubMed 25439696](https://pubmed.ncbi.nlm.nih.gov/25439696/)\n- **Landgren et al., 2009** — 2. Landgren O, Kyle RA, Pfeiffer RM, et al. Monoclonal gammopathy of undetermined significance (MGUS) consistently precedes multiple myeloma: a prospective study. Blood. 2009;113(22):5412– 5417. [PubMed 19179464](https://pubmed.ncbi.nlm.nih.gov/19179464/)\n- **Kyle et al., 2006** — 3. Kyle RA, Therneau TM, Rajkumar SV, et al. Prevalence of monoclonal gammopathy of undetermined significance. N Engl J Med. 2006;354(13):1362–1369. [PubMed 16571879](https://pubmed.ncbi.nlm.nih.gov/16571879/)\n- **Dispenzieri et al., 2010** — 4. Dispenzieri A, Katzmann JA, Kyle RA, et al. Prevalence and risk of progression of light-chain monoclonal gammopathy of undetermined significance: a retrospective population-based cohort study. Lancet. 2010; 375(9727):1721–1728. [PubMed 20472173](https://pubmed.ncbi.nlm.nih.gov/20472173/)\n- **Kyle et al., 2010** — 5. Kyle RA, Durie BGM, Rajkumar SV, et al. Monoclonal gammopathy of undetermined significance (MGUS) and smoldering (asymptomatic) multiple myeloma: IMWG consensus perspectives risk factors for progression and guidelines for monitoring and management. Leukemia. 2010;24(6):1121–1127. [PubMed 20410922](https://pubmed.ncbi.nlm.nih.gov/20410922/)\n- **Kastritis et al., 2011** — 6. Kastritis E, Katodritou E, Pouli A, et al. Frequency and prognostic significance of hypercalcemia in patients with multiple myeloma: an analysis of the database of the Greek Myeloma Study Group [abstract]. Blood. 2011;118(21):5083.\n- **Kyle et al., 2003** — 7. Kyle RA, Gertz MA, Witzig TE, et al. Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc. 2003;78(1):21–33. [PubMed 12528874](https://pubmed.ncbi.nlm.nih.gov/12528874/)\n- **Zagouri et al., 2017** — 8. Zagouri F, Kastritis E, Zomas A, et al. Hypercalcemia remains an adverse prognostic factor for newly diagnosed multiple myeloma patients in the era of novel antimyeloma therapies. Eur J Haematol. 2017;99(5):409–414. [PubMed 28675766](https://pubmed.ncbi.nlm.nih.gov/28675766/)\n- **Frølich, 1998** — 9. Frølich A. Prevalence of hypercalcaemia in normal and in hospital populations. Dan Med Bull. 1998;45(4):436–439. [PubMed 9777294](https://pubmed.ncbi.nlm.nih.gov/9777294/)\n- **Palmér et al., 1988** — 10. Palmér M, Jakobsson S, Akerström G, Ljunghall S. Prevalence of hypercalcaemia in a health survey: a 14-year follow-up study of serum calcium values. Eur J Clin Invest. 1988; 18(1):39–46. [PubMed 3130258](https://pubmed.ncbi.nlm.nih.gov/3130258/)\n- **Potts & Jüppner, 2012** — 11. Potts JT Jr, Jüppner HW. Disorders of the parathyroid gland and calcium homeostasis. In: Jameson J, Fauci AS, Kasper DL, Hauser SL, Longo DL, Loscalzo J, eds. Harrison’s Principles of Internal Medicine. Vol 2. 20th ed. McGraw-Hill Education; 2012:2921–2942.\n- **Rögnvaldsson et al., 2021** — 12. Rögnvaldsson S, Love TJ, Thorsteinsdottir S, et al. Iceland screens, treats, or prevents multiple myeloma (iStopMM): a population-based screening study for monoclonal gammopathy of undetermined significance and randomized controlled trial of follow-up strategies. Blood Cancer J. 2021;11(5):94. [PubMed 34001889](https://pubmed.ncbi.nlm.nih.gov/34001889/)\n- **Payne et al., 1973** — 13. Payne RB, Little AJ, Williams RB, Milner JR. Interpretation of serum calcium in patients with abnormal serum proteins. BMJ. 1973; 4(5893):643–646. [PubMed 4758544](https://pubmed.ncbi.nlm.nih.gov/4758544/)\n- **Minisola et al., 2015** — 14. Minisola S, Pepe J, Piemonte S, Cipriani C. The diagnosis and management of hypercalcaemia. BMJ. 2015;350:h2723. [PubMed 26037642](https://pubmed.ncbi.nlm.nih.gov/26037642/)\n- **Kenny et al., 2021** — 15. Kenny CM, Murphy CE, Boyce DS, Ashley DM, Jahanmir J. Things we do for no reason™: calculating a \"corrected calcium\" level. J Hosp Med. 2021;16(8):499–501. [PubMed 34197298](https://pubmed.ncbi.nlm.nih.gov/34197298/)",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p7",
+        "source_issue_ids": [],
+        "text": "## Key points\n\n- Hypercalcemia in MGUS rarely indicates progression to MM; no isolated hypercalcemia indicating progression was observed.\n\n- Hypercalcemia cases in MGUS had similar causes to those in the general population. The approach to isolated hypercalcemia should be general.",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p8",
+        "source_issue_ids": [],
+        "text": "![Figure 1](/library/paper/pdf-page?id=doi%3A10.1182%2Fblood.2024025624&page=8&sha256=498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7&xref=251)\n\n**Figure 1**. The distribution of persistent hypercalcemia and its underlying cause in individuals with MGUS identified by active follow-up of cases in the iStopMM study. LP, lymphoproliferative disorders other than MM.",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text",
+          "Operator-corrected transcription; not independent scientific validation. See correction audit."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/blood.2024025624",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified. Admin-edited transcription; original extraction retained in prior snapshots. Clear text explicitly published after admin source comparison; see local publication audit.",
+          "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_sha256": "498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+          "source_url": "https://doi.org/10.1182/blood.2024025624"
+        },
+        "human_verification": "reviewed",
+        "id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p9",
+        "source_issue_ids": [],
+        "text": "![Figure 2](/library/paper/pdf-page?id=doi%3A10.1182%2Fblood.2024025624&page=9&sha256=498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7&xref=268)\n\n**Figure 2**. Identified causes of hypercalcemia in individuals with MGUS according to sex. LP, lymphoproliferative disorders other than MM; PHPT, primary hyperparathyroidism; THPT, tertiary hyperparathyroidism.",
+        "truncated": false,
+        "verification_status": "source_checked_by_human"
+      }
+    ]
+  },
+  "rag": {
+    "checks": [
+      {
+        "excerpt": "93 participants (49%) with persistent hypercalcemia",
+        "id": "39241d0d16023b58823a4d88945ac43381e62c04d11504ada5242ded6ecb9b9e",
+        "page": 4,
+        "query": "persistent hypercalcemia"
+      },
+      {
+        "excerpt": "93 participants (49%) with persistent hypercalcemia",
+        "id": "03937a1c5d52d27f2442f39006700ca02e7a86cd9de17791232f7f71013d1796",
+        "page": 4,
+        "query": "How common was persistent hypercalcemia?"
+      },
+      {
+        "excerpt": "93 participants (49%) with persistent hypercalcemia",
+        "id": "61e2bdd9143e1aae8c42c0d6d4a7b3e237d4d8d0b7d7b2ca6c50381fac49f6c6",
+        "page": 4,
+        "query": "What proportion had sustained high calcium?"
+      },
+      {
+        "excerpt": "93 participants (49%) with persistent hypercalcemia",
+        "id": "eda94ac0d5bba073009b6b091ad4fe92995f42cc4406dab5fe94c8bc8522786d",
+        "page": 4,
+        "query": "How often did high calcium persist?"
+      },
+      {
+        "excerpt": "Hypercalcemia was caused by progression to MM in 3 cases (3%) (Figure 1).",
+        "id": "cd5fb87dfe646351f146ba9e2c5f21cb71eb8c8675dfc00e089c254c7733a8cf",
+        "page": 4,
+        "query": "hypercalcemia progression"
+      },
+      {
+        "excerpt": "Median age (range)",
+        "id": "3c9c0203d73d1ed1f62a5815138e3b1e57a16d146bb96bda85b841db025ae9ae",
+        "page": 10,
+        "query": "Table 1 median age"
+      },
+      {
+        "excerpt": "Identified causes of hypercalcemia in individuals with MGUS according to sex. LP, lymphopr",
+        "id": "eb63897a5ea940de110d4cb91a61efb6ff7d1aece853d1c25cf0f8343a1ebe5c",
+        "page": 9,
+        "query": "What does Figure 2 show?"
+      },
+      {
+        "excerpt": "This study also has important limitations.",
+        "id": "5424adae5f2bb9c0263cfa7d2cfc33f6eb07678fbfba4f5bd912fba5dc6ef498",
+        "page": 5,
+        "query": "study limitations"
+      }
+    ],
+    "draft": {
+      "content_identity": "75ee8c2c71341026dc4b16c70973d0315932e33f08053724a6cbe0e72deefaa5",
+      "plans": {
+        "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7:p1": {
+          "labels": {
+            "20": "Persistent hypercalcemia (sustained high calcium): frequency and cohort counts",
+            "22": "Hypercalcemia and progression from MGUS to multiple myeloma"
+          },
+          "ranges": [
+            [
+              1,
+              3
+            ],
+            [
+              4,
+              4
+            ],
+            [
+              5,
+              5
+            ],
+            [
+              6,
+              6
+            ],
+            [
+              7,
+              7
+            ],
+            [
+              8,
+              10
+            ],
+            [
+              11,
+              11
+            ],
+            [
+              12,
+              12
+            ],
+            [
+              13,
+              17
+            ],
+            [
+              18,
+              18
+            ],
+            [
+              19,
+              19
+            ],
+            [
+              20,
+              21
+            ],
+            [
+              22,
+              22
+            ],
+            [
+              23,
+              23
+            ],
+            [
+              24,
+              25
+            ],
+            [
+              26,
+              26
+            ],
+            [
+              27,
+              27
+            ],
+            [
+              28,
+              28
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              31,
+              31
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              34,
+              34
+            ],
+            [
+              35,
+              35
+            ],
+            [
+              36,
+              38
+            ]
+          ]
+        }
+      },
+      "term_anchors": {
+        "20": {
+          "digest": "95d5f69613ee49653869af652abd234d8548cb6956501361b9d38d6d3f5acac4",
+          "excerpt": "## Results and discussion On the basis of a nationwide screening study that included 75 422 persons, we systematically studied 2546 individuals with MGUS to detect hypercalcemia. Of the 2546 persons with MGUS enrolled in the active follow-u",
+          "page": 3
+        },
+        "22": {
+          "digest": "23c26961151ce8639e446774abea6c182dda69c47acf07f33edbb9311c843f79",
+          "excerpt": "The cause of hypercalcemia was identified in 75 participants (81%). No definitive cause could be determined in 15 participants (16%), and 3 participants (3%) died from causes unrelated to the underlying plasma cell disorder before a diagnos",
+          "page": 4
+        }
+      },
+      "unassigned_terms": []
+    }
+  },
+  "source_id": "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7"
+}

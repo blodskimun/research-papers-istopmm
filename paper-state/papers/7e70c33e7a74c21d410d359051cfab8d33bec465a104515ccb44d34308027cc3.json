@@ -1,0 +1,732 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T15:48:10.439105+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Follow-Up of adults with noncritical COVID-19 two months after symptom onset",
+        "year": null
+      },
+      "doi": "10.1016/j.cmi.2020.09.052",
+      "format": "pdf",
+      "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+      "url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p1",
+        "source_issue_ids": [],
+        "text": "Follow-up of adults with noncritical COVID-19 two months after symptom onset\n\nClaudia Carvalho-Schneider, Emeline Laurent, Adrien Lemaignen, Emilie Beaufils,\n\nCéline Bourbao-Tournois, Saïd Laribi, Thomas Flament, Nicole Ferreira-Maldent,\n\nFranck Bruyère, Karl Stefic, et al.\n\nTo cite this version:\n\nClaudia Carvalho-Schneider, Emeline Laurent, Adrien Lemaignen, Emilie Beaufils, Céline Bourbao-Tournois, et al.. Follow-up of adults with noncritical COVID-19 two months after symptom onset. Clinical Microbiology and Infection, 2021, 27 (2), pp.258-263. ⟨10.1016/j.cmi.2020.09.052⟩. ⟨hal-03282467⟩\n\nHAL Id: hal-03282467\n\nhttps://hal.science/hal-03282467v1\n\nSubmitted on 9 Mar 2023\n\nHAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or pri-vate research centers.\n\nL’archive ouverte pluridisciplinaire HAL, est des-tinée au dépôt et à la diffusion de documents scien-tifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.\n\nDistributed under a Creative Commons CC BY-NC 4.0 - Attribution - Non-commercial use - International License",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p10",
+        "source_issue_ids": [],
+        "text": "185\n\nDiscussion 186\n\nThis study showed that the medium-term course of 150 patients with mild or moderate 187\n\nCOVID-19 was unfavorable: two-thirds of patients still reported symptoms at D30 and D60 188\n\nand more than one-third felt still sick or in a worse clinical condition at D60 than at COVID- 189\n\n19 onset. These prolonged symptoms were significantly associated with age 40 to 60 years 190\n\nold, hospital admission at symptom onset, severe COVID-19, and dyspnea or abnormal 191\n\nauscultation. 192\n\nThe main strength of our study was a well-documented prospective follow-up of patients with 193\n\na non-critical COVID-19 presentation at the early stage and D30 and D60. Indeed, the recent 194\n\ninternational literature has provided evidence of the clinical presentation and evolution of 195\n\nCOVID-19 patients(2,12–15) but mainly regarding the most severe cases in ICUs and 196\n\npredictors of the initial deterioration. The WHO has stated that median time from illness 197\n\nonset to recovery(16) is about 2 weeks for mild cases and 3 to 6 weeks with severe or critical 198\n\ndisease. Small-scale studies in Wuhan, China showed that survivors continued to have poor 199\n\nlung and heart function (1). 200\n\nThe initial clinical presentation for patients with mild or moderate COVID-19 (frequent 201\n\nrespiratory and flu-like symptoms) was similar from previous studies (17,18) including 202\n\npatients with more severe clinical presentation at symptom onset described in New York, UK 203\n\nor Italy . However, the patients included in our study were younger (mean age 49, vs 62 to 73 204\n\nyears in severe cases) (13–15), and health professionals were overrepresented because of the 205\n\nnational recommendations at this date and their prioritizing access to diagnostic tests (19). 206\n\nFor patients with mild or moderate COVID-19, different symptoms such as anosmia/ageusia, 207\n\nmyalgia or headache persisted. In a recent study, Lechien et al.(17) reported persistent 208\n\nolfactory dysfunction in 37.5% of patients at least 7 days after the end of mild to moderate 209\n\n9",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p11",
+        "source_issue_ids": [],
+        "text": "COVID-19. The precise mechanism of this symptom is unknown. Patients should be 210\n\ninformed of this anomaly and be referred to a specialist. 211\n\nIn our study, at D30, half of the patients still felt sick or in a worse clinical condition than 212\n\nbefore symptom onset, and 7% reported severe asthenia (3.1% at D60). One-third of the 213\n\npatients had dyspnea and approximately one-sixth had chest pain. This situation is 214\n\nparticularly frightening for patients. Rigorous studies with chest explorations seem necessary. 215\n\nIndeed, the evaluation at D30 and D60 was declarative over a phone call, without available 216\n\nphysical, biological or imaging assessment. We controlled this potential reporting bias using 217\n\nstandardized questionnaires administrated by trained investigators (supplementary data S1 218\n\nand S2). However, subjective complaints are worth the attention and focus of the medical 219\n\ncommunity and need to be taken into account in the medical care. Moreover, several 220\n\ninfectious diseases such as primary cytomegalovirus or Epstein-Barr virus infection are 221\n\nknown to be associated with persistent symptoms, without necessarily any obvious anomaly 222\n\non physical examination (20–22). 223\n\nHeavy inflammatory response associated with symptomatic COVID-19 could promote such 224\n\nprolonged convalescence and persisting symptoms. Some authors also suggest the possibility 225\n\nof post-trauma stress disorder after COVID-19, which could contribute to a more prolonged 226\n\nexperience of symptoms such asthenia or poor well-being (23,24). These complex tardive 227\n\npsychological disorders have already been shown after acute respiratory distress syndrome 228\n\n(25,26). This hypothesis could not be detailed in our study due to the lack of a reproducible 229\n\npsychological assessment, but should probably be explored. 230\n\nWe found prolonged symptoms significantly associated in bivariate analysis with age 40 to 231\n\n60 years old, hospital admission at symptom onset, severe COVID-19, and dyspnea or 232\n\nabnormal auscultation. As patients’ baseline characteristics were partially retrospectively 233\n\ncollected, data for potentially contributive factors were missing, preventing multivariate 234\n\n10",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p12",
+        "source_issue_ids": [],
+        "text": "modelling, as the main contributive factors in bivariate analysis (dyspnea, abnormal 235\n\nauscultation) had up to 29% of missing data. However, the findings of the bivariate analysis 236\n\nwere clinically relevant. The smoking status was not available, it would have been interesting 237\n\nto look for an association with duration of symptoms (especially anosmia/ageusia or chronic 238\n\ndyspnea). 239\n\nWith this observational study allowing the prospective follow-up of 150 patients with non- 240\n\ncritical COVID-19, we were able to assess the evolution of the disease and demonstrate that 241\n\neven the mildest presentation was associated with medium-term symptoms requiring follow- 242\n\nup. Thus, the COVID-19 pandemic will involve a care burden long after its end. 243\n\n244\n\n11",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p13",
+        "source_issue_ids": [],
+        "text": "Conflict of Interest Disclosures: None reported. 245\n\nFunding/Support: We had no dedicated support for the research. 246\n\nAcknowledgments: We thank all clinical and nursing staff who recruited and cared for the 247\n\npatients at Tours University Hospital and staff (especially Léonard Bachellier, Côme Schmitt, 248\n\nMarie Schneider, Anne-Sophie Lavedrine, Marie Leidlinger, Clotilde Laffitte, Gabrielle 249\n\nValente, Amélie Gomez, Claire Corbillé, Camille Langbour, Marie Caroline Gabriel, Marion 250\n\nde Quillacq, Rémi Gervais, Sami El Meziani, Marie Fortin, Gaëlle Ragot, Julien Broustaille, 251\n\nDorian Gagnadoux, Eloise Bonnin, Léa Octrovée, Louise Huertas, Romuald Boivin, 252\n\nBérenger Le Roux, Nathalie Sayamath, Hortense Glérant) for logistics follow-up. We thank 253\n\nLaura Smales for English editing. None of these individuals received compensation for their 254\n\nrole in the study. 255\n\nContribution: 256\n\n- Conceptualization: Claudia Carvalho-Schneider, Louis Bernard, Emilie Beaufils 257\n\n- Methodology: Emeline Laurent, Leslie Grammatico-Guillon 258\n\n- Formal Analysis: Emeline Laurent, Leslie Grammatico-Guillon, Claudia Carvalho- 259\n\nSchneider 260\n\n- Investigation: Claudia Carvalho-Schneider, Emilie Beaufils, Céline Bourbao- 261\n\nTournois, Saïd Laribi, Thomas Flament, Nicole Ferreira-Maldent, Franck Bruyère, 262\n\nAdrien Lemaignen, Karl Stefic, Catherine Gaudy-Graffin 263\n\n- Resources: Karl Stefic, Catherine Gaudy-Graffin 264\n\n- Data curation: Emeline Laurent, Leslie Grammatico-Guillon, Claudia Carvalho- 265\n\nSchneider 266\n\n- Writing – Original Draft: Claudia Carvalho-Schneider, Emeline Laurent, Louis 267\n\nBernard, Adrien Lemaignen, Leslie Grammatico-Guillon 268\n\n- Writing – Review & Editing: Claudia Carvalho-Schneider, Emeline Laurent, Adrien 269\n\nLemaignen, Emilie Beaufils, Céline Bourbao-Tournois, SaïdLaribi, Thomas Flament, 270\n\n12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p14",
+        "source_issue_ids": [],
+        "text": "Nicole Ferreira-Maldent, Franck Bruyère, Karl Stefic, Catherine Gaudy-Graffin, 271\n\nLeslie Grammatico-Guillon, Louis Bernard 272\n\n- Visualization: Claudia Carvalho-Schneider, Emeline Laurent, Louis Bernard, Adrien 273\n\nLemaignen, Leslie Grammatico-Guillon 274\n\n- Supervision: Louis Bernard, Claudia Carvalho-Schneider 275\n\n13",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p15",
+        "source_issue_ids": [],
+        "text": "References 276\n\n1. Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk factors for 277 mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort 278\n\nstudy. Lancet Lond Engl. 28 2020;395(10229):1054‑62. 279\n\n2. Guan W-J, Ni Z-Y, Hu Y, Liang W-H, Ou C-Q, He J-X, et al. Clinical Characteristics of 280\n\nCoronavirus Disease 2019 in China. N Engl J Med. 30 2020;382(18):1708‑20. 281\n\n3. Spinato G, Fabbris C, Polesel J, Cazzador D, Borsetto D, Hopkins C, et al. Alterations in 282 Smell or Taste in Mildly Symptomatic Outpatients With SARS-CoV-2 Infection. JAMA. 283 22 avr 2020; 284\n\n4. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected 285 with 2019 novel coronavirus in Wuhan, China. The Lancet. 15 févr 2020;395(10223):497 286\n\n‑506. 287\n\n5. Cecconi M, Piovani D, Brunetta E, Aghemo A, Greco M, Ciccarelli M, et al. Early 288 Predictors of Clinical Deterioration in a Cohort of 239 Patients Hospitalized for Covid-19 289 Infection in Lombardy, Italy. J Clin Med. mai 2020;9(5):1548. 290\n\n6. Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, et al. Risk Factors Associated With Acute 291 Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 292 Pneumonia in Wuhan, China. JAMA Intern Med. 13 mars 2020; 293\n\n7. Carfì A, Bernabei R, Landi F, Gemelli Against COVID-19 Post-Acute Care Study Group. 294 Persistent Symptoms in Patients After Acute COVID-19. JAMA. 9 juill 2020; 295\n\n8. Clinical management of COVID-19 [Internet]. [cité 6 août 2020]. Disponible sur: 296 https://www.who.int/publications-detail-redirect/clinical-management-of-covid-19 297\n\n9. Fletcher CM, Elmes PC, Fairbairn AS, Wood CH. Significance of Respiratory Symptoms 298 and the Diagnosis of Chronic Bronchitis in a Working Population. Br Med J. 29 août 299\n\n1959;2(5147):257‑66. 300\n\n10. Oken MM, Creech RH, Tormey DC, Horton J, Davis TE, McFadden ET, et al. Toxicity 301 and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol. déc 302\n\n1982;5(6):649‑55. 303\n\n11. HCSP. Provisional statement: Recommendations on prevention and management of 304 Covid-19 in patients at risk of severe forms [Internet]. Paris: Haut Conseil de la Santé 305 Publique; 2020 mars [cité 25 mai 2020]. Disponible sur: 306 https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=799 307\n\n12. Lescure F-X, Bouadma L, Nguyen D, Parisey M, Wicky P-H, Behillil S, et al. Clinical 308 and virological data of the first cases of COVID-19 in Europe: a case series. Lancet Infect 309 Dis. 27 mars 2020; 310\n\n14",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 16
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p16",
+        "source_issue_ids": [],
+        "text": "13. Grasselli G, Zangrillo A, Zanella A, Antonelli M, Cabrini L, Castelli A, et al. Baseline 311 Characteristics and Outcomes of 1591 Patients Infected With SARS-CoV-2 Admitted to 312 ICUs of the Lombardy Region, Italy. JAMA. 06 2020; 313\n\n14. Cummings MJ, Baldwin MR, Abrams D, Jacobson SD, Meyer BJ, Balough EM, et al. 314 Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in 315 New York City: a prospective cohort study. Lancet Lond Engl. 19 mai 2020; 316\n\n15. Docherty AB, Harrison EM, Green CA, Hardwick HE, Pius R, Norman L, et al. Features 317 of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical 318 Characterisation Protocol: prospective observational cohort study. BMJ. 22 mai 319 2020;369:m1985. 320\n\n16. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) 321 [Internet]. [cité 8 juin 2020]. Disponible sur: https://www.who.int/publications-detail- 322 redirect/report-of-the-who-china-joint-mission-on-coronavirus-disease-2019-(covid-19) 323\n\n17. Lechien JR, Chiesa-Estomba CM, Place S, Van Laethem Y, Cabaraux P, Mat Q, et al. 324 Clinical and Epidemiological Characteristics of 1,420 European Patients with mild-to- 325 moderate Coronavirus Disease 2019. J Intern Med. 30 avr 2020; 326\n\n18. Menni C, Valdes AM, Freidin MB, Sudre CH, Nguyen LH, Drew DA, et al. Real-time 327 tracking of self-reported symptoms to predict potential COVID-19. Nat Med. 11 mai 328 2020; 329\n\n19. HCSP. Provisional statement: Patients at risk of severe forms of Covid-19 and 330 prioritising access to diagnostic tests [Internet]. Paris: Haut Conseil de la Santé Publique; 331 2020 mars [cité 17 juin 2020]. Disponible sur: 332 https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=798 333\n\n20. Balfour HH, Holman CJ, Hokanson KM, Lelonek MM, Giesbrecht JE, White DR, et al. 334 A prospective clinical study of Epstein-Barr virus and host interactions during acute 335\n\ninfectious mononucleosis. J Infect Dis. 1 nov 2005;192(9):1505‑12. 336\n\n21. Horwitz CA, Henle W, Henle G, Snover D, Rudnick H, Balfour HH, et al. Clinical and 337 laboratory evaluation of cytomegalovirus-induced mononucleosis in previously healthy 338\n\nindividuals. Report of 82 cases. Medicine (Baltimore). mars 1986;65(2):124‑34. 339\n\n22. Wreghitt TG, Teare EL, Sule O, Devi R, Rice P. Cytomegalovirus infection in 340 immunocompetent patients. Clin Infect Dis Off Publ Infect Dis Soc Am. 15 déc 341\n\n2003;37(12):1603‑6. 342\n\n23. Mahase E. Covid-19: What do we know about « long covid »? BMJ. 14 343 2020;370:m2815. 344\n\n24. Xiao S, Luo D, Xiao Y. Survivors of COVID-19 are at high risk of posttraumatic stress 345 disorder. Glob Health Res Policy. 2020;5:29. 346\n\n25. Dutheil F, Mondillon L, Navel V. PTSD as the second tsunami of the SARS-Cov-2 347\n\npandemic. Psychol Med. 24 avr 2020;1‑2. 348\n\n15",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 17
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p17",
+        "source_issue_ids": [],
+        "text": "26. Liu N, Zhang F, Wei C, Jia Y, Shang Z, Sun L, et al. Prevalence and predictors of PTSS 349 during COVID-19 outbreak in China hardest-hit areas: Gender differences matter. 350 Psychiatry Res. 2020;287:112921. 351\n\n352\n\n353\n\n16",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 18
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p18",
+        "source_issue_ids": [],
+        "text": "Figure 1. Flow chart 354\n\n355\n\n*OCEC: outpatient clinical evaluation center 356\n\n357\n\n358\n\n359\n\n360\n\n361\n\n362\n\n363\n\n364\n\n365\n\n366\n\n17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 19
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p19",
+        "source_issue_ids": [],
+        "text": "Table I. Patient symptoms at COVID-19 onset and at day 30 (D30) and 60 (D60). 367\n\nOnset n=150\n\nD30 n=150\n\nD60 n=130\n\nFever (>38°C temperature) 76 (51.4) 5 (3.6) 0 (0.0) Dyspnea/shortness of breath1 49 (42.2) 16 (10.7) 10 (7.7) Chest pain 15 (14.0) 27 (18.0) 17 (13.1) Abnormal auscultation 46 (39.3) - - Flu-like symptoms2 129 (87.2) 54 (36.0) 28 (21.5)\n\nDigestive disorders3 48 (33.1) 26 (17.3) 15 (11.5)\n\nIncluding diarrhea4 44 (91.7) 13 (50.0) 5 (33.3)\n\nWeight, mean ± SD 78.0 ± 19.4 77.2 ± 20.2 75.6 ± 18.0\n\nWeightloss ≥ 5% - 13 (15.9) 15 (17.2)\n\nAnosmia/ageusia 89 (59.3) 40 (27.8) 29 (22.7) Palpitations - 9 (6.5) 14 (10.9) Arthralgia - 13 (9.8) 21 (16.3) Cutaneous signs - 21 (15.4) 15 (11.5) Initial hospitalization 53 (35.3) - - Initial clinical presentation Mild/moderate COVID 116 (77.3) - - Severe COVID 34 (22.7) - - Sickleave - 26 (19.7) 14 (11.2) Data are n (%) unless indicated. 1: grade 2-4 dyspnea according the modified Medical Research Council scale 2: myalgia, headache and/or asthenia 3: digestive disorders (i.e., diarrhea, vomiting) 4: denominator is digestive disorders 368\n\n18",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p2",
+        "source_issue_ids": [],
+        "text": "Version of Record: https://www.sciencedirect.com/science/article/pii/S1198743X20306066 Manuscript_df06ed208c694edb68daa2b6b1ae561f\n\nFollow-up of adults with non-critical COVID-19 two months after symptoms' onset 1\n\n2\n\nClaudia Carvalho-Schneider1, Emeline Laurent2,3, Adrien Lemaignen1, Emilie Beaufils4, 3\n\nCéline Bourbao-Tournois5,Saïd Laribi6, Thomas Flament7, Nicole Ferreira-Maldent8, Franck 4\n\nBruyère9, Karl Stefic10,11, Catherine Gaudy-Graffin10,11, Leslie Grammatico-Guillon2,11, Louis 5\n\nBernard1 6\n\n7\n\n1Service de Médecine Interne et Maladies Infectieuses (S2MI), Centre Hospitalier 8\n\nUniversitaire de Tours, 2 boulevard Tonnellé, 37000 Tours, France 9\n\n2Epidémiologie des Données cliniques en Centre-Val de Loire (EpiDcliC), Centre Hospitalier 10\n\nUniversitaire de Tours, 2 boulevard Tonnellé, 37000 Tours, France 11\n\n3Equipe de recherche “Education Ethique Santé”(EE1 EES), université de Tours, 10 12\n\nboulevard Tonnellé, 37000 Tours, France 13\n\n4 Centre Mémoire Ressources et Recherche (CMRR), Centre Hospitalier Universitaire de 14\n\nTours, 2 boulevard Tonnellé, 37000 Tours, France 15\n\n5Service de chirurgie digestive, Centre Hospitalier Universitaire de Tours, avenue de la 16\n\nRépublique, 37170 Chambray-lès-Tours, France 17\n\n6Service d’urgences et faculté de médecine, Centre Hospitalier Universitaire de Tours, 18\n\navenue de la République, 37170 Chambray-lès-Tours, France 19\n\n7Service de pneumologie, Centre Hospitalier Universitaire de Tours, 2 boulevard Tonnellé, 20\n\n37000 Tours, France 21\n\n8 Service de médecine interne, Centre Hospitalier Universitaire de Tours, 2 boulevard 22\n\nTonnellé, 37000 Tours, France 23\n\n9 Service d’urologie, Centre Hospitalier Universitaire de Tours, 2 boulevard Tonnellé, 37000 24\n\nTours, France 25\n\n1\n\n© 2020 published by Elsevier. This manuscript is made available under the CC BY NC user license https://creativecommons.org/licenses/by-nc/4.0/",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 20
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p20",
+        "source_issue_ids": [],
+        "text": "Table II. Patient characteristics at days 30 (D30) and 60 (D60) after symptom onset for patients with ≥ 1 persisting symptom\n\nTotal ≥1 persisting symptom at D30 (n=150) D60 (n =130) N % N % P value* N % P value*\n\nPatients 150 100 103 68 86 66.1 Female 84 56.0 59 57.3 0.6 48.0 55.8 0.3 Age (years) 0.06 0.026 <30 16 10.7 7 6.8 4 4.7 30-39 32 21.3 21 20.4 19 22.1 40-49 27 18.0 24 23.3 23 26.7 50-59 37 24.7 28 27.2 21 24.4 60-69 19 12.7 11 10.7 10 11.6 ≥70 19 12.7 12 11.7 9 10.5 Healthcare professional 75 50.0 49 47.6 0.38 43.0 50.0 0.6 Comorbid conditions (n)1 0.75 0.5\n\n0 69 46.0 46 45.6 42 48.8 1 52 34.7 35 34.0 25 29.1 2 or more 28 18.7 21 20.4 19 22.1\n\nSymptoms at onset Fever 76 51.4 54 53.5 0.45 44 52.4 0.8 Dyspnea 49 42.2 38 50.0 0.02 28 45.2 0.3 Chest pain 15 14.0 11 15.9 0.4 9 15.8 0.6 Abnormal auscultation 46 39.3 38 47.5 0.0095 32 47.1 0.046 Other respiratory signs2 135 91.2 90 90.1 0.5 76 90.5 0.6 Flu-like symptoms3 129 87.2 88 87.1 0.99 73 86.9 0.7 Diarrhea 44 30.8 31 32.0 0.65 26 32.5 1 Anosmia/ageusia 89 59.3 63 61.2 0.5 55 64.0 0.2 Initial hospitalization Initial clinical presentation\n\n53 35.3 43 0.017\n\n37 43 0.011\n\n0.2 Mild/moderate COVID 116 77.3 74 71.8 64 74.4 Severe COVID 34 22.7 29 28.2 22 25.6 *compared to patients without persisting symptom 1: i.e., obesity (body mass index > 30 kg/m2), chronic respiratory disease, dialysis, heart failure or previous cardiovascular event, liver cirrhosis, insulin-dependent diabetes, immunosuppression, pregnancy 2: cough, sneeze and/or rhinitis 3: myalgia, headache and/or asthenia 369\n\n0.02\n\n370\n\n19",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 21
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p21",
+        "source_issue_ids": [],
+        "text": "Figure 2.Predictors of persistent COVID-19 symptoms 371\n\nDay 30 372\n\nOxygen therapy 3.4 [1.2-9.5]\n\nAbnormal auscultation 3.3 [1.3-8.0]\n\nHospitalization 2.8 [1.2-6.2]\n\nDyspnea 2.4 [1.0-5.3]\n\nFlu-like symptoms 1.3 [0.5-3.4]\n\nDiarrhea 1.2 [0.6-2.7]\n\nFever 1.2 [0.6-2.4]\n\nChest pain 1.2 [0.4-3.7]\n\nAnosmia/ageusia 0.9 [0.4-1.9]\n\nOther respiratory signs 0.6 [0.2-2.3]\n\nFemale 1.2 [0.6-2.4]\n\nHealthcare professional 0.7 [0.3-1.4]\n\n1 comorbidity 1.0 [0.5-2.2]\n\n2 comorbidities or more 1.5 [0.6-4.1]\n\n30-39 years old (y.o.) 3.2 [0.9-11.1]\n\n40-49 y.o. 13.3 [2.8-64.1]\n\n//\n\n50-59 y.o. 5.2 [1.5-18.3]\n\n//\n\n60-69 y.o. 2.3 [0.6-8.9]\n\n≥70 y.o. 2.9 [0.7-11.3] <30 y.o.\n\n0 1 2 3 4 5 6 7 8 9 10 11 12 13 14\n\nOdds Ratios [95% Confidence Interval]\n\n373\n\nDay 60 374\n\nOxygen therapy 1.8 [0.7-4.7]\n\nAbnormal auscultation 2.5 [1.0-6.1]\n\nHospitalization 2.9 [1.3-6.9]\n\nDyspnea 1.6 [0.7-3.9]\n\nFlu-like symptoms 1.3 [0.5-3.5]\n\nDiarrhea 1.0 [0.5-2.2]\n\nFever 1.1 [0.5-2.3]\n\nChest pain 1.4 [0.4-5.0]\n\nAnosmia/ageusia 1.6 [0.8-3.4]\n\nOther respiratory signs 0.7 [0.2-2.8]\n\nFemale 1.5 [0.7-3.1]\n\nHealthcare professional 0.8 [0.4-1.7]\n\n1 comorbidity 0.8 [0.4-1.8]\n\n2 comorbidities or more 1.7 [0.6-4.8]\n\n30-39 years old (y.o.) 4.2 [1.0-17.8]\n\n40-49 y.o. 15.3 [2.8-83.9]\n\n50-59 y.o. 4.2 [1.0-17.3]\n\n//\n\n//\n\n60-69 y.o. 2.9 [0.6-13.3]\n\n≥70 y.o. 2.6 [0.5-12.2] <30 y.o.\n\n0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16\n\nOdds Ratios [95% Confidence Interval]\n\n375\n\n376\n\n377\n\n20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 22
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p22",
+        "source_issue_ids": [],
+        "text": "Supplementary material S1: 378\n\n379\n\nCOVID-19 phone follow-up (7 days) Demographic data: Name: First name: Onset of symptoms: Doctor:\n\n380\n\nAge: Profession: Date: Hospital discharge: Medication: Questions Yes No Commentary\n\nDo you have shortness of breath? Do you have any fever (>38°C)? Do you have chills? Do you feel tired when you wake up? Do you have headache? Do you have chest pain? Do you have vomiting? Do you have diarrhea? Do you have myalgia? Do you cough? Do you have difficulty feeling the taste of food? Do you have a sense of smell? Does your nose run?\n\n21",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 23
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p23",
+        "source_issue_ids": [],
+        "text": "Supplementary material S2: 381\n\nCOVID-19 phone follow-up (days 30 and 60) Demographic data: Name: First name: Date: Questions\n\nAre you on sick leave? Yes / No How do you evaluate your general condition? Worse than before COVID The same than before COVID Better than before COVID Do you have shortness of breath? Yes / No If Yes: mMRC scale Grade0: I onlygetbreathlesswithstrenuousexercise Grade 1: I get short of breathwhenhurrying on levelground or walking up a slighthill Grade 2: On levelground, I walkslowerthan people of the sameagebecause of breathlessness, or I have to stop for breathwhenwalking at myown pace on the level Grade 3: I stop for breathafterwalking about 100 yards or aftera few minutes on levelground Grade 4: I amtoobreathless to leave the house or I ambreathlesswhen dressing Do you have fever (>38°C)? Yes / No If Yes: new / persistant Do you have persistent abnormal fatigue? Yes / No If Yes: WHO performance status classification 0: able to carry out all normal activity without restriction 1: restricted in strenuous activity but ambulatory and able to carry out light work 2: ambulatory and capable of all self-care but unable to carry out any work activities; up and about more than 50% of waking hours 3: symptomatic and in a chair or in bed for greater than 50% of the day but not bedridden 4: completely disabled; cannot carry out any self-care; totally confined to bed or chair. Do you have headache? Yes / No Do you have chest pain? Yes / No If Yes: Trigger: inspiration / cough / effort / none Do you have digestive disorders? Yes / No If Yes: diarrhea / vomiting / abdominal pain Do you have myalgia? Yes / No Do you or did you have arthralgia? Never / Yes, disappeared / Yes, persistent / Yes, appeared Do you or did you have difficulty feeling the taste of food? Yes / No If Yes: Use analog scale (from 0, total taste loss to 10,normal) at the worse moment of the disease and today Do you or did you have a loss of smell? Yes / No If Yes: Use analog scale (from 0, total smell loss to 10,normal) at the worse moment of the disease and today Do you or did you have palpitations? Never / Yes, disappeared / Yes, persistent / Yes, appeared Do you or did you have cutaneous signs? Never / Yes, disappeared / Yes, persistent / Yes, appeared\n\n382\n\n383\n\n22",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 24
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p24",
+        "source_issue_ids": [],
+        "text": "Supplementary material S3: Characteristics of the 20 patients lost to follow-up at D60 384\n\nD60 follow-up lost to follow-up\n\np-value n=130 n = 20\n\nFemale 68 52.3 16 80.0 0.02 Age (years) 0.44 <30 12 9.2 4 20.0 30-39 28 21.5 4 20.0 40-49 26 20.0 1 5.0 50-59 31 23.8 6 30.0 60-69 17 13.1 2 10.0 ≥70 16 12.3 3 15.0 Healthcare professional 67 51.5 8 40.0 0.34 Comorbid conditions (n)1 0.07 0 64 49.2 5 26.3 1 41 31.5 11 57.9 2 or more 25 19.2 3 15.8\n\nSymptoms at onset Fever 66 51.6 10 50.0 0.90 Dyspnea 40 40.8 9 50.0 0.47 Chest pain 13 14.3 2 12.5 1.00 Abnormal auscultation 41 40.2 5 33.3 0.61\n\nOther respiratory signs2 117 91.4 18 90.0 0.69\n\nFlu-like symptoms3 110 85.9 19 95.0 0.47\n\nDiarrhea 40 32.5 4 20.0 0.26 Anosmia/ageusia 78 60.0 11 55.0 0.67 Initial hospitalization 46 35.4 7 35.0 0.97 Initial clinical presentation 0.78 Mild/moderate COVID 101 77.7 15 75.0 Severe COVID 29 22.3 5 25.0 1: i.e., obesity (body mass index > 30 kg/m2), chronic respiratory disease, dialysis, heart failure or 385 previous cardiovascular event, liver cirrhosis, insulin-dependent diabetes, immunosuppression, 386 pregnancy 387 2: cough, sneeze and/or rhinitis 388 3: myalgia, headache and/or asthenia 389\n\n23",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p3",
+        "source_issue_ids": [],
+        "text": "10 Laboratoire de virologie, Centre Hospitalier Universitaire de Tours, 2 boulevard Tonnellé, 26\n\n37000 Tours, France 27\n\n11Unité INSERM U1259, université de Tours, 10 boulevard Tonnellé, 37000 Tours, France 28\n\n29\n\nCorresponding author: Dr Claudia Carvalho-Schneider, MD, Internal Medicine and 30\n\nInfectious Diseases Unit, 2 BdTonnellé, 37044 Tours, France 31\n\nC.CARVALHOSCHNEIDER@chu-tours.fr 32\n\nTel +33-2-47-47-37-14, Fax: +33-2-47-47-37-31 33\n\n34\n\nAbstract length: 241 words 35\n\nPaper length: 2,082 words 36\n\n37\n\n38\n\n2",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p4",
+        "source_issue_ids": [],
+        "text": "Abstract 39\n\nObjectives 40\n\nTo describe the clinical evolution and predictors of symptom persistence during 2-month 41\n\nfollow-up in adults with non-critical COVID-19. 42\n\nMethods 43\n\nDescriptive clinical follow-up (days 7, 30 [D30] and 60 [D60]) of 150 patients with non- 44\n\ncritical COVID-19 confirmed by RT-PCR at Tours University Hospital from March 17 to 45\n\nJune 3, 2020, including demographic, clinical and laboratory data collected from the 46\n\nelectronic medical records and by phone call. Persisting symptoms were defined by the 47\n\npresence at D30 or D60 of at least one of the following: weight loss ≥ 5%, severe dyspnea or 48\n\nasthenia, chest pain, palpitations, anosmia/ageusia, headache, cutaneous signs, arthralgia, 49\n\nmyalgia, digestive disorders, fever or sick leave. 50\n\nResults 51\n\nAt D30, 68% (n=103/150) of patients presented at least one symptom and 66% (n=86/130) at 52\n\nD60, mainly anosmia/ageusia: (59% (n=89/150) at symptom onset, 28% (n=40/150) at D30 53\n\nand 23% (n=29/130) at D60). Dyspnea concerned 36.7% (n=55/150) patients at D30 and 30% 54\n\n(n=39/130) at D60. Half of the patients (n=74/150) at D30 and 40% (n=52/130) at D60 55\n\nreported asthenia. Persistent symptoms at D60 were significantly associated with age 40 to 60 56\n\nyears old, hospital admission and abnormal auscultation at symptom onset. At D30, severe 57\n\nCOVID-19 and/or dyspnea at symptom onset were additional factors associated with 58\n\npersistent symptoms. 59\n\nConclusions 60\n\nUp to 2 months after symptom onset, two thirds of adults with non-critical COVID-19 had 61\n\ncomplaints, mainly anosmia/ageusia, dyspnea or asthenia. A prolonged medical follow-up of 62\n\npatients with COVID-19 seems essential, whatever the initial clinical presentation. 63\n\n3",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p5",
+        "source_issue_ids": [],
+        "text": "Introduction 64\n\nThe most frequent symptoms of COVID-19 at disease onset are cough, fever, asthenia, 65\n\nmyalgia, and altered smell or taste, including anosmia/ageusia. Respiratory distress can 66\n\noccur, mostly between 7 to 10 days after symptom onset (1–4). 67\n\nRecent studies investigating predictors of poor prognosis at an early stage identified potential 68\n\nrisk factors for severe COVID-19 (1,5,6). One recent study in Italy by Carfi et al. described 69\n\npersistent symptoms after hospitalization for COVID-19 (7). Such evidence has not been 70\n\nreported for mild to moderate COVID-19. Our objective was to describe the clinical 71\n\nevolution and predictors of symptom persistence at D30 and D60 in patients with initial non- 72\n\ncritical COVID-19. The aim was to highlight the initial key symptoms of COVID-19 to alert 73\n\npractitioners and patients of the risk of longer symptom duration in individuals with non- 74\n\ncritical COVID-19. 75\n\n76\n\nMaterials and methods 77\n\nStudy design and population 78\n\nThis epidemiological study, based on a prospective follow-up, was carried out in our 79\n\nacademic university hospital from March 17 to June 3, 2020. Inclusion criteria were: every 80\n\nadult patients (≥ 18 years old) with a confirmed diagnosis of COVID-19 (positive RT-PCR 81\n\nfor SARS-CoV-2), and medical care in our hospital either in hospitalization or after 82\n\nconsultation at the hospital’s outpatient clinical evaluation center (OCEC). The OCEC has 83\n\nbeen developed to avoid consultation with the general practitioner (GP) or visit at the 84\n\nemergency department to reduce the risk of cross-transmission. The OCEC allowed 1) 85\n\ndiagnosing COVID-19 by an RT-PCR test for SARS-CoV-2 with a nasopharyngeal swab; 2) 86\n\nassessing the risk of critical illness/deterioration and the need for surveillance; and 3) 87\n\neventually proposing hospital admission to monitor the patient. Non-inclusion criteria were: 88\n\n4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p6",
+        "source_issue_ids": [],
+        "text": "patients deceased or admitted to the ICU (considered as critical disease according to the 89\n\nWHO guidance for clinical management of COVID-19)(8), residents of retirement/nursery 90\n\nhomes or long-term care facilities, patients transferred to another healthcare facility (i.e., 91\n\nother hospital, rehabilitation institution, retirement home), those unable to answer a phone 92\n\nquestionnaire, and lost-to-follow-up patients at D30. 93\n\nThe infectious diseases (ID) unit was in charge of the outpatient follow-up with confirmed 94\n\nCOVID-19 but non-critical disease. Patients with or without clinical signs of pneumonia but 95\n\nwithout need for oxygen therapy were defined as having mild/moderate COVID-19. Patients 96\n\nwith signs of pneumonia requiring oxygen therapy but not needing ICU admission were 97\n\ndefined as having severe COVID-19, according to the WHO definition (8). The ID unit 98\n\nassessed these patients’ clinical presentation at week one (day 7: D7), 1 month (day 30: D30) 99\n\nand 2 months (day 60: D60) after symptom onset by using a specific case report form (CRF) 100\n\nthey developed. The phone interviews were conducted with a clinical decision algorithm to 101\n\nguide care advice messages, triage (evaluation of life-threatening conditions, especially at 102\n\nD7), and screening for COVID-19 symptom persistence or emergence. Baseline 103\n\ncharacteristics were retrospectively collected from patients’ electronic medical records. 104\n\nOutcome 105\n\nPersisting symptoms at D30 or D60 were defined as the presence of at least one of the 106\n\nfollowing: weight loss ≥ 5%, grade 2-4 dyspnea according to the modified Medical Research 107\n\nCouncil (mMRC) scale(9), asthenia grade 3 or 4 according the World Health Organization 108\n\n(WHO) performance status classification(10), persisting chest pain, palpitations, 109\n\nanosmia/ageusia, headache, cutaneous signs (free description), arthralgia, myalgia, persisting 110\n\ndigestive disorders (i.e. diarrhea, vomiting, pain), fever (>38°C temperature) or sick leave. 111\n\n5",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p7",
+        "source_issue_ids": [],
+        "text": "Data collection 112\n\nDemographic and initial clinical and laboratory data were collected from patients’ electronic 113\n\nmedical records (consultation or hospitalization). The relevant comorbidities were those 114\n\nconsidered at high risk for severe COVID-19 (i.e., obesity [body mass index > 30 kg/m2], 115\n\nchronic respiratory disease, dialysis, heart failure or previous cardiovascular event, liver 116\n\ncirrhosis, insulin-dependent diabetes, immunosuppression, pregnancy) (11). 117\n\nThe follow-up information was collected by phone at D7, D30 and D60 with use of the 118\n\nspecific standardized CRF: 119\n\n• Day 7, after symptom onset, by phone call for an outpatient or from the electronic 120\n\nmedical record for an inpatient: dyspnea, fever, weight loss, chest pain, influenza-like 121\n\nsymptoms (headache, asthenia, myalgia), digestive disorders (i.e., diarrhea, 122\n\nvomiting), anosmia and ageusia (supplementary material S1). 123\n\n• D30 and D60, after symptom onset, COVID-19 evolution was tracked by use of a 124\n\nspecific standardized CRF (supplementary material S2) by phone call: persistence or 125\n\nemergence of sick leave, general condition (worse, same or better than before 126\n\nCOVID-19), dyspnea using the mMRC scale, chest pain and triggering factor, 127\n\npalpitations, anosmia and ageusia on an analog scale (from 0, total anosmia/ageusia 128\n\nto 10, normal) at the worse moment of the disease and at 1-month follow-up, 129\n\nheadache, asthenia (WHO), temperature >38°C, myalgia, arthralgia, digestive 130\n\ndisorders (i.e., diarrhea, vomiting, pain) and cutaneous signs (supplementary material 131\n\nS2). Each symptom was considered only if not existing before the disease. 132\n\nFor a few clinical variables with a high proportion of missing data, physicians manually 133\n\nreviewed patient charts. Missing data concerned 0 to 29% of the data according to the 134\n\nvariables at symptom onset, mainly for dyspnea, chest pain and abnormal auscultation. At 135\n\n6",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p8",
+        "source_issue_ids": [],
+        "text": "D30 and D60, there were few missing data, except for weight evolution (57% and 33% 136\n\nmissing data at D30 and D60, respectively). 137\n\n138\n\nStatistical analyses 139\n\nDescriptive statistics included frequency analyses (percentages) for categorical variables and 140\n\nmean (standard deviation [SD]) for quantitative variables. To identify predictors of clinical 141\n\nsymptom persistence at D30 and D60, we used comparative analyses with chi-square test or 142\n\nFisher test for categorical variables or Student t test or Mann-Whitney test for quantitative 143\n\nvariables. On bivariate analysis, odds ratios along with their 95% confidence intervals (95% 144\n\nCIs) were calculated using logistic regression modelling. Analyses were done using SAS 145\n\nEnterprise Guide 71 64-bit (SAS Institute Inc., Cary, NC, USA). P< 0.05 was considered 146\n\nstatistically significant. All tests were two-sided. 147\n\nEthics 148\n\nAll patients were informed of the potential reuse of their data for research purposes and could 149\n\nrefuse to participate. This study was registered (no.2020_049) in the teaching hospital register 150\n\nof processing operations performed with personal data, as advised by the French authority 151\n\nCommission Nationale de l’Informatique et des Libertés (CNIL). We also had the approval of 152\n\nthe local ethics committee in human research (no.2020_039). 153\n\n154\n\nResults 155\n\nOver the first 6 weeks of the epidemic, 293 patients presented to our hospital, as in- or 156\n\noutpatients with RT-PCR-confirmed COVID-19. After excluding 64 ICU patients, 36 157\n\nresidents of nursery home or long-term facilities or patients transferred to another healthcare 158\n\nfacility, 24 lost-to-follow-up at D30 and 19 deaths, we finally included 150 patients with non- 159\n\n7",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.cmi.2020.09.052",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_sha256": "8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+          "source_url": "https://doi.org/10.1016/j.cmi.2020.09.052"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131:p9",
+        "source_issue_ids": [],
+        "text": "critical COVID-19 presentation. Between D30 and D60, 20 more patients were lost-to- 160\n\nfollow-up (Figure 1). 161\n\nThe male/female ratio was 0.79 (females 56%, n=84/150); the mean age was 49 ± 15 years. 162\n\nMore than half of the patients (54%, n=80/150) had at least one comorbid condition and half 163\n\nwere healthcare professionals (n=75/150). Despite the 20 patients lost-to-follow-up, 164\n\ndemographic characteristics at D30 and D60 were similar (supplementary material S3). 165\n\nThe most common symptoms at disease onset were flu-like symptoms (87%, n=129/150), 166\n\nanosmia/ageusia (59%, n=89/150) and fever (51%, n=76/150) (Table I). 167\n\nFor the follow-up at D30 and D60, phone calls were performed at a mean of 32.7 ± 2.5 days 168\n\n(range 27 to 37) and 59.7 ±1.7 (range 57 to 67) after symptom onset. At D30, 103/150 (68%) 169\n\npatients reported at least one symptom as compared with 86/130 (66%) at D60 (Table II). 170\n\nHowever, each symptom was less frequently reported at D60 than D30, except for arthralgia. 171\n\nAt D30, 46% (n=73/150) of patients felt still sick or in a worse clinical condition than at 172\n\nCOVID-19 onset versus 37% (n=48/130) at D60. 173\n\nThe most frequent symptom reported at D30 and D60 was anosmia/ageusia (Table I). On an 174\n\nanalog scale (from 0, total anosmia/ageusia to 10,normal), at the worse moment of the 175\n\ndisease, the mean anosmia and ageusia scores were 1.5 ± 2.1 (range 0 to 8) and 1.9 ± 2.5 176\n\n(range 0 to 8), respectively; at D30, the mean scores were 7 ± 2.9 (range 0 to 10) and 7.7 ± 177\n\n2.3 (range 0 to 10); and at D60, they were 7.1 ± 2.3 (range 0 to 10) and 8.3 ± 1.6 (range 5 to 178\n\n10), respectively. 179\n\nPersisting symptoms at D30 were significantly associated with hospital admission at 180\n\nsymptom onset, initial clinical presentation, dyspnea and abnormal auscultation (Figure 2). 181\n\nPersisting clinical symptoms at D30 were associated with age class 40-60 years old but not 182\n\npre-existing comorbid conditions. At D60, the associations remained for hospital admission 183\n\nand abnormal auscultation at symptom onset as well as the same age class 40-60 years old. 184\n\n8",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131"
+}

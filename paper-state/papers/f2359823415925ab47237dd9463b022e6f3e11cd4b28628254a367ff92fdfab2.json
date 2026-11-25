@@ -1,0 +1,732 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T17:47:42.813920+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Anti-Glucosylsphingosine Autoimmunity, JAK2V617F-Dependent Interleukin-1β and JAK2V617F-Independent Cytokines in Myeloproliferative Neoplasms",
+        "year": null
+      },
+      "doi": "10.3390/cancers12092446",
+      "format": "pdf",
+      "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+      "url": "https://doi.org/10.3390/cancers12092446"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p1",
+        "source_issue_ids": [],
+        "text": "cancers\n\nArticle Anti-Glucosylsphingosine Autoimmunity, JAK2V617F-Dependent Interleukin-1β and JAK2V617F-Independent Cytokines in Myeloproliferative Neoplasms\n\nSophie Allain-Maillet 1, Adrien Bosseboeuf 1, Nicolas Mennesson 1, Mégane Bostoën 1, Laura Dufeu 1, Eun Ho Choi 2, Cédric Cleyrat 2, Olivier Mansier 3,4, Eric Lippert 5,6 , Yannick Le Bris 1,7 , Jean-Marc Gombert 8, François Girodon 9,10, Magali Pettazzoni 11, Edith Bigot-Corbel 1,12 and Sylvie Hermouet 1,7,*\n\n1 Institut National de la Santé et de la Recherche Médicale (INSERM), UMR 1232, CRCINA, University of Nantes, Institut de Recherche en Santé 2 (IRS-2), 22 Boulevard Benoni Goullin, 44200 Nantes, France; sophie.allain@inserm.fr (S.A.-M.); adrien.bosseboeuf@gmail.com (A.B.); nicolas.mennesson@univ-nantes.fr (N.M.); megane.bostoen@laposte.net (M.B.); dufeu.lau@gmail.com (L.D.); Yannick.LEBRIS@chu-nantes.fr (Y.L.B.); edith.bigot@univ-nantes.fr (E.B.-C.) 2 Department of Pathology & Comprehensive Cancer Center, University of New Mexico (NM) Health Sciences Center, Albuquerque, NM 87102, USA; ehchoi@salud.unm.edu (E.H.C.); cedric@cleyrat.com (C.C.) 3 Laboratoire d’Hématologie, CHU de Bordeaux, 33600 Pessac, France; olivier.mansier@gmail.com 4 INSERM U1034, Université de Bordeaux, UFR Sciences de la Vie et de la Santé, 33000 Bordeaux, France 5 Laboratoire d’Hématologie, CHU de Brest, 29200 Brest, France; eric.lippert@chu-brest.fr 6 INSERM, Etablissement Français du Sang (EFS), UMR 1078, GGB, Université de Brest, 29200 Brest, France 7 Laboratoire d’Hématologie, CHU de Nantes, 44093 Nantes, France 8 Laboratoire d’Immunologie, CHU de Poitiers, 87000 Poitiers, France; Jean-Marc.GOMBERT@chu-poitiers.fr 9 Laboratoire d’Hématologie, CHU Dijon, 21034 Dijon, France; francois.girodon@chu-dijon.fr 10 INSERM, UMR 1231, University of Bourgogne Franche-Comté, 21078 Dijon, France 11 LBMMS, Service de Biochimie et Biologie Moléculaire Grand Est, UF des Maladies Héréditaires du Métabolisme, Hospices Civils de Lyon, 69677 Bron CEDEX, France; magali.pettazzoni@chu-lyon.fr 12 Laboratoire de Biochimie, CHU de Nantes, 44093 Nantes, France * Correspondence: sylvie.hermouet@univ-nantes.fr; Tel.: +33-228080355\n\nReceived: 18 August 2020; Accepted: 24 August 2020; Published: 28 August 2020\n\n\u0001\u0002\u0003\u0001\u0004\u0005\u0006\u0007\b \u0001\u0002\u0003\u0004\u0005\u0006\u0007\n\nSimple Summary: Inﬂammation plays a major role in myeloproliferative neoplasms (MPNs) as regulator of malignant cell growth and mediator of clinical symptoms. Yet chronic inﬂammation may also be an early event that facilitates the development of MPNs. Here we analysed 42 inﬂammatory cytokines and report that in patients as well as in UT-7 cell lines, interleukin-1β and interferon-induced protein 10 (IP-10) were the main inﬂammatory molecules found to be induced by JAK2V617F, the most frequent driving mutation in MPNs. All other inﬂammatory cytokines were not linked to JAK2V617F, which implies that inﬂammation likely precedes MPN development at least in subsets of MPN patients. Consistently, a possible cause of early, chronic inﬂammation may be auto-immunity against glucolipids: we report that 20% of MPN patients presented with anti-glucosylsphingoside auto-antibodies. Since existing treatments can reduce glucosylsphingoside, this lysosphingolipid could become a new therapeutic target for subsets of MPN patients, in addition to JAK2V617F and inﬂammation.\n\nAbstract: Inﬂammatory cytokines play a major role in myeloproliferative neoplasms (MPNs) as regulators of the MPN clone and as mediators of clinical symptoms and complications. Firstly, we investigated the eﬀect of JAK2V617F on 42 molecules linked to inﬂammation. For JAK2V617F-mutated patients, the JAK2V617F allele burden (%JAK2V617F) correlated with the levels of IL-1β, IL-1Rα, IP-10 and leptin in polycythemia vera (PV), and with IL-33 in ET; for\n\nCancers 2020, 12, 2446; doi:10.3390/cancers12092446 www.mdpi.com/journal/cancers",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p10",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 10 of 24\n\n2.7. Production of Cytokines by UT-7 Cells Expressing the JAK2V617F or CALR Mutants\n\nWe then investigated whether the expression of JAK2V617F, tested at diﬀerent levels in vitro, could aﬀect cytokine production. For these studies, we used a cytokine-dependent human cell line with wild-type JAK2 and CALR. The human UT-7 cell line was chosen because it was obtained from an ET patient, and ET megakaryocytes are a major source of inﬂammatory cytokines. The UT-7 cell line was preferred to erythroid cell lines because of its capacity to produce and secrete cytokines of interest in MPNs. Firstly, we determined that wild-type UT-7 cells secrete 27/42 cytokines or chemokines, as measured in cell supernatants, including 5/8 cytokines overexpressed in ET compared to PV (IL-9, IL-17, MIG, TGF-β2, TGF-β3) (Figure 4a). Secondly, the CRISPR/Cas-9 technology was used successfully to obtain UT-7 cells with JAK2V617F-mutated alleles (see Methods). Since UT-7 cells have four copies of the JAK2 gene, introduction of the JAK2V617F mutation was expected to generate UT-7 clones with 25%, 50%, 75% or 100% JAK2V617F-mutated alleles, as assessed by quantitative allele-speciﬁc PCR in gDNA [44,48,49]. However, we only obtained clones with 50% or 75% JAK2V617F-mutated alleles (Supplementary Figure S4a,b). Signaling studies conﬁrmed activation of the JAK2/STAT5 pathway in JAK2V617F-mutated UT-7 clones (Supplementary Figure S4c). When the same 42 molecules linked to inﬂammation quantiﬁed in the blood of patients were measured in the supernatants of JAK2V617F-mutated UT-7 clones, increases were noted only for IL-1β, IP-10 and regulated on activation, normal T-cell expressed and secreted (RANTES), compared to wild-type JAK2 UT-7 cell supernatants (Figure 4b). Thirdly, we investigated the eﬀect of CALR exon 9 mutants on cytokine production in UT-7 cells, here using UT-7 cell lines that were previously obtained by stable transfection of two plasmid constructs, one containing a cDNA encoding MPL (because CALR requires MPL to exert its action), the other encoding either type 1 (del52) or type 2 (ins5) CALR exon 9 mutants [50]. These UT-7 cell lines were grown in the presence of TPO. Expression of CALR exon 9 mutants was weak in UT-7 cells yet suﬃcient to activate the JAK2/STAT5 pathway [50]. Expression of CALR mutants in UT-7 cells did not increase the levels of cytokines or receptors secreted in cells supernatants (Supplementary Figure S5). In particular, in contrast to previous reports, in UT-7 cell expression of CALR mutants did not alter IL-6 and TNF-α levels [51]. To the opposite, reduced levels of several cytokines (IL-8, MIP-1α, MIP-1β, IP-10) were noted in UT-7 cells expressing type 1 or type 2 CALR exon 9 mutants. To summarize, in MPN patients and in UT-7 cells, no link was found between the production of 37/42 cytokines and JAK2V617F expression. Five molecules were either induced by JAK2V617F in UT-7 cells (IL-1β, IP-10, RANTES) and/or correlated with the %JAK2V617F (IL-1Rα, IL-1β, IP-10, IL-33) in JAK2V617F-mutated MPNs. In JAK2V617F-mutated MPNs, mutated monocytes–macrophages presumably constitute the main source of IL-1β and IP-10, and also express IL-1Rα. In contrast, three cytokines (IL-4, IL-9, IL-26) produced by T-cell subsets—typically not mutated in MPNs—were associated with CALR-mutated ET in patients. Logically, CALR mutants did not induce IL-4, IL-9 or IL-26 in UT-7 cells. Our study also conﬁrmed the presence of high levels of HGF and IL-15 in PMF [52,53]. HGF is a survival factor produced autocrinely by most cells, including MPN progenitors, and a marker of short survival in PMF [52–54].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p11",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 11 of 24\n\nFigure 4. Cytokine production of wild-type JAK2 and JAK2V617F UT-7 cells. (a) The basal level of 40 cytokines and chemokines and two soluble receptors were quantiﬁed in the supernatants of wild-type JAK2 UT-7 cells; note the diﬀerence in scale for nine cytokines, produced at high levels (left panel). Results are presented as the means + SEM. (b) Only three molecules out of 42 measured in quadriplates in cell supernatants were found to be signiﬁcantly more secreted in the supernatants of UT-7 clones expressing at least 50% JAK2V617F, compared to wild-type JAK2 UT-7 cells; note the diﬀerence in scale for IL-1β, produced at very low levels by UT-7 cells (left panel). Median values are represented by black bars. (*) p < 0.05, Mann–Whitney t-test. In these experiments, UT-7 cells were grown in the presence of GM-CSF.\n\n2.8. Auto-Immunity Against Glucosylsphingosine (GlcSph) in MPN Patients\n\nChronic inﬂammation of various origins, including auto-immune disease, is associated with an increased risk of developing an MPN [30–33]. Intriguingly, glucosyl-sphingosine (GlcSph), a proinﬂammatory lysosphingolipid accumulated in Gaucher disease (GD), is the target of auto-antibodies in MGUS and in myeloma [34–38]. GD patients also present with chronic inﬂammation, with high levels of IL-1β, HGF, IL-8, MIP-1β and TNF-α, and an increased risk of malignancy [39–43]. We investigated whether MPN patients may also present with auto-antibodies directed at GlcSph.\n\n2.8.1. Detection of GlcSph-Reactive IgGs in the Serum of MPN Patients\n\nSerum samples of the 75 MPN patients and 54 HDs were used to analyze the eventual GlcSph-speciﬁcity of serum IgGs, using a home-made GlcSph (LGL1) immunoblot assay (see Methods) adapted from Nair et al. [34–38,55,56]. As shown in Figure 5, the presence of GlcSph-reactive IgGs in the serum was observed for 15/75 (20%) MPN patients, and for only 2/54 (3.7%) HDs (p = 0.0073 Fisher exact test).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p12",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 12 of 24\n\nFigure 5. GlcSph-reactivity of serum IgGs from PV, ET, PMF patients. GlcSph-speciﬁc immunoblotting assays were performed as described in Methods. (a,b,d) Both the gel of serum protein electrophoresis (SPE), after coloration, and the result of the GlcSph immunoblot, revealed by chemiluminescence, are shown; note that migration pattern may vary. (a) Example of 2/54 HDs with no GlcSph-reactive IgG in serum. (b) Examples of 5/60 MPN patients with no GlcSph-reactive IgG in serum. (c) 15/15 MPN patients with GlcSph-reactive IgGs in serum.\n\nThe results of the GlcSph assays were negative for 60 MPN patients and positive for 15 MPN patients (Figure 5). Among the 15 patients with GlcSph-reactive IgGs, there were 3/27 PV (11.1%), 8/39 ET (20.5%) and 4/9 PMF (44.4%). Thus, in this cohort, the presence of GlcSph-reactive IgGs was more frequent in PMF than in PV (p = 0.0497, Fisher exact test); the diﬀerence in frequency between PMF and ET was not signiﬁcant. Among those 15 patients, 9 carried the JAK2V617F mutation (3 PV, 3 ET, 3 PMF), 5 had a CALR mutation (4 ET, 1 PMF) and 1 was an MPL-mutated ET. The frequencies of GlcSph-reactive IgGs in CALR-mutated MPNs was 31.3% (5/16) vs. 16.4% (9/55) for JAK2V617F-mutated MPNs, but the diﬀerence was not signiﬁcant (p = 0.2818, Fisher exact test).\n\n2.8.2. Characteristics of MPN Patients with GlcSph-Reactive IgGs\n\nPossibly due to the small size of the cohort of patients with GlcSph-reactive IgGs, we found no signiﬁcant diﬀerence in age or blood parameters between MPN patients with and without GlcSph-reactive IgGs (Supplementary Table S3). Overall, the %JAK2V617F of JAK2V617F-mutated patients with GlcSph-reactive IgGs was low—always ≤37% except for one PV with 96% JAK2V617F. We then analyzed the cytokine levels of patients: compared to other MPN patients, the 15 patients with GlcSph-reactive IgGs had increased levels of 10 cytokines: IL-8, IP-10, HGF, TGF-β1, TGF-β3, platelet-derived growth factor-BB (PDGF-BB), VEGF, macrophage inﬂammatory protein 1β (MIP-1β), IL-9 and eotaxin (Figure 6). Interestingly, perhaps because of a negative feed-back mechanism in an auto-immune context, MPN patients with GlcSph-reactive auto-antibodies had a reduced level of IFN-α2, an immunostimulant (Figure 6).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p13",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 13 of 24\n\nFigure 6. Cytokine levels according to the presence of GlcSph-reactive IgGs. Signiﬁcant diﬀerences in the serum levels of 11 cytokines were found between MPN patients with GlcSph-reactive IgGs (+) and MPN patients with no GlcSph-reactive IgGs (-), as indicated. Results are presented as the means + SEM. (*) p < 0.05, (**) p < 0.01, (***) p < 0.001 and (****) p < 0.0001, Mann–Whitney t-test. Dotted blue lines represent the upper normal values observed for healthy individuals according to the manufacturers of the BioPlex Pro-human Cytokine kits, measured in 66 healthy donors. Dotted green lines represent the upper normal values for healthy individuals as measured in our control cohort of 17 healthy donors.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p14",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 14 of 24\n\n2.8.3. Analysis of GlcSph Levels in the Serum of MPN Patients\n\nGlcSph-reactive autoantibodies were ﬁrst described in the context of GD, characterized by the accumulation of glucocerebroside and GlcSph [40]. We used a previously published technique [57] to measure the level of GlcSph in the blood serum of 40 MPN patients (12 PV, 19 ET, 9 PMF). Among these patients, 14 had GlcSph-reactive IgGs and 26 did not. GlcSph values of healthy adults are always <1.8 nmol/L [57]. Accordingly, GlcSph levels in our HD series were all ≤1.5 nmol/L (Figure 7). For MPN patients, the median GlcSph value was 1.4 nmol/L (range: 0.6–4.6 nmol/L). Seventeen MPN patients (42.5%) had a GlcSph level >1.5 nmol/L (6 PV, 7 ET, 4 PMF). A GlcSph level >1.8 nmol/L was observed for 10 (25%) MPN patients (4 PV, 4 ET, 2 PMF) (Figure 7).\n\nFigure 7. GlcSph levels measured in the blood serum of MPN patients. GlcSph−: MPN patients without GlcSph-reactive IgGs; GlcSph+: MPN patients with GlcSph-reactive IgGs. (*) p < 0.05, (***) p < 0.001, Mann–Whitney t-test. Median values are represented by black bars. The dotted blue line represents the upper normal value for healthy individuals (1.8 nmol/L). The dotted green line represents the upper value of our control cohort of HDs.\n\nWe analyzed GlcSph levels according to the presence of GlcSph-reactive IgGs. There was no signiﬁcant diﬀerence between patients with GlcSph-reactive IgGs (median GlcSph level: 1.35 nmol/L, range: 0.6–2.2) and those without (median GlcSph level: 1.45 nmol/L, range: 0.7–4.6), but both groups of MPN patients had signiﬁcantly higher GlcSph levels than healthy controls (Figure 7). We noted a tendency to less increased GlcSph levels in patients with anti-GlcSph antibodies: only 1/14 (7.1%) MPN patients with anti-GlcSph IgGs had a GlcSph level > 1.8 nmol/L vs. 8/26 (30.8%) MPN patients without anti-GlcSph IgGs (diﬀerence not signiﬁcant, p = 0.1243, Fisher exact test). One may hypothesize that anti-GlcSph autoantibodies contribute to reduce GlcSph levels. We then searched for eventual correlations between the GlcSph level and blood cell counts in MPN patients who carry GlcSph-reactive IgGs, but found no correlation.\n\n3. Discussions\n\nOur study provides evidence both in MPN patients and in new human UT-7 cell lines that the impact of the JAK2V617F mutation on the production by mutated cells of inﬂammation cytokines and receptors concerns essentially IL-1β, IL-1Rα and IP-10. Thus, most of the inﬂammation associated with JAK2V617F-mutated MPNs is mutation-independent, i.e., either precedes the acquisition of JAK2V617F or is reactive to the mutated clone, or both. Moreover, CALR exon 9 mutants had no eﬀect at all on cytokine production in UT-7 cells, and for patients with CALR-mutated ET, the main source of the characteristic cytokines found in excess (IL-4, IL-9, IL-26) was nonmutated T-cells. We also report the presence of auto-antibodies directed at pro-inﬂammatory lysosphingolipid (GlcSph) in 20% of MPNs,",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p15",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 15 of 24\n\nparticularly in ET and PMF. Altogether, our ﬁndings are consistent with the existence of early causes of inﬂammation in subsets of MPN patients, which result in chronic overstimulation of myelopoiesis via the JAK2/STAT5 pathway and thus, facilitate the acquisition of JAK2 or CALR mutations that further activate JAK2/STAT5 (Figure 8).\n\nFigure 8. JAK2V617F-dependent vs. mutation-independent inﬂammation in MPNs. At least 26 cytokines are overproduced in MPNs. CALR mutants did not alter cytokine production, whereas JAKV617F increased the expression of IL-1Rα, IL-1β and IP-10. Other cytokines overexpressed in MPNs are presumably produced by nonmutated cells, and this type of inﬂammation is likely to precede the acquisition of JAK2/STAT5 activating mutations. An autoimmune response to GlcSph, observed in 20% of MPNs, could be an early cause of chronic inﬂammation—and excessive IL-1β production—eventually leading to the acquisition of JAK2 or CALR mutations and MPN development. In JAK2V617F-mutated MPNs, strongly inﬂammatory IL-1β associated with IL-1Rα expression, both induced by JAK2V617F, further stimulate cytokine production by both nonmutated cells of the bone marrow environment and mutated cells. JAK2V617F-mutated cells also secrete TNF-α, known to enhance clonal expansion. Neither IL-1β nor TNF-α signal via JAK/STAT, and thus are not sensitive to JAK inhibitors. In contrast, IFN-α represses IL-1β, and also HGF, an autocrine survival factor for clonal MPN progenitors. In addition, IFN-α stimulates T-lymphocyte subsets that secrete anti-inﬂammatory IL-4, and two prothrombopoiesis and prothrombosis cytokines—IL-9 (an inducer of IL-4) and IL-17.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 16
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p16",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 16 of 24\n\nOur study conﬁrms that the three subtypes of MPNs present with a very high level of inﬂammation (26 cytokines produced in excess among 42 measured). The cytokine levels found in the blood of MPN patients were higher than those previously observed in patients with myeloma, although myeloma is a much more severe blood cancer than MPNs [45]. Of note, whereas EPO and TPO are low in MPNs, high levels of JAK2-activating G-CSF (and IL-6) were observed in MPN patients despite the fact that patients typically present with elevated neutrophil counts. The absence of negative feed-back for G-CSF in MPN patients supports the existence of a cytokine-induced (mutation-independent) stimulation of granulomonopoiesis possibly anterior to, and facilitating, the acquisition of mutations (represented in Figure 8). There are examples of hematological malignancies where inﬂammation precedes the acquisition of multiple genetic mutations and the subsequent expansion of the mutated clone. Our previous study of inﬂammation in the context of myeloma and its asymptomatic stage (MGUS) revealed that except for four cytokines found to be signiﬁcantly higher in myeloma (HGF, IL-11, RANTES, SDF-1α), the levels of 38 inﬂammation cytokines were similar in MGUS and in myeloma [45]. Thus, a high level of inﬂammation is already present at the asymptomatic, benign stage of MGUS, and except for four molecules, the acquisition of multiple genetic alterations characteristic of progression toward myeloma did not signiﬁcantly increase cytokine production. One can envision that in MPNs as well as in myeloma, most of the chronic inﬂammation could precede mutation and not be solely the consequence of genetic alterations. Other observations support an early role of cytokines in MPN pathogenesis. Firstly, diﬀerent MPN subtypes are characterized, independently of their mutation status, by diﬀerent cytokines: macrophage-produced IL-1β for PV; T-cell-produced IL-4, IL-9, IL-26, TGF-β for ET; IL-15 and anti-inﬂammatory HGF for PMF. Secondly, neither the CALR exon 9 mutant load (typically ~50%) nor the variable JAK2V617F mutant load correlate with the blood parameters of patients, when JAK2V617F-mutated PV and ET patients are studied separately. In contrast, in PV and in ET, the levels of many cytokines or receptors correlated positively with the blood counts of leukocytes, neutrophils and monocytes (IL-1β, IL-1Rα, HGF, MIG), platelets (IL-9, IL-17, SDF-1α) or lymphocytes (IL-9). Of note, recent reports describe IL-9 as a STAT5 activator that enhances megakaryocytopoiesis, and both IL-9 and IL-17 as prothrombotic cytokines [58–60]. In contrast, the PMF cohort was characterized by negative correlations between numerous cytokines and blood counts of leukocytes, neutrophils and monocytes (TNFα, IL-10, IL-15, VEGF, MIP-1β, IL-8, others) and lymphocytes (IL-17, MIP-1α). No correlation was found between cytokine levels and parameters of the red cell lineage in PV and in PMF, but in ET, the hematocrit correlated negatively with the levels of IL-2, IL-4 and IL-26. Thirdly, the cytokine production of human megakaryocytic UT-7 cells was minimally aﬀected by the expression of MPN main mutations: CALR exon 9 mutants had no eﬀect at all, and JAK2V617F induced only three molecules: IL-1β and IP-10 (both correlated with the %JAK2V617F of patients) and RANTES. Interestingly, several teams previously reported that high levels of mostly macrophage-produced IL-1β and IP-10 were predictive markers of a worse prognosis and short survival in MPNs [52,53,61,62]. In addition, like HGF and TNF-α, recent studies suggest that IL-1β favors MPN disease initiation and clonal expansion [54,63–65]. In the context of ET, Øbro et al. reported that GRO-α and EGF (not measured in our study) were potential markers of disease progression, independently of JAK2V617F or CALR mutation [66]. To summarize, the data indicate that IL-1β, IL-1Rα and IP-10 are linked to JAK2V617F mutation, whereas all other cytokines in excess in MPNs are produced independently of JAK2 and CALR mutations but diﬀerentially according to the MPN phenotype. The blood cell counts of patients correlated with the levels of many cytokines, better than with mutant loads. Hence, the study suggests that for subsets of patients, a prolonged inﬂammatory response may be the early event eventually leading to an MPN.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 17
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p17",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 17 of 24\n\nThere is now clear evidence that certain individuals and families may present with a predisposition for the acquisition of one or more MPN-associated mutations. For MPNs, facilitating backgrounds include tobacco smoking, genetic polymorphisms or alterations, such as speciﬁc haplotypes or germline mutations, and auto-immune diseases, all associated with important chronic inﬂammation [30–33,67–71]. We report here the ﬁrst evidence in MPNs of elevated levels of an immunogenic, pro-inﬂammatory lysosphingolipid, glucosylsphingosine (GlcSph)—also called lyso-glucosylceramide (LGL1), as well as the presence of auto-antibodies that target GlcSph in 20% of MPN patients. The age and blood counts of MPN patients with GlcSph-reactive IgGs did not diﬀer from those of other patients; their %JAK2V617F tended to be low. However, MPN patients with GlcSph-reactive IgGs had a distinct cytokine proﬁle, with signiﬁcantly higher levels of IL-8, IP-10, HGF, TGF-β1, TGF-β3, PDGF-BB, VEGF, MIP-1β, IL-9 and eotaxin, and low levels of IFN-α2. Analysis of the GlcSph levels in the blood serum of 40 MPN patients revealed moderately elevated GlcSph levels in all three subtypes in MPNs, but there was no correlation of the GlcSph level with the presence of anti-GlcSph autoantibodies. Accumulation of GlcSph is a key biomarker of GD, and the consequence of germline mutations in the glucocerebrosidase (GBA) gene. GD patients aﬀected with the most common visceral form of the disease have splenomegaly, hepatomegaly, bone lesions, cytopenia and chronic inﬂammation with elevated levels of IL-1, IL-6, IL-8 and TNF-α [72]. However, patients may also be asymptomatic, and atypical GD may be diagnosed only late in life. GD patients present with an increased risk of cancer, including hematological malignancy, notably B-cell lymphoma, myeloma and also myeloid neoplasms [40–43]. Recent studies have established that GlcSph is a frequent target of both clonal and nonclonal immunoglobulins of GD patients who develop a MGUS or a myeloma, which implies that auto-immune responses to GlcSph do initiate cases of MGUS and myeloma [34–38]. In strong support of a GlcSph-driven MGUS/myeloma pathogenic process, Nair et al. showed that for two patients, GlcSph reduction therapy (by Eliglustat) successfully suppressed the monoclonal immunoglobulin [36]. In the present retrospective study, we were not able to analyze patient DNA for germline mutations in the GBA gene. Further studies are thus required to determine whether MPN patients with abnormal levels of GlcSPh and/or anti-GlcSph autoantibodies carry alterations in the GBA gene. In conclusion, most of the inﬂammation-linked cytokines found in excess in MPNs were not linked to JAK2V617F nor to CALR mutation; only IL-1β, IL-1Rα and IP-10 were induced by JAK2V617F. Precisely via the action of circulating IL-1β and IP-10 in the blood or bone marrow micro-environment, it is possible that JAK2V617F indirectly aﬀects the production of other inﬂammatory cytokines, particularly by macrophages since these cells are a major source of IL-1β, IP-10 and to a lesser degree, of RANTES. These observations have important consequences for therapy, since they imply that in addition to JAK inhibitors, blocking the most important cytokines in MPNs (IL-1β, TNF-α, HGF, all insensitive to JAK/STAT inhibitors) may be considered [65,73,74]. IFN-α therapy achieves this in part via the repression of IL-1β and HGF. However, other causes of inﬂammation eventually leading to an MPN should be actively searched. One may have auto-immunity against GlcSph. Since GlcSph can be reduced with existing treatments, this lysosphingolipid could also become a useful new target in MPN therapy for selected patients.\n\n4. Materials and Methods\n\n4.1. Patients\n\nThe study was performed with the approval of local ethical committees and the Commission Nationale de l’Informatique et des Libertés (CNIL #912335). Written informed consents were obtained from patients in the relevant clinical departments, and in the blood bank for healthy volunteers enrolled by the Établissement Français du Sang (EFS, Nantes, France). An agreement was signed between our laboratory (CRCINA, Inserm U1232) and the blood bank (EFS Pays de La Loire). Seventy-ﬁve patients presenting with an MPN (27 PV, 39 ET, 9 PMF), diagnosed at the French University hospitals of Nantes",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 18
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p18",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 18 of 24\n\nand Brest (BB-0033-00037, CRB Santé du CHRU de Brest), according to the World Health Organization (WHO) 2016 criteria, were included in this study. Sera from 54 healthy volunteers, obtained from EFS Pays de la Loire, were also studied as controls. The mutational status of patients was established in hospital laboratories. Serum samples were aliquoted and kept frozen at −80 ◦C until use. Due to occasional insuﬃcient sample collection, all assays were not performed for all patients.\n\n4.2. UT-7 Cells\n\nHuman megakaryocytic UT-7 cells were grown at 37 ◦C with 5% CO2 in Minimum Essential Media (MEM) or in Iscove’s Modiﬁed Dulbecco’s Media (IMDM) and 10% foetal calf serum (FCS), in the presence of either GM-CSF (5 ng/mL) or TPO (10 ng/mL) (PeproTech France, Neuilly sur Seine, France). UT-7 cell lines expressing the type 1 (del52) or type 2 (ins5) CALR exon 9 mutants were grown in the presence of TPO and doxycyline (Sigma) to induce the expression of the transgene, as published [50]. For cytokine studies, UT-7 cells were washed twice, plated at 105/mL in 6-well plates in duplicates or quadriplates, and incubated for 18 h at 37 ◦C with 5% CO2. Cells were then centrifuged, supernatants were collected, aliquoted and kept frozen at −80 ◦C.\n\n4.3. Generation of JAK2V617F+ UT-7 Cells Using the CRISPR/CAS-9 Technology\n\nGene editing to introduce the sequence encoding of the JAK2V617F mutation in UT-7 cells was performed using a CRISPR-Cas9 based approach. A high-scoring single guide RNA (sgRNA) targeting exon 14 of the human JAK2 gene was designed using the CRISPOR portal (http://crispor.tefor.net/). A sgRNA with optimal predicted cutting eﬃciency and safety proﬁle, generating a double strand break only 1 bp away from the targeted insertion site for optimal mutagenesis, was selected (20 nucleotide targeting sequence + PAM = AATTATGGAGTATGTGTCTG TGG). The sgRNA, ordered from Synthego as a chemically modiﬁed synthetic RNA molecule, was then complexed with puriﬁed wildtype Sp. Cas9 protein (New England Biolabs) at a 3:1 sgRNA: Cas9 molar ratio to form a ribonucleoprotein complex (RNP). UT-7 cells were then electroporated using a Lonza nucleofector device following the manufacturer’s recommendations with 2.5 µM RNP and 1µM 127-mer ssODN encoding the JAK2V617F mutation ﬂanked by asymmetric homology arms as a repair template (TCCTG AAACTGAATTTTCTATATAAACAAAAACAGATGCTCTGAGAAAGGCATTAGAAAGCCTGTA GTTTTACTTACTCTCGTCTCCACAGAAACATACTCCATAATTTAAAACCAAATGCTTGTGA). Postelectroporation, modiﬁed UT-7 cells were plated in 96-well plates using a limiting dilution technique, and subclones were tested for the presence of the JAK2V617F mutation using deconvolution of Sanger sequencing trace proﬁles (TIDE algorithm) on PCR amplicons generated from crude genomic DNA extracts (FwdSeqhJak2Ex14: CAGTTGCAGGTCCATATAAAGGGACC and RvseSeqhJak2Ex14: CCAGTTATTCCAATGTTATGTTGAACCTGCC); then, the presence and quantity of JAK2V617F was assessed using JAK2V617F allele-speciﬁc quantitative PCRs [44,48,49]. UT-7 clones positive for the JAK2V617F mutation were then minimally expanded and cryo-preserved until further analysis.\n\n4.4. Quantiﬁcation of JAK2V617F in UT-7 Clones\n\nGenomic DNA was prepared using a QiaAmp DNA mini-kit (Qiagen, Valencia, CA) and JAK2 wild type (WT), and JAK2V617F allele-speciﬁc quantitative PCRs (AS-qPCRs) were performed in genomic DNA as published [44,48,49].\n\n4.5. Quantiﬁcation of Inﬂammation-Linked Cytokines\n\nFrozen aliquots of serum from MPN patients and HDs and UT-7 cell supernatants, were used to quantify 40 chemokines and cytokines and 2 soluble cytokine receptors linked to inﬂammation using the Luminex technology (Bio-Plex 200) with Bio-Plex Pro Human Cytokine Panel kits (Bio-Rad, Hercules, CA, USA), as published [45].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 19
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p19",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 19 of 24\n\n4.6. Detection of GlcSph-Reactive Igs\n\nAnalysis of the presence of IgGs speciﬁc for GlcSph (LGL1) was performed using an immunoblotting assay adapted from Nair et al. [34–38]. Polyvinylidene ﬂuoride (PVDF) membranes were incubated for 90 min in 100µg/mL of GlcSph in 0.1 M sodium bicarbonate, rinsed 3 times in phosphate buﬀer saline (PBS) and 0.1% Tween 20 detergent, then blocked for 2 h with 5% bovine serum albumin (BSA) in PBS and 0.1% Tween 20. Samples of serum were submitted to agarose gel electrophoresis; then, the gels were blotted onto the GlcSph-saturated membranes by diﬀusion blotting during 12 min [55,56]. After blocking for 1 h with 2.5% BSA in PBS and 0.1% Tween 20, membranes were incubated with peroxidase-conjugated AﬃniPure donkey antihuman IgG (H + L) antibody (Jackson ImmunoResearch, West Grove, PA, USA) or horseradish peroxidase (HRP)-conjugated goat anti-human IgA α chain antibody (Bethyl Laboratories, Montgomery, TX, USA) for 1 h, then washed and revealed with Super Signal West Pico chemiluminescent substrate (Thermo Scientiﬁc, Waltham, MA, USA).\n\n4.7. GlcSph Quantiﬁcation\n\nPatient serum (200 µL) was mixed rapidly with 500 µL phosphoric acid and 500 µL methanol containing 50 nM internal standards. Supernatants were puriﬁed by solid phase extraction (MCX Oasis cartridge). Eluates were evaporated under N2 and reconstituted with the mobile phase. An amount of 25 µL was injected in LC-MS/MS (API 4500 QTrap, ABsciex, Foster, CA, USA). The quantiﬁcation (nmol/L) was performed by Analyst software using external standard calibration [57].\n\n4.8. Statistics\n\nData analysis was performed by GraphPad Prism 7.05 software. Patient parameters were expressed as the medians and ranges, and/or the means ± standard error of the mean (SEM). The Chi-2 test was used for categorical variables. For continuous variables (n < 30), a normality test was systematically performed for each group. For nonparametric conditions, a Mann–Whitney t-test was performed. The tests used are indicated in the legends of Figures and Tables. A p value below 0.05 was considered statistically signiﬁcant.\n\nSupplementary Materials: The following are available online at http://www.mdpi.com/2072-6694/12/9/2446/s1, Figure S1: Representation of the % of JAK2V617F-mutated alleles of the MPN patients examined in this study, Figure S2: Levels of ST-2 (soluble IL-33 receptor) in MPN patients, Figure S3: Inverse correlations between hematocrit and IL-2, IL-4 and IL-26 in ET patients, Figure S4: Description of UT-7 clones expressing 50% or 75% JAK2V617F-mutated alleles, Figure S5: Cytokine production of CALR-mutated UT-7 cells, Table S1: Correlations between %JAK2V617F and blood counts in JAK2V617F-mutated MPN patients, Table S2: Characteristics of ET patients with JAK2V617F or CALR mutation, Table S3: Characteristics of MPN patients with GlcSph-reactive IgGs.\n\nAuthor Contributions: Conceptualization, S.H., E.B.-C., A.B. and C.C.; methodology, S.H., S.A.-M., E.B.-C., A.B., C.C., J.-M.G. and M.P.; technical work: S.A.-M., A.B., N.M., M.B., L.D. and E.H.C.; formal analysis, S.H., S.A.-M., E.B.-C., A.B., C.C., J.-M.G. and M.P.; resources, O.M., E.L., F.G. and Y.L.B.; writing—original draft preparation, S.H. and S.A.-M; writing—review and editing, S.H., E.B.-C., A.B., C.C., F.G., M.P., Y.L.B. and J.-M.G.; funding acquisition, S.H. All authors have read and agreed to the published version of the manuscript.\n\nFunding: The study was supported by grants to SH from the Ligue Nationale contre le Cancer (Comités Départementaux 44, 29, 35, 56, 85), the Cancéropôle Grand Ouest and Région Pays de la Loire (2015–2016) and Novartis (Basel, CH). The salary of AB was supported by Cancéropôle Grand Ouest/Région Pays de la Loire (HII-GO project, June 2015–December 2016).\n\nAcknowledgments: We thank all the colleagues from the Departments of Hematology or Internal Medicine of the University Hospitals of Nantes and Brest, who contributed to the diagnosis and care of patients in this study. We also thank Jean Harb and Bridget S. Wilson for their help, advice and discussions; Danielle Pineau for excellent technical help; and the Brest Biological Resources Center BB-0033-00037 (CRB Santé du CHRU de Brest) for providing high quality annotated samples.\n\nConﬂicts of Interest: The authors declare no conﬂict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p2",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 2 of 24\n\nall other molecules, no correlation was found. Cytokine production was also studied in the human megakaryocytic cell line UT-7. Wild-type UT-7 cells secreted 27/42 cytokines measured. UT-7 clones expressing 50% or 75% JAK2V617F were generated, in which the production of IL-1β, IP-10 and RANTES was increased; other cytokines were not aﬀected. Secondly, we searched for causes of chronic inﬂammation in MPNs other than driver mutations. Since antigen-driven selection is increasingly implicated in the pathogenesis of blood malignancies, we investigated whether proinﬂammatory glucosylsphingosine (GlcSph) may play a role in MPNs. We report that 20% (15/75) of MPN patients presented with anti-GlcSph IgGs, distinguished by elevated levels of 11 cytokines. In summary, only IL-1β and IP-10 were linked to JAK2V617F both in patients and in UT-7 cells; other inﬂammation-linked cytokines in excess in MPNs were not. For subsets of MPN patients, a possible cause of inﬂammation may be auto-immunity against glucolipids.\n\nKeywords: myeloproliferative neoplasms (MPNs); inﬂammation; cytokines; JAK2V617F; CALR exon 9 mutants; interleukin-1β (IL-1β); IL-1Rα; IP-10; leptin; IL-33; UT-7; CRISPR technology; antigenic stimulation; glucolipids; glucosylsphingosine (GlcSph); auto-immunity\n\n1. Introduction\n\nAn active JAK2/STAT5 pathway is required for an appropriate production of mature myeloid cells. Strong and prolonged activation of the JAK2/STAT5 pathway by erythropoietin (EPO), thrombopoietin (TPO), granulocyte-colony stimulating factor (G-CSF) or certain interleukins, physiologically enhances myelopoiesis, for instance after severe bleeding or during acute or chronic inﬂammation. The diﬀerent chronic myeloproliferative neoplasms (MPNs) typically arise from the acquisition in a multipotent hematopoietic progenitor of one mutation in JAK2, CALR or MPL, and the subsequent mutant protein stimulates the expansion of mutated myeloid cells via constant activation of the JAK2/STAT5 pathway [1–8]. Hence MPNs represent clonal versions of myelopoiesis. However, JAK2 mutation may occur more than once in certain patients and is not always the ﬁrst event in MPNs [9,10]. Moreover, MPNs are associated with chronic inﬂammation, per se a strong stimulant of myelopoiesis. In MPNs, TPO and EPO levels are low or undetectable, but MPN patients have high blood levels of numerous inﬂammatory cytokines; some of these cytokines activate JAK2/STAT5 (G-CSF, granulocyte-macrophage colony stimulating factor (GM-CSF), interleukin 6 (IL-6)) while others activate the JAK1/STAT1/STAT3 pathways, notably IL-6 and interferons (IFN) [11,12]. Three subtypes of MPNs are distinguished: essential thrombocythemia (ET), which concerns mostly megakaryocytes and platelets; polycythemia vera (PV), which concerns predominantly the erythroid lineage; and primary myeloﬁbrosis (PMF), a subtype characterized by severe ﬁbrosis of the bone marrow and splenomegaly. The JAK2V617F mutation is found in >95% PV cases and 50–60% of ET and PMF cases, while CALR mutations characterize 25–30% ET and PMF cases; MPL mutations concern 5–10% ET and PMF cases. Patients may present with clinical symptoms and complications that include fatigue, fever, night sweats, loss of weight, itching, arterial and venous thrombosis, bone marrow ﬁbrosis and splenomegaly; evolution toward acute myeloid leukemia (AML) is rare [13]. Most of these symptoms and complications, including bone marrow ﬁbrosis, can be explained by inﬂammation. Logically, JAK inhibitors that signiﬁcantly reduce inﬂammation also reduce clinical symptoms and splenomegaly [14–19]. Unfortunately, suppression of the MPN clone and signiﬁcant reduction in the mutation load are typically not obtained with JAK inhibitors [17–19]. In contrast, IFN-α therapy frequently leads to clinical and molecular remission, in PV and also in JAK2- and CALR-mutated ET [20–23]. One explanation is that the actions exerted by JAK inhibitors and IFN-α on inﬂammation are quite diﬀerent. JAK inhibitors block the myelopoiesis-stimulating JAK2/STAT5 pathway and often also the inﬂammation-linked JAK1/STAT1 pathways. In contrast, IFN-α is a potent immunostimulant that activates the JAK1/STAT1 pathways, thus inducing the expression of pro-inﬂammatory cytokines:",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 20
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p20",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 20 of 24\n\nReferences\n\n1. James, C.; Ugo, V.; Le Couédic, J.-P.; Staerk, J.; Delhommeau, F.; Lacout, C.; Garçon, L.; Raslova, H.; Berger, R.; Bennaceur-Griscelli, A.; et al. A unique clonal JAK2 mutation leading to constitutive signalling causes polycythaemia vera. Nature 2005, 434, 1144–1148. [CrossRef] [PubMed] 2. Kralovics, R.; Passamonti, F.; Buser, A.; Teo, S.-S.; Tiedt, R.; Passweg, J.R.; Tichelli, A.; Cazzola, M.; Skoda, R.C. A Gain-of-Function Mutation ofJAK2in Myeloproliferative Disorders. N. Engl. J. Med. 2005, 352, 1779–1790. [CrossRef] [PubMed] 3. Pikman, Y.; Lee, B.H.; Mercher, T.; McDowell, E.; Ebert, B.L.; Gozo, M.; Cuker, A.; Wernig, G.; Moore, S.; Galinsky, I.; et al. MPLW515L Is a Novel Somatic Activating Mutation in Myeloﬁbrosis with Myeloid Metaplasia. PLoS Med. 2006, 3, e270. [CrossRef] 4. Klampﬂ, T.; Them, N.C.C.; Berg, T.; Vladimer, G.I.; Bagienski, K.; Milanesi, C.; Casetti, I.C.; Sant’Antonio, E.; Ferretti, V.V.; Schischlik, F.; et al. Somatic Mutations of Calreticulin in Myeloproliferative Neoplasms. N. Engl. J. Med. 2013, 369, 2379–2390. [CrossRef] [PubMed] 5. Nangalia, J.; Massie, C.E.; Baxter, E.J.; Nice, F.L.; Gundem, G.; Wedge, D.C.; Avezov, E.; Li, J.; Kollmann, K.; Kent, D.G.; et al. Somatic CALR mutations in myeloproliferative neoplasms with non-mutated JAK2. N. Engl. J. Med. 2013, 369, 2391–2405. [CrossRef] 6. Staerk, J.; Constantinescu, S.N. The JAK-STAT pathway and hematopoietic stem cells from the JAK2 V617F perspective. JAK-STAT 2012, 1, 184–190. [CrossRef] 7. Skoda, R.C.; Duek, A.; Grisouard, J. Pathogenesis of myeloproliferative neoplasms. Exp. Hematol. 2015, 43, 599–608. [CrossRef] 8. Kleppe, M.; Kwak, M.; Koppikar, P.; Riester, M.; Keller, M.; Bastian, L.; Hricik, T.; Bhagwat, N.; McKenney, A.S.; Papalexi, E.; et al. JAK-STAT pathway activation in malignant and nonmalignant cells contributes to MPN pathogenesis and therapeutic response. Cancer Discov. 2015, 5, 316–331. [CrossRef] 9. Lambert, J.R.; Everington, T.; Linch, D.C.; Gale, R.E. In essential thrombocythemia, multiple JAK2-V617F clones are present in most mutant-positive patients: A new disease paradigm. Blood 2009, 114, 3018–3023. [CrossRef] 10. Schaub, F.X.; Jäger, R.; Looser, R.; Hao-Shen, H.; Hermouet, S.; Girodon, F.; Tichelli, A.; Gisslinger, H.; Kralovics, R.; Skoda, R.C. Clonal analysis of deletions on chromosome 20q and JAK2-V617F in MPD suggests that del20q acts independently and is not one of the predisposing mutations for JAK2-V617F. Blood 2009, 113, 2022–2027. [CrossRef] 11. Hermouet, S. Pathogenesis of myeloproliferative neoplasms: More than mutations. Exp. Hematol. 2015, 43, 993–994. [CrossRef] [PubMed] 12. Hermouet, S.; Bigot-Corbel, E.; Gardie, B. Pathogenesis of Myeloproliferative Neoplasms: Role and Mechanisms of Chronic Inﬂammation. Mediat. Inﬂamm. 2015, 2015, 145293. [CrossRef] [PubMed] 13. Geyer, H.L.; Dueck, A.C.; Scherber, R.M.; Mesa, R.A. Impact of Inﬂammation on Myeloproliferative Neoplasm Symptom Development. Mediat. Inﬂamm. 2015, 2015, 284706. [CrossRef] [PubMed] 14. Hasselbalch, H.C. Perspectives on the impact of JAK-inhibitor therapy upon inﬂammation-mediated comorbidities in myeloﬁbrosis and related neoplasms. Expert Rev. Hematol. 2014, 7, 203–216. [CrossRef] [PubMed] 15. Pemmaraju, N.; Kantarjian, H.; Kadia, T.; Cortes, J.; Borthakur, G.; Newberry, K.; Garcia-Manero, G.; Ravandi, F.; Jabbour, E.; Dellasala, S.; et al. A phase I/II study of the Janus kinase (JAK)1 and 2 inhibitor ruxolitinib in patients with relapsed or refractory acute myeloid leukemia. Clin. Lymphoma Myeloma Leuk. 2014, 15, 171–176. [CrossRef] [PubMed] 16. Verstovsek, S.; Mesa, R.A.; Gotlib, J.; Levy, R.S.; Gupta, V.; DiPersio, J.F.; Catalano, J.V.; Deininger, M.; Miller, C.; Silver, R.T.; et al. A Double-Blind, Placebo-Controlled Trial of Ruxolitinib for Myeloﬁbrosis. N. Engl. J. Med. 2012, 366, 799–807. [CrossRef] 17. Greenﬁeld, G.; McPherson, S.; Mills, K.I.; McMullin, M.F. The ruxolitinib eﬀect: Understanding how molecular pathogenesis and epigenetic dysregulation impact therapeutic eﬃcacy in myeloproliferative neoplasms. J. Transl. Med. 2018, 16, 360. [CrossRef] 18. Li, B.; Rampal, R.K.; Xiao, Z. Targeted therapies for myeloproliferative neoplasms. Biomark. Res. 2019, 7, 15. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 21
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p21",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 21 of 24\n\n19. Hobbs, G.; Rozelle, S.; Mullally, A. The Development and Use of Janus Kinase 2 Inhibitors for the Treatment of Myeloproliferative Neoplasms. Hematol. Clin. 2017, 31, 613–626. [CrossRef] 20. Kiladjian, J.-J.; Cassinat, B.; Turlure, P.; Cambier, N.; Roussel, M.; Bellucci, S.; Menot, M.-L.; Massonnet, G.; Dutel, J.-L.; Ghomari, K.; et al. High molecular response rate of polycythemia vera patients treated with pegylated interferon-2a. Blood 2006, 108, 2037–2040. [CrossRef] 21. Kiladjian, J.-J.; Chomienne, C.; Fenaux, P. Interferon-α therapy in bcr-abl-negative myeloproliferative neoplasms. Leukemia 2008, 22, 1990–1998. [CrossRef] [PubMed] 22. Desterro, J.; McLornan, D.P.; Curto-Garcia, N.; O’Sullivan, J.; Alimam, S.; Keohane, C.; Woodley, C.; Francis, Y.; Kordasti, S.Y.; Radia, D.H.; et al. Essential thrombocythaemia treated with recombinant interferon: ‘real world’ United Kingdom referral centre experience. Br. J. Haematol. 2019, 186, 561–564. [CrossRef] [PubMed] 23. Pedersen, R.K.; Andersen, M.; Knudsen, T.A.; Sajid, Z.; Gudmand-Hoeyer, J.; Dam, M.J.B.; Skov, V.; Kjaer, L.; Ellervik, C.; Larsen, T.S.; et al. Data-driven analysis of JAK2V617F kinetics during interferon-alpha2 treatment of patients with polycythemia vera and related neoplasms. Cancer Med. 2020, 9, 2039–2051. [CrossRef] [PubMed] 24. Aman, M.J.; Bug, G.; Aulitzky, E.W.; Huber, C.; Peschel, C. Inhibition of interleukin-11 by interferon-alpha in human bone marrow stromal cells. Exp. Hematol. 1996, 24, 863–867. [PubMed] 25. Radaeva, S.; Jaruga, B.; Hong, F.; Kim, W.; Fan, S.; Cai, H.; Strom, S.C.; Liu, Y.; El-Assal, O.; Gao, B. Interferon-α activates multiple STAT signals and down-regulates c-Met in primary human hepatocytes. Gastroenterology 2002, 122, 1020–1034. [CrossRef] 26. Bjørn, M.E.; Hasselbalch, H.C. Minimal residual disease or cure in MPNs? Rationales and perspectives on combination therapy with interferon-alpha2 and ruxolitinib. Expert Rev. Hematol. 2017, 94, 1–12. [CrossRef] 27. Mikkelsen, S.U.; Kjær, L.; Bjørn, M.E.; Knudsen, T.A.; Sørensen, A.L.; Andersen, C.B.L.; Bjerrum, O.W.; Brochmann, N.; El Fassi, D.; Kruse, T.A.; et al. Safety and eﬃcacy of combination therapy of interferon-α2 and ruxolitinib in polycythemia vera and myeloﬁbrosis. Cancer Med. 2018, 7, 3571–3581. [CrossRef] 28. Czech, J.; Cordua, S.; Weinbergerova, B.; Baumeister, J.; Crepcia, A.; Han, L.; Maié, T.; Costa, I.G.; Denecke, B.; Maurer, A.; et al. JAK2V617F but not CALR mutations confer increased molecular responses to interferon-α via JAK1/STAT1 activation. Leukemia 2019, 33, 995–1010. [CrossRef] 29. Hasselbalch, H.C. Perspectives on chronic inﬂammation in essential thrombocythemia, polycythemia vera, and myeloﬁbrosis: Is chronic inﬂammation a trigger and driver of clonal evolution and development of accelerated atherosclerosis and second cancer? Blood 2012, 119, 3219–3225. [CrossRef] 30. Hasselbalch, H.C. Chronic inﬂammation as a promotor of mutagenesis in essential thrombocythemia, polycythemia vera and myeloﬁbrosis. A human inﬂammation model for cancer development? Leuk. Res. 2013, 37, 214–220. [CrossRef] 31. Kristinsson, S.Y.; Landgren, O.; Samuelsson, J.; Bjorkholm, M.; Goldin, L.R. Autoimmunity and the risk of auto-immune neoplasms. Haematologica 2010, 7, 1216–1220. [CrossRef] [PubMed] 32. Pedersen, K.M.; Bak, M.; Sørensen, A.L.; Zwisler, A.-D.; Ellervik, C.; Larsen, M.K.; Hasselbalch, H.C.; Tolstrup, J.S. Smoking is associated with increased risk of myeloproliferative neoplasms: A general population-based cohort study. Cancer Med. 2018, 7, 5796–5802. [CrossRef] [PubMed] 33. Jayasuriya, N.A.; Kjaergaard, A.D.; Pedersen, K.M.; Sørensen, A.L.; Bak, M.; Larsen, M.K.; Nordestgaard, B.G.; Bojesen, S.E.; Çolak, Y.; Skov, V.; et al. Smoking, blood cells and myeloproliferative neoplasms: Meta-analysis and Mendelian randomization of 2·3 million people. Br. J. Haematol. 2020, 189, 323–334. [CrossRef] [PubMed] 34. Nair, S.; Branagan, A.; Liu, J.; Boddupalli, C.S.; Mistry, P.K.; Dhodapkar, M.V. Clonal Immunoglobulin against Lysolipids in the Origin of Myeloma. N. Engl. J. Med. 2016, 374, 555–561. [CrossRef] 35. Nair, S.; Sng, J.; Boddupalli, C.S.; Seckinger, A.; Chesi, M.; Fulciniti, M.; Zhang, L.; Rauniyar, N.; López, M.; Neparidze, N.; et al. Antigen-mediated regulation in monoclonal gammopathies and myeloma. JCI Insight 2018, 3, e98259. [CrossRef] 36. Nair, S.; Bar, N.; Xu, M.L.; Dhodapkar, M.; Mistry, P. Glucosylsphingosine but not Saposin C, is the target antigen in Gaucher disease-associated gammopathy. Mol. Genet. Metab. 2020, 129, 286–291. [CrossRef] 37. Bosseboeuf, A.; Seillier, C.; Mennesson, N.; Allain-Maillet, S.; Fourny, M.; Tallet, A.; Piver, E.; Lehours, P.; Mégraud, F.; Berthelot, L.; et al. Analysis of the Targets and Glycosylation of Monoclonal IgAs From MGUS and Myeloma Patients. Front. Immunol. 2020, 11, 854. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 22
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p22",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 22 of 24\n\n38. Bosseboeuf, A.; Mennesson, N.; Allain-Maillet, S.; Tallet, A.; Piver, E.; Decaux, O.; Moreau, C.; Moreau, P.; Lehours, P.; Megraud, F.; et al. Characteristics of MGUS and Multiple Myeloma According to the Target of Monoclonal Immunoglobulins, Glucosylsphingosine, or Epstein-Barr Virus EBNA-1. Cancers 2020, 12, 1254. [CrossRef] 39. Ayto, R.; Hughes, D. Gaucher Disease and Myeloma. Crit. Rev. Oncog. 2013, 18, 247–268. [CrossRef] 40. Mistry, P.; Taddei, T.H.; Dahl, S.V.; Rosenbloom, B.E. Gaucher disease and malignancy: A model for cancer pathogenesis in an inborn error of metabolism. Crit. Rev. Oncog. 2013, 18, 235–246. [CrossRef] 41. Linari, S.; Castaman, G. Hematological manifestations and complications of Gaucher disease. Expert Rev. Hematol. 2015, 9, 51–58. [CrossRef] [PubMed] 42. Pandey, M.K.; Burrow, T.A.; Rani, R.; Martin, L.J.; Witte, D.; Setchell, K.D.; McKay, M.A.; Magnusen, A.F.; Zhang, W.; Liou, B.; et al. Complement drives glucosylceramide accumulation and tissue inﬂammation in Gaucher disease. Nature 2017, 543, 108–112. [CrossRef] [PubMed] 43. W ˛atek, M.; Piktel, E.; Wollny, T.; Durna´s, B.; Fiedoruk, K.; Lech-Mara´nda, E.; Bucki, R. Defective Sphingolipids Metabolism and Tumor Associated Macrophages as the Possible Links Between Gaucher Disease and Blood Cancer Development. Int. J. Mol. Sci. 2019, 20, 843. [CrossRef] [PubMed] 44. Lippert, E.; Boissinot, M.; Kralovics, R.; Girodon, F.; Dobo, I.; Praloran, V.; Boiret-Dupré, N.; Skoda, R.C.; Hermouet, S. The JAK2-V617F mutation is frequently present at diagnosis in patients with essential thrombocythemia and polycythemia vera. Blood 2006, 108, 1865–1867. [CrossRef] 45. Bosseboeuf, A.; Allain, S.; Mennesson, N.; Tallet, A.; Rossi, C.; Garderet, L.; Caillot, D.; Moreau, P.; Piver, E.; Girodon, F.; et al. Pro-inﬂammatory state in MGUS and Myeloma is characterized by low sialylation of pathogen-speciﬁc and other monoclonal and polyclonal immunoglobulin G. Front. Immunol. 2017, 8, 1347. [CrossRef] 46. Passamonti, F.; Rumi, E.; Pietra, D.; Della Porta, M.G.; Boveri, E.; Pascutto, C.; Vanelli, L.; Arcaini, L.; Burcheri, S.; Malcovati, L.; et al. Relation between JAK2 (V617F) mutation status, granulocyte activation, and constitutive mobilization of CD34+ cells into peripheral blood in myeloproliferative disorders. Blood 2006, 107, 3676–3682. [CrossRef] 47. Rotunno, G.; Mannarelli, C.; Guglielmelli, P.; Pacilli, A.; Pancrazzi, A.; Pieri, L.; Fanelli, T.; Bosi, A.; Vannucchi, A.M.; on behalf of the Associazione Italiana per la Ricerca sul Cancro Gruppo Italiano Malattie Mieloproliferative Investigators. Impact of calreticulin mutations on clinical and hematological phenotype and outcome in essential thrombocythemia. Blood 2014, 123, 1552–1555. [CrossRef] 48. Lippert, E.; Girodon, F.; Hammond, E.; Carillo, S.; Richard, C.; Fehse, B.; Hermans, M.; James, I.; Jelinek, J.; Marzac, C.; et al. Concordance of Assays Designed for the Quantitation of JAK2 1849G>T (V617F): A Multi-Centre Study. Blood 2007, 110, 2529. [CrossRef] 49. Jovanovic, J.V.; Ivey, A.; Vannucchi, A.M.; Lippert, E.; Oppliger Leibundgut, E.; Cassinat, B.; Pallisgaard, N.; Maroc, N.; Hermouet, S.; Nickless, G.; et al. Establishing Optimal Quantitative-Polymerase Chain Reaction Assays for Routine Diagnosis and Tracking Minimal Residual Disease in JAK2-V617F Associated Myeloid Neoplasms: A Joint European LeukemiaNet/MPN&MPNr-EuroNet (COST Action BM0902) Study. Leukemia 2013, 27, 2032–2039. 50. Mansier, O.; Prouzet-Mauléon, V.; Jégou, G.; Barroso, K.; Raymundo, D.P.; Chauveau, A.; Dumas, P.-Y.; Lagarde, V.; Turcq, B.; Pasquet, J.M.; et al. The Expression of Myeloproliferative Neoplasm-Associated Calreticulin Variants Depends on the Functionality of ER-Associated Degradation. Cancers 2019, 11, 1921. [CrossRef] 51. Duo, C.-C.; Gong, F.-Y.; He, X.-Y.; Li, Y.-M.; Wang, J.; Zhang, J.; Gao, X.-M. Soluble Calreticulin Induces Tumor Necrosis Factor-α (TNF-α) and Interleukin (IL)-6 Production by Macrophages through Mitogen-Activated Protein Kinase (MAPK) and NFκB Signaling Pathways. Int. J. Mol. Sci. 2014, 15, 2916–2928. [CrossRef] [PubMed] 52. Teﬀeri, A.; Vaidya, R.; Caramazza, D.; Finke, C.; Lasho, T.; Pardanani, A. Circulating Interleukin (IL)-8, IL-2R, IL-12, and IL-15 Levels Are Independently Prognostic in Primary Myeloﬁbrosis: A Comprehensive Cytokine Proﬁling Study. J. Clin. Oncol. 2011, 29, 1356–1363. [CrossRef] [PubMed] 53. Vaidya, R.; Gangat, N.; Jimma, T.; Finke, C.M.; Lasho, T.L.; Pardanani, A.; Teﬀeri, A. Plasma cytokines in polycythemia vera: Phenotypic correlates, prognostic relevance, and comparison with myeloﬁbrosis. Am. J. Hematol. 2012, 87, 1003–1005. [CrossRef] [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 23
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p23",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 23 of 24\n\n54. Boissinot, M.; Cleyrat, C.; Vilaine, M.; Jacques, Y.; Corre, I.; Hermouet, S. Anti-inﬂammatory cytokines hepatocyte growth factor and interleukin-11 are over-expressed in Polycythemia vera and contribute to the growth of clonal erythroblasts independently of JAK2V617F. Oncogene 2010, 30, 990–1001. [CrossRef] 55. Nooij, F.; Van Der Sluijs-Gelling, A.; Der Zijde, C.J.-V.; Van Tol, M.; Haas, H.; Radl, J. Immunoblotting techniques for the detection of low level homogeneous immunoglobulin components in serum. J. Immunol. Methods 1990, 134, 273–281. [CrossRef] 56. Braun, W.; Abraham, R. Modiﬁed diﬀusion blotting for rapid and eﬃcient protein transfer with PhastSystem. Electrophoresis 1989, 10, 249–253. [CrossRef] 57. Pettazzoni, M.; Froissart, R.; Pagan, C.; Vanier, M.T.; Ruet, S.; Latour, P.; Guﬀon, N.; Fouilhoux, A.; Germain, M.P.; Levade, T.; et al. LC-MS/MS multiplex analysis of lysosphingolipids in plasma and amniotic ﬂuid: A novel tool for the screening of sphingolipidoses and Niemann-Pick type C disease. PLoS ONE 2017, 12, e0181700. [CrossRef] 58. Xiao, M.; Wang, Y.; Tao, C.; Wang, Z.; Yang, J.; Chen, Z.; Zou, Z.; Li, M.; Liu, A.; Jia, C.; et al. Osteoblasts support megakaryopoiesis through production of interleukin-9. Blood 2017, 129, 3196–3209. [CrossRef] 59. Feng, Y.; Yu, M.; Zhu, F.; Zhang, S.; Ding, P.; Wang, M. IL-9 Promotes the Development of Deep Venous Thrombosis by Facilitating Platelet Function. Thromb. Haemost. 2018, 118, 1885–1894. [CrossRef] 60. Ding, P.; Zhang, S.; Yu, M.; Feng, Y.; Long, Q.; Yang, H.; Li, J.; Wang, M. IL-17A promotes the formation of deep vein thrombosis in a mouse model. Int. Immunopharmacol. 2018, 57, 132–138. [CrossRef] 61. Pourcelot, E.; Trocme, C.; Mondet, J.; Bailly, S.; Toussaint, B.; Mossuz, P. Cytokine proﬁles in polycythemia vera and essential thrombocythemia patients: Clinical implications. Exp. Hematol. 2014, 42, 360–368. [CrossRef] [PubMed] 62. Mondet, J.; Hussein, K.; Mossuz, P. Circulating Cytokine Levels as Markers of Inﬂammation in Philadelphia Negative Myeloproliferative Neoplasms: Diagnostic and Prognostic Interest. Mediat. Inﬂamm. 2015, 2015, 670580. [CrossRef] [PubMed] 63. Fleischman, A.G.; Aichberger, K.J.; Luty, S.B.; Bumm, T.G.; Petersen, C.L.; Doratotaj, S.; Vasudevan, K.B.; Latocha, D.H.; Yang, F.; Press, R.D.; et al. TNFα facilitates clonal expansion of JAK2V617F positive cells in myeloproliferative neoplasms. Blood 2011, 118, 6392–6398. [CrossRef] [PubMed] 64. Boissinot, M.; Vilaine, M.; Hermouet, S. The hepatocyte growth factor (HGF)/c-MET axis: A neglected target in the treatment of chronic myeloproliferative neoplasms? Cancers 2014, 6, 1631–1669. [CrossRef] [PubMed] 65. Rai, S.; Hansen, N.; Hao-Shen, H.; Dirnhofer, S.; Tata, N.R.; Skoda, R.C. IL-1β Secreted from Mutant Cells Carrying JAK2-V617Ffavors Early Clonal Expansion and Promotes MPN Disease Initiation and Progression. Blood 2019, 134 (Suppl. 1), 307. [CrossRef] 66. Øbro, N.F.; Grinfeld, J.; Belmonte, M.; Irvine, M.; Shepherd, M.S.; Rao, T.N.; Karow, A.; Riedel, L.M.; Harris, O.B.; Baxter, E.J.; et al. Longitudinal Cytokine Proﬁling Identiﬁes GRO-α and EGF as Potential Biomarkers of Disease Progression in Essential Thrombocythemia. HemaSphere 2020, 4, e371. [CrossRef] 67. Olcaydu, D.; Harutyunyan, A.S.; Jäger, R.; Berg, T.; Gisslinger, B.; Pabinger, I.; Gisslinger, H.; Kralovics, R. A common JAK2 haplotype confers susceptibility to myeloproliferative neoplasms. Nat. Genet. 2009, 41, 450–454. [CrossRef] 68. Hermouet, S.; Vilaine, M. The JAK2 46/1 haplotype: A marker of inappropriate myelomonocytic response to cytokine stimulation, leading to increased risk of inﬂammation, myeloid neoplasm, and impaired defense against infection? Haematologica 2011, 96, 1575–1579. [CrossRef] 69. Jager, R.; Harutyunyan, A.S.; Rumi, E.; Pietra, D.; Berg, T.; Olcaydu, D.; Houlston, R.S.; Cazzola, M.; Kralovics, R. Common germline variation at the TERT locus contributes to familial clustering of myeloproliferative neoplasms. Am. J. Hematol. 2014, 89, 1107–1110. [CrossRef] 70. Tapper, W.; Jones, A.V.; Kralovics, R.; Harutyunyan, A.S.; Zoi, K.; Leung, W.; Godfrey, A.L.; Guglielmelli, P.; Callaway, A.; Ward, D.; et al. Genetic variation at MECOM, TERT, JAK2 and HBS1L-MYB predisposes to myeloproliferative neoplasms. Nat. Commun. 2015, 6, 6691. [CrossRef] 71. Saliba, J.; Saint-Martin, C.; Di Stefano, A.; Lenglet, G.; Marty, C.; Keren, B.; Pasquier, F.; Della Valle, V.; Secardin, L.; Leroy, G.; et al. Germline duplication of ATG2B and GSKIP predisposes to familial myeloid malignancies. Nat. Genet. 2015, 47, 1131–1140. [CrossRef] [PubMed] 72. Barak, V.; Acker, M.; Nisman, B.; Kalickman, I.; Abrahamov, A.; Zimran, A.; Yatziv, S. Cytokines in Gaucher’s disease. Eur. Cytokine Netw. 1999, 10, 205–210. [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 24
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p24",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 24 of 24\n\n73. Dinarello, C.A.; Van Der Meer, J.W. Treating inﬂammation by blocking interleukin-1 in humans. Semin. Immunol. 2013, 25, 469–484. [CrossRef] [PubMed] 74. Arranz, L.; Arriero, M.D.M.; Villatoro, A. Interleukin-1β as emerging therapeutic target in hematological malignancies and potentially in their complications. Blood Rev. 2017, 31, 306–317. [CrossRef]\n\n© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p3",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 3 of 24\n\nIFN-induced protein 10 (IP-10), IL-6, IL-8, IL-10, GM-CSF and tumor necrosis factor α (TNF-α). However, IFN-α also represses the expression of cytokines and receptors that do not signal via JAK/STAT, notably IL-1β, a major pro-inﬂammatory cytokine, as well as others that facilitate the survival of MPN progenitors, such as IL-11, hepatocyte growth factor (HGF) and its receptor, c-MET, and tumor growth factors β (TGF-β) [24,25]. Consistently, IFN-α and JAK inhibitors were reported to act in synergy in MPNs [26–28]. Hence, both chronic inﬂammation and the JAK2/CALR/MPL mutants play major roles in the pathogenesis of MPNs, and inﬂammation cytokines act as stimulants of the mutated clone as well as mediators of clinical symptoms and complications [12,29]. Yet the mechanisms and chronology of inﬂammation in MPNs remain poorly understood [30]. Still debated are the causes of the excessive production of cytokines in MPNs (mutations, others?), and whether inﬂammation may precede the acquisition of mutations in JAK2/CALR/MPL genes. Several studies reported that a history of chronic inﬂammation of various causes (smoking, auto-immune disease, inﬂammatory rheumatisms, inﬂammatory bowel disease) is not rare in patients who develop an MPN [30–33]. Importantly, nongenetic pathogenic mechanisms such as chronic antigen stimulation and antigen-driven selection are increasingly implicated in the pathogenesis of blood malignancies. In the context of monoclonal gammopathies of undetermined signiﬁcance (MGUS) and myeloma, Nair et al. and our own studies showed that the monoclonal immunoglobulins (Igs) of subsets of patients react against a pro-inﬂammatory lysosphingolipid, glucosylsphingosine (GlcSph) [34–38]. Furthermore, up to 40% of MGUS and myeloma patients had polyclonal anti-GlcSph antibodies, which implied that an auto-immune process accompanied MGUS or myeloma disease in these patients [38]. GlcSph—also called lysoglucosylceramide (LGL1)—is a frequent target of monoclonal Igs in MGUS and myeloma associated with Gaucher disease (GD) [34–36]. In GD, germline mutations in the glucocerebrosidase (GBA) gene result in the accumulation of glucocerebroside corresponding to the primary accumulated sphingolipid, and its deacylated form, the GlcSph. GD patients may present with various clinical manifestations, including an increased risk of developing blood malignancies, notably MGUS and myeloma [39–43]. In this study, our ﬁrst aim was to determine the eﬀect of JAK2V617F expression on 40 cytokines and 2 cytokine receptors, both in vivo (MPN patients) and in vitro (human UT-7 cells genetically engineered to express MPN mutations). We report that among 26 cytokines found to be overexpressed in JAK2V617F-mutated MPN patients, 23 could not be linked to JAK2V617F expression. Consequently, our second aim was to search for causes of chronic inﬂammation in MPNs other than mutation(s), and we investigated whether GlcSph stimulation played a role in MPNs.\n\n2. Results\n\n2.1. Description of Patients\n\nIn this retrospective study, serum samples collected from 75 patients at the time of diagnosis of MPN (27 PV, 39 ET, 9 PMF) and 54 healthy donors (HDs) (including 40 individuals of age >60) were aliquoted, then kept frozen at −80 ◦C. In the MPN cohort, the usual representation of JAK2V617F, CALR and MPL mutants was respected since it included 55/75 (73.3%) patients with a JAK2V617F-mutated MPN (27 PV, 21 ET, 7 PMF), 16/75 (21.3%) patients with a CALR-mutated MPN (15 ET, 1 PMF) and 2 ET patients with an MPL mutation (2/75 or 2.7%). Table 1 shows the characteristics of the MPN cohort. The median age of MPN patients at the time of diagnosis was 69 years for PV, 73 years for ET and 62 years for PMF. For JAK2V617F-mutated MPN patients, the percentage of JAK2V617F-mutated alleles as assessed in genomic DNA (gDNA) ranged from 1% to 100% (Supplementary Figure S1). We and others previously showed that the %JAK2V617F in mRNA and gDNA are well correlated [44]. Thus, the expression level of the JAK2V617F mutant in this cohort of patients presumably ranged from 1% to 100% of total JAK2. The percentage of CALR-mutated alleles in gDNA was close to 50% for all CALR-mutated patients.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p4",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 4 of 24\n\nTable 1. Characteristics of myeloproliferative neoplasm (MPN) Patients.\n\nAll Patients PV ET PMF\n\nNumber 75 27 39 9 Sex, M/F (male%) 38/37 (50.7%) 16/11 (59.3%) 15/24 (41.0%) 7/2 (77.8%) Age (Yr) Median 67.0 69.0 73.0 62.0 (Range) (33–95) (33–93) (37–95) (50–86) %JAK2V617F Median 16.0 42.0 5.0 27.0 (Range) (0–96) (7–96) (0–61 *) (0–51) Blood Counts Hematocrit (L/L) Median 46.3 53.4 44.1 36.2 (Range) (25.1–70.0) (43.1 **–70.0) (35.3–63.3 ***) (25.1–41.0) Hemoglobin (g/dL) Median 14.8 17.4 14.4 11.0 (Range) (7.9–22.4) (13.8 **–22.4) (10.4–20.0 ***) (7.9–13.0) Leukocytes (×109/L) Median 8.7 9.7 8.3 11.3 (Range) (2.8–41.0) (2.8–37.8) (4.5–41.0) (5.0–27.5) Platelets (×109/L) Median 527.5 377 644 165 (Range) (47–2300) (89–851) (191–2300) (47–586)\n\n* Thrombocythemia (ET) patient with post-ET myeloﬁbrosis; ** polycythemia vera (PV) patient who had received treatment at the time of serum cytokine studies; *** ET which transformed into PV.\n\n2.2. Levels of Inﬂammation-Linked Cytokines in MPN Patients\n\nForty cytokines and chemokines and two receptors linked to inﬂammation were measured in the blood serum of 75 MPN patients and 17 HDs using the Luminex technology and Bio-Plex Pro human cytokine panel kits, as previously described [45]. We found signiﬁcantly high levels for 26 cytokines (Table 2, indicated in blue) in MPN patients, compared to HDs (p < 0.05, Mann–Whitney t-test). Of note, 11 of the 26 cytokines are produced by cell types which are typically not mutated in MPNs, such as stromal cells (IL-7, basic ﬁbroblast growth factor (b-FGF)), stroma-derived factor 1α (SDF-1α), endothelial cells (G-CSF, vascular endothelial growth factor (VEGF)), activated T-cells (IL-2, IL-2Rα, IL-5, IL-4, IL-9, IL-17, IFN-γ). The other cytokines overexpressed in MPNs are produced by potentially mutated CD34+ progenitor cells (HGF, MIP-1β, IL-33, IFN-α2) or monocytes–macrophages (11 cytokines, including IL-1β). Intriguingly, since most patients had high neutrophil counts, JAK2-activating cytokines were also elevated, notably G-CSF, IL-6, IL-5 and IFN-γ. Other JAK/STAT activators elevated in MPNs included activators of JAK1 (IFN-α2, IFN-γ, IL-6, IL-5, IL-26), JAK1/3 (IL-2, IL-7, IL-9, IL-15) and JAK3/STAT6 (IL-4).\n\nTable 2. Cytokine levels in MPN patients.\n\nMolecules (pg/mL) HD n = 17 All MPNs n = 75 PV n = 27 ET n = 39 PMF n = 9\n\nMed. (Range) Med. (Range) Med. Range Med. (Range) Med. (Range)\n\nMarkers of poor prognosis in MPNs sIL-2Rα 69.8 (0.0–162) 295.9 (30.3–1438) 287.2 (39.5–1129) 275.6 (30.3–1438) 382.6 (205–601) IL-8 15.4 (3.0–43.1) 80.2 (2.4–40,808) 54.1 (2.4–2804) 85.5 (14.4–40,808) 120.4 (13.8–5093) IL-12p70 13.4 (1.4–277) 78.0 (0.0–789) 76.3 (0.0–378) 86.2 (0.0–789) 81.8 (0.0–303) IL-15 0.0 (0.0–0.0) 0.0 (0.0–94.4) 0.0 (0.0–55.7) 0.0 (0.0–90.9) 0.0 (0.0–94.4) GM-CSF 0.0 (0.0–2.11) 0.0 (0.0–382) 0.0 (0.0–156) 0.0 (0.0–266) 0.0 (0.0–382) MIP-1β 310.3 (1.34–727) 612.7 (0.0–3362) 448.1 (0.0–2802) 701.6 (1.7–3362) 714.2 (292–3199)",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p5",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 5 of 24\n\nTable 2. Cont.\n\nMolecules (pg/mL) HD n = 17 All MPNs n = 75 PV n = 27 ET n = 39 PMF n = 9\n\nMed. (Range) Med. (Range) Med. Range Med. (Range) Med. (Range)\n\nAnti-inﬂammation IL-4 3.6 (0.0–5.1) 20.2 (0.0–45.1) 13.8 (0.0–35.8) 26.9 (0.2–45.1) 21.3 (8.1–40.7) IL-10 0.0 (0.0–166) 15.8 (0.0–152) 24.8 (0.0–103) 1.5 (0.0–152) 22.6 (0.0–86.3) HGF 302.6 (125–471) 837.4 (166–18,303) 815.0 (165–18,303) 815.6 (286–9302) 1158 (600–3778) Pro-inﬂammation TNF-α 29.7 (25.7–38.7) 78.9 (0.0–294) 88.4 (0.0–294) 69.2 (0.0–259) 105.0 (0.0–191) IL-1β 1.0 (0.0–9.4) 6.2 (0.5–42.5) 7.4 (1.0–25.8) 5.8 (0.5–42.5) 4.8 (1.3–19.2) IL-1Rα 96.9 (13.5–222) 605.0 (87.6–6884) 966.3 (105.2–5284) 500.8 (87.6–6884) 480.3 (193.2–2570) IL-2 0.0 (0.0–3.42) 0.0 (0.0–152) 0.0 (0.0–59.9) 0.0 (0.0–115) 0.0 (0.0–152) IL-6 0.8 (0.0–7.6) 16.9 (0.0–623) 16.7 (0.0–49.9) 15.9 (0.0–623) 25.8 (10.4–52.8) IL-7 0.0 (0.0–10.6) 31.9 (0.0–190) 30.2 (0.0–89.7) 33.7 (0.0–190) 33.9 (5.0–69.7) IL-9 53.2 (42.6–198.7) 122.0 (0.0–962) 96.9 (0.0–289) 141.6 (29.0–409) 112.0 (38.5–962) IL-11 0.0 (0.0–0.0) 0.0 (0.0–0.1) 0.0 (0.0–0.1) 0.0 (0.0–0.0) 0.0 (0.0–0.0) IL-13 1.2 (0.0–6.49) 5.7 (0.0–83.6) 16.1 (0.0–42.3) 1.1 (0.0–65.0) 0.0 (0.0–83.6) IL-17 124.1 (0.0–255) 575.0 (0.0–1240) 529.0 (0.0–968) 648.2 (0.0–1240) 371.3 (0.0–1089) IL-22 0.0 (0.0–0.0) 0.0 (0.0–0.0) 0.0 (0.0–0.0) 0.0 (0.0–0.0) 0.0 (0.0–0.0) IL-23 0.0 (0.0–2.8) 0.0 (0.0–6.2) 0.0 (0.0–0.0) 0.0 (0.0–6.2) 0.0 (0.0–0.0) IL-26 0.0 (0.0–1.71) 3.2 (0.0–195) 0.0 (0.0–7.1) 4.9 (0.0–195) 5.2 (0.0–46.4) IL-33 0.27 (0.0–3.46) 0.0 (0.0–11.1) 0.0 (0.0–11.1) 0.0 (0.0–5.8) 0.0 (0.0–7.6) IFN-α2 0.0 (0.0–2.9) 110.5 (0.0–225) 115.9 (0.0–225) 106.6 (0.0–182) 93.3 (3.1–170) IFN-γ 17.2 (2.0–34.7) 143.8 (0.0–689) 156.5 (0.0–690) 147.0 (0.0–509) 129.3 (0.0–498) IP-10 626.2 (298–1528) 847.6 (0.0–26,760) 1161 (0.0–26,760) 721.4 (189–2935) 847.6 (442–3613) Eotaxin 111.5 (44.2–319) 146.5 (6.1–646) 141.7 (6.1–491) 169.3 (19.4–646) 143.4 (28.0–2623) FGF basic 38.5 (0.0–332) 121.2 (0.0–567) 128.6 (0.0–405) 121.2 (0.0–567) 111.3 (0.0–332) Leptin 2206 (584–10,200) 2713 (463–36,254) 2449 (552–22,567) 2.84 (2840–2816) 1781 (733–4489) MCP-1 0.0 (0.0–123) 0.0 (0.0–1524) 0.0 (0.0–197) 0.0 (0.0–1524) 0.0 (0.0–1211) MIG 325.3 (211–1193) 699.7 (0.0–5878) 477.3 (0.0–2820) 777.8 (312–5605) 1059 (516–5878) MIP-1α 5.0 (1.0–615) 13.4 (0.0–848) 13.7 (0.0–848) 13.2 (0.0–620) 10.1 (0.0–18.2) PDGF-BB 464 (34.1–666) 418.2 (25.8–6263) 350.3 (25.8–2181) 603.7 (41.4–6263) 232.1 (34.9–1107) RANTES 13,592 (3108–25,751) 12,342 (724–66,241) 11,132 (724–48,946) 14,943 (3372–66,241) 18,805 (2451–33,031) SDF-1α 750 (610–970) 1093 (0.0–1769) 1093 (0.0–1602) 1106 (540–1769) 1,03 (360–1416) VEGF 0.0 (0.0–144) 147.6 (0.0–4605) 124.3 (0.0–1443) 174.7 (0.0–4605) 280.0 (0.0–880) Other hematopoietic growth factors IL-5 0.0 (0.0–16.8) 13.8 (0.0–84.6) 17.8 (0.0–84.6) 13.0 (0.0–60.9) 18.6 (0.0–49.3) G-CSF 12.2 (0.0–16.8) 123.1 (0.0–265) 123.1 (0.0–265) 122.8 (0.0–212) 156.6 (38.7–218) LIF 0.0 (0.0–4.52) 41.5 (0.0–299) 56.1 (0.0–292) 27.6 (0.0–299) 6.4 (0.0–275) TGF-β1 16,765 (4928–47,560) 20,530 (1355–127,571) 13,639 (1355–41,498) 27,802 (7782–127,571) 17,741 (6566–35,311) TGF-β2 2554 (1512–3078) 1647 (439–3386) 1195 (439–2983) 2203 (996–3386) 1351 (1154–2721) TGF-β3 441.6 (300–790) 659.6 (0.0–2268) 577.2 (0.0–1260) 772.7 (275–2268) 638.2 (462–1201)\n\nThe median serum levels of 26 cytokines (indicated in blue) were signiﬁcantly higher for MPN patients (“all MPNs”) than for healthy donors (p < 0.05, Mann–Whitney t-test).\n\n2.3. Diﬀerences in Inﬂammation-Linked Cytokine Levels According to MPN Phenotype\n\nWe compared the levels of cytokines observed for PV patients to those of ET and PMF patients. PV patients diﬀered from ET and PMF patients by a high level of IL-1Rα (median: 966 ng/mL for PV vs. 501 ng/mL for ET and 480 ng/mL for PMF, p = 0.002 and p = 0.032, respectively; Mann–Whitney t-test) (Figure 1a, Table 2). Compared to PV, ET was characterized by high levels of four T-cell-derived interleukins (IL-4, IL-9, IL-17, IL-26) and four cytokines produced by monocytes–macrophages: monokine induced by IFN-γ (MIG), TGF-β1, TGF-β2 and TGF-β3 (Figure 1b–h, Table 2). PMF was characterized by high levels of HGF, IL-15, IL-6, and MIG (Figure 1i–l, Table 2). The levels of IL-1β, IP-10 and IL-33 and leptin were similar in PV, ET and PMF (Table 2). The levels of soluble IL-33 receptors (ST-2) were also examined, both in serum and in plasma. Supplementary Figure S2 shows that plasma ST-2 levels were signiﬁcantly higher for PV, ET and PMF patients than for healthy controls, but there was no signiﬁcant diﬀerence depending on MPN phenotype.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p6",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 6 of 24\n\nFigure 1. Diﬀerences in cytokine levels between PV, ET and primary myeloﬁbrosis (PMF). Signiﬁcant diﬀerences were found between PV, ET or PMF patients in the levels of 12 cytokines: (a) IL-1Rα; (b) IL-4; (c) IL-9; (d) IL-17; (e) IL-26; (f) MIG; (g) TGF-β1; (h) TGF-β2; (i) TGF-β3; (j) HGF; (k) IL-15; (l) IL-6. Results are presented as the means + SEM. NS: not signiﬁcant. (*) p < 0.05 and (**) p < 0.01, Mann–Whitney t-test. Dotted blue lines represent the upper normal values for healthy individuals according to the manufacturers of the BioPlex Pro-human Cytokine kits, measured in 66 healthy donors. Dotted green lines represent the upper normal values for healthy individuals measured in the 17 healthy donors of our control cohort.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p7",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 7 of 24\n\n2.4. Correlations between Cytokine Levels and Blood Cell Counts in MPN Patients\n\nWe and others reported that when PV and ET patients are studied separately, the %JAK2V617F correlates with the leukocyte and neutrophil counts but not with the hematocrit or hemoglobin level, nor with platelet counts [44,46]. These observations were also true for the present cohort of patients (see Supplementary Table S1). We hypothesized that blood parameters of patients might be linked to the level of particular cytokines. Indeed, positive correlations were found between the levels of 13 molecules (8 cytokines, 3 chemokines, 2 receptors) and blood counts of neutrophils (correlated well in PV with IL-1Rα, and weakly with IL-1β, IP-10, HGF and MIG), monocytes (weak correlation with IP-10 in PV), lymphocytes (weak correlations with IL-4, IL-9, IL-33 and MIP-1β) and platelets (weak correlations with SDF-1α, IL-2Rα, IL-7, IL-9, IL-17 and MIG) (Table 3).\n\nTable 3. Correlations between cytokine levels and blood counts in PV, ET and PMF.\n\nMolecules\n\nDg Neutrophils Monocytes Hematocrit Platelets Lymphocytes\n\nn r p Value n r p Value n r p Value n r p Value n r p Value\n\nIL-1Rα PV 24 0.800 <0.0001 - - - - - - - - IL-1β PV 24 0.496 0.0137 - - - - - - - - IP-10 PV 24 0.476 0.0186 25 0.576 0.0026 - - - - - - IL-8 PMF - - 9 −0.786 0.0279 - - - - - - MIP-1α PMF - - - - - - - - 9 −0.810 0.0218 MIP-1β PV - - - - - - - - 24 0.440 0.0314 PMF - - 9 −0.738 0.0458 - - - - 9 −0.762 0.0368 Leptin PV 15 M −0.600 0.0223 - - - - - - - - PMF - - 8 −0.786 0.0279 - - - - - - IL-2Rα ET - - - - - - 38 0.613 0.0052 - - SDF-1α PV - - - - - - 24 0.605 0.0017 - - ET - - - - - - 38 0.520 0.0012 - - IL-2 ET - - - - 38 −0.519 0.0009 - - - - IL-4 ET - - - - 38 −0.464 0.0034 - - 38 0.439 0.0065 IL-7 PV - - - - - - 24 0.525 0.0070 - - IL-9 PV - - - - - - - - 24 0.412 0.0454 ET - - - - - - 38 0.420 0.0087 38 0.451 0.0050 IL-17 PV - - - - - - 24 0.508 0.0095 - - ET - - - - - - 38 0.468 0.0030 - - IL-26 ET - - - - 38 −0.464 0.0043 - - - - IL-33 PV - - - - - - - - 24 0.499 0.0154 HGF PV 24 0.501 0.0149 - - - - - - - - MIG PV 24 0.462 0.0266 - - - - 24 0.450 0.0275 - - TGF-β1 ET - - - - - - 38 −0.489 0.0024 - -\n\n–: not signiﬁcant. Molecules shown in bold characters are those for which correlations with blood counts were found with a r > 0.600; Dg = diagnosis (MPN subtype); M = male patients only.\n\nInverse correlations were also observed between the levels of 8 molecules (leptin, 5 cytokines, 2 chemokines) and blood counts of neutrophils (negative correlation with leptin in PV), monocytes (negative correlation with leptin, IL-8 and MIP-1β in PMF), lymphocytes (negative correlation with MIP-1α and MIP-1β in PMF) and platelets (negative correlation with TGF-β1 in ET) (Table 3). No correlation was found between cytokine levels and hematocrit or hemoglobin in PV and in PMF, whereas in ET, weak inverse correlations were found between hematocrit and IL-2, IL-4 and IL-26 (Supplementary Figure S3).\n\n2.5. Inﬂammation-Linked Cytokines or Receptors Linked to the JAK2V617F Mutation\n\nIn the cohort of 55 patients with JAK2V617F-mutated MPN (27 PV, 21 ET, 7 PMF), the levels of cytokines in blood serum were analyzed according to the %JAK2V617F. Among the 42 molecules quantiﬁed, only macrophage-produced IP-10 and the receptor IL-1Rα correlated positively (weakly) with the %JAK2V617F of patients: IP-10: n = 55, r = 0.456, p = 0.0005; IL-1Rα: n = 55, r = 0.489, p = 0.0002 (Figure 2a,b). For PV patients, the %JAK2V617F and the blood level of leptin were inversely correlated, particularly for male patients (all patients with PV: n = 27, r = −0.450, p = 0.0241; men with PV, n = 16, r = −0.714, p = 0.0026) (Figure 2c). Weak positive correlations between the %JAK2V617F and levels of IP-10 and IL-1Rα were conﬁrmed in the PV cohort (IP-10: n = 27, r = 0.392, p = 0.0429; IL-1Rα: n = 27, r = 0.648, p = 0.0003) (Figure 2d,e). In addition, the %JAK2V617F and IL-1β were correlated (n = 27,",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p8",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 8 of 24\n\nr = 0.415, p = 0.0315) for PV patients (Figure 2f). In contrast, in the cohort of JAK2V617F-mutated ET, IL-33 was the only cytokine correlated with the %JAK2V617F (n = 21, r = 0.703, p = 0.008) (Figure 2g).\n\nFigure 2. Correlations between cytokine levels and % of JAK2V617F-mutated alleles. Analysis of the cytokine levels and %JAK2V617F of the 55 patients with JAK2V617F-mutated MPN, using Spearman’s t-test, revealed positive correlations between %JAK2V617F and IP-10 (a) and IL-1Rα (b), and a negative correlation between leptin and %JAK2V617F, in PV only (c). (d–f) Positive correlations in PV only between the %JAK2V617F and IP-10 (d), IL-1Rα (e) and IL-1β (f). (g) Positive correlation between IL-33 and %JAK2V617F in ET only.\n\nHence, the level of expression of the JAK2V617F mutant correlated with ﬁve molecules linked to inﬂammation: in PV, with leptin (inverse correlation) and macrophage-produced IL-1β, IP-10 and IL-1Rα (positive correlations) and in ET, with IL-33 (positive correlation). Since leptin requires JAK2 for its signaling, a negative feed-back is likely to explain the inverse correlation between leptin and the %JAK2V617F in PV. No link was found between the %JAK2V617F and 37/42 cytokines and receptors.\n\n2.6. Inﬂammation-Linked Cytokines Associated with CALR Exon 9 Mutated-ET\n\nFifteen ET patients with CALR mutation were examined; the characteristics of CALR-mutated vs. JAK2V617F-mutated ET patients are shown in Supplementary Table S2. As published, JAK2V617F-mutated ET patients had a signiﬁcantly higher hematocrit, and CALR-mutated ET patients had higher platelet counts [47]. The serum levels of cytokines of ET cohorts were compared. CALR-mutated ET patients showed signiﬁcantly higher levels of three molecules produced by T-cell subsets (IL-4, IL-9, IL-26), plus TGF-β2 and TGF-β3 (Figure 3a–e). Compared to JAK2V617F-mutated ET, CALR-mutated ET patients also tended to have high levels of TGF-β1 and IL-33, but diﬀerences were not signiﬁcant (p = 0.070 and p = 0.065, respectively; Mann–Whitney t-test). As observed in PV, JAK2V617F-mutated ET was characterized by high levels of IL-1Rα and macrophage-derived IL-1β and TNF-α (Figure 3f–h). Patients with JAK2V617F-mutated ET also had high levels of IFN-α2, b-FGF and IL-5 (Figure 3i–k).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12092446",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_sha256": "270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+          "source_url": "https://doi.org/10.3390/cancers12092446"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72:p9",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 2446 9 of 24\n\nFigure 3. Diﬀerences in cytokine levels in CALR- and JAK2V617F-mutated ET. Signiﬁcant diﬀerences were found between CALR- and JAK2V617F- mutated ET for 9 cytokines: (a) IL-9; (b) IL-4; (c) IL-26; (d) TGF-β2; (e) TGF-β3; (f) IL-1Rα; (g) IL-1β; (h) TNF-α; (i) IFN-α2; (j) b-FGF; (k) IL-5. Results are presented as the means + SEM; note the changes in scales (Y axis). (*) p < 0.05, (**) p < 0.01, (***) p < 0.001 and (****) p < 0.0001, Mann–Whitney t-test. Dotted blue lines represent the upper normal values for healthy individuals according to the manufacturers of the BioPlex Pro-human Cytokine kits, measured in 66 healthy donors. Dotted green lines represent the upper normal values for healthy individuals as measured in our control cohort of 17 healthy donors.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72"
+}

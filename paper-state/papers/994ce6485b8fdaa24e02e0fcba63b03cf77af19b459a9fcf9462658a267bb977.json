@@ -1,0 +1,384 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T17:53:01.226145+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Reference Values to Assess Hemodilution and Warn of Potential False-Negative Minimal Residual Disease Results in Myeloma",
+        "year": null
+      },
+      "doi": "10.3390/cancers13194924",
+      "format": "pdf",
+      "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+      "url": "https://doi.org/10.3390/cancers13194924"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p1",
+        "source_issue_ids": [],
+        "text": "cancers\n\nArticle Reference Values to Assess Hemodilution and Warn of Potential False-Negative Minimal Residual Disease Results in Myeloma\n\nNoemí Puig 1,*,†, Juan Flores-Montero 2,† , Leire Burgos 3 , María-Teresa Cedena 4 , Lourdes Cordón 5, José-Juan Pérez 1, Luzalba Sanoja-Flores 6 , Irene Manrique 3, Paula Rodríguez-Otero 3, Laura Rosiñol 7, Joaquín Martínez-López 4 , María-Victoria Mateos 1 , Juan-José Lahuerta 4 , Joan Bladé 7, Jesús F. San Miguel 3 , Alberto Orfao 2,‡ and Bruno Paiva 3,‡ on behalf of the PETHEMA/GEM Cooperative Group and EuroFlow\n\n\u0001\u0002\u0003\u0001\u0004\u0005\u0006\u0007\b \u0001\u0002\u0003\u0004\u0005\u0006\u0007\n\nCitation: Puig, N.; Flores-Montero, J.;\n\nBurgos, L.; Cedena, M.-T.; Cordón, L.;\n\nPérez, J.-J.; Sanoja-Flores, L.;\n\nManrique, I.; Rodríguez-Otero, P.;\n\nRosiñol, L.; et al. Reference Values to\n\nAssess Hemodilution and Warn of\n\nPotential False-Negative Minimal\n\nResidual Disease Results in Myeloma.\n\nCancers 2021, 13, 4924. https://\n\ndoi.org/10.3390/cancers13194924\n\nAcademic Editor: François Guilhot\n\nReceived: 11 August 2021\n\nAccepted: 25 September 2021\n\nPublished: 30 September 2021\n\nPublisher’s Note: MDPI stays neutral\n\nwith regard to jurisdictional claims in\n\npublished maps and institutional afﬁl-\n\niations.\n\nCopyright: © 2021 by the authors.\n\nLicensee MDPI, Basel, Switzerland.\n\nThis article is an open access article\n\ndistributed under the terms and\n\nconditions of the Creative Commons\n\nAttribution (CC BY) license (https://\n\ncreativecommons.org/licenses/by/\n\n4.0/).\n\n1 Hematology Department, Hospital Universitario de Salamanca (HUSAL), IBSAL, IBMCC (USAL-CSIC), CIBERONC (CB16/12/00233), 37007 Salamanca, Spain; jpmoran@saludcastillayleon.es (J.-J.P.); mvmateos@usal.es (M.-V.M.) 2 Institute of Biomedical Research of Salamanca (IBSAL), Centro de Investigación Biomédica en Red Cáncer CIBERONC (CB16/12/00400), Cancer Research Center (IBMCC, USAL-CSIC), Cytometry Service (NUCLEUS) and Department of Medicine, University of Salamanca, 37007 Salamanca, Spain; jﬂores@usal.es (J.F.-M.); orfao@usal.es (A.O.) 3 Clínica Universidad de Navarra, Centro de Investigación Aplicada (CIMA), Instituto de Investigación Sanitaria de Navarra (IDISNA), CIBERONC (CB16/12/00369), 31008 Pamplona, Spain; lbrodriguez@unav.es (L.B.); imsaenzdete@unav.es (I.M.); paurodriguez@unav.es (P.R.-O.); sanmiguel@unav.es (J.F.S.M.); bpaiva@unav.es (B.P.) 4 Hospital Universitario 12 de Octubre, CIBERONC (CB16/12/00369), 28041 Madrid, Spain; mariateresa.cedena@salud.madrid.org (M.-T.C.); jmarti01@med.ucm.es (J.M.-L.); jjLAHUERTA@telefonica.net (J.-J.L.) 5 Grupo de Investigación en Hematología, Instituto de Investigación Sanitaria La Fe (IIS La Fe), CIBERONC (CB16/12/00284), 46026 Valencia, Spain; lourdes_cordon@iislafe.es 6 Institute of Biomedicine of Seville, Department of Hematology, University Hospital Virgen del Rocío of the Consejo Superior de Investigaciones Cientíﬁcas (CSIC), University of Seville, Seville, Spain & CIBERONC (CB16/12/00480), Instituto Carlos III, 28029 Madrid, Spain; lucysanoja@usal.es 7 Hematology Department, IDIBAPS, Hospital Clinic, 08036 Barcelona, Spain; LROSINOL@clinic.cat (L.R.); JBLADE@clinic.cat (J.B.) * Correspondence: npuig@saludcastillayleon.es or noemipuig@usal.es; Tel.: +34-923136783 (ext. 56620) † These authors contributed equally to this study as ﬁrst authors. ‡ These authors contributed equally to this study as senior authors.\n\nSimple Summary: Although the majority of patients with myeloma who achieve undetectable minimal residual disease show prolonged survival, some of them relapse shortly afterwards. False-negative results due to hemodiluted bone marrow samples could explain this inconsistency, but there is no guidance on how to evaluate them. We analyzed three cell populations normally absent in peripheral blood in 1404 aspirates obtained in numerous disease settings and in 85 healthy adults. Pairwise comparisons according to age and treatment showed signiﬁcant variability, thus suggesting that hemodilution should be preferably evaluated with references obtained after receiving identical regimens. Leveraging the minimal residual disease results from 118 patients, we showed that a comparison with age-matched healthy adults could also inform on potential hemodilution. Our study supports the routine assessment of bone marrow cellularity to evaluate hemodilution, using as reference values either treatment-speciﬁc or from healthy adults if the former are unavailable.\n\nAbstract: Background: Whereas, in most patients with multiple myeloma (MM), achieving undetectable MRD anticipates a favorable outcome, some others relapse shortly afterwards. Although one obvious explanation for this inconsistency is the use of nonrepresentative marrow samples due to hemodilution, there is no guidance on how to evaluate this issue. Methods: Since B-cell precursors, mast cells and nucleated red blood cells are normally absent in peripheral blood, we analyzed them in 1404 bone marrow (BM) aspirates obtained in numerous disease settings and in 85 healthy adults (HA). Results: First, we conﬁrmed the systematic detection of the three populations in HA, as well as the nonreduced numbers with aging. Pairwise comparisons between HA and MM patients grouped\n\nCancers 2021, 13, 4924. https://doi.org/10.3390/cancers13194924 https://www.mdpi.com/journal/cancers",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p10",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 10 of 12\n\nwhere the M-protein remains undetectable. Taken together, a greater conﬁdence in the robustness of MRD testing is a prerequisite for its progressive implementation in routine practice, and this study provides additional tools and a path forward to increase the level of conﬁdence in MRD-negative results.\n\nSupplementary Materials: The following are available online at https://www.mdpi.com/article/10 .3390/cancers13194924/s1, Figure S1: Bivariate ﬂow cytometry dot plots illustrating the performance of the ﬁrst 8-color antibody combination of the Euroﬂow approach for minimal residual disease assessment in myeloma to enumerate mast cells, nucleated red blood cells, and B-cell precursors.\n\nAuthor Contributions: Conceptualization, N.P., J.F.-M., A.O. and B.P.; formal analysis, N.P. and B.P.; writing—original draft preparation, N.P., J.F.-M. and B.P.; writing—review and editing, N.P., J.F.-M., A.O. and B.P.; L.B., M.-T.C., L.C., J.-J.P., L.S.-F., I.M., P.R.-O., L.R., J.M.-L., M.-V.M., J.-J.L., J.B. and J.F.S.M. provided study materials and/or patients. All authors have read and agreed to the published version of the manuscript.\n\nFunding: This study was supported by grants from the Centro de Investigación Biomédica en Red— Área de Oncología—del Instituto de Salud Carlos III (CIBERONC; CB16/12/00369, CB16/12/00400, CB16/12/00233 and CB16/12/00284); Instituto de Salud Carlos III/Subdirección General de Investigación Sanitaria and co-ﬁnanced by FEDER funds (FIS No. PI15/01956, PI15/02049, PI15/02062, PI18/01709, PI18/01673 and PI19/01451); the Cancer Research UK (C355/A26819), FCAECC and AIRC under the Accelerator Award Programme (EDITOR); the Black Swan Research Initiative of the International Myeloma Foundation and the European Research Council (ERC) 2015 Starting Grant (Contract 680200 MYELOMANEXT). This study was supported by the Riney Family Multiple Myeloma Research Program Fund.\n\nInstitutional Review Board Statement: Each study site’s independent ethics committee approved the protocol and the informed consent forms required prior to patient enrollment. The studies were registered at www.clinicaltrials.gov (accessed on 11 August 2021). (NCT01916252, NCT02575144, NCT03742297 and NCT02406144) and were conducted as per the ethical principles of the Declaration of Helsinki.\n\nInformed Consent Statement: Each study site’s independent ethics committee approved the protocol and the informed consent forms required prior to patient enrollment.\n\nData Availability Statement: For the original data, please contact noemipuig@usal.es.\n\nAcknowledgments: We thank all the investigators and participating centers of the GEM (Grupo Español de Mieloma)/PETHEMA (Programa para el Estudio de la Terapéutica en Hemopatías Malignas) cooperative study group. The authors would also like to acknowledge Alfonso Santiago and Carmen Carrero for the supportive administration by PETHEMA, as well as Roberto Maldonado and Arturo Touchard for the data management.\n\nConﬂicts of Interest: N.P. reports honoraria from Amgen, Celgene, Janssen, Takeda and The Binding Site; a consulting or advisory role for Amgen, Celgene, Janssen and Takeda; a speakers’ bureau for Celgene; research funding from Celgene, Janssen, Amgen and Takeda and travel, accommodations and expenses from Amgen, Celgene, Janssen and Takeda. M.-T.C. reports honoraria from Janssen, Celgene and AbbVie. L.R. reports honoraria from Janssen, Celgene, Amgen and Takeda. J.M.-L. reports a consulting or advisory role for Amgen, Celgene, Janssen, Takeda, Novartis and Incyte and adaptive and research funding from BMS, Roche and Janssen. M.-V.M. reports honoraria and membership on an entity’s Board of Directors or advisory committees for Janssen, Celgene, Takeda, Amgen, Adaptive, GSK, Sanoﬁand Oncopeptides and honoraria from membership on the Board of Directors or advisory committees for AbbVie, Roche, Pﬁzer, Regeneron and Seattle Genetics. J.-J.L. reports a consulting or advisory role for Celgene, Takeda, Amgen, Janssen and Sanoﬁand travel accommodations and expenses from Celgene. J.B. reports honoraria from Janssen, Celgene, Takeda, Amgen and Oncopeptides. J.F.S.M. reports a consultancy or advisory role for AbbVie, Amgen, Bristol-Myers Squibb, Celgene, GlaxoSmithKline, Janssen, Karyopharm, MSD, Novartis, Roche, Sanoﬁ, SecuraBio and Takeda. B.P. reports honoraria for lectures from and membership on advisory boards with Adaptive, Amgen, Bristol-Myers Squibb-Celgene, Janssen, Kite Pharma, Sanoﬁand Takeda; unrestricted grants from Celgene, EngMab, Roche, Sanoﬁand Takeda and consultancy for Bristol-Myers Squibb-Celgene, Janssen and Sanoﬁ. The remaining authors declare that they have no",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p11",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 11 of 12\n\ncompeting interests. The funders had no role in the design of the study; in the collection, analyses or interpretation of the data; in the writing of the manuscript or in the decision to publish the results.\n\nReferences\n\n1. Oliva, S.; D’Agostino, M.; Boccadoro, M.; Larocca, A. Clinical Applications and Future Directions of Minimal Residual Disease Testing in Multiple Myeloma. Front. Oncol. 2020, 10, 1. [CrossRef] [PubMed] 2. Burgos, L.; Puig, N.; Cedena, M.T.; Mateos, M.V.; Lahuerta, J.J.; Paiva, B.; San-Miguel, J.F. Measurable residual disease in multiple myeloma: Ready for clinical practice? J. Hematol. Oncol. 2020, 13, 82. [CrossRef] 3. Costa, L.J.; Derman, B.A.; Bal, S.; Sidana, S.; Chhabra, S.; Silbermann, R.; Ye, J.C.; Cook, G.; Cornell, R.F.; Holstein, S.A.; et al. International harmonization in performing and reporting minimal residual disease assessment in multiple myeloma trials. Leukemia 2021, 35, 18–30. [CrossRef] [PubMed] 4. Moreau, P.; Attal, M.; Hulin, C.; Arnulf, B.; Belhadj, K.; Benboubker, L.; Béné, M.C.; Broijl, A.; Caillon, H.; Caillot, D.; et al. Bortezomib, thalidomide, and dexamethasone with or without daratumumab before and after autologous stem-cell transplantation for newly diagnosed multiple myeloma (CASSIOPEIA): A randomised, open-label, phase 3 study. Lancet 2019, 394, 29–38. [CrossRef] 5. Mateos, M.-V.; Dimopoulos, M.A.; Cavo, M.; Suzuki, K.; Jakubowiak, A.; Knop, S.; Doyen, C.; Lucio, P.; Nagy, Z.; Kaplan, P.; et al. Daratumumab plus Bortezomib, Melphalan, and Prednisone for Untreated Myeloma. N. Engl. J. Med. 2018, 378, 518–528. [CrossRef] 6. Facon, T.; Lee, J.H.; Moreau, P.; Niesvizky, R.; Dimopoulos, M.; Hajek, R.; Pour, L.; Jurczyszyn, A.; Qiu, L.; Klippel, Z.; et al. Carﬁlzomib or bortezomib with melphalan-prednisone for transplant-ineligible patients with newly diagnosed multiple myeloma. Blood 2019, 133, 1953–1963. [CrossRef] [PubMed] 7. Munshi, N.C.; Avet-Loiseau, H.; Anderson, K.C.; Neri, P.; Paiva, B.; Samur, M.; Dimopoulos, M.; Kulakova, M.; Lam, A.; Hashim, M.; et al. A large meta-analysis establishes the role of MRD negativity in long-term survival outcomes in patients with multiple myeloma. Blood Adv. 2020, 4, 5988–5999. [CrossRef] 8. Facon, T.; Kumar, S.; Plesner, T.; Orlowski, R.Z.; Moreau, P.; Bahlis, N.; Basu, S.; Nahi, H.; Hulin, C.; Quach, H.; et al. Daratumumab plus Lenalidomide and Dexamethasone for Untreated Myeloma. N. Engl. J. Med. 2019, 380, 2104–2115. [CrossRef] [PubMed] 9. Dimopoulos, M.A.; Oriol, A.; Nahi, H.; San-Miguel, J.; Bahlis, N.J.; Usmani, S.Z.; Rabin, N.; Orlowski, R.Z.; Komarnicki, M.; Suzuki, K.; et al. Daratumumab, Lenalidomide, and Dexamethasone for Multiple Myeloma. N. Engl. J. Med. 2016, 375, 1319–1331. [CrossRef] 10. Attal, M.; Lauwers-Cances, V.; Hulin, C.; Leleu, X.; Caillot, D.; Escoffre, M.; Arnulf, B.; Macro, M.; Belhadj, K.; Garderet, L.; et al. Lenalidomide, Bortezomib, and Dexamethasone with Transplantation for Myeloma. N. Engl. J. Med. 2017, 376, 1311–1320. [CrossRef] 11. Sanoja-Flores, L.; Flores-Montero, J.; Puig, N.; Contreras-Sanfeliciano, T.; Pontes, R.; Corral-Mateos, A.; García-Sánchez, O.; Díez-Campelo, M.; de Magalhães, R.J.P.; García-Martín, L.; et al. Blood monitoring of circulating tumor plasma cells by next generation ﬂow in multiple myeloma after therapy. Blood 2019, 134, 2218–2222. [CrossRef] 12. Martinez-Lopez, J.; Wong, S.W.; Shah, N.; Bahri, N.; Zhou, K.; Sheng, Y.; Huang, C.Y.; Martin, T.; Wolf, J. Clinical value of measurable residual disease testing for assessing depth, duration, and direction of response in multiple myeloma. Blood Adv. 2020, 4, 3295–3301. [CrossRef] 13. Perrot, A.; Lauwers-Cances, V.; Corre, J.; Robillard, N.; Hulin, C.; Chretien, M.L.; Dejoie, T.; Maheo, S.; Stoppa, A.M.; Pegourie, B.; et al. Minimal residual disease negativity using deep sequencing is a major prognostic factor in multiple myeloma. Blood 2018, 132, 2456–2464. [CrossRef] 14. Paiva, B.; Puig, N.; Cedena, M.T.; Rosiñol, L.; Cordón, L.; Vidriales, M.B.; Burgos, L.; Flores-Montero, J.; Sanoja-Flores, L.; Lopez-Anglada, L.; et al. Measurable residual disease by next-generation ﬂow cytometry in multiple myeloma. J. Clin. Oncol. 2020, 38, 784–792. [CrossRef] 15. Terpos, E.; Kostopoulos, I.V.; Kastritis, E.; Ntanasis-Stathopoulos, I.; Migkou, M.; Rousakis, P.; Argyriou, A.T.; Kanel-lias, N.; Fotiou, D.; Eleutherakis-Papaiakovou, E.; et al. Impact of Minimal Residual Disease Detection by Next-Generation Flow Cytometry in Multiple Myeloma Patients with Sustained Complete Remission after Frontline Therapy-ﬁle:///Users/noemipuig/Documents/CALIDAD DE LAS MUESTRAS/for CANCERS/Martinez-Lopez Blood. HemaSphere 2019, 3, e300. [CrossRef] [PubMed] 16. Moreau, P.; Attal, M.; Caillot, D.; Macro, M.; Karlin, L.; Garderet, L.; Facon, T.; Benboubker, L.; Escoffre-Barbe, M.; Stoppa, A.M.; et al. Prospective Evaluation of Magnetic Resonance Imaging and [18F] Fluorodeoxyglucose Positron Emission Tomography-Computed Tomography at Diagnosis and Before Maintenance Therapy in Symptomatic PatientsWith Multiple Myeloma Included in the IFM/DFCI 2009 Trial. J. Clin. Oncol. 2017, 35, 2911–2918. [CrossRef] 17. Rasche, L.; Alapat, D.; Kumar, M.; Gershner, G.; McDonald, J.E.; Wardell, C.P.; Choudhury, S.R.; van Hemert, R.L.; Epstein, J.; Williams, A.F. Combination of ﬂow cytometry and functional imaging for monitoring of residual disease in myeloma. Leukemia 2019, 33, 1713–1722. [CrossRef] [PubMed] 18. Rosiñol, L.; Oriol, A.; Rios, R.; Sureda, A.; Blanchard, M.J.; Hernández, M.T.; Martínez-Martínez, R.; Moraleda, J.M.; Jarque, I.; Bargay, J.; et al. Bortezomib, lenalidomide, and dexamethasone as induction therapy prior to autologous transplant in multiple myeloma. Blood 2019, 134, 1337–1345. [CrossRef] [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p12",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 12 of 12\n\n19. Puig, N.; Hernández, M.T.; Rosiñol, L.; González, E.; de Arriba, F.; Oriol, A.; González-Calle, V.; Escalante, F.; de la Rubia, J.; Gironella, M.; et al. Lenalidomide and dexamethasone with or without clarithromycin in patients with multiple myeloma ineligible for autologous transplant: A randomized trial. Blood Cancer J. 2021, 11, 101. [CrossRef] [PubMed] 20. Flores-Montero, J.; Sanoja-Flores, L.; Paiva, B.; Puig, N.; García-Sánchez, O.; Böttcher, S.; Van Der Velden, V.H.J.; Pérez-Morán, J.J.; Vidriales, M.B.; García-Sanz, R.; et al. Next Generation Flow for highly sensitive and standardized detection of minimal residual disease in multiple myeloma. Leukemia 2017, 31, 2094–2103. [CrossRef] [PubMed] 21. Paiva, B.; Cedena, M.T.; Puig, N.; Arana, P.; Vidriales, M.B.; Cordon, L.; Flores-Montero, J.; Gutierrez, N.C.; Martín-Ramos, M.L.; Martinez-Lopez, J.; et al. Minimal residual disease monitoring and immune proﬁling in multiple myeloma in elderly patients. Blood 2016, 127, 3165–3174. [CrossRef] 22. Mateos, M.-V.; Martinez-Lopez, J.; Hernandez, M.-T.; Ocio, E.-M.; Rosinol, L.; Martinez, R.; Teruel, A.-I.; Gutierrez, N.C.; Martin Ramos, M.-L.; Oriol, A.; et al. Sequential vs. alternating administration of VMP and Rd in elderly patients with newly diagnosed MM. Blood 2016, 127, 420–425. [CrossRef] 23. Sanoja-Flores, L.; Flores-Montero, J.; Garcés, J.J.; Paiva, B.; Puig, N.; García-Mateo, A.; García-Sánchez, O.; Corral-Mateos, A.; Burgos, L.; Blanco, E.; et al. Next generation ﬂow for minimally-invasive blood characterization of MGUS and multiple myeloma at diagnosis based on circulating tumor plasma cells (CTPC). Blood Cancer J. 2018, 8, 117. [CrossRef] 24. Arana, P.; Paiva, B.; Cedena, M.T.; Puig, N.; Cordon, L.; Vidriales, M.B.; Gutierrez, N.C.; Chiodi, F.; Burgos, L.; Anglada, L.L.; et al. Prognostic value of antigen expression in multiple myeloma: A PETHEMA/GEM study on 1265 patients enrolled in four consecutive clinical trials. Leukemia 2018, 32, 971–978. [CrossRef] [PubMed] 25. Puig, N.; Paiva, B.; Lasa, M.; Burgos, L.; Perez, J.J.; Merino, J.; Moreno, C.; Vidriales, M.B.; Toboso, D.G.; Cedena, M.T.; et al. Flow cytometry for fast screening and automated risk assessment in systemic light-chain amyloidosis. Leukemia 2019, 33, 1256–1267. [CrossRef] [PubMed] 26. Gulla, A.; Anderson, K.C. Multiple myeloma: The (r) evolution of current therapy and a glance into the future. Haematologica 2020, 105, 2358–2367. [CrossRef] 27. Van De Donk, N.W.C.J.; Richardson, P.G.; Malavasi, F. CD38 antibodies in multiple myeloma: Back to the future. Blood 2018, 131, 13–29. [CrossRef] [PubMed] 28. Quach, H.; Ritchie, D.; Stewart, A.K.; Neeson, P.; Harrison, S.; Smyth, M.J.; Prince, H.M. Mechanism of action of immunomodulatory drugs (IMiDS) in multiple myeloma. Leukemia 2010, 24, 22–32. [CrossRef] 29. Minnie, S.A.; Hill, G.R. Immunotherapy of multiple myeloma. J. Clin. Investig. 2020, 130, 1565–1575. [CrossRef] 30. Raje, N.; Berdeja, J.; Lin, Y.; Siegel, D.; Jagannath, S.; Madduri, D.; Liedtke, M.; Rosenblatt, J.; Maus, M.V.; Turka, A.; et al. Anti-BCMA CAR T-Cell Therapy bb2121 in Relapsed or Refractory Multiple Myeloma. N. Engl. J. Med. 2019, 380, 1726–1737. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p2",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 2 of 12\n\naccording to age and treatment showed signiﬁcant variability, suggesting that hemodilution should be preferably evaluated with references obtained from patients treated with identical regimens. Leveraging the MRD results from 118 patients, we showed that a comparison with HA of similar age could also inform on potential hemodilution. Conclusions: Our study supports the routine assessment of BM cellularity to evaluate hemodilution, since reduced BM-speciﬁc cell types as compared to reference values (either treatment-speciﬁc or from HA if the former are unavailable) could indicate hemodilution and a false-negative MRD result.\n\nKeywords: multiple myeloma; minimal residual disease; hemodilution\n\n1. Introduction\n\nMeasurable residual disease (MRD) is routinely evaluated in multiple myeloma (MM) clinical trials [1–6]. The importance of undetectable MRD to achieve long-term survival was recently conﬁrmed in a large meta-analysis [7], and MRD response rates have been the endpoint in numerous clinical trials [1–3,8–10]. However, the role of MRD to reﬁne patients’ management in routine practice remains controversial. The uncertainty about the meaning of undetectable MRD at the individual patient level holds back the use of MRD to guide treatment decisions in MM; whereas, in most cases, it predicts a favorable outcome, some patients continue to relapse after achieving MRD negativity in “real-world” studies, as well as in clinical trials [11,12]. Such a discordance between laboratory and clinical ﬁndings could possibly be attributed to the disease biology (e.g., a high proliferation of residual cells), as well as to low-sensitive assays, extramedullary disease and to nonrepresentative bone marrow (BM) aspirates either due to patchy tumor inﬁltration or hemodilution [2]. The advent of next-generation sequencing (NGS) and ﬂow (NGF) cytometry enabled sensitivity levels of 10−5 and beyond in clinical trials [13,14] and routine practice [11,12,15]. Positron emission tomography-computed tomography has a complementary role in BM MRD assessments in patients with MM and may identify false-negative results due to intra-and extramedullary diseases not depicted by NGS or NGF [16,17]. However, until now, there has been no guidance on how to evaluate the extent of hemodilution in BM aspirates used for MRD assessment in MM. Thus, we aimed to resolve this limitation by providing reference values of key BM cell types for ready applications in numerous disease settings.\n\n2. Materials and Methods 2.1. Patients and Treatment\n\nThis study included 666 patients diagnosed with MM and 85 healthy adults (HA) (median age 45; range, 19–96 years). Patients were enrolled in the PETHEMA/GEM2012MENOS65 (n = 408), Ref. [18] PETHEMA/GEMCLARIDEX (n = 63) [19] and PETHEMA/GEM2017FIT (n = 22) clinical trials for the initial treatment of transplant-eligible and ineligible MM, as well as in the PETHEMA/GEM2014MAIN (n = 153) maintenance study. An additional cohort of 20 Spanish MM patients treated with anti-BCMA CAR T cells was also included. Each clinical trial was approved by the Spanish Agency of Drugs and Sanitary Products. These were registered at www.clinicaltrials.gov (accessed on 11 August 2021) (NCT01916252, NCT02575144, NCT03742297 and NCT02406144; accessed on 1 August 2021) and were conducted as per the ethical principles of the Declaration of Helsinki. Signed informed consent forms were required prior to patient enrollment in the clinical trials. This study was approved by the Ethics Committee of the Clinica Universidad de Navarra (164/2015). The PETHEMA/GEM2012MENOS65 was an open-label phase 3 study that included 458 transplant-eligible patients receiving six induction cycles of bortezomib, lenalidomide and dexamethasone (VRD) autologous stem cell transplant (ASCT) after high-dose therapy (HDT) with either Bu-Mel or with Mel-200 and two consolidation cycles of VRD [18].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p3",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 3 of 12\n\nAfterwards, the patients were offered to be enrolled in the PETHEMA/GEM2014MAIN clinical trial that randomized their maintenance with RD or RD plus ixazomib for two years [14]. The PETHEMA/GEMCLARIDEX clinical trial was an open-label phase 3 study that included 286 transplant-ineligible patients randomly assigned in a 1:1 ratio to receive Rd or Rd plus clarithromycin [19]. All patients were treated until disease progression or unacceptable toxicity. The PETHEMA/GEM2017FIT clinical trial is a phase 3 study in which patients are randomly assigned in a 1:1:1 ratio to receive 18 induction cycles with bortezomib, melphalan and prednisone (VMP), followed by Rd vs. carﬁlzomib, lenalidomide and dexamethasone (KRd) with/without daratumumab (Dara-KRd), followed by consolidation and maintenance with lenalidomide and daratumumab. Twenty relapsed/refractory patients with MM treated at the Clínica Universidad de Navarra and the Hospital Universitario de Salamanca with anti-BCMA CAR T-cell therapy were also included in the study.\n\n2.2. Sample Collection\n\nA total of 1404 BM aspirates were analyzed: 85 from HA; 63 after induction with lenalidomide and dexamethasone (Rd) plus/minus clarithromycin (PETHEMA/ GEMCLARIDEX); 300 after induction with VRD; 364 at day 100 after autologous transplant; 350 after two VRD consolidation courses (PETHEMA/GEM2012MENOS65); 34 after induction with carﬁlzomib, lenalidomide, dexamethasone and daratumumab (Dara-KRd) (PETHEMA/GEM2017FIT); 232 yearly during maintenance with Rd plus/minus ixazomib (PETHEMA/GEM2014MAIN) and 61 after CAR-T-cell infusion. All samples were analyzed using NGF cytometry following the EuroFlow standard operation procedures [20]. The impact of potential hemodilution of the BM aspirates was further evaluated in 118 transplant-ineligible MM patients enrolled in the PETHEMA/GEM2010MAS65 clinical trial (NCT01237249) with available MRD results and data on BM cellular composition at the end of treatment [21,22].\n\n2.3. Assessment of MRD and Other BM Cell Types\n\nMRD was predeﬁned to be assessed using the EuroFlow NGF method [20,23] after induction, at day 100 after HDT/ASCT, after consolidation and annually during maintenance in transplant-eligible patients (PETHEMA/GEM2012MENOS65 and PETHEMA/ GEM2014MAIN). In transplant-ineligible patients, MRD was analyzed after 18 induction cycles (PETHEMA/GEMCLARIDEX, PETHEMA/GEM2017FIT and PETHEMA/ GEM2010MAS65 clinical trials). In patients treated with CAR T cells, MRD was predeﬁned to be assessed at months 1, 3, 6 and 12 after infusion. The ﬁrst 8-color antibody combination (CD138-BV421, CD27-BV510, CD38-FITC, CD56-PE, CD45-PerCPCy5.5, CD19-PECy7, CD117-APC and CD81-APCH7) was used for the enumeration of mast cells (CD117bright and CD45dim); nucleated red blood cells (CD45–, CD38–, CD117–/+ and SSClo) and B-cell precursors (CD19+, CD45dim, CD38bright, CD81bright and CD27–) [20,24]. Data acquisition was performed in a FAC-SCanto II ﬂow cytometer (BD, San Jose, CA, USA) using FACSDiva 6.1 software (BD). Data analysis was performed by experienced operators using Inﬁnicyt software (Cytognos SL, Salamanca, Spain).\n\n2.4. Statistical Analyses\n\nThe Mann–Whitney U and X2 tests were used to estimate the statistical signiﬁcance of the differences observed between groups, and correlation studies were performed using the Pearson’s test. Survival curves were plotted by the Kaplan–Meier method and compared by the two-sided log-rank test. Progression-free survival was deﬁned as the time from MRD assessment to disease progression or death from any cause and overall survival as the time from MRD assessment to death from any cause. Statistical analyses were conducted using Stata (version 15.0; StataCorp LP, TX, USA) and SPSS (version 20.0; IBM, Chicago, IL, USA).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p4",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 4 of 12\n\n3. Results and Discussion\n\nThe analysis of BM aspirates using EuroFlow NGF cytometry for MRD assessment in MM enables the systematic identiﬁcation of ≥16 cell types [25]. We deliberately focused on B-cell precursors, mast cells and nucleated red blood cells (NRBC), since these are normally absent in peripheral blood and could therefore be useful in evaluating hemodilution (Supplemental Figure S1). We ﬁrst investigated a possible correlation between the ages and the percentages of these cell types in HA and only found a modest increment of mast cells with aging (Figure 1). Accordingly, there were no differences in the median percentages of the B-cell precursors and NRBC when comparing HA younger and older than 65 years, while the frequency of mast cells signiﬁcantly increased in the latter (Table 1 and Figure 2). These ﬁndings further supported the evaluation of these cell types to assess hemodilution due to nonreduced numbers with aging and systematic detection in BM aspirates from HA. Numerous drugs used in MM have immunomodulatory effects [26–29]. Thus, it could be hypothesized that reference values of B-cell precursors, mast cells and NRBC in HA may not represent those found in patients’ BM, particularly during treatment. However, the impact of therapy in the frequency of these cell types has never been investigated. Pairwise comparisons between HA and MM patients respectively grouped according to age and treatment uncovered that, among 36 possible comparisons per cell type, B-cell precursors displayed the highest variability during treatment (signiﬁcant differences being found in 29 out of 36 comparisons, 80.5%), followed by NRBC (20/36, 55%) and mast cells (19/36, 53%) (Figure 2). B-cell precursors were notoriously decreased in BM aspirates from elderly MM patients receiving induction with Rd and Dara-KRd but not in transplant-eligible cases treated with VRD (Table 1). As expected, hematopoietic regeneration after autologous transplant resulted in a signiﬁcant expansion of B-cell precursors that persisted after the consolidation, though not during maintenance therapy (Table 1). Mast cells were signiﬁcantly increased during maintenance, whereas the NRBC were generally increased in BM aspirates of MM patients when compared to HA, except in those treated with anti-BCMA CAR T cells (Table 1 and Figure 2). These results suggested that, whenever possible, hemodilution should be evaluated considering reference values obtained from MM patients treated with a similar regimen. We also investigated the potential utility of reference values from HA in cases where treatment-speciﬁc data are unavailable. To this end, we leveraged the MRD results and data on BM cellular composition 18 from 118 transplant-ineligible MM patients enrolled in the PETHEMA/GEM2010MAS65 clinical trial (Table 2) [22]. Namely, we stratiﬁed MRD-negative patients at the end of treatment according to the presence of each of the three BM cell types below or above the respective median value in HA older than 65 (Table 1). Only one MRD-negative patient displayed <2.5% NRBC, and further analyses based on this cell type were therefore unfeasible. Patients with undetectable MRD and <0.005% vs. ≥0.005% mast cells had a median progression-free survival (PFS) of 35 vs. 52 months, though the differences were not statistically signiﬁcant (data not shown). Patients with undetectable MRD and <0.31% B-cell precursors displayed signiﬁcantly inferior PFS vs. MRD-negative cases with ≥0.31% B-cell precursors (median of 28 vs. 55 months vs. not reached, p = 0.033; Figure 3A), as well as a trend towards a reduced overall survival (Figure 3B). Thus, while this study should foster the community to build upon the current 1404-sample large dataset by adding reference values found in other treatment scenarios, an immediate comparison with HA of similar ages could inform us of the potential BM hemodilution. That notwithstanding, there were no signiﬁcant differences in the survival outcomes between MRD-negative patients after consolidation in the PETHEMA/GEM2012MENOS65 clinical trial, stratiﬁed based on percentages below or above the respective median value of B-cell precursors, mast cells and NRBC found in the same population (data not shown). Therefore, the utility of the reference values speciﬁc to certain regimens provided here should be conﬁrmed by other groups.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p5",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 5 of 12\n\nNucleated red blood cells (%) Mast cells (%) B-cell precursors (%)\n\nr = -0.002 p = 0.989\n\nr = 0.153 p = 0.163\n\nr = 0.360 p = 0.001\n\nAge (years)\n\nFigure 1. Correlation between age and the percentage of B-cell precursors, mast cells and nucleated red blood cells in bone marrow aspirates from healthy adults (n = 85).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p6",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 6 of 12\n\nFigure 2. Graphical representation of signiﬁcant differences in the frequency of B-cell precursors, mast cells and nucleated red blood cells (NRBC) in bone marrow aspirates from healthy adults (HA)",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p7",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 7 of 12\n\nyounger and older than 65 years, as well as of patients with multiple myeloma. The latter were grouped according to treatment: induction with lenalidomide and low-dose dexamethasone (Rd) with or without clarithromycin, bortezomib, lenalidomide and dexamethasone (VRD), daratumumab, carfilzomib, lenalidomide and dexamethasone (Dara-KRd); intensification with high-dose chemotherapy followed by autologous stem cell transplantation (HDT/ASCT) and consolidation with VRD; maintenance therapy with Rd plus/minus ixazomib and salvage therapy with anti-BCMA CAR T cells. White, yellow, orange and red squares indicate p-values > 0.05, < 0.05, < 0.01 and < 0.001, respectively.\n\nTable 1. Median (range) and quartile percentages of B-cell precursors, mast cells and nucleated red blood cells in bone marrow aspirates of healthy adults grouped according to age (below or above 65 years) and patients with multiple myeloma. The latter are grouped according to treatment: induction with lenalidomide and low-dose dexamethasone (Rd) with or without clarithromycin, bortezomib, lenalidomide and dexamethasone (VRD) and daratumumab, carﬁlzomib, lenalidomide and dexamethasone (Dara-KRd); intensiﬁcation with high-dose chemotherapy followed by autologous stem cell transplantation (HDT/ASCT) or consolidation with VRD; maintenance therapy with Rd plus/minus ixazomib and salvage therapy with anti-BCMA CAR T cells.\n\nB-cell precursors\n\nMast cells\n\nNucleated red blood cells\n\nHealthy Adults Multiple Myeloma\n\nInduction Intensiﬁcation MaintenanceSalvage\n\n<65 (N = 65) ≥65 (N = 20) Rd (N = 63) VRD (N = 300) Dara-KRd (N = 34) HDT/ASCT (N = 364) VRD (N = 350) Rd (N = 232) CAR T (N = 61)\n\nQ25 0.14 0.08 0 0.03 0 0.92 0.63 0.02 0.02\n\nMedian (range) 0.35 (0.01–3.64) 0.31 (0.02–0.66) 0.01 (0–0.90) 0.31 (0–10.0) 0.05 (0–3.1) 2.0 (0–14.5) 1.8 (0–19.6) 0.13 (0–10.7) 0.12 (0–5.75)\n\nQ75 0.73 0.66 0.04 1.0 0.2 3.8 4.0 0.74 0.33\n\nQ25 0.001 0.003 0 0.001 0.004 0.002 0.003 0.007 0.002\n\nMedian (range) 0.002 (0.0002–0.05) 0.005 (0.001–0.11) 0.0095 (0–0.14) 0.004 (0–0.93) 0.01 (0–0.4) 0.006 (0–0.11) 0.01 (0–0.26) 0.01 (0–0.76) 0.007 (0–0.17)\n\nQ75 0.007 0.01 0.03 0.01 0.04 0.01 0.02 0.06 0.01\n\nQ25 2.7 1.7 4.0 4.4 6.0 4.5 5.0 3.5 1.8\n\nMedian (range) 4.6 (0.1–15.2) 2.50 (0.4–20.1) 11.0 (0–39.0) 7.3 (0–43.0) 7.3 (1.8–26.4) 8.2 (0–53.9) 8.2 (0–53.9) 7.5 (0–52) 2.5 (0–28.4)\n\nQ75 6.8 7.9 19.3 12.6 10.8 13.0 13.8 12.6 4.5\n\nTable 2. Median (range) and quartile percentages of B-cell precursors, mast cells and nucleated red blood cells in bone marrow aspirates of patients with multiple myeloma enrolled in PETHEMA/GEM2010MENOS65. Patients were grouped according to their MRD status at the end of the treatment.\n\nB-cell precursors\n\nMast cells\n\nNucleated red blood cells\n\nN = 118 MRD Status\n\nPositive (N = 72) Negative (N = 46)\n\nQ25 0.13 0.18 0.09\n\nMedian (range) 0.42 (0–7.7) 0.48 (0–7.7) 0.33 (0–4.6)\n\nQ75 1.46 1.36 1.51\n\nQ25 0.01 0.01 0.005\n\nMedian (range) 0.02 (0–0.55) 0.02 (0–5.5) 0.015 (0–0.33)\n\nQ75 0.07 0.07 0.07\n\nQ25 9.56 10.7 8.74\n\nMedian (range) 17.4 (0–50.9) 16.0 (1.4–50.9) 17.6 (0–45)\n\nQ75 26.7 25.2 28.1",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p8",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 8 of 12\n\nFigure 3. Simultaneous assessment of measurable residual disease (MRD) and hemodilution in bone marrow (BM) aspirates. (A,B) Progression-free (PFS) and overall survival (OS) of transplant-ineligible multiple myeloma patients (n = 118) enrolled in the PETHEMA/GEM2010MAS65 clinical trial, stratiﬁed according to detectable vs. undetectable MRD at the end of treatment and, within the latter, according to the percentage of BM B-cell precursors (BCP) below or above the median value observed in healthy adults older than 65 (0.31%, Table 1).\n\nIn contrast to that found in HA where B-cell precursors, mast cells and NRBC were systematically detected in BM aspirates, these cell types were absent in signiﬁcantly variable frequencies of MM patients (Table 3). B-cell precursors and mast cells were more commonly absent than NRBC. Of note, the simultaneous absence of all three cell types was signiﬁcantly more frequent in MM patients treated with CAR T cells, which could be related to the hematological toxic effects of lymphodepleting chemotherapy. In such cases, severely hemodiluted samples would potentially explain the relatively high rate of patients with undetectable MRD by NGS, despite persistent M components after infusion with bb2121 CAR T cells (n = 7/17, 41%) [30]. Indeed, we observed patients in whom positive MRD testing was preceded by nonrepresentative BM aspirates that could lead to equivocal results unless B-cell precursors, mast cells and NRBC are also analyzed (Figure 4).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers13194924",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_sha256": "00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+          "source_url": "https://doi.org/10.3390/cancers13194924"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3:p9",
+        "source_issue_ids": [],
+        "text": "Cancers 2021, 13, 4924 9 of 12\n\nTable 3. Frequency of bone marrow aspirates with undetectable B-cell precursors, mast cells and nucleated red blood cells (NRBC). Data is shown per cell type, as well as the absence of any of the three, two or all three cell types. Healthy adults (HA) were grouped according to age (younger and older than 65), whereas patients with multiple myeloma were grouped according to treatment: induction with lenalidomide and low-dose dexamethasone (Rd) with or without clarithromycin, bortezomib, lenalidomide and dexamethasone (VRD), daratumumab, carﬁlzomib, lenalidomide and dexamethasone (Dara-KRd); intensiﬁcation with high-dose chemotherapy followed by autologous stem cell transplantation (HDT/ASCT) and consolidation with VRD; maintenance therapy with Rd plus/minus ixazomib and salvage therapy with anti-BCMA CAR T cells.\n\nHealthy Adults Multiple Myeloma\n\np-Value Induction Intensiﬁcation Maintenance Salvage\n\n<65 (N = 65) ≥65 (N = 20) Rd (N = 63) VRD (N = 300) Dara-KRd (N = 34) HDT/ASCT (N = 364) VRD (N = 350) Rd (N = 232) CAR T (N = 61)\n\nBCP 0 (0%) 0 (0%) 27 (45%) 32 (11%) 9 (26.5%) 11 (3%) 10 (3%) 31 (14%) 10 (17%) <0.001 MC 0 (0%) 0 (0%) 16 (27%) 48 (16%) 1 (3%) 32 (9%) 27 (8%) 28 (12%) 9 (15.5%) <0.001 NRBC 0 (0%) 0 (0%) 3 (5%) 2 (0.7%) 0 (0%) 8 (2%) 6 (2%) 5 (2%) 7 (12%) <0.001 One of three 0 (0%) 0 (0%) 24 (12%) 59 (20%) 8 (23.5%) 31 (8.5%) 24 (7%) 42 (19%) 8 (14%) <0.001 Two of three 0 (0%) 0 (0%) 11 (18%) 10 (3%) 1 (3%) 1 (0.3%) 2 (0.6%) 8 (4%) 3 (5%)\n\nAll three 0 (0%) 0 (0%) 0 (0%) 1 (0.3%) 0 (0%) 6 (2%) 5 (1.4%) 2 (1%) 4 (7%)\n\nFigure 4. Patient case treated with anti-BCMA CAR T cells. BM aspirates were collected at months 1, 3, 6 and 9 after infusion, and the MRD assessment was performed using next-generation ﬂow (NGF) cytometry following the EuroFlow guidelines. The ﬁrst two BM aspirates were characterized by low cellularity; undetectable MRD and the absence of BCP, mast cells (MC) and nucleated red blood cells (NRNC). BM aspirates collected at months 6 and 9 overlapped with the recovery of PB cell counts and displayed increased cellularity and the presence of BCP, MC and NRBC, as well as detectable MRD. The patient progressed two months later. The limit of detection of the consecutive NGF assays is indicated in each time point.\n\n4. Conclusions\n\nOur study supports the routine assessment of BM cellularity to assess hemodilution while evaluating MRD and provides reference values of B-cell precursors, nucleated red blood cells and mast cells in numerous treatment settings. These can be assessed in a reproducible manner with a reduced set of markers (i.e., CD19, CD27, CD38, CD45, CD81 and CD117). In patients with undetectable MRD, special attention should be paid to the percentage of BM-speciﬁc cell types, and in cases in whom these are reduced when compared to reference values (either treatment-speciﬁc or from HA if the former are unavailable), the report should indicate a possible risk of hemodilution and of a false-negative MRD result. However, a reduced percentage of an individual cell type may also reﬂect impaired hematopoiesis due to other factors (e.g., treatment or an altered tumor microenvironment). Therefore, a greater speciﬁcity in deﬁning hemodiluted samples is warranted and could be potentially achieved by considering those where the complete or near-absence of all cell types is simultaneously observed. It should also be noted that, in patients with suspected hemodilution, an MRD-negative test could be either real or false. Thus, the possibility of performing mass spectrometry before repeating a BM aspirate should be considered, and the need of a new sample would be warranted only in cases",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3"
+}

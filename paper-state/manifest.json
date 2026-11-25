@@ -1,0 +1,592 @@
+{
+  "created_at": "2026-11-25",
+  "headers": {
+    "editorial": {
+      "caveats": [
+        "Only explicitly published clear text is available for retrieval."
+      ],
+      "schema_version": 1
+    },
+    "published": {
+      "caveats": [
+        "Only explicitly published clear text is available for retrieval."
+      ],
+      "schema_version": 1
+    }
+  },
+  "papers": [
+    "literature:002e71d3e01ae6b31fcbd1c973e72e08de88aa2301ec363be7193e35c4c42521",
+    "literature:00464e17e6a1a2bdb00aff9ed318cb4f6f8ca288ae005e978fc4eb89ad7128d3",
+    "literature:00a23baf42a576d8ae0eedb377a9e422b0dde42060710a7a3c6031bdbc8abb52",
+    "literature:020bfba5c8e5fca8e20e2f2f0fd4d90d6634cb005780f4ce602bf8be9f97fd6f",
+    "literature:0332513890c80b3e166c65d195c68c41b991d192e24dbb2ce313f789bdc4b659",
+    "literature:03a88e9bbbc9685621cedee9baa669a5f5e51cd276743f1664381e3e0f83c42f",
+    "literature:03b8642b92e99c1d99f454872080aeaa9a5176b056639e2a49cc2bd726727d26",
+    "literature:040c24b0c7a98f779706fd2ce29eb7395b92d4ea96985b64cd27e640ce292451",
+    "literature:045b6d3e68c9052d431c0a407dccde15a3454737118e2ceaf7a692a815ee1a0e",
+    "literature:046aa5201306729d7399c009a41db7bd929e8c638de5d15a6938383c4583d74b",
+    "literature:04b2a200b318bfa09052a56183ea8d27eb9cfcac0894a0f93b86f86c6e08ff65",
+    "literature:053dd76867c47a18076737de76dbaba959a37235617798f543115c318095c308",
+    "literature:06d2d837172028667785224ed73b800400c53a95dc54bc4a5d1e8e46fadd0fe6",
+    "literature:077378b9efab0cc64f23a4e3cbcc04a3b56204128dd492710d37c816b84b553c",
+    "literature:07efd78f029a0a65c2cd5afbb9ca9dbb1b376a065b35a2b5e65a1013dc33c8ba",
+    "literature:090fa9c4e50d73345507daed4f2cecd07214e6ce9b5105cfed83882ffb3bdd2d",
+    "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+    "literature:094ebfffd910f5cc0297c6657b94b0856754e23898f3bd20b6e86e2ad57784e1",
+    "literature:0b65032e4b3c998856331dbe270b85d1e9bff8cac79824806bc112bfc7b3649e",
+    "literature:0b96b7913421b62af99d0550fbb5ef1c2bc5b14eface3e1df21da07d27f7d287",
+    "literature:0bc09a5abbc4c134924d35fff3a0935ee1b6a606f4262467b3d40109a7b909b6",
+    "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+    "literature:0c0c03c9cea15e5612414637526f80166fef42566be5ecbb7a15102f1a86d4ee",
+    "literature:0cf4005799210d1598c32c944f9a1fc3eab9e3901c94fd2df76c9dc9301cf9cf",
+    "literature:0d3bd6b306aa64751628d914aad62d02a358c96b5eab47be4dbb6993ccece907",
+    "literature:0e164713da984e54a2571adfec716182d02a7c746d8b3943ead52f0ef4009697",
+    "literature:101813dcc935d901705e374d74bedfd628ac4f26b3424a7bf93c85c9650e5757",
+    "literature:10967f1ea0273177f770b491c24e10c18f3852b803efbd52d23a67d6af8c6a1b",
+    "literature:110bf36d073cf7f8a9a13b332c3817a4ee644a611e962cc48791b2a50539c4e6",
+    "literature:129ce16733f1e7f6dd8d6e5cbdf3c98897fe85316e0a403bff6ec602414694ca",
+    "literature:12c62d74a9227b5031ae5449a1fe5eb72c3e36f59e1915814c5df11729bb0114",
+    "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+    "literature:13ccfe1c408a62327feddd99830fa6263fe69d077be22e22761032199d50d4b4",
+    "literature:1425c974f9cd3794585d7e95ae62d26beaae354b7416f0c583227def79ea7892",
+    "literature:142e1614d446d8b84f8bad3f28df74836061ca54a96072bcd76ba1ba93d2ad22",
+    "literature:147c57bcc16e89a313ae83cfacae26925795f73cc10fd87622ff8ca32f3897e4",
+    "literature:1722962c2847aad549ef24edcda6a5474ce95b4c17f4c543914bdbaf0acddec7",
+    "literature:1808f811d4ad6193ff7fb4a09c6824fe04f39b29009f44b68b418eed28447b80",
+    "literature:1820ec1008d6ae6bec27779c3b34155fbeeb6a2440b4a16d21f496008b496f7f",
+    "literature:1a1b9a2878dff9b33316e0a679321c506f9607e1516391493c546c42897a3798",
+    "literature:1a7c9b04fcf4ba1ef8fee998d6d1a6d6995045714be90517af9e3e9c33a3c4ac",
+    "literature:1aaff4093f0d06e1579a03afafc57ad3821ba896fe13b797a49bc806845372c1",
+    "literature:1b69548df2a7bc969f22f92df2b075b6e0066dc13094384ac847aa4055573e62",
+    "literature:1b949dfda1fb4266f6f95f742992bc69eeb44b758fff9d6cfda6d2d502143351",
+    "literature:1bfacc39f27bf10b7ed572c72c060a93e683bcaba388166aa2b743b4a14c5d54",
+    "literature:1d066887bfe7a84c2e86a7e51df5d5db3111aea4a89673152d6090b0e421bdec",
+    "literature:1ee080ece9e7fa50b5c4e8a83a636087cfbeb7ee06c5ed5ebf86422f4e112e75",
+    "literature:1f1ee71f37e38e97f048726b081dac810f5a68abf8cc25edadc46a4962b15fab",
+    "literature:1f833ae8c6166cd00a7784dab92e649a8e8ca92b9023fe554189438e52be453d",
+    "literature:2073d14c2f76a4c19249e4d6fc9acc646f00aeee50f9de8fb1f206bb30a48925",
+    "literature:20e13b844235499ea54af70aefbcdcda85a19638e4fee727facac2c1b7a70ff2",
+    "literature:21273aa463d800842ef593f86d53a1d2d5c4897969692885aeb5003f9eddef74",
+    "literature:21c6b6278bc3cd79b18f7ee0f08c35ad64ec13003f9fb06d8d0bc21e6df2194a",
+    "literature:2225e7bafe33de838e1bf66e1205296602118c60e1ade0f9d9faf73031320c69",
+    "literature:245d9467e706c3fb240723a8ba5162b5d07efa7141e67512215be50fffc7d377",
+    "literature:270bf0398347674bd1cd5295061a048b22c32f75c737450645620f0af70d2c72",
+    "literature:275b89b045510e157f0fa5ba5d533c3dc0a36cae2b4edc1e3fe3b179b6572b6b",
+    "literature:27c31e0e07f4b268d666a75f7d6a143b35f966a877b0bed7d6799a9372f41140",
+    "literature:27ce6c1afd1350f87a5503018dd221db843a78b66f21505b17e7c7f81ae1d99d",
+    "literature:2885e6a011a2ebdca23a2c72712f4484e86666108b2a95abbc2664bc346232e3",
+    "literature:28bc669f344eba202fcd1eb431761d72cee52e6dae5e6e246c44215466ae44ee",
+    "literature:29f022b9de8743a968967a197de05fdd8817d5780c897dcfcea581a0957d4373",
+    "literature:2ab51b02ba2ab412c59bb9fb313eb3e35a6136d840f08cdc5a986a1ec13c5e46",
+    "literature:2e339e9e5871365ea9cdef5d32faa94d10d722710e7e8481d934a6dba83798a9",
+    "literature:2e5b27fdccf274fd0732c22b716202c04c94c08a901ae8f895364ca34480fd67",
+    "literature:2eef6c418e38c71e88f9fa366bcc0b3618f2569187f86ca2152388de401c522f",
+    "literature:30ca02d65742803edee5da8736636974e678cd688e6a4c0c5422dabd12cdc5a8",
+    "literature:32e68083116f3817304661fd0ba423cdfb752bf98496248020d4ce0085833a34",
+    "literature:335810faa4da2fd4597a42cc251577e0cbb4bf83267309e93141833dc4e5ac98",
+    "literature:346bc49c42a02df3b75a8ba6c551d4a608b33959a20575d1cef039f7379f5adb",
+    "literature:34e5c3f44234181101b0ad27b1da6d59be25b648c92e72b3b82dcba05b582230",
+    "literature:3642d234224df6f4b39261835a25224ebb33366f1871a607cfba46a94976552a",
+    "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+    "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+    "literature:36b9cd62dfa52507de183027a18e3ce4bedca45a2e2c7e8e08cf8100edfc8564",
+    "literature:36d1c9413cb52536c0e72c84e65fefaea94b2fe8c7c59af89774046fb86ee427",
+    "literature:385835733aa4327013734bd8ba557eb2a221bb514aaffcca7ddf2c12893f6694",
+    "literature:38b1f244a51b4e51a6d4e279fc01d918d1a5a7c4a41231fdbbacd63ed1cdb07a",
+    "literature:3976ff0cbcc88ef61ad03de37461a11a2bb37bfdb3fb35c27d5190a0acf6fa9a",
+    "literature:39cf8cdf295571578039a61ed998933ef4f8839ef874deb59d7ff3664969ecfc",
+    "literature:39fbb9b8a292fce5509d3287d7972a3ce82947fc7336e64987e391fd24ad83f1",
+    "literature:3bfb55cd25da780c580d766761a9e48eb8b7121b626d9dfe370cce622ebd1c74",
+    "literature:3c672c97144bef118f642ccd1c03df9b372e6e0a88164184cd6327f7b3947aa4",
+    "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+    "literature:3d210d865df526af2273396a27007c224a9bc39dc27a016e6b094b27f213bb53",
+    "literature:3d806cf3ff00bd278865ceda13fe51489aba54cc47b4f330ffe791f31720c472",
+    "literature:3e521ec458b4f091359c7f61a0716a488620c6465912622e3cc16a67a6c53fda",
+    "literature:3ffd87ac94c79dd5d3cab39ea67e7d10db66b51b4e9396805fa12e4c51050047",
+    "literature:404b1609718196ce449ee410ae750f0528e4abde3071e90979cef584105318a8",
+    "literature:416e569a3c1d7de86801bd28ef5d015274e179a675b8089501f59127c4fd7787",
+    "literature:41863619e58e90a99ffdfa08d39f2987b48afebe007ca72e9203ac9610f0c290",
+    "literature:424dd233bbab666e9faa31f6d97214d09550dd50d7e14132b721ce65ed9ceb2b",
+    "literature:437d86519c2e18682538fe1732308a4ab0651997eec19594a6467340bddbea11",
+    "literature:43b99dfcbdb7d5f406260cd8fe228c9cd5d76b4fa46e07dd5c69aa495850b18e",
+    "literature:446c98edbba06458f87f1c7606c698313e1c4b37d9fcc5b015abcd83be72fca9",
+    "literature:44f0b85c017ad59e84a204e9eebcba4d55693519db7853a849380895d7e54273",
+    "literature:45ace6b3234829609c14bdbf63b29f878b2fad736928cad9440aa0bfb6485eeb",
+    "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+    "literature:47e3775c899b31cbebc20e0232b1d9c5604c88b4820789dd70f628e223d81c0e",
+    "literature:4887f74c9b4ba094cc566ebd8bf4607a4df724be9e0e9b631eeaf1159400f437",
+    "literature:498c3ba3f680611cb8fc94f314335182303882acf57a6b1cf077888af490fde7",
+    "literature:49c6eff5e46d0cc78dff1580776957e72142215cc33a410530da226a120a83e1",
+    "literature:4a33542a204115630053620d492948fc1cb534fbfb7f4d7d52cd7732de5b7574",
+    "literature:4acf2e298a6f08577b942b1b436f117996fb4d6be99016dc6e6fcc64da23cd5d",
+    "literature:4b65d39bba7b8b3b1e6420befa6828a95e8d7f0cd3e1ead98cb06f23a31791a6",
+    "literature:4ba8bd1003b8c0dec32327505a89e3c3dba90e12eaa5360572a309359bcdb1cc",
+    "literature:4c7d0897b1b48a15024ec9d84b422abac8fbd62eb98f3c28aeb28a465984edd3",
+    "literature:4cd44c66f8fcc3e6d2766e78df631d8d81e9c56cec510ba9f819b0ed5c68a400",
+    "literature:4cd8a9a6b792827f8706b439d279eb9778f448fdc569fd9c63bc05ccb074dbd0",
+    "literature:4d3f2a8d1a61091d59ec7c973b50c51ada45066a36892741e9c934b57de0e4b6",
+    "literature:4d7e14d1f4dc965cd9655c826ef0225c2a60b5731925776df922d672c0f118f7",
+    "literature:4da3b9090ab423f681418b13e91b96cebe53c9a6defe4baa7658421eb821c947",
+    "literature:4dec4068684bc3b7173ae6aef6befcf7bbf7713f179627a341c876ccce1cae35",
+    "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+    "literature:4fb840d80c2749d375c12ebc9a57392e56e43319c4d18b7c2aeed31efc92319b",
+    "literature:5060bf54991ad5ed4eaf70bb204116c571544014f89b6219c47090df91a88573",
+    "literature:5075d26cec1ecb75d9b1edc870d4f1e0647f77c79979a78763b68ce2805ba493",
+    "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+    "literature:51f33fb01adc3cff03a79a19538f537e3dbe45d48fa85120b90d82a2404ee386",
+    "literature:52445bd115e87d08de3c8e37abbada5ce80d9a87fd1e63cae10c4b009f96ad97",
+    "literature:53232ffcab2b47aa98caf8781604e084c0400e27bdb7c35095293fccfcce0081",
+    "literature:53ba02f8be841bc0c05106e70ec6afa9fc96cae7b9ef078100e0543f9edccc6e",
+    "literature:53e34269a0e4ebe604681036cda327d8415641f1eed177fd4fd6bba07e6be002",
+    "literature:5542d2c4c5540521f4dd4a9e88f7b3495e198c4eea6f3d76fcbe80c947b649df",
+    "literature:55a5681ce6ae69705179e826655b990c543a8e2916f9538e88ef2a573fdda2c7",
+    "literature:566843b0926b45aefb6bcb8648857cb0b2d273412bf647bba9ca92f196578bdc",
+    "literature:5716a4d1c47a0277319ea5ce9774cf7eb66f99529f2feb85eb374675dd0150ee",
+    "literature:57223644ff0456a53d7b13f0e3e8c4483ba77980a0d2a3636c46da41775c753b",
+    "literature:575ff099e545bb327c1e187ceca110d4735f6b3b0df2434f7476001519803ca3",
+    "literature:5761911acb21ea39309b3f6c58ade33d870b474c866b5eb263f0f2251d2baf5e",
+    "literature:57d46a5854a84fa34b502ada01e944b23f40f3c55043edd39d504bdeede84b30",
+    "literature:593f477ee3387740e2c95352c506ce2a16c4f764806d0b14e13f8728404b04c9",
+    "literature:5946838ed78078bb329c5ac158b3758094932b692c8b509c816e26f7a5c082be",
+    "literature:5a6d9913f2c9c11de89d09f6820e06f8f2d9e4636dfa3a4a6f316ede62bee1de",
+    "literature:5b0338540f46a0e0f2864687ebc28ecf7336fa5183b11df13a5a82b383efba6e",
+    "literature:5b47cfac67257c27beeb485e8a50a51037f59a277d20770c46b1d2fdeeddf082",
+    "literature:5b985bbe7a68126285bf0a98272219475087d31db7572296b11268b6b6a28800",
+    "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+    "literature:5da37c3f0a9854ed5804248d5063ecde264db6c2475bff74dffa3d7e750a0124",
+    "literature:5dcb4670ff8a471c8b1f1f6cb0839523f05317d8303ac39f56ef418f25fe13f0",
+    "literature:5e80ac3799c17fc4999686293218ea1815f5e2afd8e86ea8683f0b039f749630",
+    "literature:5fa96c8d0902a9bb9cc6c2106918b9db52864015114b6aa385da17476e1f3364",
+    "literature:5feaadc1b81cac50032a423dfeafe3a4d3a440511e93da3d23e509be448d3158",
+    "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+    "literature:608dae65c52a73d1f2f68205569bc44f22a2969748b8276876bfa74907e907b9",
+    "literature:60ac52ee38b24034e5ecc03c96f94b099cbca1461a9a8b9bb86772c0ffc61bb4",
+    "literature:60d9375ad6a0a4c8a2efa1100af3c475ed524a06eaafc5634315e3204a2ed742",
+    "literature:619d528f451dacd9482f2de5d9dda01bd56c86bcc38e52faf0f59cc1141c8d89",
+    "literature:61b92055bd310ba53831751719193c962c66d75c1b01ee6770a6ad4273347ada",
+    "literature:61c1c61d313e581fe10f65e7f2711287992cfb59fdd75ec58cc273534885769f",
+    "literature:6273c44413b553bf2d685b2e877b91919c6957dc70d9c622185798c7b47bec2f",
+    "literature:62c3de4ca554e55e365965daf8049efe3e84d4b090e43070789e200a9cf05f16",
+    "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+    "literature:643fc6265a89d350f84b6e9956aa0f868e88ea7511071770c3a7c53aa3cab5c8",
+    "literature:64cf8cad0bea3414d4c29608a041ba6fe124f86e3a076aae485ef6e60c29bf5c",
+    "literature:64f43a5169d192755066565bde0cfdc1473cfe390fdde39361f8f99e4958021a",
+    "literature:664cb3b8b9a3c70498abfed17deb151aa892c661a1158602eefc90d47dc3e464",
+    "literature:68351a37712af690898e6fa9d6d0b5040ecb9c247e394a2c1e7ebe009e43e6d6",
+    "literature:68a9deb294a92ce6b5c608846defe9b70717a98e7b20aed18b5544d323bacfdf",
+    "literature:691f7b5340f98461480546f7c04fdc7baf27f538f1fce4dff5ba0da861556b1c",
+    "literature:691f824eccc7190cdf44c332ba23142494c6ff03da2f738a9bf2dccd07c54230",
+    "literature:692ffed7fe0e9a80a144908d81f0aa8a61180e68cb2448c9cf5b2f43e66a5420",
+    "literature:69a871029544ce5d1ee47c97ecad10a86f6f9f435eccf6acb6f69d5b50452fa0",
+    "literature:69e13010db04addc3511cfa1c0a612ab17dec412e186c8a25923146ce41de6dc",
+    "literature:69e5fcfbb4a755a28a4c64b035d7a3e99e16ccb58a0ce9fc27e4679b55d050a2",
+    "literature:6b20820dac49fc8a7a8130de1061ecb4a2448acf6ddd4bc3f23f6cdb615d4c73",
+    "literature:6c5afde46c220c0ec27f8dab1e154cd30416782b39cabb6d4773db7a7dd05be5",
+    "literature:6c826f1dc3193e13eb263e434022bdfbddf84a81b5283d6f55fce59f2c7a606a",
+    "literature:6cf415f0a3a0ce5e0e86456c8766737684316654b37241c1402aaadcb33dbe4a",
+    "literature:6d34f50f9790711d8fc6a1b0d0d92ebe54bcc8f48edb594fad7886065d379aa9",
+    "literature:6de4ae312489ca7693609a797b48286837cc263bcc5c63bf3fdf382bb1f358e9",
+    "literature:6e51c1ec3a04180caa2fc6cba5350ced7402cfc301aadc4c63e13c380bdd0a71",
+    "literature:70244c456f222e7471c7a80166a605eb9cd9f7563d439a48fe4dde5c08a5119e",
+    "literature:7091543c8c7b97dbf92f37172e6c4afb98a935deb57b6eaa562ec465549611af",
+    "literature:715f05399b41cea00eb7077a79adf767381a203f5ca481a3b4d1c225e13d793f",
+    "literature:71cb21a3b64ba527d077702f0ea31310e491758f544e8f2d9f522b41eb7879fe",
+    "literature:7289f190e956663b3bd6c5c80e4642117d8f6017aef0e9f934b26b7653e04b23",
+    "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+    "literature:73c9c23cc2c6e1cc059ac8aadbfa6f585e9d5b0e95c1fa05a055c7ce918ed3da",
+    "literature:746a8b654588a5f9786362a6d0d8701be9291c7782bed9ecb1d65b7247c6ee3a",
+    "literature:752134fa69cd07502e9b6150575e26d50760b3281e2ef38f1fb76582f4ee377e",
+    "literature:75d29583b8012f176b337d7537d9553610fe5288d64bd11ecb1fe3d48908b46f",
+    "literature:760bb043458591842605701c0c436414ddf115d29e9f0cfae8f3fd443f67ef1d",
+    "literature:765031d8c0afcca9f8c296270d29220c33cf81e679c2707ee8c682cbccc64000",
+    "literature:76ba12af30c17a4f43c339e429823ba1112c0507fde4407e9a40a13528d60e4f",
+    "literature:782657b8cbafce652a8527cf649e907dc2906e1c5523c26779d5cfeb0a3f64b7",
+    "literature:78cef838e6a173449f050b2884f400db6803f74d078f327e92151a48155fa398",
+    "literature:78f330ac1cbbd956fe94d7d2a3ab02e9223f827d5ba2b0d167cb4759d4d376e1",
+    "literature:79109dec4b33d8b3ac34c33800006990c7145d87da36b93ad56c570e3f1f0e77",
+    "literature:798000e8b5b5356d0473e21582f488c7670d27e49998ab6f0f603a114c631906",
+    "literature:79a3a94551ef00b6e9ee21460deae70c5aeed198b0ee4e5d2166f26229f8e563",
+    "literature:7afb4dfb3bc7555183783814c5887043ae3c5d3f794243d05b47789e1294896a",
+    "literature:7b28ec349711103d03b855ba59b57071d28194a3e1d959ee2d2273cdd257e280",
+    "literature:7b2dd8bbfa57480a119fc038977f41de53861543474649528bba40b6b99c0a2c",
+    "literature:7b77c02615b651dc07fba4fe43789977b7164a0be65bf82f010188b427fe58bc",
+    "literature:7c4af72e1b6b777494957abd94671ea1b451805ab7665246986580867329cab0",
+    "literature:7c7de627a615835acd3ba7c92802311b3770e73a37dcd6145b2ff3336a59e1ce",
+    "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+    "literature:7d9ccf512cb9f24b24570a8899ea04205f6f6c4f52ed3588b78afbd74df5fab4",
+    "literature:7fd4682b64ef1a8d9ed0756bae1e399f01697e23b385441bf2fe8fefaeb83588",
+    "literature:81855af40ce8d9fc4588424652e35a9bec552952d3e13acfc21e2f7c64342244",
+    "literature:82327fcb245c06e67b7c3decc209a652ec1630add149b2079e4a28a4d970831d",
+    "literature:82ba74c694de76fb9595d4fd7c79e847f8bc736a11bfd6f55c843c7b3d02b18c",
+    "literature:8399e1ac9f519d33322743b71d60e97ca2e23bd5bff36afa4856bb4e0163e125",
+    "literature:84ead2a74cd1414aae5fb2d0d0cb4ca97169d08897b4a343b5cd057916997fcb",
+    "literature:84edd3a9db95714de2efb15af858e89ec8e15b44e1c461aee085a78cacd66231",
+    "literature:856c971d9c379a9f6b0bf38f78a0b50e8c0c9441bf0a41053700c965e1318c6a",
+    "literature:86b240a19bcaeafb0089d55c6f4ef636815cb13b8b681a5b49dd0c5298a0cc0b",
+    "literature:8705d1cedefb75d205f6fd96ea6f7a509c7fc85b0bde155401ab991c85158837",
+    "literature:876a6a24c84974878b1b0b2282d27769e7fdb5f67635b390a07ea8e0bf4a9aee",
+    "literature:87e4c06aa153c7b1ed248039ad18dceb408ce502dce25e68ec2b2c090a15fae4",
+    "literature:8871d31b34b4471a893dfbc9ee26dc31d3d56bf9d444f74b4d6732ddafdba916",
+    "literature:893c10f11bd691d4ff4c8e481343814e02ac16253ad22f78fb9956a44ed4913b",
+    "literature:89615775f544c02523980373b9fa67163b463d49c9778fe1b51f9035de2d0145",
+    "literature:89fef1b9dbfcf59c6f7ec926295147ed9fba3e926bc0db587e71b367d5366146",
+    "literature:8dab2a0999ebbb5e5711f90746547d3ec947e2228b54c62a49944e6fcd612305",
+    "literature:8e87df2b4cd00982eb4f98e151c82c4112fa3e40a6c887981da29b79c771308a",
+    "literature:8fb9733372e5149c6c4080be24ca858a1b40bafe164db714aea144d51fccb89d",
+    "literature:8fb981873b6e154901a23502b6382cc629487fb941fc73b21d4af1d41b8b00d5",
+    "literature:8fd336abb780c2e5a7b1f805cdd5ad30e8e9fdc508b70fe6394dc1ff90a5f131",
+    "literature:904570639760f77f8fc0810655984ef30890ebab594885fc18a197efc2f1ace7",
+    "literature:9282d00afc2b6f8f7308afa5dd1abe94099d3a1fe8a1b80a452721b0bfa118ae",
+    "literature:932cc9eb68f1beb7bec88829afd18bc6cc2270e31430b46d32320d7b1ca5e84d",
+    "literature:93eb56c1f2faf7e99dc04dd20e5852697bcf125c75475391ad97220d32fbcb33",
+    "literature:95c9e48b77994d9c408b9884664ccce0c109de75e0be32c7e945cc6c8f2b5975",
+    "literature:96a1aca0b38a34dcc4da0e24b94f4581dc39d24c01b149314906e572c1251044",
+    "literature:96b5bd65acc32492ca74dcc30247113adbf9f9377abd68978163f73dc5c21e57",
+    "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+    "literature:9a583ff645a94242900794abcfdef1d895d7ea8bd45a95ae8b33b1a497b2278b",
+    "literature:9a6138fa2badad7d321aff7feb6e836eb279c3a15fd03baf769273f43fb9e491",
+    "literature:9ad236878ff37f2babc99989f644d7d7b001cf2c95c55d5703178625ae543880",
+    "literature:9b131c4738f3852c97c400f08cf262fa94647a30af2c5e9bc2707fd0556c569c",
+    "literature:9c0d88716e813b16635857ea53579e38b64146c2586ed0f90c44d499b6aa923e",
+    "literature:9c9107a25c828bc78387169b46e97ddd64b4a9c4474375a195c1e4aba2a29d6f",
+    "literature:9d70ea69cfa5e3f981eb1600ab70c75a812bebb22de79812fa806062cd9de6f2",
+    "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+    "literature:9e7c2e1205d0fb0d3b16575de283e3283ef8d2dceccdf08f7209154ca753862c",
+    "literature:9e94b0de35a3de15a7de62a29aeeb1d0863b111fcecd18847a01bf246d7d32b4",
+    "literature:9ef9e66287e6271c465d18e3d7765fee1fc4f21cacdc5e966190dbae2af42e30",
+    "literature:9f408615665c6939ea853d0d0294629a324b2665ecb03d439f64df0bce553a8a",
+    "literature:9fbb6800ebf68f8def127445fbef168f17b7d53f510855d02f6589265ebda089",
+    "literature:9ff36a3939d4067c1c2d2f41ea5d3d9a361f869ef5d3f14239b56f85dc161ed2",
+    "literature:a06f06692ff147815c98506a9b67627116afce253aeba40eb8468c256edd9bbb",
+    "literature:a0bc943492a5c580207781a0c7be66e7c61599290ab7eb5549d8cfe031cb2e75",
+    "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+    "literature:a2068ab836700d80a6d2455cebba52dc5671f9d5bc85b60794bbbe5b21c6c56f",
+    "literature:a2723f878326fd30d64afab4dc5d769b50e4f4cbfe9af4205f150586d0a539ef",
+    "literature:a2ebeac3b0a15b6a5938bdc9d9d8443200938f0f9edfcc71ae613608e7428638",
+    "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+    "literature:a42c7c49b6772e58e0b552da9901328737f8e6087d02878c0dbd39634758fe96",
+    "literature:a440d02665b62bc9b0ed908ba0046f395025507da2b0ded7f4e595fce6eae8c7",
+    "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+    "literature:a5c5241b53eb39228698581b4df11c3e8163a1f4fcd59f5b6565052b771b6fff",
+    "literature:a6134be1ff8db8e1541bb706635455dbe3e14943a995babb49cda81eb3ca041b",
+    "literature:a6679ec7a7b9d590a51ab8783c75cc8467d094c9ca7544eda8b37b9ad7a8765a",
+    "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+    "literature:a6b46e56fa1d85abaa1171e83a9b18821ea905da01874dd4a29e406bcab51ee1",
+    "literature:a76b49415a0ec6d1e5dc8bd6736b33838eb38f669af714c60abb2918625361c0",
+    "literature:a8179e05e51d072a25b2e94ab081f71c73ede17ebf9c2627ebc0dbe4d5eb5718",
+    "literature:a88a1645a4bd97d95f6f75d74046346396a669317bc46991a40596b6cbefe8f3",
+    "literature:a89f6fc6ab02bb2cb891dcd1a3f7404434ad34f835eb9259f163a24a4b5a07dd",
+    "literature:aa6ce4f3421b82ed49c9cc46a4b553dffcff82f6e4ba3673aa1a77035fbaa499",
+    "literature:aaa05bc85ef72adb0f08c7e9f0e8941d8ee3a12b0d01479fbf9d454644aaf2a8",
+    "literature:ab519e5e13c9ad7db04af49d76fa9dae403a1e1b5b00f1a0cef10e2e29a1cf55",
+    "literature:ac88e746a411803b52b2c18474ac9fd020ce8fe3b79a113446192d6562560a31",
+    "literature:afe05a1b12a21a5a5be7ad7c723cd1512533ae26c33483cbb59506979b088702",
+    "literature:aff48c38ee72d43fdbbab2e639fb90e5828a397faead7450db894681ca29e78e",
+    "literature:b058e444799e1f1fb26c85fc86cb905df55ed62b4a0a1779469d46df8da71645",
+    "literature:b0ba7b3a38a622e5580775abe6bfbb72eefe5ebfe6620831da20f7d43aee16ee",
+    "literature:b17a34331dab384ed9dece5c9b5098180d7d7f799baf5060d2fcc90da8cb8b1b",
+    "literature:b18c468dec635051e445873fddfcd520c03a6d52d1e38630371fe6fc53604fbf",
+    "literature:b339e2019bc3cee4c01fa233531c18d5a4a75f9aa4def1f61996959db9c71c03",
+    "literature:b34b6fe0397e018c80db794ac4dc171a1e7af5a06f274649df654ca96ce1b31d",
+    "literature:b421595fb57bcab8fc8d3de77bfbd053c3e0cb62819f5e93c3cf5b2039e08789",
+    "literature:b42c8e596035cff9abfc666e0a85f26b62f7b3ffe2374bcad053ef0a7d983cff",
+    "literature:b4a0e8ea0328ca4960d56060e089430ae8343f706b971388b5a30c9363801d87",
+    "literature:b5c777ff8abdff2ec578a6de346daf476bb8a3d524b460e2c099217aa68305cf",
+    "literature:b62f15a285e7fa3be9130ab1e8a63f1a55e7f3a21619772d32c264915c75f0f6",
+    "literature:b6879520ed0b0ee1bf04c979b9d4f77c19a0f89f05b220296012f5a02e2055f6",
+    "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+    "literature:b76c214a30f70c80e2b91617be659c1f1a912bb32a2d016fb74f87e8c3f62a91",
+    "literature:b7a63d64b027df231c54e256154959b51c4ab8d7be7d8ddeec5bb02448b40365",
+    "literature:b8000c564762685586a4cee6ac94c2ddbcbc3e4f74c33cffef9d8ecef04951a5",
+    "literature:b9da2ac83493ad6ad26ada7fc406a55a90e8a52da63b6bca1a809e8942c53611",
+    "literature:ba6e1b329a27586b1f9d464ab1c4973dcb2d13ffe4b1987afeb561bef40bbeca",
+    "literature:bb93871db277aab0699bc30f2ad005934bc18235786bedcd268412492a534d69",
+    "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+    "literature:bc5e93435152bb68656afefec0ab15cacec7eae5c8480ce5332cc63dd7a88c4c",
+    "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+    "literature:bd5d20e14ed823c1eaddce36a6256afadd45eda13fe31437148d87d7ef807706",
+    "literature:be1a7e25d9b1ede61a0424a966874285459f7f92aac0949ce4ee4b166570d24a",
+    "literature:be1e86432dead6e6a12931e7674bdf47062a90698579ded0bff5541d6d75f26a",
+    "literature:befe72ca0be4f5c47f763f6f085a2674193455bbad3e3b6d2a9d2dbee4f09d23",
+    "literature:bfd79f93d73370e1ffd0d0fa96e75cca4217ee5168ca0336b5cd7c88c06e722a",
+    "literature:c18231dab8407ac5fa9edebd1a0fd191c8fd64f109f859778727832793d7d903",
+    "literature:c251ec6fb5b871736437c05ed3ca751c174ee5a3247105a48fbb5f4c8c25d594",
+    "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+    "literature:c2ed4a8d5f9dad70cd5421dcf5f95681882c26084a7882ebaf96c19b0d45192a",
+    "literature:c2fff4e11af78eb6ae8702cd52317e6e906e92aee528b68dc395ced1c35b974d",
+    "literature:c3771fb1ff1d6f17953ba1a686dac74c223b1d6bbd3ac375849b8f3f26c742ef",
+    "literature:c499a6747273a99367bbb6048f27b39058c91572dfe8265456a2801d19d361b9",
+    "literature:c49ba5a25acab88464d08699696d8a8ccd228b0a40fcd0cb0fe17a71941b55b0",
+    "literature:c4b3c1842d84ec5e42db081855944ff16d752393f2df3330b6197ae3decc4c4a",
+    "literature:c5471be3ee6ea0725db3b95216cb9989838f005a3f62b13bcb3f2347d41e4b10",
+    "literature:c56a281fe06e5dab52f350706206e651fd8975fd18576fdd2ee910898e61a952",
+    "literature:c63c7648f18d5b4543cdd6a28634e8d0bbeabb81d5f2476f98b552efd3c998b3",
+    "literature:c7ab464adafac47dac8d5cd63ea10cf1d0f0ed549ab2b7d09feefbbbf849c3db",
+    "literature:c8f3cc2ef632747350cf2d0431fae5aa8deec3dbbe7259075f3c8299d12b55e5",
+    "literature:c9e49d1330f1f127a9cf897c0f359d1a24472c9ae666547b1584c97356ba0448",
+    "literature:ca7a7c8980e52463b9e60752fb9bf5cb6150efeca4cde079f136695eb39242a5",
+    "literature:cb0eeacb627ec6add1b14da229a70bee803a87fb55d3958f27e322397fd2f154",
+    "literature:cbfc189f5920d821d111a4d002c8fcc982c605dd73b2d7abd1e85257a9c9ee7b",
+    "literature:cbfe2976366ab2dd3aa4478556daead4fd5f5dce5e30b99574deb3a73c20ad52",
+    "literature:ce7bfad9d0fb241b6213224ecfa72321f07d69050289a4a8ab048dac593bff6f",
+    "literature:cf250709b1d2c3e1c0743315f4c40a2e5d4834587f1b33e75e00d3b1e0f8eb7f",
+    "literature:cffa8559b236b502f9673ed0a0a7f8e9d05c66ef81254f7e45bff80bd0bb1456",
+    "literature:d0153bf881e8614c6c904152aad5c8851aad0079480c8677c58640c86be178ff",
+    "literature:d070649a61809fe53eac21c14c64e2c9227ef2f9f47b3e1bbc8be1c1d670fb32",
+    "literature:d1438bca71cae60439c38d2a495eb7398359925443e4cf87ec7d4b5331e2aae0",
+    "literature:d1eef4835cb7b7c7130784785d92dee0f8459cc273163a0746a60edfb15a698f",
+    "literature:d2bf7f5cc2a4e351f2104bab02cdfa5904271473649f942f2bd097b9fbd1f224",
+    "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+    "literature:d691ac11e68f62c4966c56764680bd7b2da42199605cb76256c1c74f11fef000",
+    "literature:d71ffbec20be21c2c5f57504df2a3a1c9580a4481eb92abe49fc1747e1bfed63",
+    "literature:d7696c17d09f75f9213474d827b00cff68c863ff03410c75612550c5bd8b3b41",
+    "literature:d7b1aac342056983c2108b982aaa2b56fab5548f192b69604d9155fc5ffaf029",
+    "literature:d80bc76d9cce5eb2ebd2a94b3927ff4cb8d976eca600ed484be75b50a28f7e30",
+    "literature:d82a2c18bc0825627263dd050078adb60e876832cc396ee6755fa674e34c8983",
+    "literature:d836ab7a517ccbd014725d54d2f902c722adf7fdb6064e0a19489e7fd1e30ae5",
+    "literature:d8d8c50ea0fff73c07726cd1403df813a258086864334fcb31bce41dff025367",
+    "literature:d8ed1d71cc55fd51d4e8a92e5ceca30be1588e8d1d5030037cf7e6f3ff53e79e",
+    "literature:d964bb9791c17f4553d0d4332b1c1a79f1fed6a5f81fa6bf6c93df58daf427f9",
+    "literature:d9850385ad1007c1478251f8a5a73fb4eb7276e6b79db80c96fd0c17d08bd40d",
+    "literature:da20b9be3c84ae9ba3c54ccdb53b3ca4759603e25fa0a3e729bf7de115d5114f",
+    "literature:da593b13e854c38ac17f38ce4149cd54a3c451453d398ee169953aef6aafaf58",
+    "literature:da8e34f8e8dbf30bf967bdacf890fe9ec8078ffa8b9df270535661dc766013fe",
+    "literature:dace42d2bf05cb7ddf213cb3a46559abea24043088f0b4de3f4a523f72a17f95",
+    "literature:db85e6d802f2e17a11f823f39dd0f687fd094c2e4edf73dedd5f4a655903ba0c",
+    "literature:dc19a91cc057bdffd434c346b9bfe9fc179c03d5bcb492fb8d619c3c013d2494",
+    "literature:dcc038ce4c4fe23164e3e80575a6e851f656ca5a119bc07ad2109de0c4c350c6",
+    "literature:dcdfd4ffd89b3b0e5d34e9b5c04da9858b1bf46b7ad15240fc1c348abcfe6907",
+    "literature:dffd7093379f6cc6ae92f029ed0c9f68da5707efd975f1dbe320aba46578d3b0",
+    "literature:e021d9622ac02ff7a9f462d3ac5ab9979fcca7a3981e5d4668da526197fe9c22",
+    "literature:e0e0be68aa5b06777c2bcd4d6e958136434b4bab0a87ba1519a0fe71b9be8619",
+    "literature:e0e24d277ee805a273b053308d7258dd770ebfddc348e442d5d4d46f824b83cc",
+    "literature:e1036db2216e9ad5e2da385279627a02787d51d61fd55938f4872b4bad3264d1",
+    "literature:e1b518e1c51c5a8d6696b24879b4c36b4d12f66951078a39ee09513ed44fb743",
+    "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+    "literature:e3021400ee180f2c5052dd9d0b4ad4ace573f24a87a7fa82cf4ebd114fb5a817",
+    "literature:e36ef67004eae487755b546929724dfd263f13a641004526373f371a5a58a208",
+    "literature:e3cdd153963355df2ba01ec27dc0c003034226aed264e2b51752eb8c31580d74",
+    "literature:e4fd5507de54f427b5bc5c0be9d679bb3f394053eb2025d3d40e169f80fffed4",
+    "literature:e5d246d3eca99cd654d515f4f6fbe09e8fcc3e46dbada7d4e904030bcdaba5b7",
+    "literature:e662161570418648c92b40872df3afb1f1047a9ea75eeb60fb4fcd6cde0da73e",
+    "literature:e7d27b8a7af08fe9cf6c7c46e29be28b77f687744a925a9fc317a6bca07e6e3d",
+    "literature:e7f872ed11e9e8f83bd385042cfb1f1b3eb1f7fa6679b9a375b05cec93c7343e",
+    "literature:e82c37a6c21036f9ded9cf47f9dc4cbf6919b1a8022543f196e2fe3f06ace84a",
+    "literature:e9440739b39f76a308ac501eff3a6c7c4d94e6c8de2c88ef7f2780dd82a67ce7",
+    "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+    "literature:eb2cff1a5ee782e17561592698135ef0d1626c7dc2d51a9e552bb30af6d70619",
+    "literature:ebb1ac6d5efab56452c6f026ca069fe6ddebd15b95d8dde2d94b30b2b1f94200",
+    "literature:ebce1f031e1b7f46490368170356eeca80894376692b491eacedd2210e7dae81",
+    "literature:ebe619b4379613ad03a02b2655202263732d34c7538819cd7304288239ee62d5",
+    "literature:eda7bd8eadb95244ccee5308e67774f8a6d16c4e7768bbf1c81019880a60c4ef",
+    "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+    "literature:f0ca0976da615349d4cbae93cf2474ff1186794c16a523e93348e0735764553b",
+    "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+    "literature:f27e3ceb0dd1b15981e1e67162c72423de8eb4f45ebe8ac8126b1d8bda0989fc",
+    "literature:f2d029f65a86db537a80f3d1b98aef6113e32732e1eaf87cbb7597bbf0110279",
+    "literature:f2d6fb1e5a18dc59ef793b1a2b27752e6363e531ba0d851551015a56aafebb6c",
+    "literature:f2fb0d874a54f08fa83cd14f03226e2997862c81d17adae7aed66a913cd5681b",
+    "literature:f303ced46fa15a164d33255862849cbcbcb864887b48fccb7ebd1d090fa9ab4c",
+    "literature:f48261c005d810382c01e40b336d880a7b807ae5aab6038261d642f958f4068d",
+    "literature:f4db594e534dc54417755c5368a782ff139d429e6b1f17b64af97c77d074876e",
+    "literature:f5176e700e92088962dafea6d5ad6070095a9fd9ee7afc30e2d0756dba276495",
+    "literature:f550857c0fd1075038cbb6aff46e4361b0458e1311b5f060e1b2c4b92eef939e",
+    "literature:f622ae309aaf446e5d711db34d9874e471613a007f3cda2ca19d9bc12747f6f9",
+    "literature:f6ed0e3e51679fd62f8e8a9372d77156422070c16d5b774d34e55f121244982e",
+    "literature:f73207f296e94633c450c8ec8f27ac980f03a4b9efee84317f2b3b590a34bec9",
+    "literature:f75be672bb2dcaf1047fb6561a72bb4ab00c8b7921010d61863b0432117e6b0b",
+    "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+    "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+    "literature:f8294ad2bc4bcf72c908f4baee94625bb73310048dd6a7bc7d6b6db41edd8a11",
+    "literature:f89fc2bf1dcbd9097da8698b5a104c826342252ac648801dfc2984077c790a9f",
+    "literature:f8a2a20490c322f7aeef4efbeb2b77e8ff91a8bf3288a6f5c81ce78a4c2ab71c",
+    "literature:fa1444e19afe63dace6340489bd9ac531c7ea3e3621b1dffc8db225d7d09e74d",
+    "literature:fad1ae647ff9cbc281b88290da21192c0736ce2367acb872b46e5523e78923f1",
+    "literature:fd51cbae45e6f4391ab1a9d793336fc0a0a7e8865a74a6fb669ff7ce9722cd96",
+    "literature:fe2222ab7b92f84564178c65cc17df05fa6cef165f21c2aeadf77a25e3bc24b8",
+    "literature:fff42987f1860cc830dfbff47c1be48458fe27066977c79c6a95158a4b6a2fac"
+  ],
+  "project": {
+    "authorization": "I am authorized to extract and retrieve these PDFs privately.",
+    "git_markdown_tracking": false,
+    "name": "iStopMM",
+    "papers": {
+      "10.1001/jamaoncol.2025.1285": {
+        "title": "New Definition of Light Chain Monoclonal Gammopathy of Undetermined Significance."
+      },
+      "10.1001/jamaoncol.2026.0831": {
+        "title": "Identifying High-Risk Smoldering Multiple Myeloma for Early Intervention"
+      },
+      "10.1002/cyto.b.22053": {
+        "title": "Evaluation of multiple myeloma measurable residual disease by high sensitivity flow cytometry: An international harmonized approach for data analysis"
+      },
+      "10.1002/hem3.70046": {
+        "title": "Monoclonal gammopathy of undetermined significance with multiple paraproteins: A population-based screening study."
+      },
+      "10.1002/hem3.70053": {
+        "title": "Analysis of smoldering multiple myeloma according to the target of the monoclonal immunoglobulin of patients."
+      },
+      "10.1002/jha2.70363": {
+        "title": "Infection Incidence and Survival in Patients With Multiple Myeloma and Chronic Lymphocytic Leukaemia: A Growing Concern in the Era of Modern Therapies."
+      },
+      "10.1007/s00403-024-03372-8": {
+        "title": "Population-based screening cohort study reveals no association between monoclonal gammopathy of undetermined significance (MGUS), smoldering multiple myeloma (SMM), multiple myeloma (MM), and alopecia."
+      },
+      "10.1016/s1470-2045(20)30756-7": {
+        "title": "Treatment of relapsed and refractory multiple myeloma: recommendations from the International Myeloma Working Group."
+      },
+      "10.1038/s41375-025-02762-9": {
+        "title": "Increased risk of infections in smoldering multiple myeloma: results from the screened iStopMM study."
+      },
+      "10.1038/s41375-026-03028-8": {
+        "title": "Redefining light-chain smoldering multiple myeloma: prevalence and progression risk."
+      },
+      "10.1038/s41408-021-00408-4": {
+        "title": "Mass spectrometry for the evaluation of monoclonal proteins in multiple myeloma and related disorders: an International Myeloma Working Group Mass Spectrometry Committee Report."
+      },
+      "10.1038/s41408-021-00480-w": {
+        "title": "Iceland screens, treats, or prevents multiple myeloma (iStopMM): a population-based screening study for monoclonal gammopathy of undetermined significance and randomized controlled trial of follow-up strategies."
+      },
+      "10.1038/s41408-021-00580-7": {
+        "title": "Monoclonal gammopathy of undetermined significance and COVID-19: a population-based cohort study."
+      },
+      "10.1038/s41408-022-00732-3": {
+        "title": "Defining new reference intervals for serum free light chains in individuals with chronic kidney disease: Results of the iStopMM study."
+      },
+      "10.1038/s41408-023-00944-1": {
+        "title": "Immunophenotypic assessment of clonal plasma cells and B-cells in bone marrow and blood in the diagnostic classification of early stage monoclonal gammopathies:"
+      },
+      "10.1038/s41408-023-00951-2": {
+        "title": "Determining hemodilution in diagnostic bone marrow aspirated samples in plasma cell disorders by next-generation flow cytometry: Proposal for a bone marrow quality index."
+      },
+      "10.1038/s41408-024-01201-9": {
+        "title": "The significance of free light-chain ratio in light-chain monoclonal gammopathy of undetermined significance: a flow cytometry sub-study of the iStopMM screening study."
+      },
+      "10.1038/s41408-025-01255-3": {
+        "title": "Deep immune cell profiling in blood and bone marrow of early stage monoclonal gammopathy: an iStopMM and ECRIN-M3 collaborative study."
+      },
+      "10.1038/s41408-025-01289-7": {
+        "title": "Revised free light chain reference intervals enhance risk stratification in monoclonal gammopathy of undetermined significance and reduce overdiagnosis."
+      },
+      "10.1038/s41408-026-01478-y": {
+        "title": "Revised criteria for light chain MGUS enhance diagnostic accuracy and risk stratification"
+      },
+      "10.1038/s41408-026-01480-4": {
+        "title": "Dietary intake and the risk of monoclonal gammopathy of undetermined significance: results from the population based iStopMM screening study."
+      },
+      "10.1038/s41408-026-01487-x": {
+        "title": "Impact of SARS-CoV-2 vaccination on monoclonal gammopathy of undetermined significance: results from the population-based iStopMM study"
+      },
+      "10.1038/s41408-026-01579-8": {
+        "title": "Detailed immunophenotypic and genetic characterization of bone marrow clonal plasma cells and B-cells in early-stage monoclonal gammopathies."
+      },
+      "10.1038/s41467-024-50932-7": {
+        "title": "Deciphering the genetics and mechanisms of predisposition to multiple myeloma."
+      },
+      "10.1038/s41591-022-02183-6": {
+        "title": "Prevalence of smoldering multiple myeloma based on nationwide screening."
+      },
+      "10.1038/s42003-021-02642-9": {
+        "title": "Genetic variants associated with platelet count are predictive of human disease and physiological markers"
+      },
+      "10.1038/s43856-023-00326-5": {
+        "title": "Physical and cognitive impact following SARS-CoV-2 infection in a large population-based case-control study."
+      },
+      "10.1093/bjd/ljag119": {
+        "title": "Monoclonal gammopathy of undetermined significance is not associated with increased risk of skin cancer."
+      },
+      "10.1093/clinchem/hvad148": {
+        "title": "Screening in Multiple Myeloma and Its Precursors: Are We There Yet?"
+      },
+      "10.1093/eurpub/ckad220": {
+        "title": "Trends of perceived disruption in healthcare services during the pandemic: findings from the COVID-19 National Resilience Cohort in Iceland."
+      },
+      "10.1093/rheumatology/keac253": {
+        "title": "Strong site-specific association of pharyngeal cultures with the onset of psoriatic arthritis and psoriasis, regardless of pathogen."
+      },
+      "10.1097/md.0000000000030479": {
+        "title": "The half-painted picture: Reviewing the mental health impacts of cancer screening."
+      },
+      "10.1111/bjh.18904": {
+        "title": "The force awakens, but questions remain: The future of MGUS."
+      },
+      "10.1111/bjh.19957": {
+        "title": "Monoclonal gammopathy of undetermined significance and the risk of thrombotic events: Results from iStopMM, a prospective population-based screening study"
+      },
+      "10.1111/bjh.70539": {
+        "title": "The challenge of defining and understanding monoclonal gammopathy of undetermined significance."
+      },
+      "10.1111/ejh.13597": {
+        "title": "Comorbidities in multiple myeloma and implications on survival: A population-based study."
+      },
+      "10.1111/ejh.13633": {
+        "title": "Untangling fracture risk in monoclonal gammopathy of undetermined significance: A population-based cohort study."
+      },
+      "10.1111/ejh.13650": {
+        "title": "Cumulative exposure to melphalan chemotherapy and subsequent risk of developing acute myeloid leukemia and myelodysplastic syndromes in patients with multiple myeloma."
+      },
+      "10.1111/ejh.13720": {
+        "title": "Survival, causes of death, and the prognostic role of comorbidities in chronic lymphocytic leukemia in the pre-ibrutinib era: A population-based study"
+      },
+      "10.1111/ejh.70258": {
+        "title": "Light Chain Monoclonal Gammopathy of Undetermined Significance: Diagnosis, Biology, and Clinical Management."
+      },
+      "10.1111/joim.13461": {
+        "title": "The first wave of COVID-19 and concurrent social restrictions were not associated with a negative impact on mental health and psychiatric well-being."
+      },
+      "10.1136/bmjopen-2021-049967": {
+        "title": "Illness severity and risk of mental morbidities among patients recovering from COVID-19: a cross-sectional study in the Icelandic population."
+      },
+      "10.1136/bmjph-2024-001294": {
+        "title": "Depressive symptom trajectories among general population during the COVID-19 pandemic in Iceland: a prospective cohort study (2020-2023)."
+      },
+      "10.1158/2643-3230.bcd-24-0022": {
+        "title": "Round Table Discussion on Optimal Clinical Trial Design in Precursor Multiple Myeloma."
+      },
+      "10.1177/14034948211059974": {
+        "title": "Validity of chronic disease diagnoses in Icelandic healthcare registries."
+      },
+      "10.1182/blood.2024025624": {
+        "title": "Approaching hypercalcemia in monoclonal gammopathy of undetermined significance: insights from the iStopMM screening study"
+      },
+      "10.1182/bloodadvances.2025017270": {
+        "title": "Next-generation flow cytometry analysis of clonal bone marrow plasma cells identifies an indolent subset of MGUS"
+      },
+      "10.1182/bloodadvances.2026020078": {
+        "title": "Global validation of revised sFLC cutoffs in amyloidosis"
+      },
+      "10.1182/hematology.2022000355": {
+        "title": "The consultant’s guide to smoldering multiple myeloma."
+      },
+      "10.1200/jco-25-02771": {
+        "title": "Clinical and Psychological Outcomes After Monoclonal Gammopathy Screening: A Population-Based Screening Study and Subsequent Randomized Trial of Follow-Up."
+      },
+      "10.1200/jco-26-00410": {
+        "title": "International Myeloma Working Group Recommendations for the Diagnosis and Management of Solitary Plasmacytomas."
+      },
+      "10.1371/journal.pone.0342075": {
+        "title": "Psychiatric health of Icelandic adults 40 years or older: A nationwide study of diagnoses, medications, and symptoms"
+      },
+      "10.3324/haematol.2021.278772": {
+        "title": "Diabetes mellitus and risk of plasma cell and lymphoproliferative disorders in 94,579 cases and 368,348 matched controls"
+      },
+      "10.3324/haematol.2023.283191": {
+        "title": "Disease associations with monoclonal gammopathy of undetermined significance can only be evaluated using screened cohorts: results from the population-based iStopMM study."
+      },
+      "10.3324/haematol.2023.284365": {
+        "title": "Prior cancer and risk of monoclonal gammopathy of undetermined significance: a population-based study in Iceland and Sweden."
+      },
+      "10.3389/fimmu.2022.876271": {
+        "title": "Autoimmunity, Infections, and the Risk of Monoclonal Gammopathy of Undetermined Significance."
+      },
+      "10.7326/m23-2540": {
+        "title": "Development of a Multivariable Model to Predict the Need for Bone Marrow Sampling in Persons With Monoclonal Gammopathy of Undetermined Significance: A Cohort Study Nested in a Clinical Trial"
+      },
+      "10.7326/m23-2867": {
+        "title": "Association Between Autoimmune Diseases and Monoclonal Gammopathy of Undetermined Significance: An Analysis From a Population-Based Screening Study"
+      }
+    },
+    "schema_version": 1
+  },
+  "schema_version": 1
+}

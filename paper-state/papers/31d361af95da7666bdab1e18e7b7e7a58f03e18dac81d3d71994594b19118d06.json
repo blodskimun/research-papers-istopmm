@@ -1,0 +1,239 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-16T10:56:23.726903+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Disease associations with monoclonal gammopathy of undetermined significance can only be evaluated using screened cohorts: results from the population-based iStopMM study.",
+        "year": null
+      },
+      "doi": "10.3324/haematol.2023.283191",
+      "format": "pdf",
+      "id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+      "url": "https://doi.org/10.3324/haematol.2023.283191"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283191",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_sha256": "3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283191"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d:p1",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Plasma Cell Disorders\n\nDisease associations with monoclonal gammopathy of undetermined significance can only be evaluated using screened cohorts: results from the population-based iStopMM study\n\nAðalbjörg Ýr Sigurbergsdóttir,1 Sæmundur Rögnvaldsson,1,2 Sigrún Thorsteinsdóttir,1,3 Ingigerður Sverrisdóttir,1,4 Guðrún Ásta Sigurðardóttir,1 Brynjar Viðarsson,2 Páll Torﬁ Önundarson,1,2 Bjarni A. Agnarsson,2 Margrét Sigurðardóttir,2 Ingunn Þorsteinsdóttir,2 Ísleifur Ólafsson,2 Ásdís Rósa Þórðardóttir,1 Gauti Kjartan Gíslason,1 Andri Ólafsson,1 Malin Hultcrantz,5 Brian G. M. Durie,6 Stephen Harding,7 Ola Landgren,8 Thorvarður Jón Löve1,2 and Sigurður Yngvi Kristinsson1,2\n\n1University of Iceland, Reykjavík, Iceland; 2Landspítali - the National University Hospital of Iceland, Reykjavík, Iceland; 3Rigshospitalet, Copenhagen, Denmark; 4Sahlgrenska University Hospital, Gothenburg, Sweden; 5Memorial Sloan Kettering Cancer Center, New York, NY, USA; 6Cedars-Sinai Samuel Oschin Cancer Center, Los Angeles, CA, USA; 7The Binding Site, Birmingham, UK and 8Sylvester Comprehensive Cancer Center, Miami, FL, USA\n\nCorrespondence: S.Y. Kristinsson sigyngvi@hi.is Received: March 22, 2023. Accepted: June 30, 2023. Early view: July 13, 2023. https://doi.org/10.3324/haematol.2023.283191 ©2023 Ferrata Storti Foundation Published under a CC BY-NC license\n\nAbstract\n\nMonoclonal gammopathy of undetermined signiﬁcance (MGUS) is an asymptomatic precursor condition that precedes multiple myeloma and related disorders but has also been associated with other medical conditions. Since systematic screening is not recommended, MGUS is typically diagnosed due to underlying diseases and most cases are not diagnosed. Most previous studies on MGUS disease associations have been based on clinical cohorts, possibly resulting in selection bias. Here we estimate this selection bias by comparing clinically diagnosed and screened individuals with MGUS with regards to demographics, laboratory features, and comorbidities. A total of 75,422 participants in the Iceland Screens, Treats, or Prevents Multiple Myeloma (iStopMM) study were screened for MGUS by serum protein electrophoresis, immunoﬁxation and free light chain assay (clinicaltrials gov. Identiﬁer: NCT03327597). We identiﬁed 3,352 individuals with MGUS, whereof 240 had previously been clinically diagnosed (clinical MGUS), and crosslinked our data with large, nationwide registries for information on comorbidities. Those with clinical MGUS were more likely to have at least one comorbidity (odds ratio=2.24; 95% conﬁdence interval: 1.30-4.19), and on average had more comorbidities than the screened MGUS group (3.23 vs. 2.36, mean difference 0.68; 95% conﬁdence interval: 0.46-0.90). They were also more likely to have rheumatological disease, neurological disease, chronic kidney disease, liver disease, heart failure, or endocrine disorders. These ﬁndings indicate that individuals with clinical MGUS have more comorbidities than the general MGUS population and that previous studies have been affected by signiﬁcant selection bias. Our ﬁndings highlight the importance of screening data when studying biological and epidemiological implications of MGUS.\n\nIntroduction\n\nMonoclonal gammopathy of undetermined signiﬁcance (MGUS) is an asymptomatic precursor condition that consistently precedes multiple myeloma and related disorders. It is present in approximately 4.5% of the general population over the age of 50 years.1-6 MGUS is asymptomatic and is, therefore, typically diagnosed incidentally during clinical workup for various medical conditions, while most patients remain undiagnosed.1 Although asymptomatic, MGUS has been associated with over 100\n\nmedical disorders, that are either assumed to cause or re-sult from MGUS. These include thrombosis,7 infections,8 autoimmune diseases,9,10 fractures,11,12 neuropathies,13 as well as excess mortality.14 In some cases, there exists his-topathologic evidence of a causative relationship between MGUS and disease, usually with the identiﬁcation of the monoclonal immunoglobulin in the affected tissue (for example glomerulus or skin lesion).15 However, the major-ity of previously reported disease associations with MGUS have been found in retrospective epidemiological studies. Since systematic screening for MGUS is currently not rec-\n\nHaematologica | 108 December 2023\n\n3392",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283191",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_sha256": "3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283191"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d:p2",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Clinical versus screened MGUS disease associations A. Sigurbersdóttir et al.\n\nommended, most prior studies have been based on clinical cohorts of individuals diagnosed with MGUS as part of routine workup for other clinical signs or symptoms. Therefore, the diagnosis of MGUS is usually made due to the diagnosis of another disease, including autoimmune disorders or kidney diseases. This leads to a potential bias in the selection of individuals with more medical conditions into previously studied MGUS cohorts and, therefore, overestimation of the associations between MGUS and disease. This is supported by the only prior screening study on disease associations with MGUS, where in a screened cohort in Olmsted County, Minnesota, (n=17,398) only 14 of 75 previously reported associations were con-ﬁrmed.16 However, the study included numerous distinct and speciﬁc diagnostic codes with unclear clinical cor-relation and thus, the observed number of cases with underlying conditions were small. This decreased statistical power and necessitated the adjustments for multiple comparisons, limiting the possibility of detecting true subtle associations.17 The Iceland Screens, Treats, or Prevents Multiple Myeloma (iStopMM) study is a large Icelandic screening study for MGUS.18 It included both individuals with incidentally diagnosed (clinical) MGUS and people diagnosed through screening, providing a unique opportunity to explore the differences between clinical and screened MGUS with regards to selection bias in clinical cohorts. The aim of this study was to systematically estimate possible selection bias in studies on MGUS by comparing the association of demographic, clinical, and laboratory factors with clinical MGUS with their association with MGUS diagnosed by systematic screening.\n\nMethods\n\niStopMM study The iStopMM study is a population-based, nationwide screening study and randomized controlled trial of follow-up strategies that aims to evaluate the beneﬁts and potential harms of screening for MGUS (clinicaltrials gov. Identiﬁer: NCT03327597). The study has previously been described in detail.18 Brieﬂy, 80,759 individuals, more than half of the Icelandic population aged ≥40 years in 2016, provided informed consent and 75,422 (>93%) of them were subsequently screened for MGUS using serum protein electrophoresis (SPEP), immunoﬁxation and free light chain (FLC) assay. Those who had abnormal screening results, in absence of a more advanced disease, were randomized into one of three study arms, where arm 1 continued as they had never undergone screening while arm 2 and 3 followed different follow-up strategies.18 The study protocol and all information material from the iStopMM study has been approved by the Icelandic National\n\nBioethics Committee and the Icelandic Data Protection Authority. Access to national healthcare registries has been approved by the Icelandic Directorate of Health and the Icelandic Cancer Society.\n\nStudy cohort and data Participants who had an M-protein on SPEP or an abnormal FLC ratio and were randomized into one of our three study arms were eligible for this study. Participants who had M-protein levels ≥3.0 g/dL or an FLC ratio ≥100 or ≤0.01 were excluded as they, by deﬁnition, have smoldering myeloma or multiple myeloma.19 Data from the Icelandic Cancer Registry and laboratory records from Landspítali - the National University Hospital of Iceland (NUHI) and Læknasetrið, the only laboratories performing SPEP in Iceland, were crosslinked to the study cohort. Those who had M-protein previously identiﬁed in the clinical setting, were deﬁned as clinical MGUS. M-protein concentration, MGUS isotype, and FLC ratio were acquired from the study screening samples. Finally, comorbidity data was acquired from two national registries: the Hospital Discharge Register and Register of Primary Health Care Contacts, where the accuracy of chronic disease diagnoses has been found to be >95%.20 International Classiﬁcation of Diseases, 10th Revision (ICD-10) codes from the registries were grouped together into relevant disease categories (Online Supplementary Table S1) and their prevalence compared between clinical and screened MGUS.21\n\nStatistical analyses All statistical analyses compared clinical MGUS to screened MGUS. Demographic features (age, sex, and residence) were evaluated by t test and χ2 test for continuous and binary variables, respectively. When comparing laboratory features, linear regression was used to assess continuous variables (M-protein concentration, number of risk factors for progression), and logistic regression to assess binary variables (M-protein isotype, abnormal serum FLC ratio [<0.26 or >1.65]). Participants’ combined number of comorbidities was compared between the two groups by linear regression. Logistic regression was then used to compare the prevalence of each comorbidity category between the groups. All analyses were adjusted for age and sex, except for those regarding demographic differences. A P value of <0.05 was considered indicative of statistical signiﬁcance. R Statistical Software (version 3.6.2; R Core Team 2021) was used for all statistical analyses.22\n\nResults\n\nA total of 75,422 individuals were screened for MGUS in the iStopMM study, of whom 3,352 were diagnosed with\n\nHaematologica | 108 December 2023\n\n3393",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283191",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_sha256": "3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283191"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d:p3",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Clinical versus screened MGUS disease associations A. Sigurbersdóttir et al.\n\nMGUS based on M-proteins detected by SPEP. Of these individuals, 240 had previously been diagnosed with clinical MGUS (7.2%) (Table 1).\n\nDemographic features The median age of individuals with clinical MGUS was signiﬁcantly higher than in the screened MGUS group (73.5 vs. 69 years, respectively; P<0.001). The clinical MGUS group was also more likely to reside in Iceland’s capital area compared with those with screened MGUS (68.3% vs. 60.6%; P=0.02). No differences in sex distribution were detected between the two groups (Table 1).\n\nLaboratory ﬁndings The clinical MGUS group had a 0.17 g/dL higher mean M-protein concentration than those with screened MGUS (0.51 clinical vs. 0.34 g/dL screened, mean difference 0.17 g/dL, 95% conﬁdence interval [CI]: 0.13-0.22; P<0.001), after adjusting for age and sex (Table 1). There were no statistically signiﬁcant differences in the prevalence of each risk factor for progression from MGUS to MM or related lymphoproliferative disease, as deﬁned by the International Myeloma Working Group (M-protein isotype [non-IgG MGUS], M-protein concentration ≥1.5 g/dL, and an abnormal FLC ratio [<0.26 or >1.65]), nor in the mean number of risk factors for progression (0.80 clinical vs. 0.74 screened) (Table 1).23\n\nComorbidities Individuals with clinical MGUS were signiﬁcantly more likely to have at least one comorbidity compared with those with MGUS diagnosed by screening (n=227 [94.6%]\n\nclinical vs. n=2,704 [86.9%] screened; odds ratio [OR] =2.24; 95% CI: 1.30-4.19; P<0.01), and had a 37% higher mean number of comorbidities (3.23 clinical vs. 2.36 screened, mean difference 0.68; 95% CI: 0.46-0.90; P<0.001), in models adjusting for age and sex. Furthermore, those with clinical MGUS were more likely to have rheumatological disease (OR=2.98; 95% CI: 2.08- 4.20; P<0.001), neurological disease (OR=2.77; 95% CI: 1.84-4.06; P<0.001), chronic kidney disease (OR=2.55; 95% CI 1.65-3.85; P<0.001), liver disease (OR=2.39; 95% 95% CI: 1.21-4.35; P<0.01), heart failure (OR=2.37; 95% CI:1.57-3.50; P<0.001), and endocrine disorder (OR=1.61; 95% CI: 1.14- 2.24; P<0.01), after adjusting for age and sex. No signiﬁcant differences in the prevalence of other disease categories were detected (Table 2; Figure 1).\n\nDiscussion\n\nIn this large population-based nationwide screening study with over 75,000 participants and detailed nationwide information on comorbidities, we analyzed the differences between individuals with clinically diagnosed and screened MGUS. We found that individuals with a clinical diagnosis of MGUS had a 37% higher number of comorbidities compared with those found to have MGUS as part of our screening study and were two- to three-fold more likely to have been diagnosed with certain medical conditions. Our study shows that individuals diagnosed with MGUS during work-up for other medical conditions have more comorbidities than individuals diagnosed through systematic screening. This shows that studies comparing\n\nTable 1. Demographic and laboratory features of clinical monoclonal gammopathy of undetermined signiﬁcanc (MGUS) and screened MGUS.\n\nClinical MGUS\n\nN=240\n\nScreened MGUS\n\nN=3,112 P\n\nMedian age in years (range)a 73.5 (42-96) 69 (41-100) ***\n\nMale sex, N (%)b 122 (50.8) 1,671 (53.7)\n\nResidence in capital area, N (%)b 164 (68.3) 1,886 (60.6) *\n\nOR (95% CI)\n\nNon-IgG MGUS, N (%)c 75 (31.2) 1,044 (33.5) 0.87 (0.65-1.15)\n\nPathological FLC ratio, N (%)c 86 (35.8) 908 (29.2) 1.29 (0.98-1.70)\n\nM-protein ≥1.5 g/dL, N (%)c 8 (3.3) 45 (1.4) 1.92 (0.83-3.92)\n\nΔ (95% CI)\n\nMean number of risk factors of progression (SD)d 0.80 (0.78) 0.74 (0.73) 0.04 (-0.06-0.14)\n\nMean M-protein concentration, g/dL (SD)d 0.51 (0.44) 0.34 (0.33) 0.17 (0.13-0.22) ***\n\nAn odds ratio (OR) >1.00 and Δ >0.00 indicates increased risk for the clinical monoclonal gammopathy of undetermined signiﬁcanc (MGUS) group. A P value of <0.05 was considered indicative of statistical signiﬁcance. An FLC ratio <0.26 or >1.65 was considered pathological. aAssessed by t test. bAssessed by χ2 test. cAssessed by logistic regression, adjusted for age and sex. dAssessed by linear regression, adjusted for age and sex. *Indicates P<0.05, **P<0.01, ***P<0.001. CI: conﬁdence interval; Ig: immunoglobulin; FLC: free light chain; M: monoclonal; SD: standard deviation.\n\nHaematologica | 108 December 2023\n\n3394",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283191",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_sha256": "3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283191"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d:p4",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Clinical versus screened MGUS disease associations A. Sigurbersdóttir et al.\n\nTable 2. Prevalence of comorbidities in clinical monoclonal gammopathy of undetermined signiﬁcanc (MGUS) and screened MGUS.\n\nClinical MGUS\n\nN=240\n\nScreened MGUS\n\nN=3,112\n\nMean N (SD) Mean N (SD) Δ (95% CI) P\n\nComorbiditiesa 3.23 (2.05) 2.36 (1.78) 0.68 (0.46-0.90) ***\n\nN (%) N (%) OR (95% CI) P\n\nAny comorbidityb 227 (94.6) 2,704 (86.9) 2.24 (1.30-4.19) **\n\nRheumotological diseaseb 47 (19.6) 225 (7.2) 2.98 (2.08-4.20) ***\n\nNeurological diseaseb 35 (14.6) 169 (5.4) 2.77 (1.84-4.06) ***\n\nChronic kidney diseaseb 31 (12.9) 154 (4.9) 2.55 (1.65-3.85) ***\n\nLiver diseaseb 12 (5.0) 66 (2.1) 2.39 (1.21-4.35) **\n\nHeart failureb 37 (15.4) 198 (6.4) 2.37 (1.57-3.50) ***\n\nDementiab 8 (3.3) 40 (1.3) 2.16 (0.91-4.55)\n\nEndocrine diseaseb 52 (21.7) 426 (13.7) 1.61 (1.14-2.24) **\n\nArrhythmiab 59 (24.6) 535 (17.2) 1.38 (0.99-1.90)\n\nHypertensionb 163 (67.9) 1,784 (57.3) 1.34 (1.00-1.82)\n\nChronic lung diseaseb 69 (28.8) 705 (22.7) 1.31 (0.97-1.75)\n\nDiabetesb 32 (13.3) 329 (10.6) 1.24 (0.83-1.81)\n\nPancreatic diseaseb 1 (0.4) 9 (0.3) 1.22 (0.07-6.60)\n\nCerebrovascular diseaseb 22 (9.2) 223 (7.2) 1.12 (0.68-1.75)\n\nCancerb 47 (19.6) 503 (16.2) 1.11 (0.78-1.54)\n\nPeripheral vascular diseaseb 17 (7.1) 179 (5.8) 1.10 (0.63-1.81)\n\nIschemic heart diseaseb 56 (23.3) 624 (20.1) 1.06 (0.76-1.47)\n\nPsychological diseaseb 85 (35.4) 1,122 (36.1) 0.99 (0.75-1.31)\n\nInflammatory bowel diseaseb 2 (0.8) 40 (1.3) 0.66 (0.11-2.19)\n\nAn odds ratio (OR) >1.00 and Δ >0.00 indicates increased risk for the clinical monoclonal gammopathy of undetermined signiﬁcance (MGUS) group. A P value of <0.05 was considered indicative of statistical signiﬁcance. aAssessed by linear regression, adjusted for age and sex. bAssessed by logistic regression, adjusted for age and sex. *P<0.05, **P<0.01, ***P<0.001. CI: conﬁdence interval\n\ndisease associations with MGUS require data from screened populations to limit selection bias. Individuals with clinical MGUS were on average 4.5 years older and had 0.17 g/dL higher M-protein concentration than those with screened MGUS. Since, by deﬁnition, those with clinical MGUS had had MGUS for a longer time, and because M-protein generally increases over time, these results were expected.24 Both groups had a relatively low mean M-protein concentration (0.51 g/dL clinical vs. 0.34 g/dL screened), a difference that, while statistically signiﬁcant, is unlikely to be clinically important. Furthermore, no statistically signiﬁcant differences in the prevalence of individual risk factors of MGUS progression, or in the cumulated number of risk factors, were detected in our study. According to previous studies, the risk of MGUS progression to malignancy is low at 0.5-1.5% per year.2,6,24,25 The ﬁndings of this study indicate that previous estimates of MGUS progression have not been affected by selection bias and that clinically diagnosed\n\nMGUS is similar to MGUS diagnosed by screening. The clinical MGUS group had statistically a signiﬁcantly higher number of comorbidities compared to the screened MGUS group and was more likely to have at least one comorbidity, suggesting higher disease burden in general in clinically diagnosed individuals compared with the total MGUS population. This has previously been hypothesized but evidence has lacked until now.16 This important ﬁnding suggests selection bias in clinical cohorts of MGUS. In par-ticular, chronic kidney disease, endocrine disorders, neurological disease, liver disease and rheumatological disease were more prevalent among those with clinically diagnosed MGUS. This is clinically important since various disorders of these disease categories have previously been associated with MGUS, including glomerulonephritis,26,27 immune deposition kidney diseases,28 hyperparathyroidism,29 peripheral neuropathies,13 hepatitis C,30,31 and rheu-matoid arthritis.9 Due to these previously reported associations with MGUS, and often indistinct clinical signs\n\nHaematologica | 108 December 2023\n\n3395",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283191",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_sha256": "3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283191"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d:p5",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Clinical versus screened MGUS disease associations A. Sigurbersdóttir et al.\n\nFigure 1. Comorbidity prevalence of the study cohort. A P value of <0.05 was considered indicative of statistical signiﬁcance. Assessed by logistic regression models. All analyses were adjusted for age and sex. *P<0.05, **P<0.01, ***P<0.001. MGUS: monoclonal gammopathy of undetermined signiﬁcance.\n\nand symptoms, affected individuals are more likely to undergo serum protein blood testing (e.g., SPEP, immunoﬁxation, and FLC assays) during clinical workup, leading to the diagnosis of MGUS. For some of these conditions, SPEP is even advised during workup, according to clinical guidelines.32,33 This might also explain the higher prevalence of heart failure in the clinical MGUS group, as individuals suspected of amyloidosis causing their symptoms usually undergo SPEP and FLC assays.34 These differences suggest that at least some of the previously reported disease associations with MGUS have been overestimated as the evidence was based on clinical MGUS cohorts. Further studies to estimate true associations between MGUS and other diseases are needed on screened populations. Furthermore, multifaceted data, including information on laboratory markers and medications, in addition to care-ful, complex data analyses suiting each association, are essential to estimate causal relationships. Our study has several strengths. It is based on the largest screening study on MGUS to date, and it is the ﬁrst one that is both population-based and nationwide. The high participation rate in the iStopMM study (54.3% of the Icelandic population ≥40 years of age) makes the study cohort highly representative of the general population. Extensive information was gathered on all participants, including M-protein concentration, M-protein isotype, and\n\nFLC ratios, which was used to conﬁrm all MGUS diagnoses. By crosslinking our data to large national registries, where disease diagnoses are recorded prospectively with very high completeness and accuracy, we also gathered high-quality information on participants’ comorbidities, including cancer diagnoses. In addition, data was col-lected prospectively and in the same manner for all participants regardless of exposure status. Our study also has some important limitations. Relatively few individuals had some of the comorbidities assessed, which may have affected the statistical power to ascertain potential association for those diseases. Additionally, since there were multiple statistical tests done in our study, some associations found may have been spurious. However, due to the hypothesis-generating nature of the study, we did not adjust for multiple testing.17 Finally, the Icelandic population is ethnically and genetically homo-genous. Furthermore, the Icelandic health care system is universal, which makes access to full range health care services available for the entire population. However, this should not affect the results of the higher number of comorbidities among those with MGUS diagnosed in the clinical setting compared with those diagnosed through screening, although the prevalence of certain comorbidities may differ between countries and different health care systems.\n\nHaematologica | 108 December 2023\n\n3396",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283191",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_sha256": "3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283191"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d:p6",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Clinical versus screened MGUS disease associations A. Sigurbersdóttir et al.\n\nIn summary, we have shown that there is no meaningful difference in the severity of the precursor condition in individuals with a diagnosis of MGUS in the clinical setting compared with those diagnosed with MGUS in our screening study. However, there is a signiﬁcant difference with regards to the presence of comorbidities. Those with a clinical diagnosis of MGUS have a higher mean number of comorbidities and are more likely to have been diagnosed with certain medical conditions. Our ﬁndings emphasize the fact that MGUS cohorts, based on clinically diagnosed populations, are inherently biased towards individuals with more comorbidities, compared to cohorts consisting of screened individuals. Furthermore, our ﬁndings support that selection bias has affected the results of many previous studies reporting on MGUS and various medical associations, and that at least some associations may not be biologically true or have been signiﬁcantly overestimated. Going forward, it is imperative that screened MGUS cohorts are used to evaluate the epidemiological and biological implications of MGUS and that studies based on clinical MGUS cohorts should be interpreted with caution. Disclosures BGMD discloses consultancy for Amgen, Janssen, Celgene and Takeda. SH is the director of the Binding Site. OL has received research funding from National Institutes of Health, National Cancer Institute, US Food and Drug Ad-ministration, Multiple Myeloma Research Foundation, International Myeloma Foundation, Leukemia and Lymphoma Society, Perelman Family Foundation, Rising Tide Foundation, Amgen, Celgene, Janssen, Takeda, Glenmark, Seattle Genetics and Karyopharm; has received hon-oraria/advisory board fees from Adaptive, Amgen, Binding Site, BMS, Celgene, Cellectis, Glenmark, Janssen, Juno and Pﬁzer; and serves on Independent Data Monitoring Com-mittees for clinical trials by Takeda, Merck, Janssen and Theradex. SYK has received research funding from the International Myeloma Foundation, European Research Council, Icelandic Center for Research, Amgen, Celgene.\n\nThe remaining authors have no conﬂicts of interest to dis-close. Contributions AYS, SR, ST, and SYK designed the study. AYS and SR performed the analyses. AYS, SR, ST, TLJ, and SYK were in-volved in the interpretation of the results. AYS, SR, and SYK wrote the manuscript, with additional input from the other co-authors. All authors approved the submission of the ﬁnal manuscript. Acknowledgments Screening tests were performed by the Binding Site. Crosslinking of study data to national registries was performed by the Icelandic Directorate of Health and the Icelandic Cancer Society. Special thanks go to the thousands of Ice-landers who provided their informed consent for participation in the study. Funding The iStopMM study is funded by the Black Swan Research Initiative by the International Myeloma Foundation and the Icelandic Center for Research (grant no. 173857), the European Research Council (ERC) under the European Union‘s Horizon 2020 research and innovation programme (grant no. 716677). Additional funding was provided by the University of Iceland, Landspítali University Hospital, and the Icelandic Cancer Society. Data-sharing statement The iStopMM study has been approved by the Icelandic National Bioethics Committee. According to Icelandic law on ethics in research, and due to data privacy regulations and per informed consent from participants in this study, we are not allowed to share patient-level data used for this study. We, however, encourage researchers or parties in-terested in collaborations for non-commercial use to apply to the corresponding author. All requests will be reviewed by the iStopMM team to verify whether data sharing is within the restrictions of the study‘s ethical approval.\n\nReferences\n\n1. Kyle RA, Therneau TM, Rajkumar SV, et al. Prevalence of\n\nmonoclonal gammopathy of undetermined signiﬁcance. N Engl J Med. 2006;354(13):1362-1369. 2. Dispenzieri A, Katzmann JA, Kyle RA, et al. Prevalence and risk\n\nof progression of light-chain monoclonal gammopathy of undetermined signiﬁcance: a retrospective population-based cohort study. Lancet. 2010;375(9727):1721-1728. 3. Murray D, Kumar SK, Kyle RA, et al. Detection and prevalence of\n\nmonoclonal gammopathy of undetermined signiﬁcance: a study utilizing mass spectrometry-based monoclonal immunoglobulin rapid accurate mass measurement. Blood Cancer J. 2019;9(12):102.\n\n4. Weiss BM, Hebreo J, Cordaro DV, et al. Increased serum free\n\nlight chains precede the presentation of immunoglobulin light chain amyloidosis. J Clin Oncol. 2014;32(25):2699-2704. 5. Landgren O, Kyle RA, Pfeiffer RM, et al. Monoclonal\n\ngammopathy of undetermined signiﬁcance (MGUS) consistently precedes multiple myeloma: a prospective study. Blood. 2009;113(22):5412-5417. 6. Kyle RA, Therneau TM, Rajkumar SV, et al. Long-term follow-up\n\nof IgM monoclonal gammopathy of undetermined signiﬁcance. Blood. 2003;102(10):3759-3764. 7. Kristinsson SY, Pfeiffer RM, Björkholm M, et al. Arterial and\n\nvenous thrombosis in monoclonal gammopathy of\n\nHaematologica | 108 December 2023\n\n3397",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283191",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_sha256": "3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283191"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d:p7",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Clinical versus screened MGUS disease associations A. Sigurbersdóttir et al.\n\nundetermined signiﬁcance and multiple myeloma: a population-based study. Blood. 2010;115(24):4991-4998. 8. Kristinsson SY, Tang M, Pfeiffer RM, et al. Monoclonal\n\ngammopathy of undetermined signiﬁcance and risk of infections: a population-based study. Haematologica. 2012;97(6):854-858. 9. Lindqvist EK, Goldin LR, Landgren O, et al. Personal and family\n\nhistory of immune-related conditions increase the risk of plasma cell disorders: a population-based study. Blood. 2011;118(24):6284-6291. 10. Sigurbergsdóttir A, Love TJ, Kristinsson SY. Autoimmunity,\n\ninfections, and the risk of monoclonal gammopathy of undetermined signiﬁcance. Front Immunol. 2022;13:876271. 11. Kristinsson SY, Tang M, Pfeiffer RM, et al. Monoclonal\n\ngammopathy of undetermined signiﬁcance and risk of skeletal fractures: a population-based study. Blood. 2010;116(15):2651-2655. 12. Thorsteinsdottir S, Lund SH, Lindqvist EK, et al. Bone disease in\n\nmonoclonal gammopathy of undetermined signiﬁcance: results from a screened population-based study. Blood Adv. 2017;1(27):2790-2798. 13. Rögnvaldsson S, Steingrímsson V, Turesson I, Björkholm M,\n\nLandgren O, Kristinsson SY. Peripheral neuropathy and monoclonal gammopathy of undetermined signiﬁcance: a population-based study including 15,351 cases and 58,619 matched controls. Haematologica. 2020;105(11):2679-2681. 14. Kristinsson SY, Björkholm M, Andersson TM, et al. Patterns of\n\nsurvival and causes of death following a diagnosis of monoclonal gammopathy of undetermined signiﬁcance: a population-based study. Haematologica. 2009;94(12):1714-1720. 15. Fermand JP, Bridoux F, Dispenzieri A, et al. Monoclonal\n\ngammopathy of clinical signiﬁcance: a novel concept with therapeutic implications. Blood. 2018;132(14):1478-1485. 16. Bida JP, Kyle RA, Therneau TM, et al. Disease associations with\n\nmonoclonal gammopathy of undetermined signiﬁcance: a population-based study of 17,398 patients. Mayo Clin Proc. 2009;84(8):685-693. 17. Rothman KJ. No adjustments are needed for multiple\n\ncomparisons. Epidemiology. 1990;1(1):43-46. 18. Rögnvaldsson S, Love TJ, Thorsteinsdottir S, et al. Iceland\n\nscreens, treats, or prevents multiple myeloma (iStopMM): a population-based screening study for monoclonal gammopathy of undetermined signiﬁcance and randomized controlled trial of follow-up strategies. Blood Cancer J. 2021;11(5):94. 19. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International\n\nMyeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538-e548. 20. Rögnvaldsson S, Long TE, Thorsteinsdottir S, Love TJ,\n\nKristinsson SY. Validity of chronic disease diagnoses in Icelandic healthcare registries. Scand J Public Health. 2023;51(2):173-178. 21. WHO. International statistical classiﬁcation of diseases and\n\nrelated health problems, 10th revision (ICD-10). World Health Organization; 2016. 22. R Core Team. R: a language and environment for statistical\n\ncomputing. Vienna, Austria: R Foundation for Statistical Computing; 2019. https://www.r-project.org. Accessed April 20, 2023. 23. Kyle RA, Durie BGM, Rajkumar SV, et al. Monoclonal\n\ngammopathy of undetermined signiﬁcance (MGUS) and smoldering (asymptomatic) multiple myeloma: IMWG consensus perspectives risk factors for progression and guidelines for monitoring and management. Leukemia. 2010;24(6):1121-1127. 24. Kyle RA, Therneau TM, Rajkumar SV, et al. A long-term study of\n\nprognosis in monoclonal gammopathy of undetermined signiﬁcance. N Engl J Med. 2002;346(8):564-569. 25. Turesson I, Kovalchik SA, Pfeiffer RM, et al. Monoclonal\n\ngammopathy of undetermined signiﬁcance and risk of lymphoid and myeloid malignancies: 728 cases followed up to 30 years in Sweden. Blood. 2014;123(3):338-345. 26. Nasr SH, Satoskar A, Markowitz GS, et al. Proliferative\n\nglomerulonephritis with monoclonal IgG deposits. J Am Soc Nephrol. 2009;20(9):2055-2064. 27. Leung N, Bridoux F, Hutchison CA, et al. Monoclonal\n\ngammopathy of renal signiﬁcance: when MGUS is no longer undetermined or insigniﬁcant. Blood. 2012;120(22):4292-4295. 28. Nasr SH, Valeri AM, Cornell LD, et al. Renal monoclonal\n\nimmunoglobulin deposition disease: a report of 64 patients from a single institution. Clin J Am Soc Nephrol. 2012;7(2):231-239. 29. Arnulf B, Bengoufa D, Sarfati E, et al. Prevalence of monoclonal\n\ngammopathy in patients with primary hyperparathyroidism: a prospective study. Arch Intern Med. 2002;162(4):464-467. 30. Andreone P, Zignego AL, Cursaro C, et al. Prevalence of\n\nmonoclonal gammopathies in patients with hepatitis C virus infection. Ann Intern Med. 1998;129(4):294-298. 31. Brown LM, Gridley G, Check D, Landgren O. Risk of multiple\n\nmyeloma and monoclonal gammopathy of undetermined signiﬁcance among white and black male United States veterans with prior autoimmune, infectious, inﬂammatory, and allergic disorders. Blood. 2008;111(7):3388-3394. 32. KDIGO 2021 Clinical practice guideline for the management of\n\nglomerular diseases. Kidney Int. 2021;100(4s):S1-S276. 33. England JD, Gronseth GS, Franklin G, et al. Practice parameter:\n\nthe evaluation of distal symmetric polyneuropathy: the role of laboratory and genetic testing (an evidence-based review). Report of the American Academy of Neurology, the American Association of Neuromuscular and Electrodiagnostic Medicine, and the American Academy of Physical Medicine and Rehabilitation. PM R. 2009;1(1):5-13. 34. Gertz MA. Immunoglobulin light chain amyloidosis: 2022 update\n\non diagnosis, prognosis, and treatment. Am J Hematol. 2022;97(6):818-829.\n\nHaematologica | 108 December 2023\n\n3398",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:3c9f23f026e0867dfc33a7ef4b77505e87c700e539f4382eed0f2d925fa6600d"
+}

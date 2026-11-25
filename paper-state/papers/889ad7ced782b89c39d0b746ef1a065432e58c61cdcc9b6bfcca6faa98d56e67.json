@@ -1,0 +1,761 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T17:46:58.517067+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Detection of Circulating Tumor Plasma Cells in Monoclonal Gammopathies: Methods, Pathogenic Role, and Clinical Implications",
+        "year": null
+      },
+      "doi": "10.3390/cancers12061499",
+      "format": "pdf",
+      "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+      "url": "https://doi.org/10.3390/cancers12061499"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p1",
+        "source_issue_ids": [],
+        "text": "cancers\n\nReview Detection of Circulating Tumor Plasma Cells in Monoclonal Gammopathies: Methods, Pathogenic Role, and Clinical Implications\n\nLuzalba Sanoja-Flores 1,2 , Juan Flores-Montero 1,2 , Martín Pérez-Andrés 1,2, Noemí Puig 3,4\n\nand Alberto Orfao 1,2,*\n\n1 Translational and Clinical Research Program, Centro de Investigación del Cáncer and Instituto de Biología Molecular y Celular del Cáncer, Consejo Superior de Investigaciones Cientíﬁcas (CSIC)- University of Salamanca, 37007 Salamanca, Spain; lucysanoja@usal.es (L.S.-F.); jﬂores@usal.es (J.F.-M.); mmmar@usal.es (M.P.-A.) 2 Centro de Investigación Biomédica en Red de Cáncer, CIBER-ONC number CB16/12/00400, Instituto Carlos III, 28029 Madrid, Spain 3 Department of Hematology, University Hospital of Salamanca, IBSAL, IBMCC (USAL-CSIC), 37007 Salamanca, Spain; npuig@saludcastillayleon.es 4 Centro de Investigación Biomédica en Red de Cáncer, CIBER-ONC number CB16/12/00233, Instituto Carlos III, 28029 Madrid, Spain * Correspondence: orfao@usal.es\n\nReceived: 1 May 2020; Accepted: 3 June 2020; Published: 8 June 2020\n\n\u0001\u0002\u0003\u0001\u0004\u0005\u0006\u0007\b \u0001\u0002\u0003\u0004\u0005\u0006\u0007\n\nAbstract: Cancer dissemination and distant metastasis most frequently require the release of tumor cells into the blood circulation, both in solid tumors and most hematological malignancies, including plasma cell neoplasms. However, detection of blood circulating tumor cells in solid tumors and some hematological malignancies, such as the majority of mature/peripheral B-cell lymphomas and monoclonal gammopathies, has long been a challenge due to their very low frequency. In recent years, the availability of highly-sensitive and standardized methods for the detection of circulating tumor plasma cells (CTPC) in monoclonal gammopathies, e.g., next-generation ﬂow cytometry (NGF), demonstrated the systematic presence of CTPC in blood in virtually every smoldering (SMM) and symptomatic multiple myeloma (MM) patient studied at diagnosis, and in the majority of patients with newly-diagnosed monoclonal gammopathies of undetermined signiﬁcance (MGUS). These methods set the basis for further detailed characterization of CTPC vs. their bone marrow counterpart in monoclonal gammopathies, to investigate their role in the biology of the disease, and to conﬁrm their strong impact on patient outcome when measured both at diagnosis and after initiating therapy. Here, we review the currently available techniques for the detection of CTPC, and determine their biological features, physiopathological role and clinical signiﬁcance in patients diagnosed with distinct diagnostic categories of plasma cell neoplasms.\n\nKeywords: circulating tumor plasma cells; monoclonal gammopathy of undetermined signiﬁcance; multiple myeloma\n\n1. Introduction\n\nPlasma cell neoplasms are an heterogenous group of end-stage antibody-producing B-cell (i.e., plasma cell) disorders [1,2]. They are characterized by an expansion of tumor plasma cells (PC), typically inside bone marrow (BM) [3], with or without involvement of peripheral blood and/or other (extramedullary) tissues such as bone, soft tissues or skin [4]. In most monoclonal gammopathy patients, tumor PC produce and release an abnormal protein (i.e., monoclonal component) that is\n\nCancers 2020, 12, 1499; doi:10.3390/cancers12061499 www.mdpi.com/journal/cancers",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p10",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 10 of 25\n\ncells for CD45, CD19, CD38, CD138, cyIgκ and cyIgλ, identiﬁed CTPC in blood of only 24% of the patients [26]. Of note, the detection of CTPC by multiparameter ﬂow cytometry predicted shorter time to progression rates from SMM to MM (median TTP of 10 months vs. not reached for CTPC-positive vs. CTPC-negative patients) [26]. In contrast to MGUS and SMM, more studies have investigated the frequency and clinical implications of CTPC in the blood of MM patients by multiparameter ﬂow cytometry, both at diagnosis and after starting therapy. Thus, CTPC have been identiﬁed by multiparameter ﬂow cytometry in 50% to 75% of newly-diagnosed MM cases [19,20,22,28,31], depending on the number of markers and the speciﬁc antibody panels used [19,22,28,31], the number of cells analyzed [22,28,31], and the sample preparation protocol [19,22,28,31]. Importantly, these studies showed that the rate of CTPC-positive cases in blood among untreated MM patients increases approximately 1.4 fold from density gradient mononuclear cell isolation-based approaches [22,28] to whole blood ﬂow cytometry protocols [31], potentially due to speciﬁc loss of CTPC during mononuclear cell isolation procedures. Additionally, in these studies, absolute CTPC counts by multiparameter ﬂow cytometry in the blood of MM patients measured at diagnosis varied between 2.5–3 CTPC/µL [22,31]. From a prognostic point of view, higher CTPC counts in blood as detected by multiparameter ﬂow cytometry (regardless of the speciﬁc threshold proposed) are systematically associated with an independent adverse prognostic impact among newly-diagnosed MM [22,124]. Thus, the presence of ≥0.0035% (vs. <0.0035%) CTPC in the blood of untreated MM patients translated into a worse outcome, with lower three-year time to progression (65% vs. 34%) and overall survival (52% vs. 90%) rates, respectively, independently of the therapeutic regimen used or the presence of adverse cytogenetics as deﬁned by the International Myeloma Working Group criteria -i.e., Revised International Staging System (R-ISS)- [124]. Similarly, inferior overall survival (OS) rates were found in MM patients with ≥400 CTPC/150,000 mononuclear cells at diagnosis (median OS of 32 months vs. not reached for cases with <400 CTPC/150,000 mononuclear cells) [28]. In line with these ﬁndings, a recent study on newly-diagnosed MM shows that the presence of ≥5 CTPC/µL of blood is associated with a signiﬁcantly shorter time to next therapy (TTNT) and OS rates, compared with cases showing lower (<5 CTPC/µL) or undetected CTPC in blood (median TTNT of 21, 28 and 43 months, respectively, [22] and median OS of 46, 76 and 89 months, respectively [22]). Based on these results, the authors suggest that R-ISS I and R-ISS II MM patients presenting with ≥5 CTPC/µL in blood at diagnosis might display a similarly dismal prognosis to R-ISS III MM patients [22]. Several ﬂow cytometry-based studies also recognized the (adverse) prognostic impact of CTPC in treated MM patients, where decreasing frequencies of CTPC are associated with a progressively better response to therapy [33,116,125,126]. Overall, six-color ﬂow cytometry (or higher) detected CTPC in 18.7% to 19.3% of treated MM patients prior to stem cell mobilization for autologous stem cell transplantation [116,125,126]. In MM patients who reached complete response prior to stem cell mobilization for autologous stem cell transplantation, the frequency of CTPC-positive patients ranges from 0% [32–34] to 14% [116,125,126], depending on the speciﬁc multiparametric ﬂow cytometry approach used (e.g., for three- [32] to six-color cytometry [34]), the number of cells analyzed [125], and the sample preparation technique (e.g., staining of mononuclear cells [116] vs. erythrocyte-lysed whole blood [32,126]). In contrast, a signiﬁcantly greater frequency (approximately 64%) of CTPC-positive cases was found among relapsed MM patients at the time of stem cell collection [33]. In line with these ﬁndings, a poorer outcome (with signiﬁcantly shorter time to progression, progression free survival and/or overall survival rates) of treated MM patients showing CTPC in the blood by multiparameter ﬂow cytometry has been recurrently conﬁrmed by several groups, independently of the therapeutic regimen administered and the depth of clinical response achieved [33,116,125,126] (Table 3).\n\n3.4. Next Generation Flow Cytometry (NGF)\n\nNGF approaches have been recently developed for minimal/measurable residual disease (MRD) monitoring in the BM of treated MM patients [127,128]. Early NGF studies already demonstrated a",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p11",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 11 of 25\n\nsigniﬁcantly greater sensitivity (sensitivity of ≤2 × 10−6) and reproducibility for NGF vs. classical (8–10-color) ﬂow cytometry [127] (Table 2). This is mostly due to: (i) evaluation of signiﬁcantly greater numbers of cells per sample (i.e., ≥10 × 106 cells) achieved via ammonium chloride-based bulk-lysis of blood samples prior to antibody staining; (ii) an optimized two eight-color tube antibody combination; and (iii) usage of computer-assisted software tools for more objective and reproducible automated data analysis (i.e., the INFINICYT software from Cytognos Sl, Salamanca, Spain) [127]. More recently, NGF has also been applied for the detection of CTPC in the blood of MGUS, solitary plasmacytoma, SMM and MM (including a small group of macrofocal MM) patients [21]. In this latter study, NGF showed that the presence of CTPC in blood is a sign of systemic disease with signiﬁcantly lower rates of CTPC among patients with localized vs. disseminated diagnostic subtypes of monoclonal gammopathy: ≤25% in solitary plasmacytoma and macrofocal MM cases vs. 59% in MGUS and 100% in both SMM and MM patients [21]. Overall, these are unprecedently high frequencies of CTPC-positive cases vs. those previously reported using other (less sensitive, i.e., ﬂow) approaches [19,20,22,26,31]. More interestingly, the number of CTPC in blood progressively increased from MGUS (median CTPC count of 0.008 CTPC/µL) to SMM (median of 0.16 CTPC/µL) and MM (median of 1.9 CTPC/µL) patients. Noteworthy, a cutoﬀof 0.058 CTPC/µL was able to discriminate MGUS from MM patients with high accuracy (80% sensitivity and 80% speciﬁcity) [21]. From a prognostic point of view, the number of CTPC detected by NGF also proved to eﬃciently discriminate between MGUS cases with high (≥0.058 CTPC/µL) vs. low (<0.058 CTPC/µL) risk of progression to MM (median time to progression of 31 months vs. not reached, respectively), and to identify newly-diagnosed MM patients with reduced (≥0.1 CTPC/µL) vs. prolonged (<0.1 CTPC/µL) progression free survival (PFS) and overall survival (OS) (median PFS of 22 months vs. not reached and 75% OS of 17 months vs. not reached, respectively). Interestingly, MM patients who had CTPC counts at diagnosis similar to those of MGUS (<0.1 CTPC/µL) displayed a significantly favorable long-term outcome, independent of their response to therapy (e.g., complete response and BM MRD status). In contrast, in this study, the number of CTPC found in blood by NGF did not show a significant impact on the outcome of SMM patients, probably due to the limited of number of cases analyzed [21] (Table 3). Recently, the presence of CTPC in the blood of MM patients has also been evaluated by NGF after starting therapy. Thus, results in a large cohort of 137 real-world MM patients treated outside of clinical trials demonstrated CTPC by NGF in 26% of treated MM cases, including 17% of cases who had achieved complete response/stringent complete response [35], a signiﬁcantly greater percentage than previously shown by conventional multiparameter ﬂow cytometry approaches [34,116,125,126]. As expected, all treated MM patients who had CTPC in the blood by NGF were also MRD-positive in the BM, while the remaining two-thirds of BM MRD-positive cases did not show blood involvement by CTPC. Despite the lower sensitivity of detection of CTPC in blood vs. BM MRD, persistence of CTPC after treatment by NGF was associated with ﬁve-fold reduced progression free survival rates compared to CTPC-negative patients (median PFS of 9 vs. 46 months, respectively), independent of the patient’s tumor cytogenetics, the response achieved (complete response/stringent complete response vs. non-complete response) including the BM MRD status, and the treatment phase at which the presence of CTPC in blood had been assessed [35]. Interestingly, sequential blood CTPC monitoring by NGF predicted better long-term outcomes than single time-point assessments. Thus, treated MM patients who were persistently CTPC-negative in blood (i.e., CTPC −/−) or turned negative after a ﬁrst positive result (i.e., CTPC +/−), had signiﬁcantly superior progression free survival rates at two years (92.5%) compared to cases with positivity for CTPC in the last NGF analyses (CTPC −/+ or CTPC +/+ cases) (41%) [35]. Altogether, these ﬁndings demonstrate that NGF is a highly-sensitive technique that allows identiﬁcation and quantitation of CTPC in blood at diagnosis in the majority of MGUS cases and virtually all SMM and MM cases [21]. In addition, it provides valuable prognostic information in both patient groups and represents a new (minimally invasive) surrogate biomarker for BM MRD-positivity among treated MM patients [35].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p12",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 12 of 25\n\n3.5. Molecular (ASO-qPCR and Next Generation Sequencing) Techniques\n\nAlthough molecular techniques cannot strictly detect entire (tumor) cells, including CTPC, quantitation of some unique genetic (e.g., DNA) tumor markers such as patient-speciﬁc IGH-V(D)J gene rearrangements of CTPC has been long proven to closely reﬂect the tumor cell load [114,118,129]. This is in contrast with techniques that measure the M-component (e.g., immunoﬁxation and/or mass spectrometry) [130,131], because the serum levels of the monoclonal protein produced by the tumor PC depend on several parameters other than the number of CTPC, such as the tumor load in other tissues (e.g., BM), the (highly variable) amount of protein produced by individual tumor PC among diﬀerent plasma cell neoplasms patients, and its half-life [132]. So far, most studies in which molecular techniques have been used for CTPC detection in plasma cell neoplasms have focused on MM patients evaluated at diagnosis and/or after starting therapy [133]. Of note, virtually all these studies used ASO-qPCR [113,118,129], whereas a few NGS-based studies have been more recently reported [114,117]. ASO-qPCR is a highly speciﬁc and sensitive (<10−5 to 10−6) molecular method for the detection and quantiﬁcation of CTPC, based on the identiﬁcation and follow-up of patient-speciﬁc Ig heavy chain (IGH) complementary determining region 3 (CDR3) gene rearrangements in the blood of MM patients [118,129]. Thus, ASO-qPCR-based studies have shown the presence of CTPC in the blood in 67% [118] to 93% [113,129] of MM patients studied at diagnosis (the calculated number of CTPC detected ranged from 0.001% to 1.0% of all white blood cells) [129]. In turn, another preliminary ASO-qPCR-based study identiﬁed CTPC in 81% of MGUS cases, although the authors could not ensure that these patients were not in an advanced stage of the disease (with a constant increase of the monoclonal component) [19] (Figure 2). Similarly to NGF, the presence of CTPC by ASO-qPCR has been reported in the blood of between 24% of treated MM cases who are incomplete responders [113] to 73% of relapsed patients [118]. From a prognostic point of view, detection of CTPC by ASO-qPCR has been associated with impaired survival rates both in newly-diagnosed MM patients (median progression free survival of 26 months vs. 66 months for CTPC negative cases, respectively), and in MM cases studied after three months of high-dose therapy plus autologous stem cell transplantation (median progression free survival of 4 months vs. 15 months, and median overall survival of 17 months vs. 52 months for CTPC-positive vs. CTPC-negative cases, respectively) [118] (Table 3). However, data on the potential diagnostic and prognostic implications of CTPC detection by ASO-PCR in both MGUS and SMM patients is still limited and remains to be investigated [19]. As an advantage, ASO-qPCR and other (e.g., NGS) molecular techniques do not require fresh samples, since they can use stored blood-derived nucleic acids to evaluate CTPC. In contrast, they have a more limited applicability (range: 42% to 95% of cases) in MGUS, MM and other plasma cell neoplasms [133–135]. Additionally, these molecular PCR-based techniques require analysis of a baseline (e.g., diagnostic or relapse) sample to identify the patient-speciﬁc IGH rearrangement(s) [135,136] (Table 2). For this purpose, a pre-enrichment/puriﬁcation of tumor PC via isolation of mononuclear cells through density gradient centrifugation or via magnetic and ﬂuorescence activated cell sorting (FACS) of e.g., CD138+ PC is frequently required, even when diagnostic BM samples are available [133]. Next generation sequencing of IGH-V(D)J is a more sensitive (<10−6) and applicable (88–95%) molecular technique than ASO-qPCR [133,135,136] (Table 2). Thus, analysis of blood leukocyte DNA samples identiﬁed the clonotypic V(D)J rearrangements of CTPC by NGS in between 71% [117] and 78% [114] of MM cases at baseline (e.g., before starting therapy) and in 40% of treated MM patients (who mostly reached partial response to therapy) [117]. Nonetheless, in one study, the frequency of CTPC in blood increased to 96% of newly-diagnosed MM patients when RNA was used instead of DNA to detect tumor IGH-V(D)J gene rearrangements [114]. However, to date, molecular analysis by next generation sequencing of blood-derived CTPC has preferentially focused on the molecular characterization of puriﬁed CTPC in order to better understand the biology of the disease [119,121,137–139]. In this regard, a recent study based on single-cell RNA sequencing reported that overexpression of CENPF and LGALS1 genes in CTPC from MM patients was associated with reduced progression free survival",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p13",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 13 of 25\n\nrates [119] (Table 3). In contrast, the clinical impact of next generation sequencing-based analysis of CTPC in MGUS, SMM and other plasma cell neoplasms currently remains unknown and deserves further investigation [137].\n\n4. Biological Features and Physio-Pathological Role of CTPC in Plasma Cell Neoplasms\n\nAt present, the precise biological meaning and physio-pathological role of blood CTPC in MGUS, MM and other plasma cell neoplasms is not yet fully understood [23,140–142]. However, it is commonly accepted that CTPC reﬂect the biology of the tumor [20,35], representing a marker (related to, but independent of) the overall tumor burden [21,28,31,32,114]. For decades, the association observed between the presence (and greater numbers) of CTPC in blood and a higher tumor burden in the BM of MGUS, MM, PCL and other plasma cell neoplasms, has led to the notion that CTPC are a functionally unique population of BM-derived tumor PC [20,23,24]. However, more recent data indicates that CTPC usually represent a distinct subclone of BM PC [119,143,144] with a more immature phenotype (Figure 3) and quiescent proﬁle [21,144,145]. Thus, the association between blood and BM PC numbers could not be conﬁrmed in several studies [20,118,129], or it has been shown to be a non-linear correlation [21,32] independent of sample quality (e.g., hemodilution). Based on these ﬁndings, it has been hypothesized that CTPC might represent tumor cells that have migrated into the blood as a consequence of the inﬂuence of the tumor on its BM microenvironment, leading to escape from local immune surveillance [142] and increased levels of hypoxia [146]. At present, it is well-established than a hypoxic microenvironment stimulates the secretion of large amounts of vascular endothelial growth factor (VEGF) which locally promotes angiogenesis and tumor growth [140], together with the loss of expression of several (stroma) adhesion molecules on tumor PC [20,146], such as CD56, CD138, CD81 and CD117 [21,144]. This would favor tumor cell release and circulation. In addition, circadian variations of stromal cell derived factor 1 (SDF1) and chemokine receptor 4 (CXCR4) plasma levels [144], together with downregulation of PC-associated expression of integrins like CD11a, CD11c, CD29, CD49d and CD49e [144], and activation antigens (such as CD38 and CD27) [21,144] on CTPC vs. BM tumor PC, might also favor the release of tumor PC into the circulation. Despite all of the above, the overall immunophenotypic proﬁle of CTPC suggests a more immature stage of PC maturation compared to (paired) BM tumor PC (Figure 3) [21,144]. Thus, CTPC show a phenotype consistent with lower protein synthesis (as reﬂected by decreased levels of the endoplasmic reticulum-associated Vs38c marker and cytoplasmic Ig) [21], and reduced proliferation with both lower bromodeoxyuridine (BrdU) and deep red anthraquinone 5.5 (DRAQ5.5) uptake [144,145], and Ki67 expression levels [21]. In addition, CTPC show greater in vitro migration potential and increased in vitro self-renewing capacity for generating tumor PC colonies [144]. Altogether, these ﬁndings suggest that CTPC might represent the stem-cell like counterpart of tumor PC [21,144]. If this hypothesis holds true, higher numbers of CTPC in blood (with greater capacity of self-sustaining independently of the BM microenvironment), would potentially translate into faster and more extensive spread of the tumor via the bloodstream [25,142,147] throughout the BM and to extramedullary sites [21,142]. This would ultimately contribute to explaining, at least in part, the association observed between higher CTPC counts in blood and more advanced and aggressive features of the disease [21,22,25,28]. From a genomic point of view, several studies have shown that (puriﬁed) CTPC (mostly) from MM patients reproduce the pattern of somatic mutations present in BM tumor PC with relatively high levels of (sub)clonal heterogeneity [137,143]. Thus, CTPC show overexpression of genes (and mutations/genetic alterations) associated with drug resistance [143], the inﬂammatory response (e.g., BIRC3 or TNFAIP3), hypoxia (e.g., DDIT4), cell migration (e.g., CFAP54, EZR, EMP3 or AHNAK) and metastasis (e.g., AGR2, DDX5, MALAT1, TMED2, TPT1), together with downregulation of genes responsible for progression through the cell cycle (e.g., CENPF or CDC6) [119] (Figure 4A). In addition, the presence of CTPC in blood has also been related to ancestral cytogenetic proﬁles and unique cytogenetic alterations, including t(4;14) [28,29,116], deletion 13q [29], deletion 17p, t(11;14) and t(14;16) [22] (Figure 4B).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p14",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 14 of 25\n\nFigure 3. Example of the immunophenotypic diﬀerences observed by NGF between normal and tumor PC from paired BM and blood samples from a representative MM patient studied after HDT followed by ASCT. Multivariate canonical analysis (CA) plot (A) and classical two-dimensional dot plot representations (B) show the immunophenotypic diﬀerences between BM TPC (red dots) and PB CTPC (orange dots), and between normal PC from BM (dark blue color) and PB (light blue dots) following the EuroFlow NGF-MM minimal residual disease (MRD) approach. ASCT, autologous stem cell transplantation; BM, bone marrow; CTPC, circulating tumor plasma cells; HDT, high-dose therapy; MM, multiple myeloma; NPC, normal plasma cells; PB, peripheral blood; PC, plasma cells; TPC, tumor PC. Data modiﬁed from Sanoja-Flores et al. [35].\n\nFigure 4. Diﬀerential gene expression proﬁle (A) and genetic alterations (B) of blood circulating tumor plasma cells (CTPC) compared to paired bone marrow (BM) TPC in MM. The light green circle represents the most relevant genes diﬀerentially expressed in blood CTPC vs. BM TPC. In turn, the dark green circle represents genes diﬀerentially expressed in BM TPC vs. their blood counterpart. The intersection of both circles indicates the genetic proﬁle shared between blood CTPC and BM TPC. Genes depicted in red have been reported as independent prognostic factors for progression-free survival and overall survival in MM. * Cytogenetic alterations involve del17p, t (4;14), t (14;16). Clonal mutations refer to genes such as KRAS, NRAS, BRAF and TP53. FISH, ﬂuorescent in situ hybridization; MM, multiple myeloma; PB, peripheral blood; SCNAs, somatic copy-number alterations; SSNVs, somatic single-nucleotide variants; TPC, tumor plasma cells. Data modiﬁed from [119,121,137–139,143].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p15",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 15 of 25\n\n5. Clinical Implications of CTPC in Plasma Cell Neoplasms\n\nBased on the above findings, at present, CTPCs are considered a sign of active [27,32] and disseminated PC disease (i.e., from MGUS to SMM and MM) [21,142], while less frequent in tissue-localized plasma cell neoplasms (e.g., solitary plasmacytoma or macrofocal MM) [21] or a subset of MM patients with an MGUS-like phenotype that predominantly show bone disease/inﬁltration [21,27]. In addition, higher CTPC counts in blood are currently considered an adverse prognostic marker in MGUS and both newly-diagnosed and treated MM patients independent of the method used for their detection and quantitation [21–23,25,35,125,126]. At diagnosis, the prognostic value of CTPC in MM is independent from patient age, cytogenetic risk and the R-ISS stage of the disease [20,124]. Similarly, persistence of CTPC in the blood of treated MM patients predicts shorter survival (e.g., lower progression free survival and overall survival rates) independent of patient age, high-risk cytogenetics, the type of therapy administered, and the response achieved, as evaluated by the serum M-component (assessed by immunoﬁxation and the free light-chain ratio), as well as the BM MRD status [33,35,125]. Detection of CTPC by currently available highly-sensitive approaches such as NGF is a less sensitive MRD marker than BM MRD for monitoring treated MM patients [35]. However, blood monitoring of CTPC has multiple advantages compared to BM MRD. Thus, detection/quantitation of CTPC in blood is a minimally-invasive approach that, unlike BM MRD, is not aﬀected by (patchy) disease distribution and/or hemodilution [148]. At the same time, it is well-suited for (more) frequent monitoring of newly-diagnosed MGUS and treated MM patients who attain complete response [21,32,35,118], providing information that is complementary to serum immunoﬁxation [35], for example, for the follow-up of non-secretory PC tumors [129]. Despite all of the above, detection and monitoring of CTPC levels in the blood are not part of current clinical diagnostic and treatment response criteria, which still rely on conventional biochemical (i.e., serum/urine immunoﬁxation, protein electrophoresis and/or free light chain ratio status), cytomorphological (e.g., blood and BM PC counts), immunophenotypic (e.g., BM MRD by NGF), molecular (e.g., next generation sequencing-based BM MRD) and imaging criteria for the detection/monitoring of e.g., bone lesions and soft tissue plasmacytomas [130]. Based on the above ﬁndings, here we propose a diagnostic algorithm to assess the presence of CTPC in the diagnostic work up of patients suspected of plasma cell neoplasms that might contribute to a greater diagnostic eﬃciency and closer monitoring of the patients (Figure 5). Thus, low sensitivity but also less demanding detection techniques (i.e., cytomorphology) might be used upfront with the methods currently in use for detecting the M-component and the diagnosis of the most aggressive plasma cell disease category (PCL). In turn, more sensitive determinations would be reserved for patients suspected of having a plasma cell neoplasm with negative cytomorphologic results in blood. Most patients with disseminated disease (e.g., MGUS, SMM and MM) will potentially show CTPC by NGF, supporting the diagnosis of a PC neoplasm. In addition, high CTPC counts in blood is highly suggestive of a MM (vs. MGUS), based on the high speciﬁcity (approximately 80%) of the next-generation ﬂow assay; in such cases, BM examination is strongly recommended for a ﬁnal diagnosis (Figure 5). In contrast, in a signiﬁcant fraction of MGUS cases, no CTPC are detected, which might be of great utility for avoiding or delaying the BM study. In turn, cases with low CTPC counts in blood will most frequently be associated with MGUS, low-risk SMM and MGUS-like MM (Figure 5). In such cases, planning for a BM analysis might be considered depending on the presence vs. absence of symptoms and the amount of the serum monoclonal component (Figure 5) [21]. Similarly, the presence of CTPC in the blood of treated MM patients can be viewed as a surrogate marker of persistence of BM disease, and thereby used for more eﬃcient planning of BM sampling.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 16
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p16",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 16 of 25\n\nFigure 5. Proposed strategy for a comprehensive diagnostic work-up of patients suspected of or diagnosed with monoclonal gammopathy based on the assessment of circulating tumor plasma cells by complementary technologies. Please note that the proposed approach should be used in combination with currently established diagnostic approaches. BM, bone marrow; CTPC, circulating tumor plasma cells; MGUS, monoclonal gammopathy of undetermined signiﬁcance; MM, multiple myeloma; PC, plasma cell.\n\n6. Concluding Remarks\n\nIn recent years, new approaches have been developed that allow for the highly-sensitive detection of CTPC in patients with plasma cell neoplasms. From a clinical point of view, the detection of CTPC provides useful and relevant information for the diﬀerential diagnosis and prognostic stratiﬁcation of patients with plasma cell neoplasms at diagnosis. At the same time, it enables more frequent, minimally invasive monitoring of both newly-diagnosed MGUS and treated MM patients. Overall, the presence of CTPC is associated with disseminated disease at diagnosis, as well as a higher risk of malignant transformation of MGUS and a poorer outcome (i.e., decreased progression free survival and/or overall survival rates) in both newly-diagnosed and treated MM. Based on all the above, we envisage that the currently available highly-sensitive CTPC techniques such as NGF or NGS will be soon incorporated into routine laboratory diagnostics for the diagnostic work-up and monitoring of newly-diagnosed and treated plasma cell neoplasms. Although both techniques are complementary, they hold similar",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 17
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p17",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 17 of 25\n\nlevels of sensitivity with a comparable prognostic impact. Thus, NGF in combination with serum immunoﬁxation might be preferred due to its higher applicability and broader availability without the need for a diagnostic sample.\n\nAuthor Contributions: Writing—original draft preparation, L.S.-F.; J.F.-M.; M.P.-A.; N.P. and A.O.; Writing—review and editing, L.S.-F.; J.F.-M.; M.P.-A.; N.P. and A.O. All authors have read and agreed to the published version of the manuscript.\n\nFunding: This work received external funding from the International Myeloma Foundation (Los Angeles, CA).\n\nConﬂicts of Interest: The authors declare no conﬂict of interest.\n\nReferences\n\n1. Swerdlow, S.H.; Campo, E.; Pileri, S.A.; Harris, N.L.; Stein, H.; Siebert, R.; Advani, R.; Ghielmini, M.; Salles, G.A.; Zelenetz, A.D.; et al. The 2016 revision of the World Health Organization classiﬁcation of lymphoid neoplasms. Blood 2016, 127, 2375–2390. [CrossRef] 2. McKenna, R.W.; Kyle, R.A.; Kuehi, W.M.; Grogan, T.M.; Harris, N.L. Plasma cells neoplasms. In World Health Organization Calssiﬁcation of Tumours of Haematopoietic and Lymphoid Tissue IARC; WHO: Lyon, France, 2008; Volume 4, pp. 200–208. ISBN 9789283224310. 3. Palumbo, A.A.K. Multiple myeloma. N. Engl. J. Med. 2011, 364, 1046–1060. [CrossRef] 4. Kumar, S.K.; Rajkumar, V.; Kyle, R.A.; van Duin, M.; Sonneveld, P.; Mateos, M.-V.; Gay, F.; Anderson, K.C. Multiple myeloma. Nat. Rev. Dis. Prim. 2017, 3, 17046. [CrossRef] [PubMed] 5. Kyle, R.A.; Vincent Rajkumar, S. Monoclonal gammopathy of undetermined signiﬁcance. Br. J. Haematol. 2006, 134, 573–589. [CrossRef] [PubMed] 6. Kyle, R.A.; Therneau, T.M.; Rajkumar, S.V.; Larson, D.R.; Plevak, M.F.; Oﬀord, J.R.; Dispenzieri, A.; Katzmann, J.A.; Melton, L.J. Prevalence of Monoclonal Gammopathy of Undetermined Signiﬁcance. N. Engl. J. Med. 2006, 354, 1362–1369. [CrossRef] [PubMed] 7. Landgren, O.; Kyle, R.A.; Pfeiﬀer, R.M.; Katzmann, J.A.; Caporaso, N.E.; Hayes, R.B.; Dispenzieri, A.; Kumar, S.; Clark, R.J.; Baris, D.; et al. Monoclonal gammopathy of undetermined signiﬁcance (MGUS) consistently precedes multiple myeloma: a prospective study. Blood 2009, 113, 5412–5417. [CrossRef] [PubMed] 8. Weiss, B.M.; Abadie, J.; Verma, P.; Howard, R.S.; Kuehl, W.M. A monoclonal gammopathy precedes multiple myeloma in most patients. Blood 2009, 113, 5418–5422. [CrossRef] [PubMed] 9. Kyle, R.A.; Remstein, E.D.; Therneau, T.M.; Dispenzieri, A.; Kurtin, P.J.; Hodneﬁeld, J.M.; Larson, D.R.; Plevak, M.F.; Jelinek, D.F.; Fonseca, R.; et al. Clinical course and prognosis of smoldering (asymptomatic) multiple myeloma. N. Engl. J. Med. 2007, 356, 2582–2590. [CrossRef] 10. Kyle, R.A.; Child, J.A.; Anderson, K.; Barlogie, B.; Bataille, R.; Bensinger, W.; Bladé, J.; Boccadoro, M.; Dalton, W.; Dimopoulos, M.; et al. Criteria for the classiﬁcation of monoclonal gammopathies, multiple myeloma and related disorders: A report of the International Myeloma Working Group. Br. J. Haematol. 2003, 121, 749–757. [CrossRef] 11. Katodritou, E.; Kastritis, E.; Gatt, M.E.; Cohen, Y.C.; Avivi, I.; Pouli, A.; Lalayianni, A.; Lavi, N.; Delibasi, S.; Kyrtsonis, M.-C.; et al. Real-World Data on Incidence, Clinical Characteristics and Outcome of Patients with Macrofocal Multiple Myeloma (MFMM) in the Era of Novel Therapies: A Study of the Greco-Israeli Collaborative Myeloma Working Group. Blood 2018, 132, 3295. [CrossRef] 12. Fan, J.; Hou, J.; Du, J.; Jin, L.; Peng, L.; Chen, B.; Xi, H.; Zhang, H.; Jiang, H.; Zhou, F.; et al. Macrofocal Multple Myeloma Is a Particular Subgroup of Multiple Myeloma. Blood 2015, 126, 1855. [CrossRef] 13. Oriol, A. Multiple myeloma with extramedullary disease. Adv. Ther. 2011, 28, 1–6. [CrossRef] [PubMed] 14. Kyle, R.A.; Maldonado, J.E.; Bayrd, E.D. Plasma cell leukemia. Report on 17 cases. Arch. Intern. Med. 1974, 133, 813–818. [CrossRef] [PubMed] 15. Wechalekar, A.D.; Gillmore, J.D.; Hawkins, P.N. Systemic amyloidosis. Lancet 2016, 387, 2641–2654. [CrossRef] 16. Evans, L.A.; Jevremovic, D.; Nandakumar, B.; Buadi, F.K.; Dispenzieri, A.; Dingli, D.; Lacy, M.Q.; Hayman, S.R.; Kapoor, P.; Go, R.S.; et al. Utilizing Multiparametric Flow Cytometry to Identify Patients with Primary Plasma Cell Leukemia at Diagnosis. Blood 2019, 134, 4334. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 18
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p18",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 18 of 25\n\n17. Gundesen, M.T.; Lund, T.; Moeller, H.E.H.; Abildgaard, N. Plasma Cell Leukemia: Deﬁnition, Presentation, and Treatment. Curr. Oncol. Rep. 2019, 21, 1–10. [CrossRef] 18. Fernández De Larrea, C.; Kyle, R.A.; Durie, B.G.M.; Ludwig, H.; Usmani, S.; Vesole, D.H.; Hajek, R.; San Miguel, J.F.; Sezer, O.; Sonneveld, P.; et al. Plasma cell leukemia: Consensus statement on diagnostic requirements, response criteria and treatment recommendations by the International Myeloma Working Group. Leukemia 2013, 27, 780–791. [CrossRef] 19. Billadeau, D.; Van Ness, B.; Kimlinger, T.; Kyle, R.A.; Therneau, T.M.; Greipp, P.R.; Witzig, T.E. Clonal circulating cells are common in plasma cell proliferative disorders: A comparison of monoclonal gammopathy of undetermined signiﬁcance, smoldering multiple myeloma, and active myeloma. Blood 1996, 88, 289–296. [CrossRef] 20. Nowakowski, G.S.; Witzig, T.E.; Dingli, D.; Tracz, M.J.; Gertz, M.A.; Lacy, M.Q.; Lust, J.A.; Dispenzieri, A.; Greipp, P.R.; Kyle, R.A.; et al. Circulating plasma cells detected by ﬂow cytometry as a predictor of survival in 302 patients with newly diagnosed multiple myeloma. Blood 2005, 106, 2276–2279. [CrossRef] 21. Sanoja-Flores, L.; Flores-Montero, J.; Garcés, J.J.; Paiva, B.; Puig, N.; García-Mateo, A.; García-Sánchez, O.; Corral-Mateos, A.; Burgos, L.; Blanco, E.; et al. Next generation ﬂow for minimally-invasive blood characterization of MGUS and multiple myeloma at diagnosis based on circulating tumor plasma cells (CTPC). Blood Cancer J. 2018, 8, 117. [CrossRef] 22. Gonsalves, W.I.; Jevremovic, D.; Nandakumar, B.; Dispenzieri, A.; Buadi, F.K.; Dingli, D.; Lacy, M.Q.; Hayman, S.R.; Kapoor, P.; Leung, N.; et al. Enhancing the R-ISS classiﬁcation of newly diagnosed multiple myeloma by quantifying circulating clonal plasma cells. Am. J. Hematol. 2020, 95, 310–315. [CrossRef] [PubMed] 23. Kumar, S.; Rajkumar, S.V.; Kyle, R.A.; Lacy, M.Q.; Dispenzieri, A.; Fonseca, R.; Lust, J.A.; Gertz, M.A.; Greipp, P.R.; Witzig, T.E. Prognostic value of circulating plasma cells in monoclonal gammopathy of undetermined signiﬁcance. J. Clin. Oncol. 2005, 23, 5668–5674. [CrossRef] [PubMed] 24. Witzig, T.E.; Kyle, R.A.; O’Fallon, W.M.; Greipp, P.R. Detection of peripheral blood plasma cells as a predictor of disease course in patients with smouldering multiple myeloma. Br. J. Haematol. 1994, 87, 266–272. [CrossRef] [PubMed] 25. Bianchi, G.; Kyle, R.A.; Larson, D.R.; Witzig, T.E.; Kumar, S.; Dispenzieri, A.; Morice, W.G.; Rajkumar, S.V. High levels of peripheral blood circulating plasma cells as a speciﬁc risk factor for progression of smoldering multiple myeloma. Leukemia 2013, 27, 680–685. [CrossRef] 26. Gonsalves, W.I.; Rajkumar, S.V.; Dispenzieri, A.; Dingli, D.; Timm, M.M.; Morice, W.G.; Lacy, M.Q.; Buadi, F.K.; Go, R.S.; Leung, N.; et al. Quantiﬁcation of circulating clonal plasma cells via multiparametric ﬂow cytometry identiﬁes patients with smoldering multiple myeloma at high risk of progression. Leukemia 2017, 31, 130–135. [CrossRef] 27. Witzig, T.E.; Gertz, M.A.; Lust, J.A.; Kyle, R.A.; O’Fallon, W.M.; Greipp, P.R. Peripheral blood monoclonal plasma cells as a predictor of survival in patients with multiple myeloma. Blood 1996, 88, 1780–1787. [CrossRef] 28. Gonsalves, W.I.; Rajkumar, S.V.; Gupta, V.; Morice, W.G.; Timm, M.M.; Singh, P.P.; Dispenzieri, A.; Buadi, F.K.; Lacy, M.Q.; Kapoor, P.; et al. Quantiﬁcation of clonal circulating plasma cells in newly diagnosed multiple myeloma: Implications for redeﬁning high- risk myeloma. Leukemia 2014, 28, 2060–2065. [CrossRef] 29. An, G.; Qin, X.; Acharya, C.; Xu, Y.; Deng, S.; Shi, L.; Zang, M.; Sui, W.; Yi, S.; Li, Z.; et al. Multiple myeloma patients with low proportion of circulating plasma cells had similar survival with primary plasma cell leukemia patients. Ann. Hematol. 2015, 94, 257–264. [CrossRef] 30. Granell, M.; Calvo, X.; Garcia-Guiñón, A.; Escoda, L.; Abella, E.; Martínez, C.M.; Teixidó, M.; Teresa Gimenez, M.; Senín, A.; Sanz, P.; et al. Prognostic impact of circulating plasma cells in patients with multiple myeloma: Implications for plasma cell leukemia deﬁnition. Haematologica 2017, 102, 1099–1104. [CrossRef] 31. Bae, M.H.; Park, C.-J.; Kim, B.H.; Cho, Y.-U.; Jang, S.; Lee, D.-H.; Seo, E.-J.; Yoon, D.H.; Lee, J.-H.; Suh, C. Increased circulating plasma cells detected by ﬂow cytometry predicts poor prognosis in patients with plasma cell myeloma. Cytom. B Clin. Cytom. 2018, 94, 493–499. [CrossRef] 32. Rawstron, A.C.; Owen, R.G.; Davies, F.E.; Johnson, R.J.; Jones, R.A.; Richards, S.J.; Evans, P.A.; Child, J.A.; Smith, G.M.; Jack, A.S.; et al. Circulating plasma cells in multiple myeloma: Characterization and correlation with disease stage. Br. J. Haematol. 1997, 97, 46–55. [CrossRef] [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 19
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p19",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 19 of 25\n\n33. Dingli, D.; Nowakowski, G.S.; Dispenzieri, A.; Lacy, M.Q.; Hayman, S.R.; Rajkumar, S.V.; Greipp, P.R.; Litzow, M.R.; Gastineau, D.A.; Witzig, T.E.; et al. Flow cytometric detection of circulating myeloma cells before transplantation in patients with multiple myeloma: A simple risk stratiﬁcation system. Blood 2006, 107, 3384–3388. [CrossRef] 34. Gonsalves, W.I.; Morice, W.G.; Rajkumar, V.; Gupta, V.; Timm, M.M.; Dispenzieri, A.; Buadi, F.K.; Lacy, M.Q.; Singh, P.P.; Kapoor, P.; et al. Quantiﬁcation of clonal circulating plasma cells in relapsed multiple myeloma. Br. J. Haematol. 2014, 167, 500–505. [CrossRef] [PubMed] 35. Sanoja-Flores, L.; Flores-Montero, J.; Puig, N.; Contreras-Sanfeliciano, T.; Pontes, R.; Corral-Mateos, A.; García-Sánchez, O.; Díez-Campelo, M.; Pessoa de Magalhães, R.J.; García-Martín, L.; et al. Blood monitoring of circulating tumor plasma cells by next generation ﬂow in multiple myeloma after therapy. Blood 2019, 134, 2218–2222. [CrossRef] 36. Nutt, S.L.; Hodgkin, P.D.; Tarlinton, D.M.; Corcoran, L.M. The generation of antibody-secreting plasma cells. Nat. Rev. Immunol. 2015, 15, 160–171. [CrossRef] [PubMed] 37. Tellier, J.; Nutt, S.L. Plasma cells: The programming of an antibody-secreting machine. Eur. J. Immunol. 2019, 49, 30–37. [CrossRef] [PubMed] 38. Kometani, K.; Kurosaki, T. Diﬀerentiation and maintenance of long-lived plasma cells. Curr. Opin. Immunol. 2015, 33, 64–69. [CrossRef] 39. Medina, F.; Segundo, C.; Campos-Caro, A.; González-García, I.; Brieva, J.A. The heterogeneity shown by human plasma cells from tonsil, blood, and bone marrow reveals graded stages of increasing maturity, but local proﬁles of adhesion molecule expression. Blood 2002, 99, 2154–2161. [CrossRef] 40. Benner, R.; Hijmans, W.; Haaijman, J.J. The bone marrow: The major source of serum immunoglobulins, but still a neglected site of antibody formation. Clin. Exp. Immunol. 1981, 46, 1–8. 41. Manz, R.A.; Radbruch, A. Plasma cells for a lifetime? Eur. J. Immunol. 2002, 32, 923–927. [CrossRef] 42. Tangye, S.G. Thucydides and longer-lived plasma cells. Blood 2015, 125, 1684–1685. [CrossRef] [PubMed] 43. Goodnow, C.C.; Vinuesa, C.G.; Randall, K.L.; MacKay, F.; Brink, R. Control systems and decision making for antibody production. Nat. Immunol. 2010, 11, 681–688. [CrossRef] [PubMed] 44. Radbruch, A.; Muehlinghaus, G.; Luger, E.O.; Inamine, A.; Smith, K.G.C.; Dörner, T.; Hiepe, F. Competence and competition: The challenge of becoming a long-lived plasma cell. Nat. Rev. Immunol. 2006, 6, 741–750. [CrossRef] [PubMed] 45. Mesin, L.; Di Niro, R.; Thompson, K.M.; Lundin, K.E.A.; Sollid, L.M. Long-Lived Plasma Cells from Human Small Intestine Biopsies Secrete Immunoglobulins for Many Weeks In Vitro. J. Immunol. 2011, 187, 2867–2874. [CrossRef] [PubMed] 46. Chu, V.T.; Berek, C. The establishment of the plasma cell survival niche in the bone marrow. Immunol. Rev. 2013, 251, 177–188. [CrossRef] [PubMed] 47. Oracki, S.A.; Walker, J.A.; Hibbs, M.L.; Corcoran, L.M.; Tarlinton, D.M. Plasma cell development and survival. Immunol. Rev. 2010, 237, 140–159. [CrossRef] 48. Blanco, E.; Pérez-Andrés, M.; Arriba-Méndez, S.; Contreras-Sanfeliciano, T.; Criado, I.; Pelak, O.; Serra-Caetano, A.; Romero, A.; Puig, N.; Remesal, A.; et al. Age-associated distribution of normal B-cell and plasma cell subsets in peripheral blood. J. Allergy Clin. Immunol. 2018, 141, 2208–2219. [CrossRef] [PubMed] 49. Suan, D.; Sundling, C.; Brink, R. Plasma cell and memory B cell diﬀerentiation from the germinal center. Curr. Opin. Immunol. 2017, 45, 97–102. [CrossRef] 50. Shapiro-Shelef, M.; Calame, K.C. Regulation of plasma-cell development. Nat. Rev. Immunol. 2005, 5, 230–242. [CrossRef] 51. Blanco, E.; Perez-Andres, M.; Sanoja-Flores, L.; Wentink, M.; Pelak, O.; Martín-Ayuso, M.; Grigore, G.; Torres-Canizales, J.; López-Granados, E.; Kalina, T.; et al. Selection and validation of antibody clones against IgG and IgA subclasses in switched memory B-cells and plasma cells. J. Immunol. Methods 2019, 475, 112372. [CrossRef] 52. Caraux, A.; Klein, B.; Paiva, B.; Bret, C.; Schmitz, A.; Fuhler, G.M.; Bos, N.A.; Johnsen, H.E.; Orfao, A. Circulating human B and plasma cells. Age-associated changes in counts and detailed characterization of circulating normal CD138- and CD138 plasma cells. Haematologica 2010, 95, 1016–1020. [CrossRef] [PubMed] 53. Perez-Andres, M.; Paiva, B.; Nieto, W.G.; Caraux, A.; Schmitz, A.; Almeida, J.; Vogt, R.F.; Marti, G.E.; Rawstron, A.C.; Van Zelm, M.C.; et al. Human peripheral blood B-Cell compartments: A crossroad in B-cell traﬃc. Cytom. Part B Clin. Cytom. 2010, 78, S47–S60. [CrossRef] [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p2",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 2 of 25\n\ndetectable in the patient’s blood and/or urine. Monoclonal gammopathy of undetermined signiﬁcance (MGUS) is the most common plasma cell neoplasm [5] and aﬀects 3.2% of adults >50 years, and 5.3% >70 years [6]. Despite the fact that most MGUS cases will never undergo malignant transformation, previous studies have shown that MGUS is a precursor stage of multiple myeloma (MM) [7,8]. In line with this observation, malignant transformation of MGUS occurs in around 1% of patients per year [7,8]. This transformation is characterized by an increase in BM PC inﬁltration (≥10% BM PC) and serum monoclonal protein (≥30 g/L), and it may present in the absence of clinical symptoms (i.e., smoldering MM (SMM) [9] or as symptomatic MM [10] with evidence of underlying organ dysfunction and/or predominant BM involvement. However, in a few MM patients, extramedullary tissue lesions with limited BM inﬁltration occurs (i.e., macrofocal MM) [11,12]. Similarly, solitary plasmacytoma is a localized plasma cell neoplasm in which tumor PC are confined to extramedullary sites (i.e., bone or extraosseous) [13]. MM patients might also evolve to the most aggressive plasma cell neoplasm subtype, known as plasma cell leukemia (PCL), which is characterized by massive blood involvement (>2 × 109\n\ncirculating tumor cells/L) [14]. In some cases, the monoclonal (most frequently lambda) light chain protein might deposit in distinct tissues and organs, affecting their function and giving rise to the so-called light chain amyloidosis, even in the presence of low numbers of tumor PC in BM and other tissues [15]. Circulating tumor plasma cells (CTPC) have long been detected in the blood of PCL patients [16–18], as well as in a signiﬁcant fraction of MM [19–22], and to a lesser extent in MGUS cases [21,23]. From a clinical point of view, the presence and number of CTPC has been proven to have both diagnostic and prognostic implications in MGUS [21,23], SMM [24–26] and in symptomatic MM [20,21,27–31] patients. In addition, detection of CTPC has proven useful for (closer) minimally-invasive monitoring of MM after therapy [32–35]. Despite this, the reported frequency of MM and MGUS cases with detectable CTPC varies signiﬁcantly, depending on the speciﬁc methodology used and its sensitivity and speciﬁcity. Thereby, usage of highly-sensitive and standardized techniques for the detection and quantitation of CTPC becomes critically important [21,35]. Here, we provide a detailed review of the currently available techniques for the detection of CTPC in patients with plasma cell neoplasms, their biological features, pathogenic role, and clinical relevance, with special focus on MGUS and MM patients. This is preceded by a brief overview of normal PC development. To this end, we performed a comprehensive literature search of PubMed and Scopus databases for indexed, English language written scientiﬁc articles published between 1974 and March 2020, which contained the following keywords: plasma cells, tumor cells, circulating and/or peripheral blood; and plasma cell neoplasms, myeloma, monoclonal gammopathy, smoldering myeloma, multiple myeloma and/or plasma cell leukemia. From all papers identiﬁed, relevant publications were reviewed and critically selected.\n\n2. Normal Plasma Cell Development and Plasma Cell-Associated Phenotypes in Blood\n\nPlasma cells represent the most advanced stage of maturation of B-cells [36,37]. Thus, PC derive from naïve and memory B-cells after they have encountered their B-cell receptor-specific antigen in secondary lymphoid tissues, where they underwent somatic hypermutation, with or without immunoglobulin (Ig) class switching [37,38]. Recently produced plasmablasts leave the secondary lymphoid tissues via the blood and migrate to survival niches, mainly located in BM [39,40] and other secondary lymphoid tissues, such as the lamina propria of the gastrointestinal tract and inﬂammatory tissues [41–45]. At such niches, recently produced plasmablasts and PC become long-lived antibody-secreting PC [46,47], or they undergo (CD95-mediated) apoptosis [39]. Even when highly-sensitive techniques are used, normal circulating PC are undetectable at birth in cord blood. However, their number in blood raises exponentially during the ﬁrst weeks to months of life due to continuous contact with new antigens at exposed tissues (such as at the respiratory and the gastrointestinal tracts), reaching their maximum levels at between 1 to 2 years of age. Thereafter, the number of circulating normal PC in blood continuously decreases throughout adulthood (Figure 1A). Despite this overall proﬁle of normal PC kinetics in blood, diﬀerent patterns are observed depending on the speciﬁc Ig-isotype and Ig-subclass. Thus, maximum numbers of normal IgM+ PC",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 20
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p20",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 20 of 25\n\n54. Kalina, T.; Fišer, K.; Pérez-Andrés, M.; Kužílková, D.; Cuenca, M.; Bartol, S.J.W.; Blanco, E.; Engel, P.; van Zelm, M.C. CD maps—dynamic proﬁling of CD1–CD100 surface expression on human leukocyte and lymphocyte subsets. Front. Immunol. 2019, 10, 2434. [CrossRef] 55. Ruiz-Argüelles, G.; San Miguel, J. Cell Surface Markers in Multiple Myeloma. Mayo Clin. Proc. 1994, 69, 684–690. [CrossRef] 56. Barrena, S.; Almeida, J.; Yunta, M.; López, A.; Fernández-Mosteirín, N.; Giralt, M.; Romero, M.; Perdiguer, L.; Delgado, M.; Orfao, A.; et al. Aberrant expression of tetraspanin molecules in B-cell chronic lymphoproliferative disorders and its correlation with normal B-cell maturation. Leukemia 2005, 19, 1376–1383. [CrossRef] [PubMed] 57. De Vos, J.; Hose, D.; Rème, T.; Tarte, K.; Moreaux, J.; Mahtouk, K.; Jourdan, M.; Goldschmidt, H.; Rossi, J.F.; Cremer, F.W.; et al. Microarray-based understanding of normal and malignant plasma cells. Immunol. Rev. 2006, 210, 86–104. [CrossRef] [PubMed] 58. Jensen, G.S.; Poppema, S.; Mant, M.J.; Pilarski, L.M. Transition in CD45 isoform expression during diﬀerentiation of normal and abnormal B cells. Int. Immunol. 1989, 1, 229–236. [CrossRef] 59. Bhaskar, A.; Gupta, R.; Sharma, A.; Kumar, L.; Jain, P. Analysis of bone marrow plasma cells in patients with solitary bone plasmacytoma. Cancer Ther. 2009, 7, 49–52. 60. Pellat-Deceunynck, C.; Barillé, S.; Puthier, D.; Rapp, M.J.; Harousseau, J.L.; Bataille, R.; Amiot, M. Adhesion molecules on human myeloma cells: Signiﬁcant changes in expression related to malignancy, tumor spreading, and immortalization. Cancer Res. 1995, 55, 3647–3653. [CrossRef] 61. Jego, G.; Robillard, N.; Puthier, D.; Amiot, M.; Accard, F.; Pineau, D.; Harousseau, J.L.; Bataille, R.; Pellat-Deceunynck, C. Reactive plasmacytoses are expansions of plasmablasts retaining the capacity to diﬀerentiate into plasma cells. Blood 1999, 94, 701–712. [CrossRef] 62. Llinàs, L.; Lázaro, A.; de Salort, J.; Matesanz-Isabel, J.; Sintes, J.; Engel, P. Expression proﬁles of novel cell surface molecules on B-cell subsets and plasma cells as analyzed by ﬂow cytometry. Immunol. Lett. 2011, 134, 113–121. [CrossRef] [PubMed] 63. Rawstron, A.C.; Orfao, A.; Beksac, M.; Bezdickova, L.; Brooimans, R.A.; Bumbea, H.; Dalva, K.; Fuhler, G.; Gratama, J.; Hose, D.; et al. Report of the European Myeloma Network on multiparametric ﬂow cytometry in multiple myeloma and related disorders. Haematologica 2008, 93, 431–438. [CrossRef] [PubMed] 64. Pojero, F.; Casuccio, A.; Parrino, M.F.; Cardinale, G.; Colonna Romano, G.; Caruso, C.; Gervasi, F. Old and new immunophenotypic markers in multiple myeloma for discrimination of responding and relapsing patients: The importance of “normal” residual plasma cell analysis. Cytom. Part B Clin. Cytom. 2015, 88, 165–182. [CrossRef] 65. Terstappen, L.W.M.M.; Johnsen, S.; Segers-Nolten, I.M.J.; Loken, M.R. Identiﬁcation and characterization of plasma cells in normal human bone marrow by high-resolution ﬂow cytometry. Blood 1990, 76, 1739–1747. [CrossRef] [PubMed] 66. Harada, H.; Kawano, M.M.; Huang, N.; Harada, Y.; Iwato, K.; Tanabe, O.; Tanaka, H.; Sakai, A.; Asaoku, H.; Kuramoto, A. Phenotypic diﬀerence of normal plasma cells from mature myeloma cells. Blood 1993, 81, 2658–2663. [CrossRef] [PubMed] 67. Cannizzo, E.; Bellio, E.; Sohani, A.R.; Hasserjian, R.P.; Ferry, J.A.; Dorn, M.E.; Sadowski, C.; Bucci, J.J.; Carulli, G.; Preﬀer, F. Multiparameter immunophenotyping by ﬂow cytometry in multiple myeloma: The diagnostic utility of deﬁning ranges of normal antigenic expression in comparison to histology. Cytom. Part B Clin. Cytom. 2010, 78, 231–238. [CrossRef] 68. Robillard, N.; Jego, G.; Pellat-Deceunynck, C.; Pineau, D.; Puthier, D.; Mellerin, M.P.; Barillé, S.; Rapp, M.J.; Harousseau, J.L.; Amiot, M.; et al. CD28, a marker associated with tumoral expansion in multiple myeloma. Clin. Cancer Res. 1998, 4, 1521–1526. 69. Mateo, G.; Montalbán, M.A.; Vidriales, M.B.; Lahuerta, J.J.; Mateos, M.V.; Gutiérrez, N.; Rosiñol, L.; Montejano, L.; Bladé, J.; Martínez, R.; et al. Prognostic value of immunophenotyping in multiple myeloma: A study by the PETHEMA/GEM cooperative study groups on patients uniformly treated with high-dose therapy. J. Clin. Oncol. 2008, 26, 2737–2744. [CrossRef] 70. Jourdan, M.; Caraux, A.; De Vos, J.; Fiol, G.; Larroque, M.; Cognot, C.; Bret, C.; Duperray, C.; Hose, D.; Klein, B. An in vitro model of diﬀerentiation of memory B cells into plasmablasts and plasma cells including detailed phenotypic and molecular characterization. Blood 2009, 114, 5173–5181. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 21
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p21",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 21 of 25\n\n71. Wells, S.M.; Kantor, A.B.; Stall, A.M. CD43 (S7) expression identiﬁes peripheral B cell subsets. J. Immunol. 1994, 153, 5503–5515. 72. Matesanz-Isabel, J.; Sintes, J.; Llinàs, L.; de Salort, J.; Lázaro, A.; Engel, P. New B-cell CD molecules. Immunol. Lett. 2011, 134, 104–112. [CrossRef] [PubMed] 73. Rudolf-Oliveira, R.C.M.; Auat, M.; Cardoso, C.C.; Santos-Pirath, I.M.; Lange, B.G.; Pires-Silva, J.; Moraes, A.C.R.; de Dametto, G.C.; Pirolli, M.M.; Colombo, M.D.H.P.; et al. Determination of normal expression patterns of CD86, CD210a, CD261, CD262, CD264, CD358, and CD361 in peripheral blood and bone marrow cells by ﬂow cytometry. Immunol. Lett. 2018, 194, 44–55. [CrossRef] [PubMed] 74. Terpos, E.; Ntanasis-Stathopoulos, I.; Christoulas, D.; Bagratuni, T.; Bakogeorgos, M.; Gavriatopoulou, M.; Eleutherakis-Papaiakovou, E.; Kanellias, N.; Kastritis, E.; Dimopoulos, M.A. Semaphorin 4D correlates with increased bone resorption, hypercalcemia, and disease stage in newly diagnosed patients with multiple myeloma. Blood Cancer J. 2018, 8, 1–10. [CrossRef] 75. Luque, R.; Brieva, J.A.; Moreno, A.; Manzanal, A.; Escribano, L.; Villarrubia, J.; Velasco, J.L.; López-Jiménez, J.; Cerveró, C.; Otero, M.J.; et al. Normal and clonal B lineage cells can be distinguished by their diﬀerential expression of B cell antigens and adhesion molecules in peripheral blood from multiple myeloma (MM) patients diagnostic and clinical implications. Clin. Exp. Immunol. 1998, 112, 410–418. [CrossRef] 76. Sun, J.; Muz, B.; Alhallak, K.; Markovic, M.; Gurley, S.; Wang, Z.; Guenthner, N.; Wasden, K.; Fiala, M.; King, J.; et al. Targeting CD47 as a novel immunotherapy for multiple myeloma. Cancers (Basel) 2020, 12, 305. [CrossRef] 77. Shin, S.J.; Lee, H.; Jung, G.; Gil, M.; Park, H.; Park, Y.S.; Yoon, D.H.; Suh, C.; Park, C.J.; Huh, J.; et al. Expression of CD99 in multiple myeloma: A clinicopathologic and immunohistochemical study of 170 cases. Korean J. Pathol. 2014, 48, 209–216. [CrossRef] 78. Gil, M.; Pak, H.K.; Lee, A.N.; Park, S.J.; Lee, Y.; Roh, J.; Lee, H.; Chung, Y.S.; Park, C.S. CD99 regulates CXCL12-induced chemotaxis of human plasma cells. Immunol. Lett. 2015, 168, 329–336. [CrossRef] 79. Cantor, J.; Browne, C.D.; Ruppert, R.; Féral, C.C.; Fässler, R.; Rickert, R.C.; Ginsberg, M.H. CD98hc facilitates B cell proliferation and adaptive humoral immunity. Nat. Immunol. 2009, 10, 412–419. [CrossRef] 80. Pojero, F.; Casuccio, A.; Giambanco, C.; Bulati, M.; Buﬀa, S.; Di Bassiano, F.; Gervasi, F.; Caruso, C.; Colonna Romano, G. Bone marrow B lymphocytes in multiple myeloma and MGUS: Focus on distribution of naive cells and memory subsets. Leuk. Res. 2016, 49, 51–59. [CrossRef] 81. Kop, E.N.; Matmati, M.; Pouwels, W.; Leclercq, G.; Tak, P.P.; Hamann, J. Diﬀerential expression of CD97 on human lymphocyte subsets and limited eﬀect of CD97 antibodies on allogeneic T-cell stimulation. Immunol. Lett. 2009, 123, 160–168. [CrossRef] 82. Winkelmann, R.; Sandrock, L.; Porstner, M.; Roth, E.; Mathews, M.; Hobeika, E.; Reth, M.; Kahn, M.L.; Schuh, W.; Jäck, H.M. B cell homeostasis and plasma cell homing controlled by Krüppel-like factor 2. Proc. Natl. Acad. Sci. USA. 2011, 108, 710–715. [CrossRef] [PubMed] 83. Tohami, T.; Drucker, L.; Radnay, J.; Shapira, H.; Lishner, M. Expression of tetraspanins in peripheral blood leukocytes: A comparison between normal and infectious conditions. Tissue Antigens 2004, 64, 235–242. [CrossRef] [PubMed] 84. Bischof, D.; Elsawa, S.F.; Mantchev, G.; Yoon, J.; Michels, G.E.; Nilson, A.; Sutor, S.L.; Platt, J.L.; Ansell, S.M.; Von Bulow, G.; et al. Selective activation of TACI by syndecan-2. Blood 2006, 107, 3235–3242. [CrossRef] 85. Huang, X.; Takata, K.; Sato, Y.; Tanaka, T.; Ichimura, K.; Tamura, M.; Oka, T.; Yoshino, T. Downregulation of the B-cell receptor signaling component CD79b in plasma cell myeloma: A possible post transcriptional regulation. Pathol. Int. 2011, 61, 122–129. [CrossRef] 86. Pinto, D.; Montani, E.; Bolli, M.; Garavaglia, G.; Sallusto, F.; Lanzavecchia, A.; Jarrossay, D. A functional BCR in human IgA and IgM plasma cells. Blood 2013, 121, 4110–4114. [CrossRef] 87. Krzysiek, R.; Lefevre, E.A.; Bernard, J.; Foussat, A.; Galanaud, P.; Louache, F.; Richard, Y. Regulation of CCR6 chemokine receptor expression and responsiveness to macrophage inﬂammatory protein-3α/CCL20 in human B cells. Blood 2000, 96, 2338–2345. [CrossRef] 88. Odendahl, M.; Mei, H.; Hoyer, B.F.; Jacobi, A.M.; Hansen, A.; Muehlinghaus, G.; Berek, C.; Hiepe, F.; Manz, R.; Radbruch, A.; et al. Generation of migratory antigen-speciﬁc plasma blasts and mobilization of resident plasma cells in a secondary immune response. Blood 2005, 105, 1614–1621. [CrossRef] 89. Ong, H.T.; Timm, M.M.; Greipp, P.R.; Witzig, T.E.; Dispenzieri, A.; Russell, S.J.; Peng, K.W. Oncolytic measles virus targets high CD46 expression on multiple myeloma cells. Exp. Hematol. 2006, 34, 713–720. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 22
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p22",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 22 of 25\n\n90. Alcindor, T.; Kimlinger, T.; Witzig, T.E. High expression of CD59 and CD55 on benign and malignant plasma cells. Leuk. Lymphoma 2006, 47, 919–921. [CrossRef] 91. Terstappen, L.W.M.M.; Nguyen, M.; Lazarus, H.M.; Medof, M.E. Expression of the DAF (CD55) and CD59 antigens during normal hematopoietic cell diﬀerentiation. J. Leukoc. Biol. 1992, 52, 652–660. [CrossRef] 92. Barker, H.F.; Hamilton, M.S.; Ball, J.; Drew, M.; Franklin, I.M. Expression of adhesion molecules LFA-3 and N-CAM on normal and malignant human plasma cells. Br. J. Haematol. 1992, 81, 331–335. [CrossRef] 93. Lyu, M.; Hao, Y.; Li, Y.; Lyu, C.; Liu, W.; Li, H.; Xue, F.; Liu, X.; Yang, R. Upregulation of CD72 expression on CD19+CD27+ memory B cells by CD40L in primary immune thrombocytopenia. Br. J. Haematol. 2017, 178, 308–318. [CrossRef] 94. Rodríguez-Bayona, B.; Ramos-Amaya, A.; Brieva, J.A. Diﬀerential expression of SLAMS and other modulatory molecules by human plasma cells during normal maturation. Immunol. Lett. 2011, 134, 122–128. [CrossRef] 95. Ocqueteau, M.; Orfao, A.; Almeida, J.; Bladé, J.; González, M.; García-Sanz, R.; López-Berges, C.; Moro, M.J.; Hernández, J.; Escribano, L.; et al. Immunophenotypic characterization of plasma cells from monoclonal gammopathy of undetermined signiﬁcance patients: Implications for the diﬀerential diagnosis between MGUS and multiple myeloma. Am. J. Pathol. 1998, 152, 1655–1665. 96. Pérez-Andrés, M.; Almeida, J.; Martín-Ayuso, M.; Moro, M.J.; Martín-Nuñez, G.; Galende, J.; Borrego, D.; Rodríguez, M.J.; Ortega, F.; Hernandez, J.; et al. Clonal plasma cells from monoclonal gammopathy of undetermined signiﬁcance, multiple myeloma and plasma cell leukemia show diﬀerent expression proﬁles of molecules involved in the interaction with the immunological bone marrow microenvironment. Leukemia 2005, 19, 449–455. [CrossRef] 97. Burton, J.D.; Ely, S.; Reddy, P.K.; Stein, R.; Gold, D.V.; Cardillo, T.M.; Goldenberg, D.M. CD74 is expressed by multiple myeloma and is a promising target for therapy. Clin. Cancer Res. 2004, 10, 6606–6611. [CrossRef] 98. Zheng, X.; Abroun, S.; Otsuyama, K.; Asaoku, H.; Kawano, M.M. Heterogeneous expression of CD32 and CD32-mediated growth suppression in human myeloma cells. Haematologica 2006, 91, 920–928. 99. Banham, A.H.; Colonna, M.; Cella, M.; Micklem, K.J.; Pulford, K.; Willis, A.C.; Mason, D.Y. Identiﬁcation of the CD85 antigen as ILT2, an inhibitory MHC class I receptor of the immunoglobulin superfamily. J. Leukoc. Biol. 1999, 65, 841–845. [CrossRef] 100. Pojero, F.; Flores-Montero, J.; Sanoja, L.; Pérez, J.J.; Puig, N.; Paiva, B.; Bottcher, S.; van Dongen, J.J.M.; Orfao, A. Utility of CD54, CD229, and CD319 for the identiﬁcation of plasma cells in patients with clonal plasma cell diseases. Cytom. Part B Clin. Cytom. 2016, 90, 91–100. [CrossRef] 101. Klein, B.; Tarte, K.; Jourdan, M.; Mathouk, K.; Moreaux, J.; Jourdan, E.; Legouﬀe, E.; De Vos, J.; Rossi, J.F. Survival and proliferation factors of normal and malignant plasma cells. Int. J. Hematol. 2003, 78, 106–113. [CrossRef] 102. Cho, S.F.; Anderson, K.C.; Tai, Y.T. Targeting B cell maturation antigen (BCMA) in multiple myeloma: Potential uses of BCMA-based immunotherapy. Front. Immunol. 2018, 9. [CrossRef] [PubMed] 103. Seckinger, A.; Delgado, J.A.; Moser, S.; Moreno, L.; Neuber, B.; Grab, A.; Lipp, S.; Merino, J.; Prosper, F.; Emde, M.; et al. Target Expression, Generation, Preclinical Activity, and Pharmacokinetics of the BCMA-T Cell Bispeciﬁc Antibody EM801 for Multiple Myeloma Treatment. Cancer Cell 2017, 31, 396–410. [CrossRef] 104. Smulski, C.R.; Eibel, H. BAFF and BAFF-receptor in B cell selection and survival. Front. Immunol. 2018, 9. [CrossRef] [PubMed] 105. Yousef, S.; Marvin, J.; Steinbach, M.; Langemo, A.; Kovacsovics, T.; Binder, M.; Kröger, N.; Luetkens, T.; Atanackovic, D. Immunomodulatory molecule PD-L1 is expressed on malignant plasma cells and myeloma-propagating pre-plasma cells in the bone marrow of multiple myeloma patients. Blood Cancer J. 2015, 5, e285. [CrossRef] [PubMed] 106. Miguel-Garcia, A.; Matutes, E.; Tarin, F.; Garcia-Talavera, J.; Miguel-Sosa, A.; Carbonell, F.; Catovsky, D. Circulating Ki67 positive lymphocytes in multiple myeloma and benign monoclonal gammopathy. J. Clin. Pathol. 1995, 48, 835–839. [CrossRef] [PubMed] 107. Mizuta, S.; Kawata, T.; Kawabata, H.; Yamane, N.; Mononobe, S.; Komai, T.; Koba, Y.; Ukyo, N.; Tamekane, A.; Watanabe, M. VS38 as a promising CD38 substitute antibody for ﬂow cytometric detection of plasma cells in the daratumumab era. Int. J. Hematol. 2019, 110, 322–330. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 23
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p23",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 23 of 25\n\n108. Blanco, E.; Pérez-Andrés, M.; Arriba-Méndez, S.; Serrano, C.; Criado, I.; Del Pino-Molina, L.; Silva, S.; Madruga, I.; Bakardjieva, M.; Martins, C.; et al. Defects in memory B-cell and plasma cell subsets expressing diﬀerent immunoglobulin-subclasses in patients with CVID and immunoglobulin subclass deﬁciencies. J. Allergy Clin. Immunol. 2019, 144, 809–824. [CrossRef] 109. Manz, R.A.; Hauser, A.E.; Hiepe, F.; Radbruch, A. Maintenance of serum antibody levels. Annu. Rev. Immunol. 2005, 23, 367–386. [CrossRef] 110. Ravi, P.; Kumar, S.K.; Roeker, L.; Gonsalves, W.; Buadi, F.; Lacy, M.Q.; Go, R.S.; Dispenzieri, A.; Kapoor, P.; Lust, J.A.; et al. Revised diagnostic criteria for plasma cell leukemia: Results of a Mayo Clinic study with comparison of outcomes to multiple myeloma. Blood Cancer J. 2018, 8, 1–6. [CrossRef] 111. Touzeau, C.; Pellat-Deceunynck, C.; Gastinne, T.; Accard, F.; Jego, G.; Avet-Loiseau, H.; Robillard, N.; Harousseau, J.L.; Bataille, R.; Moreau, P. Reactive plasmacytoses can mimick plasma cell leukemia: Therapeutical implications. Leuk. Lymphoma 2007, 48, 207–208. [CrossRef] 112. Gounari, E.; Tsavdaridou, V.; Koletsa, T.; Nikolaidou, A.; Kaiafa, G.; Papaioannou, M.; Kostopoulos, I.; Skoura, L. Utility of hematology analyzer and ﬂow cytometry in timely and correct detection of circulating plasma cells: Report of three cases. Cytometry B. Clin. Cytom. 2016, 90, 531–537. [CrossRef] [PubMed] 113. Huhn, S.; Weinhold, N.; Nickel, J.; Pritsch, M.; Hielscher, T.; Hummel, M.; Bertsch, U.; Huegle-Doerr, B.; Vogel, M.; Angermund, R.; et al. Circulating tumor cells as a biomarker for response to therapy in multiple myeloma patients treated within the GMMG-MM5 trial. Bone Marrow Transplant. 2017, 1–5. [CrossRef] [PubMed] 114. Vij, R.; Mazumder, A.; Klinger, M.; O’Dea, D.; Paasch, J.; Martin, T.; Weng, L.; Park, J.; Fiala, M.; Faham, M.; et al. Deep Sequencing Reveals Myeloma Cells in Peripheral Blood in Majority of Multiple Myeloma Patients. Clin. Lymphoma Myeloma Leuk. 2014, 14, 131–139. [CrossRef] 115. Gertz, M.A.; Witzig, T.E.; Pineda, A.A.; Greipp, P.R.; Kyle, R.A.; Litzow, M.R. Monoclonal plasma cells in the blood stem cell harvest from patients with multiple myeloma are associated with shortened relapse-free survival after transplantation. Bone Marrow Transplant. 1997, 19, 337–342. [CrossRef] 116. Chakraborty, R.; Muchtar, E.; Kumar, S.K.; Jevremovic, D.; Buadi, F.K.; Dingli, D.; Dispenzieri, A.; Hayman, S.R.; Hogan, W.J.; Kapoor, P.; et al. Risk stratiﬁcation in myeloma by detection of circulating plasma cells prior to autologous stem cell transplantation in the novel agent era. Blood Cancer J. 2016, 6, 1–6. [CrossRef] 117. Oberle, A.; Brandt, A.; Voigtlaender, M.; Thiele, B.; Radloﬀ, J.; Schulenkorf, A.; Alawi, M.; Akyüz, N.; März, M.; Ford, C.T.; et al. Monitoring multiple myeloma by next-generation sequencing of V(D)J rearrangements from circulating myeloma cells and cell-free myeloma DNA. Haematologica 2017, 102, 1105–1111. [CrossRef] 118. Korthals, M.; Sehnke, N.; Kronenwett, R.; Schroeder, T.; Strapatsas, T.; Kobbe, G.; Haas, R.; Fenk, R. Molecular Monitoring of Minimal Residual Disease in the Peripheral Blood of Patients with Multiple Myeloma. Biol. Blood Marrow Transplant. 2013, 19, 1109–1115. [CrossRef] 119. Garcés, J.-J.; Simicek, M.; Vicari, M.; Brozova, L.; Burgos, L.; Bezdekova, R.; Alignani, D.; Calasanz, M.-J.; Growkova, K.; Goicoechea, I.; et al. Transcriptional proﬁling of circulating tumor cells in multiple myeloma: A new model to understand disease dissemination. Leukemia 2020, 34, 589–603. [CrossRef] 120. Witzig, T.E.; Dhodapkar, M.V.; Kyle, R.A.; Greipp, P.R. Quantitation of circulating peripheral blood plasma cells and their relationship to disease activity in patients with multiple myeloma. Cancer 1993, 72, 108–113. [CrossRef] 121. Foulk, B.; Schaﬀer, M.; Gross, S.; Rao, C.; Smirnov, D.; Connelly, M.C.; Chaturvedi, S.; Reddy, M.; Brittingham, G.; Mata, M.; et al. Enumeration and characterization of circulating multiple myeloma cells in patients with plasma cell disorders. Br. J. Haematol. 2018, 180, 71–81. [CrossRef] 122. Witzig, T.E.; Meyers, C.; Therneu, T.; Greipp, P.R. A prospective study of CD38/45 ﬂow cytometry and immunoﬂuorescence microscopy to detect blood plasma cells in patients with plasma cell proliferative disorders. Leuk. Lymphoma 2000, 38, 345–350. [CrossRef] [PubMed] 123. Schmidt-Hieber, M.; Pérez-Andrés, M.; Paiva, B.; Flores-Montero, J.; Perez, J.J.; Gutierrez, N.C.; Vidriales, M.B.; Matarraz, S.; San Miguel, J.F.; Orfao, A. CD117 expression in gammopathies is associated with an altered maturation of the myeloid and lymphoid hematopoietic cell compartments and favorable disease features. Haematologica 2011, 96, 328–332. [CrossRef] [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 24
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p24",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 24 of 25\n\n124. Periago, A.; Campillo, J.A.; Mrowiec, A.; Gimeno, L.; Montes, N.R.; Martínez-Sánchez, M.V.; Cabañas-Perianes, V.; García-Garay, C.; Bolarin, J.M.; Blasco-Mogorrón, A.; et al. Circulating aberrant plasma cells allow risk stratification of patients with myeloma. Am. J. Hematol. 2016, 91, E353–E355. [CrossRef] 125. Moor, I.; Bacher, V.U.; Jeker, B.; Taleghani, B.M.; Mueller, B.U.; Keller, P.; Betticher, D.; Egger, T.; Novak, U.; Pabst, T. Peripheral ﬂow-MRD status at the time of autologous stem cell collection predicts outcome in multiple myeloma. Bone Marrow Transplant. 2018, 53, 1599–1602. [CrossRef] 126. Cowan, A.J.; Stevenson, P.A.; Libby, E.N.; Becker, P.S.; Coﬀey, D.G.; Green, D.J.; Hyun, T.S.; Fromm, J.R.; Gopal, A.K.; Holmberg, L.A. Circulating Plasma Cells at the Time of Collection of Autologous PBSC for Transplant in Multiple Myeloma Patients is a Negative Prognostic Factor Even in the Age of Post-Transplant Maintenance Therapy. Biol. Blood Marrow Transplant. 2018, 24, 1386–1391. [CrossRef] 127. Flores-Montero, J.; Sanoja-Flores, L.; Paiva, B.; Puig, N.; García-Sánchez, O.; Böttcher, S.; van der Velden, V.H.J.; Pérez-Morán, J.-J.; Vidriales, M.-B.; García-Sanz, R.; et al. Next Generation Flow for highly sensitive and standardized detection of minimal residual disease in multiple myeloma. Leukemia 2017, 31, 2094–2103. [CrossRef] 128. Paiva, B.; Puig, N.; Cedena, M.-T.; Rosiñol, L.; Cordón, L.; Vidriales, M.-B.; Burgos, L.; Flores-Montero, J.; Sanoja-Flores, L.; Lopez-Anglada, L.; et al. Measurable Residual Disease by Next-Generation Flow Cytometry in Multiple Myeloma. J. Clin. Oncol. 2019, 38, 1–10. [CrossRef] 129. Billadeau, D.; Quam, L.; Thomas, W.; Kay, N.; Greipp, P.; Kyle, R.; Oken, M.M.; Van Ness, B. Detection and quantitation of malignant cells in the peripheral blood of multiple myeloma patients. Blood 1992, 80, 1818–1824. [CrossRef] 130. Kumar, S.; Paiva, B.; Anderson, K.C.; Durie, B.; Landgren, O.; Moreau, P.; Munshi, N.; Lonial, S.; Bladé, J.; Mateos, M.V.; et al. International Myeloma Working Group consensus criteria for response and minimal residual disease assessment in multiple myeloma. Lancet Oncol. 2016, 17, e328–e346. [CrossRef] 131. Chapman, J.R.; Thoren, K.L. Tracking of low disease burden in multiple myeloma: Using mass spectrometry assays in peripheral blood. Best Pract. Res. Clin. Haematol. 2020, 33, 101142. [CrossRef] 132. Drayson, M.; Morgan, G.; Jackson, G.; Davies, F.; Owen, R.; Ross, F.; Gregory, W.; Navarro-Coy, N.; Heatley, F.; Bell, S.; et al. Prospective Study of Serum FLC and Other M-Protein Assays: When and How to Measure Response? Clin. Lymphoma Myeloma 2012, 9, S56. [CrossRef] 133. Bai, Y.; Orfao, A.; Chim, C.S. Molecular detection of minimal residual disease in multiple myeloma. Br. J. Haematol. 2018, 181, 11–26. [CrossRef] [PubMed] 134. Puig, N.; Balanzategui, A.; Martínez, J.; Paiva, B.; García, H.; Fumero, S.; Jimé Nez, C.; Alcoceba, M.; Chilló, M.C.; Sebastián, E.; et al. Critical evaluation of ASO RQ-PCR for minimal residual disease evaluation in multiple myeloma. A comparative analysis with ﬂow cytometry. Leukemia 2014, 28, 391–397. [CrossRef] [PubMed] 135. Paiva, B.; Dongen, J.J.M.; Van Orfao, A. New criteria for response assessment: Role of minimal residual disease in multiple myeloma. Blood 2015, 125, 3059–3069. [CrossRef] [PubMed] 136. Yao, Q.; Bai, Y.; Orfao, A.; Kumar, S.; Chim, C.S. Upgraded Standardized Minimal Residual Disease Detection by Next-Generation Sequencing in Multiple Myeloma. J. Mol. Diagnostics 2020. [CrossRef] [PubMed] 137. Mishima, Y.; Paiva, B.; Shi, J.; Michor, F.; San Miguel, J.F.; Ghobrial Correspondence, I.M.; Mishima, Y.; Park, J.; Manier, S.; Takagi, S.; et al. The Mutational Landscape of Circulating Tumor Cells in Multiple Myeloma. Cell Rep. 2017, 19, 218–224. [CrossRef] 138. Ledergor, G.; Weiner, A.; Zada, M.; Wang, S.Y.; Cohen, Y.C.; Gatt, M.E.; Snir, N.; Magen, H.; Koren-Michowitz, M.; Herzog-Tzarfati, K.; et al. Single cell dissection of plasma cell heterogeneity in symptomatic and asymptomatic myeloma. Nat. Med. 2018, 24, 1867–1876. [CrossRef] 139. Manier, S.; Park, J.; Capelletti, M.; Bustoros, M.; Freeman, S.S.; Ha, G.; Rhoades, J.; Liu, C.J.; Huynh, D.; Reed, S.C.; et al. Whole-exome sequencing of cell-free DNA and circulating tumor cells in multiple myeloma. Nat. Commun. 2018, 9, 1–11. [CrossRef] 140. Kumar, S.; Witzig, T.E.; Greipp, P.R.; Rajkumar, S.V. Bone marrow angiogenesis and circulating plasma cells in multiple myeloma. Br. J. Haematol. 2003, 122, 272–274. [CrossRef] 141. Vagnoni, D.; Travaglini, F.; Pezzoni, V.; Ruggieri, M.; Bigazzi, C.; Dalsass, A.; Mestichelli, F.; Troiani, E.; Falcioni, S.; Mazzotta, S.; et al. Circulating plasma cells in newly diagnosed symptomatic multiple myeloma as a possible prognostic marker for patients with standard-risk cytogenetics. Br. J. Haematol. 2015, 170, 523–531. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 25
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p25",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 25 of 25\n\n142. Ghobrial, I.M. Myeloma as a model for the process of metastasis: Implications for therapy. Blood 2012, 120, 20–30. [CrossRef] [PubMed] 143. Lohr, J.G.; Kim, S.; Gould, J.; Knoechel, B.; Drier, Y.; Cotton, M.J.; Gray, D.; Birrer, N.; Wong, B.; Ha, G.; et al. Genetic interrogation of circulating multiple myeloma cells at single-cell resolution. Sci. Transl. Med. 2016, 8. [CrossRef] [PubMed] 144. Paiva, B.; Paino, T.; Sayagues, J.-M.; Garayoa, M.; San-Segundo, L.; Martin, M.; Mota, I.; Sanchez, M.-L.; Barcena, P.; Aires-Mejia, I.; et al. Detailed characterization of multiple myeloma circulating tumor cells shows unique phenotypic, cytogenetic, functional, and circadian distribution proﬁle. Blood 2013, 122, 3591–3598. [CrossRef] [PubMed] 145. Kumar, S.; Rajkumar, S.V.; Greipp, P.R.; Witzig, T.E. Cell proliferation of myeloma plasma cells: Comparison of the blood and marrow compartments. Am. J. Hematol. 2004, 77, 7–11. [CrossRef] 146. Azab, A.K.; Hu, J.; Quang, P.; Azab, F.; Pitsillides, C.; Awwad, R.; Thompson, B.; Maiso, P.; Sun, J.D.; Hart, C.P.; et al. Hypoxia promotes dissemination of multiple myeloma through acquisition of epithelial to mesenchymal transition-like features. Blood 2012, 119, 5782–5794. [CrossRef] 147. Vande Broek, I.; Vanderkerken, K.; Van Camp, B.; Van Riet, I. Extravasation and homing mechanisms in multiple myeloma. Clin. Exp. Metastasis 2008, 25, 325–334. [CrossRef] 148. Waldschmidt, J.M.; Anand, P.; Knoechel, B.; Lohr, J.G. Comprehensive characterization of circulating and bone marrow-derived multiple myeloma cells at minimal residual disease. Semin. Hematol. 2018, 55, 33–37. [CrossRef]\n\n© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p3",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 3 of 25\n\nare seen ﬁrst with a peak at between 6–18 months of life, when also Ig-switched normal PC expressing IgG3+, IgG1+ and IgA1+ peak. In turn, normal switched IgG2+, IgG4+ and IgA2+ PC show maximum numbers in blood later, at between 1 and 2 years of life (Figure 1B) [48]. Even when highly-sensitive techniques are used, normal circulating PC are undetectable at birth in cord blood. However, their number in blood raises exponentially during the ﬁrst weeks to months of life due to continuous contact with new antigens at exposed tissues (such as at the respiratory and the gastrointestinal tracts), reaching their maximum levels at between 1 to 2 years of age. Thereafter, the number of circulating normal PC in blood continuously decreases throughout adulthood (Figure 1A). Despite this overall proﬁle of normal PC kinetics in blood, diﬀerent patterns are observed depending on the speciﬁc Ig-isotype and Ig-subclass. Thus, maximum numbers of normal IgM+ PC are seen ﬁrst with a peak at between 6–18 months of life, when also Ig-switched normal PC expressing IgG3+, IgG1+ and IgA1+\n\npeak. In turn, normal switched IgG2+, IgG4+ and IgA2+ PC show maximum numbers in blood later, at between 1 and 2 years of life (Figure 1B) [48].\n\nFigure 1. Normal plasma cell kinetics in blood from healthy individuals through life. (A) displays the overall distribution of total absolute normal PC counts in cord blood and peripheral blood per age group, while in (B) the median absolute counts of PC expressing distinct immunoglobulin isotypes and immunoglobulin subclasses are shown for the same age intervals. CB, cord blood; m, months; NB, newborn; PB, peripheral blood; PC, plasma cells; y, years. Data adapted from Blanco et al. [48].\n\nFrom the phenotypic point of view, circulating normal PC show a heterogeneous proﬁle reﬂecting an ongoing (continuous) maturation, with transition from recently produced tissue plasmablasts to",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p4",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 4 of 25\n\nend-stage long-lived BM PC [39]. This maturation is associated with signiﬁcantly increased expression of the BLIMP-1 [47] and XBP1 transcription factors [49], which are required to suppress other transcription factors involved in the earlier stages of B-cell development (such as PAX-5 and BCL-6), and for sequential maturation of activated (e.g., germinal center) B-lymphocytes toward short-lived plasmablasts and long-lived Ig-secreting PC [50]. Thus, normal PC recently released into the blood show progressive acquisition of PC-associated markers such as CD138, the Vs38c endoplasmic reticulum-associated protein, together with (already strong) positivity for CD38 [39], progressively increased expression of the Ki67 proliferation marker [36], and the presence of cytoplasmic Igs (at lower levels than found in BM PC) [51]. At the same time, normal circulating PC show progressive loss of pan-B-cell associated markers (displaying a CD19lo, CD20−/+, HLA-DR−/+, CD45lo phenotype) [21,39,52,53] while retaining expression of the CD81 tetraspanin adhesion molecule and the (post germinal-center) CD27 molecule. In contrast, they are constantly negative for CD117, CD56 and CD200 [52,53]. When compared to both pre- and post-germinal center B-lymphocytes, circulating normal PC also show a distinct pattern of expression of: (i) adhesion molecules, with e.g., lower CD11a levels and increased CD49d and CD31 expression; and (ii) chemokine receptors, as translated by e.g., reduced levels of CXCR5 (CD185) and CCR7 (CD197), and upregulated expression of CXCR4 (CD184) at levels intermediate between those of early tonsil plasmablasts and more mature BM PC [44,46,53]. A more extensive description of the immunophenotypic proﬁle of circulating normal PC vs. earlier (lymphoid tissue-derived) plasmablasts and end-stage BM PC is shown in Table 1. Fromafunctionalpointofview, circulatingnormalPCaresystematicallypresentinthebloodofhealthy individuals at levels that range between 0.16–144 cells/µL in childhood and between 0.14–27.5 normal PC/µL in adults, with slight diﬀerences between younger (<50 years) and older (≥50 years) adults and individuals aged >80 years (percentile 5–95% reference ranges for Caucasians of 0.8–22 normal PC/µL, 0.3–9.7 normal PC/µL, and 0.15–17.5 normal PC/µL, respectively [48]). The overall number of circulating normal PC at diﬀerent ages reﬂects the daily production of PC through life due to continuous triggering of B-cell responses at lymphoid tissues by our microbiome and microenvironmental antigens. Therefore, complete absence (or signiﬁcantly decreased) numbers of circulating normal PC in blood after birth has been predominantly associated with profound antibody deﬁciency, as observed in common variable immunodeﬁciency, and Ig-isotype and Ig-subclass deﬁciencies [108]. Thereby, blood analysis of circulating normal PC provides insight into the kinetics of ongoing B-cell responses throughout the body and the potential for maintaining long-term antibody production via tissue migration and diﬀerentiation to more mature long-lived PC [53], particularly in the BM [41,109].\n\nTable 1. Immunophenotypic proﬁle of normal PC populations in secondary lymphoid tissues (e.g., tonsils), blood and bone marrow.\n\nType of Marker and Function Target Molecule Tonsil PC Blood PC Bone Marrow PC References\n\nCD71 Low − − CD37 Low − − CD39 + + − CD45RB + −/+ − CD52 Low NT − CD53 + − − CD45 + Low −/+ CD45RO − − −/+ CD45RA + + −/+ CD200 − − −/Low CD10 Low −/Low −/Low CD28 −/Low −/Low −/Low CD9 + −/Low + CD43 + + + CD361 ++ ++ ++ CD38 + + ++ CD27 Low + ++\n\n[39,52–73]\n\nActivation markers\n\nCD63 + + Low",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p5",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 5 of 25\n\nTable 1. Cont.\n\nType of Marker and Function Target Molecule Tonsil PC Blood PC Bone Marrow PC References\n\nCD100 Low − −\n\nCD18 Low − − CD62L − −/+ − CD47 + − − CD11a (LFA-1) + −/Low −/+ CD56 (NCAM) − − −/+ CD49e (VLA-5) − − −/+ CD99 + + + CD44 (HCAM) + + + CD50 (ICAM-3) + −/Low + CD49f (ITGA6) − Low + CD98 + + + CD54 (ICAM-1) + −/+ + CD31 Low + ++ CD106 (VCAM-1) − − ++ CD49d (VLA-4) Low + ++ CD97 Low Low Low CD329 (SIGLEC 8) Low + NT CD363 (S1PR1) − −/+ − CD82 + + + CD81 + + + CD362 −/+ ++ + CD138 − −/+ + CD22 + −/Low − CD79b Low − − HLA-DR ++ −/+ − CD19 + Low −/+ CD20 + −/+ −/Low CD21 + −/+ −/Low\n\n[39,52–54,57,60–64,\n\nAdhesion molecules\n\n66,70,72,74–84]\n\nBCR signalling molecules\n\n[39,53,54,70,85,86]\n\nCD79a − −/+ +\n\nCD196 (CCR6) −/+ − − [39,53,57,62,87,88] CD184 (CXCR4) Low −/+ −/+ CD185 (CXCR5) −/+ −/+ −/Low CD46 + NT − CD35 −/Low −/Low −/+ CD55 + + + CD58 + − +\n\nCell migration and chemokine receptors\n\nComplement receptors\n\n[54,64,65,89–92]\n\nCD59 + + +\n\nCD72 Low − −\n\nCD80 (B7-1) − Low − CD40 + Low + CD86 (B7-2) Low + Low CD272 (BTLA) −/Low + Low CD126 (IL-6Rα) Low + − CD130 (IL-6Rβ) + Low Low CD307a (FCRL-1) − Low − CD74 Low − − CD305 (LAIR1) − −/+ − CD32 Low + + CD85j Low + + CD210a − − Low CD84 (SLAMF5) −/Low −/+ − CD352 (SLAMF6) ++ ++ + CD150 (SLAMF1) Low + + CD48 (SLAMF2) Low ++ + CD229 (SLAMF3) ++ + +\n\nCo-stimulatory molecules\n\n[39,54,62,73,93–99]\n\nReceptors of the SLAM family\n\n[54,62,72,94,100]\n\nCD319 (SLAMF7) −/+ −/+ +",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p6",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 6 of 25\n\nTable 1. Cont.\n\nType of Marker and Function Target Molecule Tonsil PC Blood PC Bone Marrow PC References\n\nCD357 (TNFRSF18) − Low −\n\nCD257 (BAFF) −/+ −/+ + CD269 (BCMA) −/Low Low + CD268 (BAFF-R) + − + CD261 (TRAIL-R1) − − + CD358 (TNFSF21) − − Low CD270 (TNFRSF14) Low + Low CD262 (TRAIL-R2) − − Low Bcl-2 − Low + CD274 (PD-L1) + + − CD95 (Fas-L) Low + − Ki67 −/+ −/+ −/Low PC proliferation and Ig production Vs38c −/+ −/+ + [39,86,106,107]\n\nPC survival-associated molecules\n\n[39,53,54,62,72,73,\n\n94,96,101–105]\n\nMarkers recurrently reported to be absent on normal PC populations include: CD1a, CD1b, CD1d, CD2, CD3, CD4, CD5, CD6, CD7, CD8, CD11b, CD11c, CD13, CD14, CD15, CD16, CD23, CD24, CD25, CD26, CD29, CD34, CD36, CD41, CD42a, CD42b, CD49a, CD49c, CD51, CD57, CD61, CD62E, CD62P, CD64, CD66a, CD66b, CD66c, CD66d, CD66e, CD68, CD69, CD70, CD73, CD83, CD85d, CD85k, CD87, CD88, CD89, CD90, CD91, CD93, CD96, CD117, CD152, CD170, CD244 (SLAMF4), CD258, CD264, CD267, CD275, CD283 (TLR3), CD289 (TLR9), CD307b-d, CD328, and CD354 (TREM-1). Expression proﬁles denoted above are based on conventional ﬂow cytometry, immunoﬂuorescence microscopy and/or immunohistochemistry. BCR, B-cell receptor; Ig, immunoglobulin; NT, not tested; PC, plasma cells; SLAM, signaling lymphocytic activation molecules.\n\n3. Detection of Circulating Tumor Plasma Cells\n\nDuring recent decades, diﬀerent methods have been developed and used for the detection of CTPC (Graphical abstract [19,21–23,30,35] and Figure 2). Conventional cytology was ﬁrst used (in combination with complete blood counts obtained in an automated hematology analyzer) for the identiﬁcation of circulating PC in blood smears of patients diagnosed with monoclonal gammopathy. These counts already proved critical for the diﬀerential diagnosis between MM and PCL [18,110]. In addition, they conﬁrmed the presence of variable PC counts in a minor fraction (17%) of all MM patients [30], which (frequently) cannot be accurately discriminated from normal/reactive plasmablasts [111] due to both the limited number of nucleated cells evaluated (i.e., <500 cells) and their morphological similarities [112], particularly among patients that show low numbers of circulating PC. Because of these limitations and the clear clinical utility of CTPC detection and quantitation in blood, conventional immunocytochemistry-based approaches were subsequently adopted. The latter technique allowed for (more speciﬁc) assessment of greater numbers of clonal PC in the blood of MM and MGUS patients based on restricted light chain expression by tumor PC [19,23]. In order to further increase the sensitivity and speciﬁcity of the above techniques, several diﬀerent conventional ﬂow cytometry [20,22,31] and next generation ﬂow cytometry (NGF) procedures [21,35], together with polymerase chain reaction (PCR)-based, e.g., allele-speciﬁc oligonucleotide (ASO) quantitative PCR (qPCR) [19,113] and next generation sequencing (NGS) [114] techniques, were subsequently developed and tested. In addition to diﬀerences in the sensitivity reported for the above ﬂow vs. molecular techniques, the results obtained so far are also inﬂuenced by the type of material analyzed (e.g., inclusion of nucleic acid from non-viable cells in molecular techniques) and/or the way patients were selected for analysis (e.g., inclusion of patients that reached no response or partial response together with complete response cases). The speciﬁc advantages and limitations of each of these techniques, together with their most relevant features are listed in Table 2 and described below in more detail.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p7",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 7 of 25\n\nFigure 2. Frequency of newly-diagnosed PCN and treated MM patients with detectable CTPC in blood as assessed by distinct methods. ASO-qPCR, allele-speciﬁc oligonucleotide quantitative real-time polymerase chain reaction; CTPC, circulating tumor plasma cells; IMF, immunoﬂuorescence microscopy; MFC, multiparameter ﬂow cytometry; MM, multiple myeloma; NGS, next generation sequencing; MGUS, monoclonal gammopathy of undetermined signiﬁcance; NGF, next generation ﬂow; PCN, plasma cell neoplasm; SMM, smoldering MM. Data summarized from the following references in the literature [19,21–23,25,26,30,35,113–117].\n\nTable 2. Advantages and disadvantages of the most frequently used methods for detection of circulating tumor plasma cells in patients diagnosed with plasma cell neoplasms.\n\nCytology IMF MFC NGF ASO-qPCR NGS Availability High Low High High Intermediate Limited Applicability ≈100% ≈100% ≈100% ≈100% 42% to75% 80–90% Sensitivity <10−2 <10−4 ≤10−4 ≤2 × 10−6 ≤10−5–10−6 ≤1 × 10−6\n\nSpeciﬁcity Limited Limited High High High High Standardized Yes No Ongoing Yes Yes Ongoing\n\nQuantitative Yes (high counts) Yes Yes Yes Yes Yes\n\nDiagnostic sample Not required Not required Not required Not required Mandatory Mandatory Global sample analysis Yes No Yes Yes No No Time to results <2 h 4 h 2–3 h 3–4 h 3–4 weeks ≥7 days Fresh sample Yes Yes Yes (<36 h) Yes (<36 h) No No Sample pre-treatment * No Yes No No Yes Yes\n\nData analysis/interpretation Subjective Slightly subjective Slightly subjective More objective Slightly subjective More objective\n\nIg light-chain restriction\n\nPatient-speciﬁc IGH-V(D)J gene rearrangements\n\nPatient-speciﬁc IGH-V(D)J gene rearrangements ¥\n\nDFN and LAIP\n\nDFN and LAIP\n\nCTPC detection principle DFN\n\nAdditional biological characterization of CTPC No No Yes Yes No Yes\n\nPrognostic factor in MGUS NT Yes NT Yes NT NT Prognostic factor in SMM NT Yes Yes Limited NT NT Prognostic factor in MM Yes Yes Yes Yes Yes Yes Relative Cost Low High Intermediate Intermediate Intermediate High\n\n* Sample pre-treatment includes density gradient MNC- or magnetic/FACS- isolation. ¥ Including also potentially analysis of Ig light gene rearrangements. ASO-qPCR, allele-speciﬁc oligonucleotide quantitative real-time polymerase chain reaction; CTPC, circulating tumor plasma cells; DFN, diﬀerent from normal; FACS, ﬂuorescence activated cell sorting; Ig, immunoglobulin; IGH, Ig heavy chain; IMF, immuno-ﬂuorescence microscopy; LAIP, leukemia associated immunophenotype; MGUS, monoclonal gammopathy of undetermined signiﬁcance; MFC, multiparameter ﬂow cytometry; MM, multiple myeloma; MNC, mononuclear cells; NGF, next generation ﬂow; NGS, next generation sequencing; NT, not tested; SMM, smoldering MM.\n\n3.1. Circulating Tumor Plasma Cell Detection in Blood Smears by Conventional Cytology\n\nConventional cytology is a simple, fast and inexpensive approach for (expert-based subjective) identiﬁcation of CTPC with a sensitivity of ≥1% (i.e., 10−2) of all nucleated cells in blood, which is available at virtually every clinical diagnostics laboratory worldwide [18,30] (Table 2). The presence",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p8",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 8 of 25\n\nof CTPC by cytomorphology has long been associated with increased PC proliferation and more aggressive disease [18], which is observed (per deﬁnition) in PCL and in a small fraction of MM cases that present with high tumor load (≥5% of CTPC) and show a signiﬁcantly poorer outcome -median overall survival (OS) rates of 1.1 years vs. 4.1 years for other MM cases with <5% or undetectable levels of CTPC at diagnosis, respectively [30,110] (Table 3). Thus, conventional cytomorphology remains the basis for the diagnosis of PCL [30,110]. In addition, it is of great clinical utility for the identiﬁcation of MM patients that show ≥2% CTPC by Wright–Giemsa cytology at diagnosis (14.1% of untreated MM patients), who (compared to MM patients with undetected CTPC in blood) display a poorer outcome both in terms of progression free survival (PFS) (median PFS of 17 months vs. 24 months, respectively) and OS rates (median OS of 25 months vs. 45 months, respectively) [29]. Altogether, these results indicate that conventional cytology is an easy and fast approach for the detection of (high numbers) of CTPC in the blood of MM patients, particularly in cases presenting with PCL-like laboratory ﬁndings (e.g., leukocytosis and elevated serum levels of lactate dehydrogenase) and in PCL patients [18]. In contrast, conventional cytology is less useful among MGUS and SMM patients who usually present with low CTPC counts in blood. In fact, the absence of CTPC by cytomorphology should be interpreted with caution because of the limited sensitivity of the technique (Table 2).\n\nTable 3. Prognostic impact of circulating tumor plasma cells on newly diagnosed and treated plasma cell neoplasms patients as assessed by distinct techniques.\n\nDiagnosis Treated\n\nMethodology\n\nMGUS SMM MM MM References\n\nTTP/PFS TTP OS PFS OS PFS OS\n\nCytology NT NT NT NT 1.1 vs. 4.1y a NT NT [30,110]\n\nIMF 138m vs. NR b 12 vs. 57m c 49 vs. 148m b NT 2.4 vs. 4.5y d 6.2 vs. 22.5m e NT [19,23,25,27,115]\n\n25 vs. 43m b\n\nMFC NT 10m vs. NR b NT\n\n54 vs. 89m b 15.1m vs. 29.6m b\n\n41m vs. NR b [22,26]\n\n(TTNT *)\n\nNGF 31m vs. NR f 25% vs. 0% at 2y (p > 0.05) g NT 22m vs. NR g 67% vs. 0% at 2y g 9 vs. 46m b NT [21,35]\n\nASO-qPCR NT NT NT 26 vs. 66m b\n\n53 vs. 66m (p > 0.05) b\n\n4 vs. 15m b\n\n17 vs. 52m b [118]\n\n22.6 vs. 47.5mh\n\n26.7 vs. 41.3m i >55m h,i NT NT [119]\n\nNGS NT NT NT\n\n* TTNT, defined as time from diagnosis to next therapy due to documented relapse or progression of disease. ASO-qPCR, allele-specific oligonucleotide quantitative real-time polymerase chain reaction; IMF, immunoﬂuorescence microscopy; m, months; MFC, multiparametric ﬂow cytometry; MGUS, monoclonal gammopathy of undetermined signiﬁcance; MM, multiple myeloma; NGF, next generation ﬂow; NGS, next generation sequencing; NR, not reached; NT, not tested; OS, overall survival; PFS, progression-free survival; SMM, smoldering MM; TTP, time to progression; y; years. a ≥5% vs. <5% CTPC; b CTPC+ vs. CTPC-; c >5000 vs. ≤5000 CTPC/µL; d ≥4% vs. <4% CTPC; e ≥0.2 × 106\n\nvs. <0.2 × 106 CTPC/L; f ≥0.058 vs. <0.058 CTPC/µL; g ≥0.1 vs. <0.1 CTPC/µL; h high vs. low expression levels of the CENPF gene; i high vs. low expression levels of the LGALS1 gene.\n\n3.2. Fluorescence Microscopy\n\nFor decades now, ﬂuorescence microscopy-based analysis of immuno-stained blood-derived mononuclear cells has been recurrently applied for the detection of CTPC in the blood of MGUS and MM patients, based on Ig light-chain restriction on tumor vs. normal PC [19,24]. Brieﬂy, this approach is based on the evaluation of anti-human light chain immunoﬂuorescence staining patterns of density gradient isolated mononuclear cells from blood by ﬂuorescence microscopy [25]. Overall, this technique improves (by more than one log) the sensitivity of conventional cytology with the ability to detect one clonal PC among 10,000 mononuclear cells (sensitivity of 10−4) [27] (Table 2). From a clinical point of view, the presence of CTPC by ﬂuorescence microscopy is associated with disseminated disease [120], which is found in 19% [23] to 29% [19] of MGUS cases, 25% [24] to 50% [25] of SMM patients and in 71% of untreated MM cases [19] according to the literature. From a prognostic",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/cancers12061499",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_sha256": "ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81",
+          "source_url": "https://doi.org/10.3390/cancers12061499"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81:p9",
+        "source_issue_ids": [],
+        "text": "Cancers 2020, 12, 1499 9 of 25\n\nperspective, MM patients presenting with ≥4% CTPC in blood show signiﬁcantly shorter median survival rates (2.4 vs. 4.5 years for MM patients with lower or undetected CTPC) [27] (Table 3). In addition, the presence of CTPC in the blood of SMM patients has also been associated with shorter time to progression (TTP) rates compared to CTPC-negative SMM patients (median TTP of 9 vs. 30 months, respectively) [24]. This is even more evident among SMM cases presenting with higher CTPC counts (>5000 × 106 CTPC/L or >5% cytoplasmic Ig-positive CTPC/mononuclear cells) who show median time to progression rates of 12 vs. 57 months for other SMM patients with undetected or lower CTPC numbers [25]. Similarly, MGUS patients that have CTPC by ﬂuorescence microscopy also show a more adverse prognosis vs. CTPC-negative MGUS patients (median progression free survival of 138 months vs. not reached, respectively) [23]. Of note, recent CTPC detection techniques based on speciﬁc pre-analytical PC-enrichment procedures such as the CELLSEARCH® platform developed by Menarini-Silicon Biosystems (Castel Maggiore, Italy), have proven to increase the frequency of patients that show CTPC in blood to >85% of all MGUS, SMM and MM cases studied at diagnosis [121]. In addition, preliminary results suggest that this latter technology might also be of potential clinical utility among treated MM patients who reach complete response, because those patients that had higher CTPC counts in blood (≥100 CTPC/4 mL or ≥25 CTPC/mL) displayed a more adverse prognosis compared to patients with lower numbers of CTPC [121]. Despite the clinically relevant information provided by ﬂuorescence microscopy (and other imaging-based approaches), this technique still has several important limitations that hamper its routine use in many laboratories [20,122]. These mainly include: (i) the relatively limited sensitivity reached, (ii) the fact that ﬂuorescence microscopy is a laborious and time-consuming technique, (iii) the need for a pre-enrichment step to isolate mononuclear cells with high potential for uncontrolled (selective) cell loss that might speciﬁcally aﬀect CTPC at the same time it discards potentially relevant information on residual (non-mononuclear) hematologic blood cells [123], and (iv) the need for a ﬂuorescence microscope (or more complex instrumentation) usually not available for routine diagnostics in many haemato-oncology laboratories (Table 2).\n\n3.3. Conventional Multiparameter Flow Cytometry\n\nFlow cytometry has long been recognized as a well-suited methodology for the enumeration of CTPC in blood of plasma cell neoplasms patients [20,22,122]. This technique is an easy, fast (<4 h), aﬀordable and worldwide available approach which has been extensively used to identify, characterize and count CTPC in the blood of patients with plasma cell neoplasms. However, the lack of standardized protocols (i.e., very heterogeneous antibody panels have been used and variable numbers of cells analyzed per sample), the highly variable sensitivity levels reached for detection of CTPC (which translate into variable frequencies of CTPC-positive patients), together with the need for fresh (<24–48 h) samples, have limited the reproducibility of results, and thereby, its broader use and applicability (Table 2). Despite these limitations, ﬂow cytometry has shown that the presence and number of CTPC in blood (both at diagnosis and after therapy) has important clinical implications in MM, and to a lesser extent, also in MGUS, and SMM patients [20,22,124]. Early multiparameter ﬂow cytometry studies in MGUS based on very limited numbers of markers e.g., three-color antibody combinations of CD45, CD38, and cytoplasmic (cy)Igκ or cyIgλ identiﬁed CTPC in the blood of 25% of cases with a median (range) of 0.3% (0.06–0.97%)- CTPC from blood-derived mononuclear cells [19]. However, these results could not be conﬁrmed in subsequent studies using more sensitive approaches based on seven-color ﬂow cytometry and analysis of ≥106 cells that reported counts of <0.0035% of CTPC in the blood of the majority of MGUS patients (93%) at diagnosis [124]. Similarly, in the few SMM-based ﬂow cytometry studies reported in the literature, remarkably diﬀerent frequencies of CTPC in blood were observed depending on the speciﬁc approach used. Thus, in an early three-color ﬂow cytometry study in a small cohort of SMM patients, CTPC were identiﬁed in 3/8 cases (37.5%) [19]. Conversely, a more recent report on a larger series of 100 SMM patients studied at diagnosis using six-color cytometry based on staining of approximately 150,000 mononuclear",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:ede986b7f6581a0bba8eb61390853ecf88438846555f1a14c47e5fa80e46fa81"
+}

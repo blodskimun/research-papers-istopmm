@@ -1,0 +1,152 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:12:18.031460+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Prevalence of monoclonal gammopathy of undetermined significance in a large population with annual medical check-ups in China",
+        "year": null
+      },
+      "doi": "10.1038/s41408-020-0303-8",
+      "format": "pdf",
+      "id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+      "url": "https://doi.org/10.1038/s41408-020-0303-8"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-0303-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+          "source_sha256": "a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+          "source_url": "https://doi.org/10.1038/s41408-020-0303-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68:p1",
+        "source_issue_ids": [],
+        "text": "1234567890():,; 1234567890():,;\n\n1234567890():,; 1234567890():,;\n\nHan et al. Blood Cancer Journal (2020) 10:34 https://doi.org/10.1038/s41408-020-0303-8 Blood Cancer Journal\n\nC O R R E S P O N D E N C E O p e n A c c e s s\n\nPrevalence of monoclonal gammopathy of undetermined signiﬁcance in a large population with annual medical check-ups in China\n\nJian-hua Han1, Ji-nuo Wang 2, Yue-lun Zhang3, Xin-xin Cao2, Dao-bin Zhou2, Teng-da Xu4, Wei Su2 and Jian Li 1\n\nDear Editor, Monoclonal gammopathy of undetermined signiﬁcance (MGUS) is a clinically asymptomatic premalignant plasma cell disorder, which may develop to multiple myeloma (MM), light-chain amyloidosis, Waldenström macro-globulinemia, or other related malignancies1. The crude prevalence of MGUS varies from 0.05% to 6.1% among distinct population from different countries, which is inﬂuenced by race, age, sex, family history, immunosup-pression, and pesticide exposure2. So far, many population-based studies of MGUS come from the white or black population living in Western and African countries. One of the largest population-based study in the USA showed that the prevalence of MGUS was 3.2% in the Caucasian general population aged ≥50 years3, while the rate was even higher in African-Americans to be 3.7%4. However, data on the epidemiology of MGUS remain largely undeﬁned in Asians. Some population-based studies among population from Thailand, Korea, and Hong Kong were relatively limited due to small sample sizes5–7. Therefore, we conducted this study to determine the prevalence and characteristics of MGUS among a large population with annual medical check-ups in a well-deﬁned geographic area in China. From December 2013 to April 2019, a total of 316,616 people received annual medical check-ups at the Peking\n\nCorrespondence: Teng-da Xu (xutd@pumch.cn) or Wei Su (suwei_64@163.com) or Jian Li (lijian@pumch.cn) 1Department of Clinical Laboratory, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China 2Department of Hematology, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China Full list of author information is available at the end of the article These authors contributed equally: Jian-hua Han, Ji-nuo Wang, Yue-lun Zhang\n\nUnion Medical College Hospital. Generally, people who received annual medical check-ups at our institute were apparently healthy and reﬂected a population with relatively high social economic status and health conscious-ness in Beijing, China. All the people with measurement of serum protein electrophoresis were included in our analysis. People were excluded if age or sex was missing in the record. The information collected at the ﬁrst time when the person came to our institute was regarded as baseline data, while consecutive follow-up records of the same participant were also collected (Supplementary Fig. 1). This study was approved by the institutional ethics committee of Peking Union Medical College Hospital and informed consent was waived because there is no information that can help to identify individuals. MGUS was deﬁned in accordance with previous deﬁ-nition by International Myeloma Working Group8. Serum M protein was detected by capillary electrophoresis (Sebia, Parc Technologique Leonard de Vinci, Cedex, France). Patients with a positive or suspicious M protein were suggested to be referred to the hematological clinic for further assessment, including serum and/or urine immunoﬁxation electrophoresis (IFE) to determine the type of immunoglobulin and serum free light chain (FLC) assays for quantiﬁcation. Serum IFE was performed using the SPIFE® ImmunoFix-9 Kit (Helena Laboratories, TX, USA). Urine IFE was detected by the HYDRAGEL 9 IF Kit (Sebia, Parc Technologique Leonard de Vinci, Cedex, France). FLC measurements were performed by an IMMAGE 800 automated nephelometer (Beckman Coulter, CA, USA) using commercially available kits (Hevylite®, The Binding Site Ltd, Birmingham, UK). Published reference ranges for κ and λ FLC were used (3.3–19.4 and 5.7–26.3 mg/L, respectively). An abnormal κ/λ FLC ratio was deﬁned as <0.26 or >1.659. Serum\n\n© The Author(s) 2020\n\nOpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,whichpermitsuse,sharing,adaptation,distributionandreproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-0303-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+          "source_sha256": "a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+          "source_url": "https://doi.org/10.1038/s41408-020-0303-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68:p2",
+        "source_issue_ids": [],
+        "text": "Han et al. Blood Cancer Journal (2020) 10:34 Page 2 of 4\n\nconcentrations of immunoglobulin G (IgG), immunoglobulin M (IgM), and immunoglobulin A (IgA) were eval-uated by serum immunoglobulin assay. The overall prevalence of MGUS was calculated by the number of people with MGUS in each age and sex stratum divided by the number of subjects in that stratum who underwent a medical check-up. Descriptive statistics included medians with minimum and maximum for continuous variables and counts and percentages for categorical variables. Exact 95% conﬁdence intervals (CIs) for prevalence were computed using the binomial dis-tribution. Differences between groups normally dis-tributed with homogeneity of variance were analyzed with Student’s t test. All tests conducted were two tailed, and P values <0.05 were considered statistically signiﬁcant. Statistical analyses were performed with the R statistical software (Version 3.4.0) and SPSS 20.0 software (SPSS, Chicago, IL, USA). Overall, 154,597 healthy participants from Beijing, China were ﬁnally enrolled in our study, including 71,892 females and 82,705 males (Supplementary Table 1). The average age of all participants was 45.5 ± 12.8 years. MGUS was diagnosed in 843 patients (0.53%, 95% CI 0.49–0.57%). The median age at presentation was 58 years (range, 25–96). The overall prevalence of MGUS was 1.11% (95% CI 1.02–1.18%) among participants aged ≥50 years, 2.57% (95% CI 2.22–2.98%) among those aged ≥70 years. In both sexes, prevalence increased with age (Fig. 1): 0.1% (<40 years), 0.36% (40–49 years), 0.78% (50–59 years), 1.28% (60–69 years), 2.19% (70–79 years), and 3.77% (≥80 years) separately (Supplementary Table 1). MGUS was found in 543 of the 82,705 men, as compared with 280 of the 71,892 women (0.66% vs 0.39%, P < 0.001). The prevalence among men aged ≥50 years was similar to that among women a decade older (Fig. 1). The median concentration of serum M protein was 1.4 g/L (range, unmeasurable–27.8 g/L). The M protein level was too low to measure in 204 patients (24.79%),\n\nbetween 0.2 and 5 g/L for 460 (55.89%) and >15 g/L for 16 (1.9%) of the 843 MGUS patients (Supplementary Table 2). There was no signiﬁcant difference in the concentration of the monoclonal protein among the age groups. Of the 602 patients who were tested for IFE, the isotype of the monoclonal immunoglobulin was IgG in 396 (65.78%), IgA in 135 (22.43%), IgM in 53 (8.80%), IgD in 2 (0.33%), light chain in 3 (0.50%), and biclonal in 13 (2.16%). The serum light-chain type was kappa in 305 (50.66%) and lambda in 255 (48.67%) patients, while 4 patients (0.66%) with biclonal M protein had both kappa and lambda light chain. Of the 440 people who were tested for FLC, 98 patients (22.27%) had an abnormal FLC ratio (<0.26 or >1.65). The concentration of uninvolved immunoglobulins was reduced in 48 of the 313 patients (15.34%) who underwent an immunoglobulin assay. Among them, 39 (12.46%) patients had a reduction in 1 of the 2 measured uninvolved isotypes of polyclonal immunoglobulins, and 8 (2.56%) patients had a reduction in both isotypes. Only one patient with the light chain λ subtype had a reduced level of three uninvolved immunoglobulins. Urine from 165 subjects with MGUS was tested by means of immunoﬁxation electrophoresis. A monoclonal kappa light chain (12.73%) or lambda light chain (6.67%) was found in 32 patients. Four patients (2.42%) had M protein detected in urine. One patient was found to have both M protein and kappa light chain by urine immunoﬁxation. IgG isotype, M protein <15 g/L, and normal FLC ratio were found in 251 patients (57.05%), while the remaining 189 participants (42.95%) had 1 (137, 31.14%), 2 (51, 11.59%), or 3 (1, 0.23%) abnormal risk factors. Table 1 lists the laboratory features of MGUS patients. In the present study, we quantiﬁed the prevalence of MGUS among a relatively healthy population in the Beijing area. This is the largest screening study and population-based study of MGUS in the Chinese population so far. Our ﬁndings are consistent with previous\n\nA B\n\n6\n\nPrevalence of MGUS (%)\n\n5\n\n4\n\n3\n\n2\n\n1\n\n30 40 50 60 70 80 90 0\n\nAge (yr)\n\nTotal\n\nPrevalence of MGUS (%)\n\n6\n\n5\n\n4\n\n3\n\n2\n\n1\n\n30 40 50 60 70 80 90 0\n\nAge (yr)\n\nMen\n\nWomen\n\nFig. 1 Prevalence of MGUS according to age and sex groups. a Prevalence of MGUS according to age groups in the Chinese population. b Prevalence of MGUS according to age and sex groups in the Chinese population. The I bars represent 95% conﬁdence intervals. Years of age <30 have been collapsed to 30 years of age. Years of age >90 have been collapsed to 90 years of age.\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-0303-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+          "source_sha256": "a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+          "source_url": "https://doi.org/10.1038/s41408-020-0303-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68:p3",
+        "source_issue_ids": [],
+        "text": "Han et al. Blood Cancer Journal (2020) 10:34 Page 3 of 4\n\nTable 1 Characteristics of MGUS patients among people with annual medical check-ups in Beijing, China.\n\nCharacteristics Patients, number/total number (%a)\n\nMonoclonal isotype (sIFE) 602b\n\nIgG 396 (65.8) IgA 135 (22.4) IgM 53 (8.8) IgD 2 (0.3) Biclonal 13 (2.2) Light chain 3 (0.5) Type of light chain (sIFE) 602b\n\nκ 305 (50.7) λ 293 (48.7) κ+λ 4 (0.7) Free light-chain ratio 440c\n\nNormal (0.26–1.65) 342 (77.7) Abnormal 98 (22.3) M protein level and free light-chain ratio 440c\n\nM protein <15 g/L and free light-chain ratio normal 340 (77.3)\n\nM protein ≥15 g/L only 2 (0.4) Free light-chain ratio abnormal only 90 (20.5) Both abnormal 8 (1.8) M isotype, M protein level, and free light-chain ratio 440c\n\nIgG type, M protein <15 g/L, and free light-chain ratio normal 251 (57.1)\n\nAny 1 abnormal 137 (31.1) Any 2 abnormal 51 (11.6) Any 3 abnormal 1 (0.2) Reduced concentration of uninvolved immunoglobulins 313d\n\n0 265 (84.7) 1 39 (12.5) 2 8 (2.5) 3 1 (0.3) Type of M protein (uIFE) 165e\n\nκ 21 (12.7) λ 11 (6.7) M protein 4 (2.4) κ+M protein 1 (0.6)\n\naThe percentage was calculated as the number of patients with MGUS divided by the number who were tested. bPeople who had tested sIFE were studied. cPeople who had tested free light ratio (FLC) were studied. dPeople who had tested immunoglobulins were studied. ePeople who had tested uIFE were studied. Among them, 37 people had positive results.\n\nstudies showing that Asians have a lower incidence of MGUS compared with Whites. In the same age group (aged ≥50 years), the prevalence of our study was lower than prior MGUS prevalences in Olmsted County, USA3, Germany10, France11, and even the Asian country Japan12\n\n(Supplementary Table 3). The considerable disparities may derive from differences in ethnicity, sampling stra-tegies, detection techniques, environmental exposures, and lifestyles. We also noticed that the prevalence of\n\nBlood Cancer Journal\n\nMGUS increases with advancing age and men had a sig-niﬁcantly higher prevalence of MGUS than women. The concentration of monoclonal protein in our study was extremely small (median, 1.5 g/L); 24.8% of patients had unmeasurable protein concentrations, and only 1.9% had a concentration of ≥15 g/L. However, the median concentration of monoclonal protein was 5 g/L in the Olmsted County study, and 19.9% of participants had monoclonal immunoglobulin >15 g/L3. Because our study enrolled more young participants who may have a shorter underlying course and lower disease burden, it is rea-sonable to interpret these varied M protein levels by age group. The most common immunoglobulin type in MGUS identiﬁed in our study was IgG (65.8%), which was also observed in previous studies3,11–13. According to Mayo Clinic model for risk of progression14, more than half of MGUS patients (57%) in our study had low-risk MGUS (M protein level <15 g/L, IgG type, normal FLC ratio), and 43% had intermediate risk (any one or two factors abnormal), and only one patient (0.23%) was prone to high risk of progression (three factors abnormal). However, among the Minnesotan MGUS patients, low-risk MGUS accounted for 38.8%, intermediate risk for 56.4%, and the high risk for 4.8%1. Recent studies demonstrated that suppression of uninvolved immunoglobulins deﬁned by heavy/light-chain pair suppression is a risk factor for progression of MGUS15. Nevertheless, among patients detected for serum immunoglobulins, most (84%) had normal uninvolved immunoglobulins, in line with previous studies3. In summary, our population-based study provides age-and sex-speciﬁc prevalences of MGUS in a geographically deﬁned population that is generally representative of the Chinese healthy population. The differences in prevalence and risk factors of MGUS among various ethnic popula-tions remain to be further explored.\n\nAcknowledgements This study is supported by the National Natural Science Foundation of China (Grant No. 81570195, to J.L.), Beijing Natural Science Foundation (Grant No. 7182128, to J.L.), The Capital Health Research and Development of Special Fund (Grant No. 2018–2–4015, to J.L.), the CAMS Innovation Fund for Medical Sciences (Grant No. 2016–12M-1–002, to J.L.), and The National Key Research and Development Program of China (Grant No. 2016YFC0901503, to J.L.).\n\nAuthor details 1Department of Clinical Laboratory, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China. 2Department of Hematology, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China. 3Medical Research Center, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China. 4Department of Health Medicine, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China\n\nAuthor contributions T.-d.X., J.L., and W.S. designed the research. J.-h.H., J.-n.W., and Y.-l.Z. collected, analyzed, and interpreted the data; J.-n.W., Y.-l.Z. X.-x.C., and J.L. wrote the",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-0303-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+          "source_sha256": "a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68",
+          "source_url": "https://doi.org/10.1038/s41408-020-0303-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68:p4",
+        "source_issue_ids": [],
+        "text": "Han et al. Blood Cancer Journal (2020) 10:34 Page 4 of 4\n\nmanuscript. J.-H.H., W.S., and D.-b.Z. participated in data interpretation, reviewed the manuscript, and provided comments. All authors reviewed and approved the ﬁnal manuscript.\n\nConﬂict of interest The authors declare that they have no conﬂict of interest.\n\nPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afﬁliations.\n\nSupplementary Information accompanies this paper at (https://doi.org/ 10.1038/s41408-020-0303-8).\n\nReceived: 23 December 2019 Revised: 17 February 2020 Accepted: 27 February 2020\n\nReferences 1. Kyle, R. A. et al. Long-term follow-up of monoclonal gammopathy of undetermined signiﬁcance. N. Engl. J. Med. 378, 241–249 (2018). 2. Wadhera, R. K. & Rajkumar, S. V. Prevalence of monoclonal gammopathy of undetermined signiﬁcance: a systematic review. Mayo Clin. Proc. 85, 933–942 (2010). 3. Kyle, R. A. et al. Prevalence of monoclonal gammopathy of undetermined signiﬁcance. N. Engl. J. Med. 354, 1362–1369 (2006). 4. Landgren, O. et al. Racial disparities in the prevalence of monoclonal gam-mopathies: a population-based study of 12 482 persons from the national health and nutritional examination survey. Leukemia 28, 1537–1542 (2014).\n\n5. Watanaboonyongcharoen, P., Nakorn, T. N., Rojnuckarin, P., Lawasut, P. & Intragumtornchai, T. Prevalence of monoclonal gammopathy of undetermined signiﬁcance in Thailand. Int. J. Hematol. 95, 176–181 (2012). 6. Lee, Y. G. et al. Five-year follow-up study of monoclonal gammopathy of undetermined signiﬁcance in a Korean elderly urban cohort. Cancer Res. Treat. 47, 215–220 (2014). 7. Peter, S. W. et al. MGUS prevalence in an ethnically Chinese population in Hong Kong. Blood 121, 2363–2364 (2013). 8. Vincent, S. R. et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 15, e538–e548 (2014). 9. Katzmann, J. A. et al. Serum reference intervals and diagnostic ranges for free κ and free λ immunoglobulin light chains: relative sensitivity for detection of monoclonal light chains. Clin. Chem. 48, 1437–1444 (2002). 10. Eisele, L. et al. Prevalence and progression of monoclonal gammopathy of undetermined signiﬁcance and light-chain MGUS in Germany. Ann. Hematol. 91, 243–248 (2012). 11. Lecluse, Y. et al. Prevalence of monoclonal gammopathy of undetermined signiﬁcance (MGUS) among farmers involved in open ﬁeld farming and/or cattle breading in France. Leuk. Lymphoma 57, 1727–1730 (2016). 12. Iwanaga, M., Tagawa, M., Tsukasaki, K., Kamihira, S. & Tomonaga, M. Prevalence of monoclonal gammopathy of undetermined signiﬁcance: study of 52,802 persons in Nagasaki City, Japan. Mayo Clin. Proc. 82, 1474–1479 (2007). 13. Cabrera, Q. et al. Epidemiology of monoclonal gammopathy of undetermined signiﬁcance (MGUS): the experience from the specialized registry of hema-tologic malignancies of Basse-Normandie (France). Cancer Epidemiol. 38, 354–356 (2014). 14. Kyle, R. et al. Monoclonal gammopathy of undetermined signiﬁcance (MGUS) and smoldering (asymptomatic) multiple myeloma: IMWG consensus per-spectives risk factors for progression and guidelines for monitoring and management. Leukemia 24, 1121–1127 (2010). 15. Katzmann, J. A. et al. Suppression of uninvolved immunoglobulins deﬁned by heavy/light chain pair suppression is a risk factor for progression of MGUS. Leukemia 27, 208–212 (2013).\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:a51ed5a602f060aaa6312d4ca8eb390c4ba1a64e349727ac99f075f16fd32d68"
+}

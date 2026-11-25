@@ -1,0 +1,355 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:28:31.822119+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Impact of viral hepatitis therapy in multiple myeloma and other monoclonal gammopathies linked to hepatitis B or C viruses",
+        "year": null
+      },
+      "doi": "10.3324/haematol.2023.283096",
+      "format": "pdf",
+      "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+      "url": "https://doi.org/10.3324/haematol.2023.283096"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p1",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Plasma Cell Disorders\n\nImpact of viral hepatitis therapy in multiple myeloma and other monoclonal gammopathies linked to hepatitis B or C viruses\n\nAlba Rodríguez-García,1 Nicolas Mennesson,2 Gema Hernandez-Ibarburu,3,4 María Luz Morales,1 Laurent Garderet,5 Lorine Bouchereau,2 Sophie Allain-Maillet,2 Eric Piver,6,7 Irene Marbán,3 David Rubio,3,4 Edith Bigot-Corbel,2,8 Joaquín Martínez-López,1,9# María Linares1,10# and Sylvie Hermouet.2,11#\n\n1Department of Translational Hematology, Instituto de Investigación Hospital 12 de Octubre (i+12), Hematological Malignancies Clinical Research Unit H120-CNIO, Madrid, Spain; 2Nantes Université, INSERM, Immunology and New Concepts in ImmunoTherapy (INCIT), UMR 1302 F- 44000 Nantes, France; 3Biomedical Informatics Group, Universidad Politécnica de Madrid, Madrid, Spain; 4TriNetX LLC, Madrid, Spain; 5Sorbonne Université-INSERM, UMR_S 938, Centre de Recherche Saint-Antoine-Team Hematopoietic and Leukemic Development, Assistance Publique-Hôpitaux de Paris, Hôpital Pitié Salpetrière, Département d'Hématologie et de Thérapie Cellulaire, F-75013 Paris, France; 6Laboratoire de Biochimie, CHU Tours, Tours, France; 7Inserm UMR1253, MAVIVH Tours, Tours, France; 8Laboratoire de Biochimie, CHU Nantes, F-44000 Nantes, France; 9Department of Medicine, Medicine School, Universidad Complutense de Madrid, Madrid, ES 28040, Spain; 10Department of Biochemistry and Molecular Biology, Pharmacy School, Universidad Complutense de Madrid, Madrid, ES 28040, Spain and 11Laboratoire d’Hématologie, CHU Nantes, F-44000 Nantes, France\n\n#JM-L, ML and SH contributed equally as senior authors.\n\nCorrespondence: S. Hermouet sylvie.hermouet@univ-nantes.fr M. Linares mlinares@ucm.es Received: March 7, 2023. Accepted: May 10, 2023. Early view: May 18, 2023.\n\nhttps://doi.org/10.3324/haematol.2023.283096 ©2024 Ferrata Storti Foundation Published under a CC BY-NC license\n\nAbstract\n\nSubsets of multiple myeloma (MM) and monoclonal gammopathies of undetermined signiﬁcance (MGUS) present with a monoclonal immunoglobulin speciﬁc for hepatitis C virus (HCV), thus are presumably HCV-driven, and antiviral treatment can lead to the disappearance of antigen stimulation and improved control of clonal plasma cells. Here we studied the role of hepatitis B virus (HBV) in the pathogenesis of MGUS and MM in 45 HBV-infected patients with monoclonal gammopathy. We analyzed the speciﬁcity of recognition of the monoclonal immunoglobulin of these patients and validated the efﬁcacy of antiviral treatment (AVT). For 18 of 45 (40%) HBV-infected patients, the target of the monoclonal immunoglobulin was identiﬁed: the most frequent target was HBV (n=11), followed by other infectious pathogens (n=6) and glucosylsphingosine (n=1). Two patients whose monoclonal immunoglobulin targeted HBV (HBx and HBcAg), implying that their gammopathy was HBV-driven, received AVT and the gammopathy did not progress. AVT efﬁcacy was then investigated in a large cohort of HBV-infected MM patients (n=1367) who received or did not receive anti-HBV treatments and compared to a cohort of HCV-infected MM patients (n=1220). AVT signiﬁcantly improved patient probability of overall survival (P=0.016 for the HBV-positive cohort, P=0.005 for the HCV-positive cohort). Altogether, MGUS and MM disease can be HBV- or HCV-driven in infected patients, and the study demonstrates the importance of AVT in such patients.\n\nIntroduction\n\nMultiple myeloma (MM) is characterized by clonal expan-sion of transformed plasma cells in the bone marrow. MM is preceded by pre-malignant stages including asympto-matic monoclonal gammopathy of undetermined signiﬁcance (MGUS) and/or smoldering myeloma (SMM).1-5 A minority of MGUS evolves over time toward overt MM. Unfortunately, despite great advances in the understanding and treatment of this disease, MM remains incurable.\n\nThe primary function of plasma cells is to produce immunoglobulins (Ig) that mediate humoral immunity against infection. When there is an infection, Ig-secreting plasma cells differentiate from the naïve B cells that recognize foreign antigens. This process takes place in the germinal centers of secondary lymphoid organs where B cells undergo proliferation and somatic hypermutations, followed by the selection of B cells with high antigen afﬁnity. In MGUS, SMM and particularly MM, clonal plasma cells secrete large quantities of a single Ig (monoclonal Ig),\n\nHaematologica | 109 January 2024\n\n272",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p10",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\nviral therapy should be prescribed as early as possible in the development of HBV- or HCV-linked clonal gammopathies, ideally at the MGUS stage. Patients with virus-initiated MGUS or MM can be identiﬁed via the analysis of the target of their monoclonal Ig. Disclosures No conﬂicts of interest to disclose. Contributions ARG, ML, JML, SH and EBC designed the research, analyzed data, and wrote the initial manuscript draft. NM, LB, SAM, EBC and ARG performed experiments and edited the manuscript. EP, LG, GHI, MLM, IM, DR and JML contributed patient samples and clinical data, and edited the manuscript. SH, ML and JML provided resources and ﬁnancial support, and edited the manuscript. All authors gave ﬁnal approval of the version to be submitted to publication and agreed to be accountable for all aspects of the work.\n\nAcknowledgments We are particularly indebted to all the patients who par-ticipated in the study. Funding This work was supported by grants from the Ligue Nation-ale contre le Cancer (Comités Départementaux 44, 56, 29, 85, 35) (to SH), and a grant from the Spanish Society of Hematology (to ARG). We thank the Instituto de Investigación Hospital 12 de Octubre (i+12), CIBERONC, AECC (Accel-erator Award and Ideas Semilla), and the CRIS foundation for their help. Data-sharing statement All data generated or analyzed during this study are included in this published article and its Online Supplementary Appendix. All source data are available on request to the corresponding authors.\n\nReferences\n\n1. Palumbo A, Anderson KC. Multiple myeloma. N Engl J Med. 2011;364(11):1046-1060. 2. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538-e548. 3. Dhodapkar MV. MGUS to myeloma: a mysterious gammopathy of underexplored signiﬁcance. Blood. 2016;128(23):2599-2606. 4. Kyle RA, Larson DR, Therneau TM, et al. Long-term follow-up of monoclonal gammopathy of undetermined signiﬁcance. N Engl J Med. 2018;378(3):241-249. 5. Boyle EM, Davies FE, Leleu X, Morgan GJ. Understanding the multiple biological aspects leading to myeloma. Haematologica. 2014;99(4):605-612. 6. Guillerey C, Nakamura K, Vuckovic S, Hill GR, Smyth MJ. Immune responses in multiple myeloma: role of the natural immune surveillance and potential of immunotherapies. Cell Mol Life Sci. 2016;73(8):1569-1589. 7. Morrison VA. Infections in patients with leukemia and lymphoma. In: Stosor V, Zembower TR, editors. Infectious complications in cancer patients. Cham: Springer International Publishing; 2014. p. 319-349. 8. Hoogeboom R, van Kessel KPM, Hochstenbach F, et al. A mutated B cell chronic lymphocytic leukemia subset that recognizes and responds to fungi. J Exp Med. 2013;210(1):59-70. 9. Seifert M, Scholtysik R, Küppers R. Origin and pathogenesis of B cell lymphomas. In: Küppers R, editor. Lymphoma. New York, NY: Springer New York; 2019. p. 1-33. 10. Stevenson FK, Forconi F, Kipps TJ. Exploring the pathways to chronic lymphocytic leukemia. Blood. 2021;138(10):827-835. 11. Stevens WBC, Netea MG, Kater AP, van der Velden WJFM. Trained immunity: consequences for lymphoid malignancies. Haematologica. 2016;101(12):1460-1468. 12. Hermouet S, Corre I, Gassin M, Bigot-Corbel E, Sutton CA, Casey JW. Hepatitis C virus, human herpesvirus 8, and the development of plasma-cell leukemia. N Engl J Med. 2003;348(2):178-179. 13. Bigot-Corbel E, Gassin M, Corre I, Le Carrer D, Delaroche O,\n\nHermouet S. Hepatitis C virus (HCV) infection, monoclonal immunoglobulin speciﬁc for HCV core protein, and plasma-cell malignancy. Blood. 2008;112(10):4357-4358. 14. McShane CM, Murray LJ, Engels EA, Landgren O, Anderson LA. Common community-acquired infections and subsequent risk of multiple myeloma: a population-based study: infections and multiple myeloma. Int J Cancer. 2014;134(7):1734-1740. 15. Li Y, Li Y, Zhang L, Li W. Hepatitis C virus infection and risk of multiple myeloma: evidence from a meta-analysis based on 17 case-control studies. J Viral Hepat. 2017;24(12):1151-1159. 16. Yan J, Wang J, Zhang W, Chen M, Chen J, Liu W. Solitary plasmacytoma associated with Epstein-Barr virus: a clinicopathologic, cytogenetic study and literature review. Ann Diagn Pathol. 2017;27:1-6. 17. Bosseboeuf A, Feron D, Tallet A, et al. Monoclonal IgG in MGUS and multiple myeloma targets infectious pathogens. JCI Insight. 2017;2(19):e95367. 18. Bosseboeuf A, Seillier C, Mennesson N, et al. Analysis of the targets and glycosylation of monoclonal IgAs from MGUS and myeloma patients. Front Immunol. 2020;11:854. 19. Bosseboeuf A, Mennesson N, Allain-Maillet S, et al. Characteristics of MGUS and multiple myeloma according to the target of monoclonal immunoglobulins, glucosylsphingosine, or Epstein-Barr virus EBNA-1. Cancers (Basel). 2020;12(5):1254. 20. Harb J, Mennesson N, Lepetit C, et al. Comparison of monoclonal gammopathies linked to poliovirus or coxsackievirus vs. other infectious pathogens. Cells. 2021;10(2):438. 21. Nair S, Branagan AR, Liu J, Boddupalli CS, Mistry PK, Dhodapkar MV. Clonal immunoglobulin against lysolipids in the origin of myeloma. N Engl J Med. 2016;374(6):555-561. 22. Nair S, Sng J, Boddupalli CS, et al. Antigen-mediated regulation in monoclonal gammopathies and myeloma. JCI Insight. 2018;3(8):e98259. 23. Nair S, Bar N, Xu ML, Dhodapkar M, Mistry PK.\n\nHaematologica | 109 January 2024\n\n281",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p11",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\nGlucosylsphingosine but not Saposin C, is the target antigen in Gaucher disease-associated gammopathy. Mol Genet Metab. 2020;129(4):286-291. 24. Panﬁlio S, D’Urso P, Annechini G, et al. Regression of a case of multiple myeloma with antiviral treatment in a patient with chronic HCV infection. Leuk Res Rep. 2013;2(1):39-40. 25. Rodríguez-García A, Linares M, Morales ML, et al. Efﬁcacy of antiviral treatment in hepatitis C virus (HCV)-driven monoclonal gammopathies including myeloma. Front Immunol. 2022;12:797209. 26. Kumar S, Paiva B, Anderson KC, et al. International Myeloma Working Group consensus criteria for response and minimal residual disease assessment in multiple myeloma. Lancet Oncol. 2016;17(8):e328-e346. 27. Bosseboeuf A, Allain-Maillet S, Mennesson N, et al. Pro-inﬂammatory state in monoclonal gammopathy of undetermined signiﬁcance and in multiple myeloma is characterized by low sialylation of pathogen-speciﬁc and other monoclonal immunoglobulins. Front Immunol. 2017;8:1347. 28. Feron D, Charlier C, Gourain V, et al. Multiplexed infectious protein microarray immunoassay suitable for the study of the speciﬁcity of monoclonal immunoglobulins. Anal Biochem. 2013;433(2):202-209. 29. Linares M, Hermouet S. Editorial: the role of microorganisms in multiple myeloma. Front Immunol. 2022;13:960829. 30. Im YR, Jagdish R, Leith D, et al. Prevalence of occult hepatitis B virus infection in adults: a systematic review and meta-analysis. Lancet Gastroenterol Hepatol. 2022;7(10):932-942. 31. Zhao F, Xie X, Tan X, et al. The functions of hepatitis B virus encoding proteins: viral persistence and liver pathogenesis. Front Immunol. 2021;12:691766. 32. Feitelson MA, Bonamassa B, Arzumanyan A. The roles of hepatitis B virus-encoded X protein in virus replication and the\n\npathogenesis of chronic liver disease. Expert Opin Ther Targets. 2014;18(3):293-306. 33. Slagle BL, Bouchard MJ. Role of HBx in hepatitis B virus persistence and its therapeutic implications. Curr Opin Virol. 2018;30:32-38. 34. You H, Qin S, Zhang F, et al. Regulation of pattern-recognition receptor signaling by HBX during hepatitis B virus infection. Front Immunol. 2022;13:829923. 35. Moraleda G, Saputelli J, Aldrich CE, Averett D, Condreay L, Mason WS. Lack of effect of antiviral therapy in nondividing hepatocyte cultures on the closed circular DNA of woodchuck hepatitis virus. J Virol. 1997;71(12):9392-9399. 36. Ogawa E, Nakamuta M, Koyanagi T, et al. Sequential HBV treatment with tenofovir alafenamide for patients with chronic hepatitis B: week 96 results from a real-world, multicenter cohort study. Hepatol Int. 2022;16(2):282-293. 37. Tu T, Zehnder B, Wettengel JM, et al. Mitosis of hepatitis B virus-infected cells in vitro results in uninfected daughter cells. JHEP Rep. 2022;4(9):100514. 38. Zhang H, Wu L-Y, Zhang S, et al. Anti-hepatitis B virus X protein in sera is one of the markers of development of liver cirrhosis and liver cancer mediated by HBV. J Biomed Biotechnol. 2009;2009:289068. 39. Rajoriya N, Combet C, Zoulim F, Janssen HLA. How viral genetic variants and genotypes inﬂuence disease and treatment outcome of chronic hepatitis B. Time for an individualised approach? J Hepatol. 2017;67(6):1281-1297. 40. Levrero M, Stemler M, Pasquinelli C, et al. Signiﬁcance of anti-HBx antibodies in hepatitis B virus infection. Hepatology. 1991;13(1):143-149. 41. Hoare J, Henkler F, Dowling JJ, et al. Subcellular localisation of the X protein in HBV infected hepatocytes. J Med Virol. 2001;64(4):419-426.\n\nHaematologica | 109 January 2024\n\n282",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p2",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\nwhich serves as a marker of the disease and triggers many of the symptoms.1-6 Latent infection and chronic antigen stimulation are now recognized as initial pathogenic events leading to chronic lymphocytic leukemia (CLL) and lymphoma.7-11 B-cell receptor (BCR) signaling is central to the speciﬁc recognition of Igs, suggesting that speciﬁc antigens could be involved in the development of CLL. For instance, CLL may express stereotypic BCR speciﬁc for β-(1,6)-glucan, a major com-ponent of yeasts and fungi of the microbiota.8 BCR stimulation from these antigens results in proliferation and increased cell survival. Several studies support chronic antigenic stimulation as a pathogenic mechanism in subsets of MGUS and MM.12-22 As-sociations between MM and viral infection, particularly hepatitis C virus (HCV), human immunodeﬁciency virus (HIV), or Epstein-Barr virus (EBV) were reported.12-20 In addition, Nair et al. identiﬁed glucosylsphingosine (GlcSph) as the target of monoclonal Ig in the context of Gaucher’s disease and also in sporadic gammopathies.21,22 This pathogenic model opened new possibilities of treatment for MGUS, SMM and MM: if the target of a patient’s monoclonal Ig is identiﬁed and can be eliminated, chronic antigen-stimulation disappears, leading to the control of clonal plasma cells. The efﬁcacy of target antigen reduction therapy has been proven, ﬁrst, for MGUS and SMM linked to GlcSph, and recently, for MGUS and MM linked to HCV.23-25 In HCV-infected patients whose monoclonal Ig reacted against HCV, treating the HCV infection improved MGUS and MM disease.25 In the present study, we ﬁrst explored the role of hepatitis B virus (HBV) in patients infected with HBV and diagnosed with monoclonal gammopathy. We analyzed the reactivity of the monoclonal Ig of patients against HBV, and the efﬁcacy of treating the viral infection on MGUS and MM disease outcome. We found that for 36.7% of the 30 HBV-infected (HBV+) patients for whom the monoclonal Ig could be analyzed, the target was HBV, suggesting that HBV infection initiated the clonal gammopathy. The efﬁcacy of antiviral therapy was conﬁrmed in a second set of studies performed on large cohorts of MM patients with a history of HBV or HCV infection prior to the diagnosis of MM.\n\nMethods\n\nPatients A ﬁrst cohort included 45 patients with monoclonal gammopathy who had been infected with HBV. In this cohort, different assays were performed with the aim of identifying the target of the monoclonal Ig of patients. Thirty patients were followed at the Centres Hospitaliers Universitaires (CHU) of Paris Saint Antoine (n=26) or Tours (n=4), France, and 15 patients at the Hospital 12 de Oc-\n\ntubre, Madrid, Spain. Most patients were diagnosed with MGUS (n=14) or MM (n=29). Biological and clinical data were available at the time of diagnosis for 31 patients (8 MGUS, 23 MM) (Online Supplementary Table S1). The studies were approved by our Institutional Review Boards and the patients provided written informed consent in ac-cordance with the Declaration of Helsinki. MGUS or MM disease status was monitored by the quantiﬁcation of monoclonal Ig or total Igs or free kappa/lambda light chain levels in serum. Protein and monoclonal Ig levels were vis-ualized by serum protein electrophoresis and/or immu-noﬁxation electrophoresis.25,26 A second and a third cohort included patient data obtained from TriNetX, LLC (TriNetX) including data from subjects from healthcare organizations (HCO) all over the world with an MM diagnosed between the last 3 to 20 years from now, after a diagnosis of HBV or HCV infection, who had or had not received antiviral treatments. Cohorts were que-ried in TriNetX on March 22nd, 2022, and two large cohorts of MM patients found to have been infected by HBV (HBV+, n=1367) or HCV (HCV+, n=1220) were collected. Patients were classiﬁed into four groups: infected MM patients who received antiviral treatment (against HBV, n=175; or against HCV, n=179), and those who did not (n=1192 for HBV+ patients; n=1041 for HCV+ patients). The characteristics of these patients are summarized in Table 1, and the ﬂowchart of the study is represented in Figure 1A.\n\nSeparation of monoclonal Ig from non-clonal Ig For each patient, agarose gel electrophoresis and puriﬁcation of the monoclonal Ig from other Ig present in serum samples were performed as published previously17-\n\n20,27 and detailed in the Online Supplementary Appendix.\n\nAnalysis of the speciﬁcity of antigen recognition of monoclonal Ig We and others previously reported that GlcSph, a glucoli-pid, and at least eight infectious pathogens could be the targets of monoclonal Ig from MGUS and MM patients.12-22 Thus three different assays were used to determine the target of monoclonal Ig of HBV+ patients, after puriﬁcation of each monoclonal Ig : i) a GlcSph immunoblot assay, to determine whether a monoclonal Ig recognizes GlcSph; ii) the multiplex infectious antigen microarray (MIAA) assay, to determine whether puriﬁed monoclonal Ig recognize one infectious pathogen among different pathogens; and iii) dot blot assays designed to conﬁrm that HBV or other pathogens, proteins or Ag, were recognized by the puriﬁed monoclonal Ig.17-20,27,28 All assays are detailed in the Online Supplementary Appendix.\n\nStatistical analysis Data analysis was performed by GraphPad Prism 6.01 soft-ware and for the large HBV+ and HCV+ MM cohorts with\n\nHaematologica | 109 January 2024\n\n273",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p3",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\nA\n\nB\n\nC\n\nHaematologica | 109 January 2024\n\n274\n\nContinued on following page.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p4",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\nFigure 1. The effect of antiviral treatment in hepatitis C virus- and hepatitis B virus-infected multiple myeloma cohorts. (A) Study design and ﬂowchart of hepatitis B virus (HBV)+ (orange) and hepatitis C virus (HCV)+ (blue) cohorts. A total of 1,367 (HBV+) or 1,192 (HCV+) patients from 49 out of the 73 healthcare organizations (HCO) of the TriNetX network were included in the cohort of patients diagnosed with multiple myeloma (MM) after HBV or HCV infection. Anti-viral treatments (AVT) were tenofovir disoproxil, lamivudine, peginterferon alfa-2a, interferon alfa-2b, tenofovir alafenamide, entecavir. Anti-HCV treatments were elbasvir, grazoprevir, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, voxilaprevir, or combinations of these drugs. (B) Survival analysis of the HBV+ and HCV+ cohorts. Number of patients and log-rank test in each cohort, with outcome and survival probability at the end of time window in HBV or HCV cohorts. df: degree of freedom. (C) Kaplan-Meier plots comparing overall survival since the time of MM diagnosis of patients with HBV or HCV infection who received AVT (purple) or not (green). Since no differences in age or sex among groups of AVT treated versus untreated patients were observed, analyses were performed without propensity score matching (HBV+ patients: P=0.270; HCV+ patients: P=0.466).\n\nTable 1. Characteristics of patients diagnosed with multiple myeloma post hepatitis B virus or hepatitis C virus infection, depending on receiving or not receiving antiviral therapy.\n\nSex N Male/female (%)\n\nAge at diagnosis N Mean ± SD\n\nLeukocytes (x109/L) N Mean ± SD\n\nHemoglobin (g/dL) N Mean ± SD\n\nPlatelets (x109/L) N Mean ± SD\n\nCalcemia (mmol/L) N Mean ± SD\n\nCreatinine (μmol/L) N Mean ± SD\n\nBone lesions N N, with lesions\n\nHBV+ Cohort HCV+ Cohort\n\nAVT No AVT AVT No AVT\n\n175 73.7\n\n1,192 60.1\n\n179 65.9\n\n1,041 64.8\n\n175 59.8 ± 10.4\n\n1,192 61 ± 13.1\n\n179 59.5 ± 8.9\n\n1,041 60.2 ± 12.7\n\n155 6.46 ± 5.58\n\n1,077 12.6 ± 13.4\n\n168 6.26 ± 4.79\n\n882 13.6 ± 16.8\n\n164 11.4 ± 3.08\n\n1,125 11.1 ± 2.67\n\n175 11.4 ± 2.57\n\n946 10.9 ± 2.75\n\n166 158 ± 96.8\n\n1,101 179 ± 102\n\n176 161 ± 87.9\n\n916 174 ± 100\n\n159 2.25 ± 0.23\n\n1,091 2.25 ± 0.21\n\n175 2.27 ± 0.20\n\n890 2.23 ± 0.23\n\n164 173 ± 214\n\n175 61\n\n1,117 260 ± 906\n\n1,192 449\n\n175 250 ± 933\n\n179 78\n\n937 247 ± 715\n\n1,041 379\n\nN: number of patients; SD: Standard Deviation; AVT: antiviral treatment; HBV: hepatitis B virus; HCV: hepatitis C virus.\n\nthe TriNetX Platform. All analyses are described in the Online Supplementary Appendix.\n\nResults\n\nDetermination of the target of puriﬁed monoclonal Ig of hepatitis B virus-positive patients Serum samples were collected from 45 HBV+ patients with a monoclonal Ig (13 MGUS, 1 POEMS syndrome, 30 MM, 1 plasma cell leukemia [PCL]) and 3 control MM patients vaccinated against HBV. MGUS monoclonal Ig were 10 IgG, 1 IgA and 2 IgM. MM monoclonal Ig were 20 IgG, 8 IgA, 1 IgD, and light chains in one case. The POEMS patient had a mono-\n\nclonal IgA and the PCL patient, a monoclonal IgG. The characteristics of HBV+ patients are presented in Online Supplementary Table S1. We were able to purify 30 monoclonal Ig (27 IgG, 2 IgA, 1 IgM) from 8 MGUS and 22 MM HBV-infected patients (Online Supplementary Figure S1). The speciﬁcity of recognition of the puriﬁed monoclonal Ig was analyzed using the GlcSph, MIAA and dot blot assays. These studies identiﬁed the target of 20/30 (66.7%) monoclonal Ig (18 IgG, 1 IgA, 1 IgM) from 18 HBV-infected patients and 2 patients vaccinated against HBV. Six of these patients were diagnosed with MGUS, and 14 with MM. The targets of monoclonal Ig were infectious pathogens for 18 patients (6 MGUS, 12 MM) and GlcSph for 2 MM patients (Table 2). These results were conﬁrmed by\n\nHaematologica | 109 January 2024\n\n275",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p5",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\nFigure 2. Results of the MIAA and dot blot assays of six hepatitis B virus-speciﬁc monoclonal Ig. For each patient (Pt), results obtained in parallel with the unseparated serum IgG (serum, left) and the patient’s puriﬁed monoclonal IgG (Mc IgG, right) using the MIAA assay are represented; results are shown as ﬂuorescent intensity (FI). The FI values shown for each pathogen, Ag, protein or lysate, were obtained after subtraction of the ﬂuorescent background (F-B) of each pathogen protein or lysate. Dotted\n\nContinued on following page.\n\nHaematologica | 109 January 2024\n\n276",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p6",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\nlines show thresholds of speciﬁc positivity deﬁned for each viral pathogen or protein: 1,400 for Epstein-Barr virus (EBV), cytomegalovirus (CMV), varicella-zoster virus (VZV), hepatitis B virus (HBV) and B. burgdorferi (blue); 1000 for herpes simplex virus (HSV)-1 and HSV-2 (orange); 500 for hepatitis C virus (HCV) and T. gondii (green). Dots may be superimposed; horizontal bars represent means of results obtained for a pathogen (Ag, lysate). Experiments were performed in triplicate, repeated at least once. Inserts show the results of dot blot assays performed with puriﬁed recombinant HBV proteins (HBsAg, HBeAg, HBcAg, HBx) and water as control. The assays showed that the Mc IgG (or IgM, Pt M13) recognized a single HBV protein. Experiments were performed at least twice.\n\nTable 2. Identiﬁed targets of puriﬁed monoclonal Ig from HBV-infected or -vaccinated patients with monoclonal gammopathy.\n\nPatients Diagnosis Mc Ig type Anti-HBs/HBc/HBe Ab in serum\n\nTarget of Mc Ig AVT Decrease in Mc Ig\n\nDisease progression\n\nInfected\n\nPt M02 MM IgGλ Anti-HBc, Anti-HBs HSV-1 No - Yes\n\nPt M13 MGUS IgMκ ND HBx Yes (entecavir) No No\n\nPt M14 MM IgGκ Anti-HBc H. pylori No - Yes\n\nPt M18 MGUS IgGλ Anti-HBc, anti-HBe, HBsAg HBcAg Yes (entecavir) - No\n\nPt M25 MGUS IgGκ Anti-HBe* EBV EBNA-1 Yes (entecavir) No Yes\n\nPt P01 MM IgGλ Anti-HBc, anti-HBe* GlcSph No - -\n\nPt P04 MGUS IgGκ Anti-HBe, Anti-HBc HBeAg No - -\n\nPt P05 MM IgG Anti-HBc HBx No - -\n\nPt P06 MM IgG Anti-HBs, anti-HBc, anti-HBe* HBx No - -\n\nPt P07 MM IgGκ Anti-HBs HBx No - -\n\nPt P08 MGUS IgGλ Anti-HBe* EBV EBNA-1 Yes (unknown) - -\n\nPt P11 MM IgG Anti-HBs,* anti-HBe* EBV EBNA-1 No - -\n\nPt P12 MM IgGκ Anti-HBe* HSV-1 gG No - -\n\nPt P14 MM IgGκ Anti-HBc, anti-HBe* HBx No - CR\n\nPt P16 MM IgGκ Anti-HBc, anti-HBe* HBx No - Yes\n\nPt P23 MM IgGκ Anti-HBe* HBx No - -\n\nPt P24 MM IgGκ Anti-HBc HBcAg No - CR\n\nPt P29 MGUS IgGλ Anti-HBs,* anti-HBe* HBeAg No - -\n\nVaccinated\n\nPt P13 MM IgGκ Anti-HBs GlcSph NA - -\n\nPt P17 MM IgAκ Anti-HBs Coxsackievirus VP1 NA - -\n\nInformation on the presence of anti-HBs/HBc/HBe Ab in serum was obtained from hospital laboratories, except when labelled * (data obtained from the MIAA assay). Ab: antibodies; AVT: antiviral therapy; CR: complete remission of MM; MM: multiple myeloma; MGUS: monoclonal gammopathy of undetermined signiﬁcance; Mc Ig: monoclonal immunoglobulin; HBV: hepatitis B virus; EBV: Epstein Barr virus; EBNA: Epstein-Barr nuclear antigen; HSV-1: herpes simplex virus 1; H. pylori: Helicobacter pylori; GlcSph: glucosylsphingosine; ND: no data; NA: not applicable; Pt: patient.\n\nimmunoblot or dot blot assays (Figure 2, Figure 3, Online Supplementary Figures S2 and S3). To summarize, four infectious pathogens were recognized by monoclonal Ig from HBV-infected patients: HBV in 11 cases (4 MGUS, 7 MM), EBV in 3 cases (2 MGUS, 1 MM), H. pylori in one MM case, and HSV-1 for 2 MM patients. Thus, HBV was the most frequent target of monoclonal Ig from HBV-infected patients (11/30 analyzed, or 36.7%). The HBV proteins targeted were protein X (HBx) (n=7), antigen e (HBeAg) (n=2), and the core protein (HBc) (n=2). For other HBV-infected patients, the targets of monoclonal Ig were EBV EBNA-1 (n=3), HSV-1 gG (n=2), H. pylori (n=1), and GlcSph (n=1). In\n\naddition, the puriﬁed monoclonal Ig from 3 MM patients (P13, P17, P18) vaccinated against HBV were also analyzed. The targets were GlcSph (P13), Coxsackievirus VP1 protein (P17), or unknown (P18). Altogether, the monoclonal Ig of 2 MGUS and 8 MM patients lacked an identiﬁed target after these analyses (Online Supplementary Figure S4). The targets of the monoclonal Ig of the PCL and POEMS patients were also not identiﬁed. As reported,19,20 the per-centage of monoclonal Ig of unknown speciﬁcity was higher for MM (10/22 or 45.5%) than for MGUS (2/8 or 25%) patients, but in this cohort the difference was not signiﬁcant (P=0.3118 by χ2 test).\n\nHaematologica | 109 January 2024\n\n277",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p7",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\nFigure 3. Results of the MIAA and dot blot assays of monoclonal Ig that target an infectious pathogen other than hepatitis B virus. For each patient (Pt), results obtained in parallel with the unseparated serum IgG (serum, left) and the patient’s puriﬁed monoclonal IgG or IgA (Mc IgG or Mc IgA, right) using the MIAA assay are represented; results are shown as ﬂuorescent intensity (FI). The FI values shown for each pathogen, Ag, protein or lysate, were obtained after subtraction of the ﬂuorescent background\n\nContinued on following page.\n\nHaematologica | 109 January 2024\n\n278",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p8",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\n(F-B) of each pathogen protein or lysate. Dotted lines show thresholds of speciﬁc positivity deﬁned for each viral pathogen or protein: 1,400 for Epstein-Barr virus (EBV), cytomegalovirus (CMV), varicella-zoster virus (VZV), hepatitis B virus (HBV) and B. burgdorferi (blue); 1000 for HSV-1 and HSV-2 (orange); 500 for hepatitis C virus (HCV), H. pylori and T. gondii (green). Dots may be superimposed; horizontal bars represent the means of results obtained for a pathogen (Ag, lysate). Experiments were performed in triplicate, repeated at least once. Inserts show the results of dot blot assays performed with either puriﬁed recombinant proteins from EBV, herpes simplex virus (HSV)-1 or Enterovirus VP1, and water or PBS used as control. Experiments were performed at least twice.\n\nTable 3. Summary of the characteristics of the cohorts in the hepatitis B virus analysis before and after matching.\n\nCohort Mean ± SD N of patients % Cohort P\n\n1 Age at Index 59.8 ± 10.4 175 100 0.270\n\n2 Age at Index 61.0 ± 13.1 1,192 100\n\nCohort 1 is Global multiple myeloma (MM) post hepatitis B virus (HBV) infection with antiviral therapy (AVT), and cohort 2 is Global MM post HBV infection without AVT. SD: Standard Deviation.\n\nTable 4. Summary of the characteristics of the cohorts in the HCV analysis before and after matching.\n\nCohort Mean ± SD N of patients % Cohort P\n\n1 Age at Index 59.5 ± 8.9 179 100 0.466\n\n2 Age at Index 60.2 ± 12.7 1,041 100\n\nCohort 1 is Global multiple myeloma (MM) post hepatitis C virus (HCV) infection with antiviral therapy (AVT), and cohort 2 is Global MM post HCV infection without AVT. SD: Standard Deviation.\n\nEvolution of monoclonal gammopathies of undetermined signiﬁcance and multiple myeloma disease in patients with a hepatitis B virus-speciﬁc monoclonal Ig Patient data and disease evolution were analyzed according to the target of the monoclonal Ig: HBV, other target, unknown target. For MGUS patients, HBV infection was anterior to the diagnosis of MGUS in all cases, and conﬁrmed by the presence of antibodies against HBc, HBe or HBs (Table 2). MGUS patients P04 and P29, who presented with a monoclonal Ig speciﬁc for HBeAg, were both young (27 and 42 years old); unfortunately, follow-up information was not available for these patients. MGUS patients M13, M18, M25 and P08 received antiviral treatment. No progression was observed for patients M13 and M18, who both had a monoclonal Ig speciﬁc for a HBV protein (HBx for Pt M13, HBcAg for Pt M18). MGUS patients M25 and P08 had a monoclonal Ig speciﬁc for EBV EBNA-1, and anti-HBV treatment had no effect on their gammopathy. Patient M25 showed a strong increase in the amount of monoclonal Ig, and patient P08 progressed toward MM, now in third relapse. Seven MM patients had a HBV-speciﬁc monoclonal Ig. Those patients for whom information was available presented at diagnosis with a low burden of MM disease (<15% plasma cells in bone marrow, β2-microglobulin <3.5 mg/L, hemoglobin (Hb) ≥10 g/dL, creatinine <100 μmol/L, ISS stage I-II), compared to patients with a monoclonal Ig of unknown speciﬁcity (Online Supplementary Table S2); however, differences were not signiﬁcant. Unfortunately,\n\nnone of these 7 patients had received antiviral treatment. After MM therapy, 2 patients (P14, P24) achieved complete remission (CR) for at least one year, and one patient (P16) progressed.\n\nOverall survival of multiple myeloma patients who received anti-hepatitis B virus treatment We then analyzed the TriNetX cohort of 1367 HBV+ MM patients. The main characteristics of patients treated (or not) with antiviral drugs are summarized in Table 3; there was no signiﬁcant difference between the treated and untreated cohorts. We analyzed the evolution of MM disease in patients post HBV infection: those who received antiviral treatment (tenofovir disoproxil, lamivudine, peginterferon alfa-2a, interferon alfa-2b, tenofovir alafenamide, entecavir) had an overall survival probability at 3 years of 77.91%, compared to 68.41% for patients who did not receive antiviral treatment (Figure 1B, C); this difference was statistically signiﬁcant by log-rank test (P=0.016). Since we did not observe differences in age or sex among the two groups of patients (P=0.270), analyses were performed without propensity score matching.\n\nOverall survival of multiple myeloma patients who received anti-hepatitis C virus treatment For comparison, we analyzed the evolution of MM disease in 1,220 HCV-infected MM patients. Table 4 shows patients' characteristics; again, there was no signiﬁcant difference between patients treated or not with antiviral drugs. MM patients who received anti-HCV treatments (elbasvir, gra-\n\nHaematologica | 109 January 2024\n\n279",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3324/haematol.2023.283096",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_sha256": "b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4",
+          "source_url": "https://doi.org/10.3324/haematol.2023.283096"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4:p9",
+        "source_issue_ids": [],
+        "text": "ARTICLE - Impact of viral hepatitis therapy in multiple myeloma A. Rodríguez-García et al.\n\nzoprevir, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, voxilaprevir, or combinations of some of these drugs) had a high overall survival probability at 3 years (80.46%) compared to patients who did not (70.78%) (P=0.005 by log-rank test) (Figure 1B, C). Analyses were performed without propensity score matching since there was no difference in age or sex among the two groups of patients (P=0.466).\n\nDiscussion\n\nFor signiﬁcant subsets of monoclonal gammopathies, including MM, the patient’s monoclonal Ig speciﬁcally recognizes an infectious pathogen, which implies that the clonal gammopathy was initiated by chronic stimulation by an antigen from this pathogen.12,13,17-20,29 Moreover, patients with HCV-driven MGUS or MM (when the monoclonal Ig targeted HCV) beneﬁted from AVT: MGUS or MM disease evolution improved after anti-HCV therapy, including a refractory MM for whom antiviral therapy led to long-term complete remission.25 The present study strengthens and extends these ﬁndings to MGUS and MM linked to HBV: for over a third of HBV+ patients whose monoclonal Ig could be studied, the monoclonal Ig targets HBV, which implies that HBV initiated the gammopathy in these individuals. Moreover, we demonstrate that AVT im-proves the survival of HBV+ MM patients. Our study also conﬁrms in a large cohort that antiviral treatment im-proves MM outcome for HCV-infected patients.24,25 The targets of monoclonal Ig from HBV+ MGUS and MM patients could be studied only in the ﬁrst cohort of 45 patients, for whom 30 monoclonal Ig could be puriﬁed and analyzed. For 23.3% (7/30) HBV+ MGUS and MM patients, the target of the puriﬁed monoclonal Ig was EBV, HSV-1, H. pylori or GlcSph; thus the gammopathy of these patients was not linked to HBV. For 36.7% (11/30) HBV+ patients (4 MGUS, 7 MM), the monoclonal Ig speciﬁcally recognized a HBV protein, implying a role for HBV in the initiation of the gammopathy. These ﬁndings support early prescription of AVT, at the MGUS stage whenever possible. In western Europe, HBV-initiated gammopathies may not represent a large fraction of MGUS and MM, but the im-plication of HBV in MM pathogenesis may be more frequent in parts of the world where HBV infection is endemic (Eastern Europe, Asia, the Middle East, sub-Sa-haran Africa, South America).30 Previous studies showed that ≥80% monoclonal Ig of HCV+ patients target HCV, especially the strongly immunogenic and oncogenic core protein. Regarding HBV, patients with controlled, inactive HBV infection present with antibodies directed at HBe, HBc, and HBs. Consistent with ancient, controlled HBV infection, at the time of MGUS or MM diagnosis patients had polyclonal antibodies against HBV (anti-HBe, HBc and/or HBs) in serum. However, mono-\n\nclonal Ig of HBV+ MM patients frequently targeted a lesser known viral protein, non-structural HBx. The genome of HBV, a DNA virus, contains four overlapping open reading frames (ORF) named S, P, C and X. The S ORF produces envelope proteins including HBsAg; the P and C ORF en-code the HBV polymerase, core protein (HBc), and the HBeAg; and X ORF encodes Hbx.31,32 HBx is commonly de-tected in hepatocytes of HBV-infected patients, and its expression correlates with viral replication.33 Indeed, Hbx plays a central role in the initiation and maintenance of HBV replication, but also inhibits the host’s immune response to the virus, and facilitates the development of hepatocellular carcinoma (HCC).34,35 The presence of anti-HBx IgG in the serum of individuals with chronic HBV infection is relatively frequent, and associated with the presence of anti-HBc IgG.36,37 Several groups reported anti-HBx IgG in the serum of as many as 40.6% HBV-infected patients with liver cirrhosis (LC), and 5-34.4% of HBV-infected patients with HCC.36,37 Thus anti-HBx IgG can be considered as markers of viral replication and HBV-mediated development of LC and HCC.38 Chronic production of a large amount of clonal anti-HBx antibody could help control HBV infection. In this study, biological and clinical information was available for 3 MM patients with HBV-speciﬁc monoclonal Ig: at the time of MM diagnosis, none presented signs of active liver disease, and they had a mild form of MM disease (β2-microglobulin <3.5 mg/L, Hb ≥10 g/L, calcemia <2.6 mmol/L, no bone lesions, ISS I-II). Unfortunately, the evolution of these patients was unknown. More studies are necessary to establish whether the production of large amounts of anti-HBx IgG has beneﬁcial effects on HBV infection and hepatic disease. The second part of our studies was designed to investi-gate the effect of AVT on MM disease for HBV-infected MM patients, compared to HCV-infected MM patients. In both cohorts, individuals who received AVT fared signiﬁcantly better after 1,000 days of evolution than MM patients whose HBV or HCV infection was not treated. The best effect of AVT was observed for HCV+ patients, possibly be-cause the anti-HBV treatments in this retrospective study do not totally eliminate HBV. HBV covalently closed circular DNA (cccDNA) remains in hepatocytes, and cccDNA persistence represents a therapeutic barrier in curing HBV infection.39-41 Another reason is that MM is frequently driven by HCV in HCV+ patients (with >80% of monoclonal Ig targeting HCV), whereas MM is presumably HBV-driven in “only” 36.7% HBV+ patients. One limitation of this study is the lack of serum samples for the TriNetX cohorts, which made identifying the target of the monoclonal Ig in these cohorts impossible. Altogether, clonal gammopathies of HBV-infected patients are frequently HBV-driven. This study demonstrates the importance of antiviral treatments for patients with HBV-or HCV-driven clonal gammopathies, including MM. Anti-\n\nHaematologica | 109 January 2024\n\n280",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:b6f3aafacbbe51cb74517e8504e41a4b807605d957f59cf106d5c238232a11e4"
+}
