@@ -1,0 +1,297 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T15:42:32.925095+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "History of autoimmune disease is associated with impaired survival in multiple myeloma and monoclonal gammopathy of undetermined significance: a population-based study",
+        "year": null
+      },
+      "doi": "10.1007/s00277-016-2859-8",
+      "format": "pdf",
+      "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+      "url": "https://doi.org/10.1007/s00277-016-2859-8"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/s00277-016-2859-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_url": "https://doi.org/10.1007/s00277-016-2859-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9:p1",
+        "source_issue_ids": [],
+        "text": "Ann Hematol (2017) 96:261–269 DOI 10.1007/s00277-016-2859-8\n\nORIGINAL ARTICLE\n\nHistory of autoimmune disease is associated with impaired survival in multiple myeloma and monoclonal gammopathy of undetermined significance: a population-based study\n\nEbba K. Lindqvist1 & Ola Landgren2 & Sigrún H. Lund3 & Ingemar Turesson4 & Malin Hultcrantz1,2 & Lynn Goldin5 & Magnus Björkholm1 & Sigurdur Y. Kristinsson1,3\n\nReceived: 12 July 2016 /Accepted: 11 October 2016 /Published online: 2 November 2016 # The Author(s) 2016. This article is published with open access at Springerlink.com\n\nAbstract Multiple myeloma (MM) is a plasma cell disorder preceded by monoclonal gammopathy of undetermined significance (MGUS). Incidence of MM and MGUS is higher among patients with autoimmune disease. The aim of this study was to determine whether a history of autoimmunity has an impact on survival in MM and MGUS. Using high-quality national Swedish registries, we identified 8367 patients with MM, 18,768 patients with MGUS, and 110,251 matched control subjects, and obtained information on previous autoimmune disease in patients and controls. Cox regression was used to calculate hazard ratios (HRs) for overall survival with 95 % confidence intervals (CIs). In patients with MM and a prior autoimmune disease, the risk of death was significantly increased, HR = 1.2 (95 % CI 1.2–1.3) compared to MM patients with no history of autoimmunity. In MGUS patients, a prior autoimmune disease was associated with a significantly 1.4-fold elevated risk of death (95 % CI 1.3–1.4). When analyzing different types of autoimmune diseases, a history of ulcerative colitis had a stronger impact\n\n* Ebba K. Lindqvist ebba.lindqvist@ki.se\n\n1 Department of Medicine, Division of Hematology, Karolinska University Hospital and Karolinska Institutet, 171 76 Stockholm, Sweden\n\n2 Department of Medicine, Myeloma Service, Memorial Sloan-Kettering Cancer Center, New York, NY, USA\n\n3 Faculty of Medicine, University of Iceland, Reykjavik, Iceland\n\n4 Department of Hematology and Coagulation Disorders, Skåne University Hospital, Malmö, Sweden\n\n5 Division of Cancer Epidemiology and Genetics, National Cancer Institute (NCI), National Institutes of Health (NIH), Bethesda, MD, USA\n\non survival in MM than in controls. Our findings that a history of autoimmune disease has a negative impact on survival in MM and MGUS could be due to shared underlying common genetic factors, or that patients with a history of autoimmunity develop more severe cases of MM and MGUS, or cumulative comorbidity in the individual. Our results suggest that more attention should be paid to comorbidity as a prognostic factor in MGUS and MM, and underlines the need for studies aimed at tailoring therapy according to comorbidity.\n\nKeywords Autoimmunity . Multiple myeloma . MGUS . Survival . Population-based\n\nIntroduction\n\nMultiple myeloma (MM) is a chronic plasma cell disorder, characterized by a monoclonal proliferation of plasma cells in the bone marrow coupled with an overproduction of monoclonal (M-) protein [1]. Clinical manifestations of MM include osteolytic lesions, anemia, renal failure, and hypercalcemia [2]. Monoclonal gammopathy of undetermined significance (MGUS) is an asymptomatic, pre-malignant condition with an average risk of progression to MM or other lymphoproliferative disorders of 1 % per year [3]. The etiology of MM and MGUS is largely unknown. Familial risk factors have been identified, such as an increased risk of MM and MGUS in first-degree relatives of patients with these disorders [4–7]. This, together with ethnic dispar-ities in the incidence patterns [8, 9], suggests a role for genetic factors in the etiology. Furthermore, high age and male gender have been found to be risk factors for MGUS, as have envi-ronmental risk factors such as exposure to pesticides and herbicides [10–12].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/s00277-016-2859-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_url": "https://doi.org/10.1007/s00277-016-2859-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9:p2",
+        "source_issue_ids": [],
+        "text": "262 Ann Hematol (2017) 96:261–269\n\nAutoimmune diseases include a variety of conditions, which jointly affect 5 to 10 % of the population [13]. Autoimmune diseases are characterized by increased activa-tion of T or B cells toward own antigens (autoreactivity), causing local or systemic symptoms [14]. A history of autoimmunity increases the risk of certain malignancies [15–19], possibly due to chronic stimulation of the immune system; however, the complete underlying mechanisms are unknown. We and several investigators have shown that a personal history of autoimmune disease is associated with a significantly increased risk of MGUS and to some extent MM [20–22]. Our research group recently presented results showing a family history of autoimmune disease to be associated with a significantly increased risk of MGUS [20], suggesting a common genetic susceptibility between autoimmunity and plasma cell disorders. Autoimmune disease is a predictor of poor survival in the general population, especially among women [23, 24]. A history of a few specific autoimmune diseases has been found to increase mortality in patients with certain digestive tract cancers [17], but does not seem to influence prognosis in other cancer types, e.g., lung cancer [18]. In a large study on patients with Hodgkin lymphoma, a prior diagnosis of autoimmune disease was associated with poorer survival [25]. In a smaller study on Swedish MM patients, the effect of 33 different autoimmune diseases on survival was analyzed, and only a history of rheumatic fever was associated with a decreased survival, although results were limited due to small numbers [22]. To increase knowledge in this field, we conducted a population-based study to determine whether a personal history of autoimmune disease has an impact on survival in MM and MGUS.\n\nMethods\n\nRegistries, patients, and control subjects\n\nPatients in Sweden with MM are treated by physicians at hospital-based hematology or oncology centers. All physicians in Sweden are obliged to report each case of incident cancer to the nationwide Swedish Cancer Register [26]. The completeness and diagnostic accuracy of the register is high (>93 %) for MM [27]. We identified all patients with a diagnosis of MM diagnosed from January 1, 2000, through December 31, 2013, in the nationwide Swedish Cancer Register. We established an MGUS cohort that has been de-scribed previously [20] consisting of MGUS patients retrieved through a national network, as well as through the Swedish Inpatient and Outpatient Registers, which have a high level of coverage and accuracy [28, 29]. MGUS patients diagnosed from January 1, 1988 through December 31, 2013 were included.\n\nFor all included patients, we obtained information on sex, date of birth, and date of diagnosis where the diagnosis was made. For MGUS patients, information on M-protein type and concentration was collected, where this was available. For each MM and MGUS patient, four population-based control subjects matched by sex, year of birth, and county of residence were chosen randomly from the Swedish Register of Total Population database. The control subjects had to be alive and free of any pre-ceding hematologic malignancy at the time of MM or MGUS diagnosis of the corresponding case. We obtained information on occurrence and date of autoimmune disease in patients and in controls from the Swedish Inpatient Register from 1964 and onwards. The conditions included in the analyses were equivalent to previously published studies (Appendix 1) [20, 30]. Information on survival was gathered from the Swedish Cause of Death Register. End of follow-up was December 31, 2013.\n\nStatistical analysis\n\nxWe used the Kaplan-Meier method with log-rank test and regression models to compare outcome among patients and controls with and without autoimmune disease. Specifically, we calculated hazard ratios (HRs) and 95 % confidence intervals (CIs) with Cox proportional hazards models that were adjusted for age, year of diagnosis, and sex. In a sensitivity analysis, each MM or MGUS case was paired with a control, matching on age of diagnosis, and the risk for mortality was calculated using Cox proportional hazards model as stated above. To avoid the possibility of autoimmune disease being discovered more often in cases than in controls due to the diagnostic work up of a plasma cell disorder, we excluded all autoimmune disease diagnosed less than 1 year prior to diagnosis of MM or MGUS. In order to investigate whether exposure time in addition to the presence of autoimmune disease had an impact on outcome, we included the duration of exposure in a separate model. We performed analyses on seven specific autoimmune diseases previously found to increase the risk of MM and/ or MGUS [20]; rheumatoid arthritis, pernicious anemia, chronic rheumatic heart disease, ulcerative colitis, polymyalgia rheumatica, giant cell arteritis, and psoriasis. Among MGUS patients, we also performed analyses on M-protein concentration (all isotypes combined) and by M-protein isotype where IgM MGUS was analyzed sepa-rately and IgG and IgA MGUS combined since IgM MGUS and non-IgM MGUS appear to be clinically distinct with regards to progression [31].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/s00277-016-2859-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_url": "https://doi.org/10.1007/s00277-016-2859-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9:p3",
+        "source_issue_ids": [],
+        "text": "Ann Hematol (2017) 96:261–269 263\n\nResults\n\nA total of 8367 patients with MM and 18,768 patients with MGUS that were diagnosed from January 1, 2000 and from January 1, 1988 through December 31, 2013, respectively, were included in the study, as well as 33,577 matched control subjects for MM and 76,674 matched control subjects for MGUS (Table 1). The median age at diagnosis was 72 years for both MM and MGUS patients. A history of autoimmune disease was found in 1378 MM (16 %) patients and in 4380 MM controls (13 %). Compared to MM patients with no history of autoimmune disease, patients with MM and a prior history of autoimmunity had a significantly increased risk of death (HR = 1.2, 95 % CI 1.2–1.3). The increased risk was sim-ilar in males (HR = 1.3, 95 % CI 1.1–1.4) and in females (HR = 1.2, 95 % CI 1.1–1.3). Compared to controls without prior autoimmune disease, MM controls with a history of autoimmunity had a significantly increased risk of death (HR = 1.8, 95 % CI 1.7–1.9) (Fig. 1, Table 2). In a sensitivity analysis, we excluded all individuals with a previous diagnosis of cancer, and found essentially the same results (data not shown). A history of autoimmune disease was found in 4032 MGUS (21 %) patients and in 9046 MGUS controls (12 %). Compared to MGUS patients with no history of autoimmune disease, patients with MGUS and a prior history of autoimmunity had a significantly increased risk of death (HR = 1.4, 95 % CI 1.3–1.4). The results were the same for both females and males. Compared to controls\n\nwithout prior autoimmune disease, MGUS controls with prior autoimmunity had a significantly increased risk of death (HR = 1.7, 95 % CI 1.6–1.7) (Fig. 2, Table 2). By a likelihood ratio test, the difference in effects of autoimmune disease in MM and MGUS patients compared to that in controls was statistically significant. The duration of exposure to autoimmune disease did not have a significant effect on survival when added to the model (p = 0.20 for MM and p = 0.19 for MGUS, respectively). In a sensitivity analysis, where mortality was compared using age-matched MM or MGUS controls, the results were almost identical (data not shown).\n\nAnalyses by specific autoimmune disease\n\nOf the included MM patients, 151 had a prior history of rheumatoid arthritis, 100 of pernicious anemia, 76 of chronic rheumatic heart disease, 52 of ulcerative colitis, 223 of polymyalgia rheumatica, 107 of psoriasis, and 58 of giant cell arteritis. The increased risk of dying after ulcerative colitis was greater in MM patients (HR = 1.4, 95 % CI 1.0–1.9) than in controls (HR = 1.2, 95 % CI 0.9–1.7). For the other specific conditions analyzed, the excess mortality associated with a prior autoimmune disease was not different, or was lower, in MM patients compared to controls (Table 3). Of the included MGUS patients, 665 had a prior history of rheumatoid arthritis, 149 of pernicious anemia, 203 of chronic rheumatic heart disease, 153 of ulcerative colitis, 817 of polymyalgia rheumatica, 336 of psoriasis, and 228\n\nTable 1 Patient characteristics MMa\n\npatients MM controls MGUSb\n\npatients MGUS controls\n\nNoc. in total 8367 33,577 18,768 76,674\n\nMales no. (%) 4636 (55) 18,606 (55) 9765 (52) 39,928 (52)\n\nFemales no. (%) 3731 (45) 14,971 (45) 9003 (48) 36,746 (48)\n\nMedian age at diagnosis, years (range) 71 (31–97) 73 (30–101) No. with AId (%) 1378 (16) 4380 (13) 4032 (21) 9046 (12) Males (%) 688 (50) 2210 (51) 1990 (49) 4498 (50)\n\nFemales (%) 690 (50) 2170 (49) 2042 (51) 4548 (50) Median age at diagnosis, years (range) 75 (32–98) 76 (31–101)\n\nMedian age at AI diagnosis, years (range) 70 (16–97) 69 (7–97) 66 (10–96) 68 (10–99)\n\nNo. without AI (%) 6989 (84) 29,197 (87) 14,736 (79) 67,628 (88) Males (%) 3948 (57) 16,396 (56) 7775 (53) 35,430 (52)\n\nFemales (%) 4202 (43) 12,801 (45) 8262 (47) 32,198 (47)\n\nMedian age at diagnosis, years (range) 70 (31–96) 71 (30–99)\n\na MM multiple myeloma\n\nb MGUS monoclonal gammopathy of undetermined significance\n\nc No. number\n\nd AI autoimmune disease",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/s00277-016-2859-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_url": "https://doi.org/10.1007/s00277-016-2859-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9:p4",
+        "source_issue_ids": [],
+        "text": "264 Ann Hematol (2017) 96:261–269\n\n1.00\n\n0.75\n\nStrata\n\nControls without autoimmune disease\n\nControls with autoimmune disease\n\nMM without autoimmune disease\n\nMM with autoimmune disease\n\nof giant cell arteritis. For all conditions analyzed, the excess mortality added by a prior autoimmune disease was lower in MGUS patients than the increased risk of dying in controls with a prior autoimmune disease (Table 3).\n\nSurvival\n\n0.50\n\n0.25\n\n0.00\n\n0 5 10\n\nTime since diagnosis (years)\n\nFig. 1 Survival in patients with multiple myeloma (MM), with and without a personal history of autoimmune disease, compared to controls with and without a personal history of autoimmune disease\n\nAnalyses on MGUS patients by M-protein isotype and concentration\n\nInformation on M-protein isotype was available for 4210 individuals (22 %). The effect of a history of autoimmune disease on survival was not different between isotype IgA or IgG and isotype IgM. Information on M-protein concentration was available for 3428 individuals (18 %). MGUS patients with a concentration of M-protein at diagnosis of 1.5 g/dL or more had a significantly higher risk of death (HR = 1.2, 95 % CI 1.0–1.4) compared to MGUS patients with a lower M-protein concentration. The interaction between autoimmune disease and concentration was not significant (p = 0.28).\n\nTable 2 History of AI and survival in MM and MGUS MMa MGUSb\n\nHRc 95 % CId HR 95 % CI\n\nFemales\n\nGroups: MM/MGUS + AIe vs. MM/MGUS + no AI\n\nNo. deaths/subjects in each group:\n\nControls + AI vs. controls + no AI\n\nNo. deaths/subjects in each group:\n\nMales\n\nMM/MGUS + AI vs. MM/MGUS + no AI\n\nNo. deaths/subjects in each group:\n\nControls + AI vs. controls + no AI\n\nNo. deaths/subjects in each group:\n\nOverall\n\nMM/MGUS + AI vs. MM/MGUS + no AI\n\nNo. deaths/subjects in each group:\n\nControls + AI vs. controls + no AI\n\nNo. deaths/subjects in each group:\n\n1.2\n\n462/690\n\n1947/3041\n\n1.9\n\n719/2170\n\n2679 /12,801\n\n1.3\n\n448/688\n\n2471/3948\n\n1.8\n\n811/2210\n\n3903/16,396\n\n1.2\n\n910/1378\n\n4418/6989\n\n1.8\n\n1530 /4380\n\n6582/29,197\n\na MM multiple myeloma\n\nb MGUS monoclonal gammopathy of undetermined significance\n\nc HR hazard ratio\n\nd CI confidence interval\n\ne AI autoimmune disease\n\n1.1–1.3 1.4\n\n936/2042\n\n3415/6961\n\n1.7–2.0 1.7\n\n1722/4548\n\n11,239/32,198\n\n1.1–1.4 1.4\n\n950/1990\n\n4199/7775\n\n1.6–1.9 1.6\n\n1878/4498\n\n13,798/35,430\n\n1.2–1.3 1.4\n\n1886 /4032\n\n7614/14,736\n\n1.7–1.9 1.7\n\n3600/9046\n\n25,037/67,628\n\n1.3–1.5\n\n1.6–1.8\n\n1.3–1.5\n\n1.6–1.7\n\n1.3–1.4\n\n1.6–1.7",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/s00277-016-2859-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_url": "https://doi.org/10.1007/s00277-016-2859-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9:p5",
+        "source_issue_ids": [],
+        "text": "Ann Hematol (2017) 96:261–269 265\n\nSurvival\n\n1.00\n\n0.75\n\n0.50\n\n0.25\n\nStrata\n\nControls without autoimmune disease\n\nControls with autoimmune disease\n\nMGUS without autoimmune disease\n\nMGUS with autoimmune disease\n\n0.00\n\n0 10 20\n\nTime since diagnosis (years)\n\nFig. 2 Survival in patients with monoclonal gammopathy of undetermined significance (MGUS), with and without a personal history of autoimmune disease, compared to controls with and without a personal history of autoimmune disease\n\nDiscussion\n\nIn this large population-based study including over 8000 MM patients, almost 19,000 MGUS patients, and their 110,000 matched control subjects, we found that a history of autoimmune disease was associated with a reduced survival in MM and MGUS patients. Furthermore, although based on smaller numbers, ulcerative colitis had a greater impact on mortality in MM than other autoimmune conditions. These novel findings suggest a more aggressive disease course in autoimmunity-associated plasma cell disorders and that more attention should be paid to comorbidity when predicting prognosis and tailoring therapy. The finding that autoimmune disease is a predictor of worse survival in MM patients is an important finding, and contradicts results from a previous smaller study on autoimmune disease and MM survival where no effect on survival in MM was observed [22]. However, the abovementioned study was a cohort study on individuals with autoimmune disease, and captured only 457 cases of multiple myeloma. Our findings are consistent with autoimmune disorders being a predictor of poor survival in the population [23, 24], and expand on previous investigations showing autoimmune disease to have negative impact on survival in Hodgkin lymphoma and in certain digestive tract cancers [17, 25]. The intensity of medical treatments for MM patients requires careful consideration of risks and benefits, particularly if there are other co-existing serious illnesses. With an aging population, the number of MM patients has grown and will continue to grow in the years to come [32]. In MM patients, comorbid diseases may increase the risk of treatment-related complications. Also, MM\n\nitself or its treatment may aggravate existing comorbid diseases, leading to lower performance status, decreased quality of life, and a shorter overall survival [33]. Despite the importance of considering comorbid diseases in the treatment and prognosis of MM, the literature on comorbidities in MM is limited and based on small series [34–38]. In these studies, survival is negatively influenced by increasing number of comorbid conditions. Approximately 80 % of MM patients have one or more comorbid conditions, and almost half have two or more [34–36]. There are few clinical trials where the elderly frail patients are included [39]; therefore, population-based studies are a valuable tool to estimate survival in a diverse MM population [32, 40–43]. In patients with MGUS, a history of autoimmune disease and its impact on survival have, to our knowledge, not been investigated previously. We found that MGUS patients with previous autoimmune disease had a significantly 1.4-fold increased risk of death. In patients with MGUS, the effect of a history of autoimmune disease on survival was not affected by isotype or by M-protein concentration at MGUS diagnosis. Previous investigators of cancer survival after autoimmune diseases have speculated that the underlying explanation may be poorer performance status or non-tolerance of therapy. However, this does not explain the decreased survival after autoimmune diseases in MGUS patients, who are asymptomatic by definition and do not receive therapy. Our findings of an increased risk of death in MGUS patients with a history of autoimmune disease thus suggest an unknown underlying factor which may impact the risk of death in MGUS patients with a prior autoimmune disease, and could also potentially shed light on the pathogenesis of MGUS. In addition, whether a prior autoimmune disease is also a risk factor for progression in MGUS needs to be clarified. Considering autoimmune diseases are known to be more common in females than in males, we explored survival outcomes by sex to see if autoimmunity might be associated with different survival patterns for male and female patients with MM or MGUS; however, they were not. Interestingly, a history of ulcerative colitis had a greater impact on survival in MM patients than a history of ulcerative colitis had in the general population, although the confidence intervals overlapped so the difference was not statistically significant. It is possible that therapy-related factors might have played a role. Another possibility is that individuals developing MM after ulcerative colitis are more likely to harbor additional poor prognostic factors. Our study has several strengths, such as its large size and high-quality data from Sweden. The data is derived from a stable population with access to standardized medical health care during the entire study period, ensuring a generalizability of findings. The large study size has generated a high power, as shown in the narrow confidence intervals. Recall bias was ruled out due to the study design using nationwide registers.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/s00277-016-2859-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_url": "https://doi.org/10.1007/s00277-016-2859-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9:p6",
+        "source_issue_ids": [],
+        "text": "266 Ann Hematol (2017) 96:261–269\n\nTable 3 History of specific autoimmune conditions and survival in MM and MGUS (both genders)\n\nMMa MGUSb\n\nNo. of MM patients with AIc (%)\n\nHRd 95 % CIe No. of MGUS patients with AI (%)\n\nHR 95 % CI\n\nRheumatoid arthritis 151 (1.8) 665 (3.5) MM/MGUS + AI vs. MM/ MGUS + no AI 100/151 1.3 1.0–1.6 322/665 1.3 1.2–1.5\n\nControls + AI vs. controls + no AI 182/515 1.8 1.6–2.1 545/1334 1.8 1.7–2.0\n\nPernicious anemia 100 (1.2) 149 (0.8) MM/MGUS + AI vs. MM/ MGUS + no AI 70/100 1.2 1.0–1.5 90/149 1.5 1.2–1.9\n\nControls + AI vs. controls + no AI 62/127 2.1 1.7–2.7 211/328 2.0 1.7–2.3\n\nChronic rheumatic heart disease 76 (0.9) 203 (0.1)\n\nMM/MGUS + AI vs. MM/ MGUS + no AI 41/76 0.9 0.7–1.3 86/203 1.4 1.1–1.7\n\nControls + AI vs. controls + no AI 78/305 1.6 1.3–2.0 193/599 2.0 1.8–2.4\n\nUlcerative colitis 52 (0.6) 153 (0.8)\n\nMM/MGUS + AI vs. MM/ MGUS + no AI 33/52 1.4 1.0–1.9 47/153 1.1 0.8–1.5\n\nControls + AI vs. controls + no AI 38/191 1.2 0.9–1.7 87/327 1.6 1.3–2.0\n\nPolymyalgia rheumatica 223 (2.7) 817 (4.4)\n\nMM/MGUS + AI vs. MM/ MGUS + no AI 146/223 1.0 0.8–1.2 343/817 1.0 0.9–1.2\n\nControls + AI vs. controls + no AI 227/603 1.5 1.4–1.8 600/1410 1.3 1.2–1.5\n\nGiant cell arteritis 58 (0.7) 228 (1.2)\n\nMM/MGUS + AI vs. MM/ MGUS + no AI 38/58 0.8 0.6–1.1 92/228 1.0 0.8–1.2\n\nControls + AI vs. controls + no AI 53/150 1.4 1.1–1.8 141/300 1.4 1.1–1.6\n\nPsoriasis 107 (1.3) 336 (1.8)\n\nMM/MGUS + AI vs. MM/ MGUS + no AI 51/107 0.9 0.7–1.2 103/336 1.3 1.0–1.6\n\nControls + AI vs. controls + no AI 98/507 1.3 1.1–1.6 203/824 1.4 1.2–1.6\n\na MM multiple myeloma\n\nb MGUS monoclonal gammopathy of undetermined significance\n\nc AI autoimmune disease\n\nd HR hazard ratio\n\ne CI confidence interval\n\nBecause of the large study size, patient-related information was only gathered through registers, and we were not able to validate individual medical records, and we did not have information on established risk factors such as genetic aberra-tions detectable by fluorescence in situ hybridization (FISH), both of which are limitations of our study. Also, this is a hypothesis-generating study, including many autoimmune diseases, and the findings on specific autoimmune diseases should be interpreted with caution. In our study, individuals with a history of autoimmune disease were older than those\n\nwithout. However, analyses were adjusted for age, and a sensitivity analysis where mortality was compared between cases and age-matched controls showed almost identical results. Thus, the age difference is unlikely to explain the difference in survival. The results for MGUS are cohort-based, and although large, it does not necessarily represent the true population since MGUS is an asymptomatic condition and the cohort was clinically based, not a screened population. The use of inpatient data could have led to under-ascertainment of less severe forms of autoimmune diseases. Importantly, the",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/s00277-016-2859-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_url": "https://doi.org/10.1007/s00277-016-2859-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9:p7",
+        "source_issue_ids": [],
+        "text": "Ann Hematol (2017) 96:261–269 267\n\nautoimmune disease did not have to be the reason for admis-sion, so all patients with autoimmune disease admitted for any reasons are included in our analysis. The prevalence of autoimmune disease was higher in MM (16 %) and MGUS (21 %) patients than in controls (12–13 %), which is consistent with previous findings of a significantly increased risk of MGUS and to some extent MM after autoimmune disease [20–22]. The overall high prevalence of autoimmunity in our study is surprising; however, a wide range of autoimmune disorders were included (Appendix 1) and although we were not able to validate individual medical records, since history of autoimmune diseases was assessed in the same way among MM and MGUS patients and matched controls, any under- or over-diagnosis should be non-differential. In conclusion, our findings that a personal history of autoimmune disease has a negative impact on survival in MM and MGUS patients could be due to underlying common genetic factors, or that patients with a personal history of autoimmunity develop more severe forms of MM or MGUS as a result of either the autoimmune disease or its treatment, or cumulative comorbidity in the individual. Our findings suggest that more attention should be paid to comorbidity, such as autoimmune disease, as a prognostic factor in MM, and perhaps also in MGUS. Treatment options for MM are investigated today in randomized clinical trials which are subject to selection bias with strict inclusion and exclusion criteria, often with omis-sion of elderly patients and patients with comorbidites. However, a majority of MM patients suffer from multiple other diseases, which may both affect survival and make patients unsuitable for certain treatments. Our findings raise interesting questions on the pathogenesis of MGUS, and high-light the importance of accounting for comorbidities such as autoimmune disease both for predicting prognosis and for tailoring therapy in patients with plasma cell dyscrasias.\n\nAppendix\n\nTable 4 Autoimmune conditions included in the study\n\nRheumatoid arthritis Lupoid hepatitis Systemic sclerosis Celiac disease Sjögren’s syndrome Granulomatosis with polyangiitis (Wegener’s) Systemic lupus erythematosus Dressler syndrome Polymyositis or dermatomyositis Chronic rheumatic heart disease\n\nHashimoto thyroiditis Multiple sclerosis Grave’s disease Amyotrophic lateral sclerosis Addison disease Rheumatic fever Pernicious anemia Sarcoidosis Autoimmune hemolytic anemia Reiter disease Immune thrombocytopenia Crohn disease Primary biliary cirrhosis Ulcerative colitis Discoid lupus erythematosus Ankylosing spondylitis\n\nLocalized scleroderma Polymyalgia rheumatica\n\nMyasthenia gravis Psoriasis\n\nAutoimmune hepatitis Behcet disease\n\nPolyarteritis nodosa Giant cell arteritis\n\nGuillain-Barré syndrome Vitiligo\n\nDiabetes type 1 Aplastic anemia\n\nOpen Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http:// creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.\n\nAcknowledgments This research was supported by grants from the Swedish Blodcancerfonden, the Swedish Cancer Society, the regional agreement on medical training and clinical research (ALF) between Stockholm County Council and Karolinska Institutet, the Karolinska Institutet Foundations, the University of Iceland Research Fund, Icelandic Centre for Research (RANNIS), and Landspitali University Hospital research Fund.\n\nAuthorship contributions SYK, EKL, MH, and SHL designed the study. SYK, OL, and IT obtained data. SHL performed the analyses. EKL and SYK wrote the report. All the authors were involved in the analyses and the interpretation of the results. All authors read, gave com-ments, and approved the final version of the manuscript. All the authors had full access to the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.\n\nCompliance with ethical standards This study was approved by the Regional Ethical Review Board in Stockholm.\n\nConflict of interest The authors declare that they have no conflict of interest.\n\nReferences\n\n1. Swerdlov S, Campo E, Harris N, Jaffe E, Pileri S, Stein H, Thiele J, Vardiman J (2008) WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues, 4th edn. IARC, Lyon 2. Kyle RA, Gertz MA, Witzig TE, Lust JA, Lacy MQ, Dispenzieri A, Fonseca R, Rajkumar SV, Offord JR, Larson DR, Plevak ME, Therneau TM, Greipp PR (2003) Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc 78:21–33 3. Kyle RA, Therneau TM, Rajkumar SV, Offord JR, Larson DR, Plevak MF, Melton LJ 3rd (2002) A long-term study of prognosis in monoclonal gammopathy of undetermined significance. N Engl J Med 346:564–569 4. Vachon CM, Kyle RA, Therneau TM, Foreman BJ, Larson DR, Colby CL, Phelps TK, Dispenzieri A, Kumar SK, Katzmann JA, Rajkumar SV (2009) Increased risk of monoclonal gammopathy in first-degree relatives of patients with multiple myeloma or monoclonal gammopathy of undetermined significance; Blood. United States 114:785–790 5. Landgren O, Linet MS, McMaster ML, Gridley G, Hemminki K, Goldin LR (2006) Familial characteristics of autoimmune and",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/s00277-016-2859-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_url": "https://doi.org/10.1007/s00277-016-2859-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9:p8",
+        "source_issue_ids": [],
+        "text": "268 Ann Hematol (2017) 96:261–269\n\nhematologic disorders in 8,406 multiple myeloma patients: a population-based case-control study. Int J Cancer 118:3095–3098 6. Landgren O, Kristinsson SY, Goldin LR, Caporaso NE, Blimark C, Mellqvist UH, Wahlin A, Bjorkholm M, Turesson I (2009) Risk of plasma cell and lymphoproliferative disorders among 14621 first-degree relatives of 4458 patients with monoclonal gammopathy of undetermined significance in Sweden. Blood 114:791–795 7. Kristinsson SY, Bjorkholm M, Goldin LR, Blimark C, Mellqvist UH, Wahlin A, Turesson I, Landgren O (2009) Patterns of hematologic malignancies and solid tumors among 37,838 first-degree relatives of 13,896 patients with multiple myeloma in Sweden. Int J Cancer 125:2147–2150 8. Landgren O, Weiss BM (2009) Patterns of monoclonal gammopathy of undetermined significance and multiple myeloma in various ethnic/racial groups: support for genetic factors in pathogenesis. Leukemia 23:1691–1697 9. Landgren O, Gridley G, Turesson I, Caporaso NE, Goldin LR, Baris D, Fears TR, Hoover RN, Linet MS (2006) Risk of monoclonal gammopathy of undetermined significance (MGUS) and subsequent multiple myeloma among African American and white veterans in the United States. Blood 107:904–906 10. Landgren O, Kyle RA, Hoppin JA, Beane Freeman LE, Cerhan JR, Katzmann JA, Rajkumar SV, Alavanja MC (2009) Pesticide exposure and risk of monoclonal gammopathy of undetermined significance in the Agricultural Health Study. Blood 113:6386–6391 11. Kyle RA, Therneau TM, Rajkumar SV, Larson DR, Plevak MF, Offord JR, Dispenzieri A, Katzmann JA, Melton LJ 3rd (2006) Prevalence of monoclonal gammopathy of undetermined significance. N Engl J Med 354:1362–1369 12. Landgren O, Shim YK, Michalek J, Costello R, Burton D, Ketchum N, Calvo KR, Caporaso N, Raveche E, Middleton D, Marti G, Vogt RF Jr (2015) Agent orange exposure and monoclonal gammopathy of undetermined significance: an Operation Ranch Hand Veteran Cohort Study. JAMA Oncol 1:1061–1068 13. Forabosco P, Bouzigon E, Ng MY, Hermanowski J, Fisher SA, Criswell LA, Lewis CM (2009) Meta-analysis of genome-wide linkage studies across autoimmune diseases. Eur J Hum Genet 17: 236–243 14. Zhernakova A, van Diemen CC, Wijmenga C (2009) Detecting shared pathogenesis from the shared genetics of immune-related diseases. Nat Rev Genet 10:43–55 15. Goldin LR, Landgren O (2009) Autoimmunity and lymphomagen-esis. Int J Cancer 124:1497–1502 16. Landgren AM, Landgren O, Gridley G, Dores GM, Linet MS, Morton LM (2011) Autoimmune disease and subsequent risk of developing alimentary tract cancers among 4.5 million US male veterans. Cancer 117:1163–1171 17. Hemminki K, Liu X, Ji J, Sundquist J, Sundquist K (2012) Effect of autoimmune diseases on mortality and survival in subsequent digestive tract cancers. Ann Oncol 23:2179–2184 18. Hemminki K, Liu X, Ji J, Sundquist J, Sundquist K (2012) Effect of autoimmune diseases on risk and survival in histology-specific lung cancer. Eur Respir J 40:1489–1495 19. Hemminki K, Liu X, Ji J, Sundquist J, Sundquist K (2012) Kaposi sarcoma and Merkel cell carcinoma after autoimmune disease. Int J Cancer 131:E326–E328 20. Lindqvist EK, Goldin LR, Landgren O, Blimark C, Mellqvist UH, Turesson I, Wahlin A, Bjorkholm M, Kristinsson SY (2011) Personal and family history of immune-related conditions increase the risk of plasma cell disorders: a population-based study. Blood 118:6284–6291 21. Brown LM, Gridley G, Check D, Landgren O (2008) Risk of multiple myeloma and monoclonal gammopathy of undetermined significance among white and black male United States veterans with prior autoimmune, infectious, inflammatory, and allergic disorders. Blood 111:3388–3394\n\n22. Hemminki K, Liu X, Forsti A, Ji J, Sundquist J, Sundquist K (2012) Effect of autoimmune diseases on incidence and survival in subsequent multiple myeloma. J Hematol Oncol 5:59 23. Walsh SJ, Rau LM (2000) Autoimmune diseases: a leading cause of death among young and middle-aged women in the United States. Am J Public Health 90:1463–1466 24. Thomas SL, Griffiths C, Smeeth L, Rooney C, Hall AJ (2010) Burden of mortality associated with autoimmune diseases among females in the United Kingdom. Am J Public Health 100:2279–2287 25. Landgren O, Pfeiffer RM, Kristinsson SY, Bjorkholm M (2010) Survival patterns in patients with Hodgkin’s lymphoma with a pre-existing hospital discharge diagnosis of autoimmune disease. J Clin Oncol 28:5081–5087 26. Swedish National Board of Health and Welfare. Svenska cancerregistret. Socialstyrelsen, Stockholm, Sweden 27. Turesson I, Linet MS, Bjorkholm M, Kristinsson SY, Goldin LR, Caporaso NE, Landgren O (2007) Ascertainment and diagnostic accuracy for hematopoietic lymphoproliferative malignancies in Sweden 1964-2003. Int J Cancer 121:2260–2266 28. Nilsson A, Spetz C, Carsjo K, Nightingale R, Smedby B (1994) Slutenvårdsregistrets tillförlitlighet. Lakartidningen 91:598–605 29. Swedish National Board of Health and Welfare. Patientregistret. Socialstyrelsen, Stockholm, Sweden 30. Kristinsson SY, Koshiol J, Bjorkholm M, Goldin LR, McMaster ML, Turesson I, Landgren O (2010) Immune-related and inflammatory conditions and risk of lymphoplasmacytic lymphoma or Waldenstrom macroglobulinemia. J Natl Cancer Inst 102: 557–567 31. Rajkumar SV, Kyle RA, Buadi FK (2010) Advances in the diagnosis, classification, risk stratification, and management of monoclonal gammopathy of undetermined significance: implications for recategorizing disease entities in the presence of evolving scientific evidence. Mayo Clin Proc 85:945–948 32. Turesson I, Velez R, Kristinsson SY, Landgren O (2010) Patterns of multiple myeloma during the past 5 decades: stable incidence rates for all age groups in the population but rapidly changing age distribution in the clinic. Mayo Clin Proc 85:225–230 33. Palumbo A, Bringhen S, Ludwig H, Dimopoulos MA, Blade J, Mateos MV, Rosinol L, Boccadoro M, Cavo M, Lokhorst H, Zweegman S, Terpos E, Davies F, Driessen C, Gimsing P, Gramatzki M, Hajek R, Johnsen HE, Leal Da Costa F, Sezer O, Spencer A, Beksac M, Morgan G, Einsele H, San Miguel JF, Sonneveld P (2011) Personalized therapy in multiple myeloma according to patient age and vulnerability: a report of the European Myeloma Network (EMN). Blood 118:4519–4529 34. Kleber M, Ihorst G, Gross B, Koch B, Reinhardt H, Wasch R, Engelhardt M (2013) Validation of the Freiburg comorbidity index in 466 multiple myeloma patients and combination with the international staging system are highly predictive for outcome. Clin Lymphoma Myeloma Leuk 3(5):541–551 35. Kleber M, Ihorst G, Terhorst M, Koch B, Deschler B, Wasch R, Engelhardt M (2011) Comorbidity as a prognostic variable in multiple myeloma: comparative evaluation of common comorbidity scores and use of a novel MM-comorbidity score. Blood Cancer J 1:e35 36. Offidani M, Corvatta L, Polloni C, Centurioni R, Visani G, Brunori M, Gentili S, Catarini M, Samori A, Blasi N, Alesiani F, Caraffa P, Burattini M, Galieni P, Fraticelli P, Ferranti M, Giuliodori L, Leoni P (2012) Assessment of vulnerability mea-sures and their effect on survival in a real-life population of multiple myeloma patients registered at Marche Region Multiple Myeloma Registry. Clin Lymphoma Myeloma Leuk 12:423–432 37. Kleber M, Ihorst G, Deschler B, Jakob C, Liebisch P, Koch B, Sezer O, Engelhardt M (2009) Detection of renal impairment as one",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/s00277-016-2859-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_sha256": "0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9",
+          "source_url": "https://doi.org/10.1007/s00277-016-2859-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9:p9",
+        "source_issue_ids": [],
+        "text": "Ann Hematol (2017) 96:261–269 269\n\nspecific comorbidity factor in multiple myeloma: multicenter study in 198 consecutive patients. Eur J Haematol 83:519–527 38. Farina L, Bruno B, Patriarca F, Spina F, Sorasio R, Morelli M, Fanin R, Boccadoro M, Corradini P (2009) The hematopoietic cell transplantation comorbidity index (HCT-CI) predicts clinical outcomes in lymphoma and myeloma patients after reduced-intensity or non-myeloablative allogeneic stem cell transplantation. Leukemia 23:1131–1138 39. Falco P, Cavallo F, Larocca A, Rossi D, Guglielmelli T, Rocci A, Grasso M, Siez ML, De Paoli L, Oliva S, Molica S, Mina R, Gay F, Benevolo G, Musto P, Omede P, Freilone R, Bringhen S, Carella AM, Gaidano G, Boccadoro M, Palumbo A (2013) Lenalidomide-prednisone induction followed by lenalidomide-melphalan-prednisone consolidation and lenalidomide-prednisone mainte-nance in newly diagnosed elderly unfit myeloma patients. Leukemia 27:695–701\n\n40. Kristinsson SY, Landgren O, Dickman PW, Derolf AR, Bjorkholm M (2007) Patterns of survival in multiple myeloma: a population-based study of patients diagnosed in Sweden from 1973 to 2003. J Clin Oncol 25:1993–1999 41. Turesson I, Velez R, Kristinsson SY, Landgren O (2010) Patterns of improved survival in patients with multiple myeloma in the twenty-first century: a population-based study. J Clin Oncol 28:830–834 42. Kumar SK, Dispenzieri A, Lacy MQ, Gertz MA, Buadi FK, Pandey S, Kapoor P, Dingli D, Hayman SR, Leung N, Lust J, McCurdy A, Russell SJ, Zeldenrust SR, Kyle RA, Rajkumar SV (2013) Continued improvement in survival in multiple myeloma: changes in early mortality and outcomes in older patients. Leukemia 28(5): 1122–1128 43. Kristinsson SY, Anderson WF, Landgren O (2014) Improved long-term survival in multiple myeloma up to the age of 80 years. Leukemia 28(6):1346",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:0bf9707afaceb30dd93b647e008ef72c8e8dbdf6ecc0cea9c6af18f332cffbc9"
+}

@@ -1,0 +1,442 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:03:33.331986+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Current Approach in the Management of Secondary Immunodeficiency in Patients with Hematological Malignancies: Spanish Expert Consensus Recommendations",
+        "year": null
+      },
+      "doi": "10.3390/jcm12196356",
+      "format": "pdf",
+      "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+      "url": "https://doi.org/10.3390/jcm12196356"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p1",
+        "source_issue_ids": [],
+        "text": "Journal of Clinical Medicine\n\nArticle Current Approach in the Management of Secondary Immunodeﬁciency in Patients with Hematological Malignancies: Spanish Expert Consensus Recommendations\n\nConcepción Boqué 1,*,†, Silvia Sánchez-Ramón 2,† , Raúl Córdoba 3 , Carol Moreno 4 and Elena Cabezudo 5\n\nCitation: Boqué, C.; Sánchez-Ramón,\n\nS.; Córdoba, R.; Moreno, C.;\n\nCabezudo, E. Current Approach in\n\nthe Management of Secondary\n\nImmunodeﬁciency in Patients with\n\nHematological Malignancies:\n\nSpanish Expert Consensus\n\nRecommendations. J. Clin. Med. 2023,\n\n12, 6356. https://doi.org/10.3390/\n\njcm12196356\n\nAcademic Editor: Atsushi Satake\n\nReceived: 7 August 2023\n\nRevised: 22 September 2023\n\nAccepted: 30 September 2023\n\nPublished: 4 October 2023\n\nCopyright: © 2023 by the authors.\n\nLicensee MDPI, Basel, Switzerland.\n\nThis article is an open access article\n\ndistributed under the terms and\n\nconditions of the Creative Commons\n\nAttribution (CC BY) license (https://\n\ncreativecommons.org/licenses/by/\n\n4.0/).\n\n1 Department of Hematology, Hospital Duran i Reynals, Institut Català d’Oncologia, 08908 Hospitalet de Llobregat, Barcelona, Spain 2 Department of Clinical Immunology, Instituto de Medicina de Laboratorio, Hospital Clínico San Carlos, Universidad Complutense, 28040 Madrid, Spain; ssramon@salud.madrid.org 3 Department of Hematology, Fundación Jimenez Diaz University Hospital, Health Research Institute-Fundación Jimenez Diaz, 28040 Madrid, Spain; raul.cordoba@fjd.es 4 Department of Hematology, Hospital de la Santa Creu i Sant Pau, Josep Carreras Leukaemia Research Institute, Universitat Autónoma de Barcelona, 08025 Barcelona, Catalonia, Spain; cmoreno@santpau.cat 5 Service of Hematology, ICO-Hospital de Sant Joan Despí Moisès Broggi, 08970 Sant Joan Despí, Barcelona, Spain; ecabezudoperez@gmail.com * Correspondence: c.boque@iconocolgia.net; Tel.: +34-932607750 † These authors contributed equally to this work.\n\nAbstract: A Delphi-based survey was designed to assess the opinions of clinical hematologists (n = 17) and clinical immunologists (n = 18) from across Spain on secondary immunodeﬁciencies (SID) in the management of oncohematological patients. There was 100% agreement on the need to have available guidelines for the management of immunodeﬁciency in hematological patients; to perform a baseline immunological evaluation in patients with chronic lymphocytic leukemia (CLL), multiple myeloma (MM), lymphoma and hematopoietic stem cell transplantation (HSCT) recipients; and to quantify serum IgG, IgA and IgM levels when SID is suspected. More than 90% agreed on the need for active immunization against seasonal inﬂuenza and H1N1, pneumococcus and Haemophilus inﬂuenzae. There was a consensus on the monitoring of IgG levels every 3 months (83%) and the need to have available a clinical protocol for the use of IVIG in the management of SID (94%), to monitor trough IgG levels to determine the correct IVIG dose (86%) and to discontinue IVIG after the recovery of IgG levels after 12 months of follow-up (77%). The ﬁndings of the present survey may be useful recommendations for hematologists and immunologists to improve the management of SID in daily practice.\n\nKeywords: secondary immunodeﬁciency; B-cell lymphoproliferative disorders (BCLPD); infections; hypogammaglobulinemia; intravenous IgG\n\n1. Introduction\n\nPrimary immunodeﬁciency diseases are genetic disorders that result in the partial or full impairment of the immune system components, leaving the patient unable to effectively resolve infections or displaying dysregulation. Secondary immunodeﬁciency diseases (SID) are the result of a disease or other environmental factors weakening the immune system. Patients with hematological diseases often present SID either because of adaptive or innate defects in the immune response related to the direct effects of malignant cells or to the effects of pharmacological treatments used in the management of hematological disorders or neoplasms, including hematopoietic progenitor transplants and graft vs. host disease (GvHD) [1,2]. The most frequent SID is seen in chronic lymphocytic leukemia (CLL), a B-cell lymphoproliferative disorder (BCLPD) with an altered immune response, such as antibody\n\nJ. Clin. Med. 2023, 12, 6356. https://doi.org/10.3390/jcm12196356 https://www.mdpi.com/journal/jcm",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p10",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 10 of 14\n\nTable 5. Cont.\n\nRecommendations Consensus\n\nRequirement to have a clinical protocol for the management of IVIG in patients with SID 94%\n\nStart treatment with IVIG at a dose of 400 mg/kg every 4 weeks for 12 months in the candidate patient 80%\n\nPersonalize the IVIG dose 91%\n\nThe aim of maintenance therapy is to maintain IgG trough levels between 500 and 700 mg/dL in patients with recurrent infections and malignant blood disease 94%\n\nEarly decision on IVIG replacement therapy to prevent the development or progression of bronchiectasis 91%\n\nNeed for monitoring of IgG levels to determine the correct dose of IVIG 86%\n\nFollow-up and monitoring of patients receiving IVIG therapy\n\nMonitoring of IgG levels 97%\n\nMonitoring of the clinical efﬁcacy of IVIG (decrease in and/or absence of bacterial and viral infections) 97%\n\nMonitoring of IgG levels Every 3 months 83%\n\nEvery 6 months 77%\n\nMonitoring of the clinical efﬁcacy of IVIG therapy Every 3 months 86%\n\nEvery 6 months 83%\n\nDiscontinuation of treatment with IVIG after recovery of IgG levels 77%\n\n* Consensus achieved by hematologists; † consensus achieved by immunologists; CLL: chronic lymphocytic leukemia; MM: multiple myeloma; HSCT: hematopoietic stem cell transplantation; SID: secondary immunodeﬁciency; HAV: hepatitis A virus; HBV: hepatitis B virus; IVIG: intravenous IgG.\n\n4. Discussion\n\nAlthough there has been a signiﬁcant improvement in the treatment of several hematological malignancies, thanks to the introduction of targeted therapies and other new drugs, SID is a disease connected to solid tumors, lymphoproliferative and myeloprolifera-tive disorders [25,26]. Immunodeﬁciency in these patients has an impact on the outcome, particularly on the risk of infection, which affects quality of life and is the major cause of morbidity and mortality [27]. The adequate management of these patients in routine daily practice is challenging for different reasons, including the lack of standardized protocols and disparities related to appropriate vaccination coverage and immunization schedules and the use of antibiotic prophylaxis. There are also uncertainties regarding when to initiate therapy or when to discontinue IgRT [28,29]. An international online survey of 230 physicians from seven countries involved in the diagnosis of SID and the prescription of IgRT in patients with hematological malignancies high-lighted the need for harmonized, evidence-based diagnostic and treatment guidelines for SID in these patients [30]. Despite recommendations provided by different guidelines [13,14,31,32] regarding the administration of IVIG or subcutaneous immunoglobulin (SCIg) in patients with SID, there is a lack of information on how these recommendations are implemented in daily clinical practice when managing SID. In addition, the EMA guideline [14] highlights the relevance of functional studies of antibody production for IgRT indication beyond hypogammaglobulinemia [2,15]. This latter issue is especially relevant in MM patients, in which IgG may be high despite profound polyclonal hypogammaglobulinemia. The present survey provides information on a large number of questions related to the assessment of SID in patients with hematological malignancies, as a baseline initial investigation when SID is suspected. It also provides information about treatment strategies, the prophylaxis of infections, follow-up and the type of monitoring of IVIG therapy. Questions on whether there were differences or coincidences between clinical hematologists and clinical immunologists were investigated. To our knowledge, this is the ﬁrst survey of these characteristics carried out in Spain. Most of the participants worked in public hospitals and reported both the lack of and the need for speciﬁc protocols for the diagnosis and",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p11",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 11 of 14\n\nmanagement of SID with IgRT. Importantly, participants reported that facilities for the performance of baseline immunological studies were already available in most of their own centers. The questionnaire showed that there was a consensus on the need to perform immunological studies in patients with CLL, MM and lymphoma as BCLPD, as well as in HSCT recipients and in any patients diagnosed with other hematological malignancies and with a prior history of recurrent infection episodes. Surprisingly, a consensus regarding the need for baseline immunological evaluation in patients of advanced age or those who are fragile was not obtained. Similar consensus guidelines on IgRT have been proposed by the UK Primary Immunodeﬁciency Network and the British Society of Immunology based on a Delphi approach [33]. It should be noted that there were discrepancies related to the study of IgG subclasses and IgG antibody titers to previous immunizations/exposure, which were recommended by consensus only by clinical immunologists, indicating that hematologists do not perform such studies. In addition, clinical immunologists and hematologists reached a consensus on the study of lymphocyte subpopulations of T, B and NK cells. In this regard, there was a consensus on extending the immunological work-up to lymphocyte subsets, as recent data support the relevance of combined immune defects in the risk of severe infection and suggest its relevance also for cancer progression or recurrence [34]. Therefore, incorporating immunophenotypic assessment in SID can enhance disease characterization and guide the initiation of immunoglobulin replacement therapy. However, a discrepancy was found regarding the need for speciﬁc antibodies against immunizations with protein and polysaccharide antigens. These ﬁndings highlight the need to create standardized guidelines to improve current recommendations and guide future work in this ﬁeld. In relation to the prophylaxis of infections in hematological patients with malignancy, there was a high rate of agreement between hematologists and immunologists for active immunization against seasonal inﬂuenza, H1N1 and pneumococcus, and reduced agreement for H. inﬂuenzae. These ﬁndings agree with data reported in a recent systematic review and meta-analysis, in which vaccinations reduced the risk of clinically documented infections in patients with hematological malignancies by 63% [35]. In the use of antibiotic prophylaxis, an overall consensus was not obtained, although most clinical immunologists had an opinion against the use of antibiotics for the prophylaxis of infections, except in cases of recurrent infections (excluding Pneumocystis carinii and viruses). In this context, in a recent study in a large cohort of patients with MM and autologous bone marrow transplantation, the use of antibiotic prophylaxis was associated with a higher risk of multidrug-resistant bacteria with respect to colony growth factors [36]. On the other hand, regarding the indications for treatment with IVIG, there was a consensus on treating patients with SID and recurrent infection episodes, but not in the case of patients with IgG deﬁciency without infection, in line with the EMA indications and a recent meta-analysis [35]. There was a consensus between hematologists and immunologists on the starting and maintenance doses of IVIG as well monitoring IgG levels every 3 months, and to discontinue treatment after the recovery of IgG levels. In relation to recommendations, there was consistent agreement on the need to have available a clinical protocol for the use of IVIG in the management of SID and to monitor trough IgG levels to determine the correct dose of IVIG. Both hematologists and clinical immunologists were aware of the new indications for IVIG therapy approved by the EMA [14] for the management of SID. The fact that about 40% of the responses analyzed corresponded to fully completed questionnaires may be viewed as a limitation of the survey, but the number of hematologists and clinical immunologists was similar, which allowed a comparison of their opinions corresponding to these specialties. The inﬂuence of chemotherapeutic regimens or novel B-cell-targeting therapies, like CAR-T or bispeciﬁc antibodies, used to treat the different hematological malignancies and diseases was not analyzed. It should be noted that the Delphi questionnaire was designed and the survey was conducted during 2018–2020. At",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p12",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 12 of 14\n\nthat time, these therapies were less prevalent in clinical practice. Additionally, the use of SCIg supplementation was not included in the Delphi survey as it was not a standard practice in the hematology ﬁeld in Spain and limited data were available on the use of SCIg in the context of SID [37,38]. Given the growing adoption of these novel therapies, the use of SCIg supplementation as a replacement therapy in cases of SID associated with lymphoproliferative disorders is expected to expand. Reassessment of the survey in the forthcoming years will be necessary to track new treatment strategies, particularly for patients exhibiting pronounced decreases in immunoglobulin levels due to these therapies. Moreover, this survey does not reﬂect the change in mentality of clinical hematologists arising from the COVID-19 pandemic regarding the importance of infections. However, the extension of the questionnaire allowed the capture of salient aspects of the current clinical practice and the proposal of recommendations for SID in oncohematological patients. Notably, the consensus found in this survey aligns closely with the recommendations outlined in existing guidelines, illustrating the signiﬁcant coherence between clinical practice and established directives [13,14,28,31–33]. In summary, the ﬁndings of the present survey underline the need to promote the presence of clinical immunologists in Spanish hospitals, thereby fostering multidisciplinary collaboration with hematologists and improving the management of SID in patients with B-cell neoplasms in daily practice.\n\nSupplementary Materials: The following supporting information can be downloaded at: https://www. mdpi.com/article/10.3390/jcm12196356/s1, Table S1: Current clinical practice in the management of SID in patients with hematological malignancies: baseline immunological assessment; Table S2: Current clinical practice in the management of SID in patients with hematological malignancies: prophylaxis of infection; Table S3: Current clinical practice in the management of SID in patients with hematological malignancies: treatment with intravenous IgG (IVIG); Table S4: Current clinical practice in the management of SID in patients with hematological malignancies: follow-up and monitoring of patients receiving intravenous IgG (IVIG); Table S5: Recommendation guidelines for the management of SID in patients with hematological malignancies; Table S6: Recommendation guidelines for the prophylaxis of infections in patients with SID and hematological malignancies; Table S7: Recommendation guidelines for the use of intravenous IgG (IVIG) therapy in patients with SID and hematological malignancies; Table S8: Recommendation guidelines for the follow-up and monitoring of patients receiving intravenous IgG (IVIG) therapy.\n\nAuthor Contributions: Conceptualization, C.B. and S.S.-R.; methodology, C.B., S.S.-R., R.C., C.M. and E.C.; investigation, C.B., S.S.-R., R.C., C.M. and E.C.; writing—original draft preparation, C.B. and S.S.-R.; writing—review and editing, R.C., C.M. and E.C.; supervision, C.B. and S.S.-R.; funding acqui-sition, C.B. and S.S.-R. All authors have read and agreed to the published version of the manuscript.\n\nFunding: This research was funded by Grifols. The sponsors had no role in the design, execution, interpretation or writing of the survey. Research grants were obtained from Instituto de Salud Carlos III (FIS PI19/00753 to C.M) and from Deutsche José Carreras Leukämie Stiftung e.V.\n\nInstitutional Review Board Statement: Ethical review and approval were waived in this study because data collection did not involve direct patient interaction or the use of personal health data. It relied on the voluntary participation of experts from scientiﬁc societies, who shared their professional opinions via the adapted Delphi methodology.\n\nInformed Consent Statement: Not applicable.\n\nData Availability Statement: Data are available from the authors upon request.\n\nAcknowledgments: The authors thank Evidenze Communication for the coordination of the research and Marta Pulido for editing the manuscript and editorial assistance.\n\nConﬂicts of Interest: S.S.-R. has served on advisory boards and as a speaker for Grifols, CSL Behring, Takeda, Octapharma, Biotest and Biogen. C.M. has served as an advisor/consultant/speaker for Janssen, Abbvie, Pharmacyclics, an Abbvie company, Roche, Beigene, AstraZeneca, BMS, Lilly, Adaptive and Ascentage. The remaining authors declare no conﬂicts of interest.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p13",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 13 of 14\n\nReferences\n\n1. Srivastava, S.; Wood, P. Secondary antibody deﬁciency—Causes and approach to diagnosis. Clin. Med. 2016, 16, 571–576. [CrossRef] [PubMed] 2. Sánchez-Ramón, S.; Chapel, H.; Cunningham-Rundles, C. On the relevance of immunodeﬁciency evaluation in haematological cancer. Hematol. Oncol. 2021, 39, 721–723. [CrossRef] [PubMed] 3. Wadhwa, P.; Morrison, V. Infectious Complications of Chronic Lymphocytic Leukemia. Semin. Oncol. 2006, 33, 240–249. [CrossRef] [PubMed] 4. Dhalla, F.; Lucas, M.; Schuh, A.; Bhole, M.; Jain, R.; Patel, S.Y.; Misbah, S.; Chapel, H. Antibody Deﬁciency Secondary to Chronic Lymphocytic Leukemia: Should Patients be Treated with Prophylactic Replacement Immunoglobulin? J. Clin. Immunol. 2014, 34, 277–282. [CrossRef] 5. Parry, H.M.; Birtwistle, J.; Whitelegg, A.; Hudson, C.; McSkeane, T.; Hazlewood, P.; Mudongo, N.; Pratt, G.; Moss, P.; Drayson, M.T.; et al. Poor functional antibody responses are present in nearly all patients with chronic lymphocytic leukaemia, irrespective of total IgG concentration, and are associated with increased risk of infection. Br. J. Haematol. 2015, 171, 887–890. [CrossRef] 6. Kyle, R.A.; Rajkumar, S.V. Drug Therapy: Multiple Myeloma. New Engl. J. Med. 2004, 351, 1860–1873. [CrossRef] 7. Ye, C.; Chen, W.; Gao, Q.; Chen, Y.; Song, X.; Zheng, S.; Liu, J. Secondary Immunodeﬁciency and Hypogammaglobulinemia with IgG Levels of <5 g/L in Patients with Multiple Myeloma: A Retrospective Study Between 2012 and 2020 at a University Hospital in China. Experiment 2021, 27, e930241-1–e930241-10. [CrossRef] 8. Wasserman, R.L. Personalized Therapy. Immunol. Allergy Clin. N. Am. 2019, 39, 95–111. [CrossRef] 9. Saeedian, M.; Randhawa, I. Immunoglobulin Replacement Therapy: A Twenty-Year Review and Current Update. Int. Arch. Allergy Immunol. 2014, 164, 151–166. [CrossRef] 10. Pecoraro, A.; Crescenzi, L.; Granata, F.; Genovese, A.; Spadaro, G. Immunoglobulin replacement therapy in primary and secondary antibody deﬁciency: The correct clinical approach. Int. Immunopharmacol. 2017, 52, 136–142. [CrossRef] 11. Jolles, S.; Chapel, H.; Litzman, J. When to initiate immunoglobulin replacement therapy (IGRT) in antibody deﬁciency: A practical approach. Clin. Exp. Immunol. 2017, 188, 333–341. [CrossRef] 12. Perez, E.E.; Orange, J.S.; Bonilla, F.; Chinen, J.; Chinn, I.K.; Dorsey, M.; El-Gamal, Y.; Harville, T.O.; Hossny, E.; Mazer, B.; et al. Update on the use of immunoglobulin in human disease: A review of evidence. J. Allergy Clin. Immunol. 2017, 139, S1–S46. [CrossRef] [PubMed] 13. Jolles, S.; Michallet, M.; Agostini, C.; Albert, M.H.; Edgar, D.; Ria, R.; Trentin, L.; Lévy, V. Treating secondary antibody deﬁciency in patients with haematological malignancy: European expert consensus. Eur. J. Haematol. 2021, 106, 439–449. [CrossRef] [PubMed] 14. European Medicines Agency. Guideline on Core SmPC for Human Normal Immunoglobulin Administration. Available online: https://www.ema.europa.eu/en/documents/scientiﬁc-guideline/guideline-core-smpc-human-normal-immunoglobulin-intravenous-administration-ivig-rev-6_en.pdf (accessed on 25 February 2022). 15. Sánchez-Ramón, S.; Bermúdez, A.; González-Granado, L.I.; Rodríguez-Gallego, C.; Sastre, A.; Soler-Palacín, P. The ID-Signal Onco-Haematology Group Primary and Secondary Immunodeﬁciency Diseases in Oncohaematology: Warning Signs, Diagnosis, and Management. Front. Immunol. 2019, 10, 586. [CrossRef] [PubMed] 16. Barnas, J.L.; Looney, R.J.; Anolik, J.H. B cell targeted therapies in autoimmune disease. Curr. Opin. Immunol. 2019, 61, 92–99. [CrossRef] [PubMed] 17. Arnall, J.R.; Maples, K.T.; Harvey, R.D.; Moore, D.C. Daratumumab for the Treatment of Multiple Myeloma: A Review of Clinical Applicability and Operational Considerations. Ann. Pharmacother. 2022, 56, 927–940. [CrossRef] 18. Abramson, J.S. Anti-CD19 CAR T-Cell Therapy for B-Cell Non-Hodgkin Lymphoma. Transfus. Med. Rev. 2020, 34, 29–33. [CrossRef] 19. Al-Haideri, M.; Tondok, S.B.; Safa, S.H.; Maleki, A.H.; Rostami, S.; Jalil, A.T.; Al-Gazally, M.E.; Alsaikhan, F.; Rizaev, J.A.; Mohammad, T.A.M.; et al. CAR-T cell combination therapy: The next revolution in cancer treatment. Cancer Cell Int. 2022, 22, 1–26. [CrossRef] 20. Montalban, X.; Hauser, S.L.; Kappos, L.; Arnold, D.L.; Bar-Or, A.; Comi, G.; de Seze, J.; Giovannoni, G.; Hartung, H.-P.; Hemmer, B.; et al. Ocrelizumab versus Placebo in Primary Progressive Multiple Sclerosis. New Engl. J. Med. 2017, 376, 209–220. [CrossRef] 21. Viardot, A.; Goebeler, M.-E.; Hess, G.; Neumann, S.; Pfreundschuh, M.; Adrian, N.; Zettl, F.; Libicher, M.; Sayehli, C.; Stieglmaier, J.; et al. Phase 2 study of the bispeciﬁc T-cell engager (BiTE) antibody blinatumomab in relapsed/refractory diffuse large B-cell lymphoma. Blood 2016, 127, 1410–1416. [CrossRef] 22. Kozaki, R.; Vogler, M.; Walter, H.S.; Jayne, S.; Dinsdale, D.; Siebert, R.; Dyer, M.J.S.; Yoshizawa, T. Responses to the selective Bruton’s Tyrosine Kinase (BTK) inhibitor tirabrutinib (ONO/GS-4059) in Diffuse large B-cell lymphoma cell lines. Cancers 2018, 10, 127. [CrossRef] 23. Eichhorst, B.; Robak, T.; Montserrat, E.; Ghia, P.; Niemann, C.; Kater, A.; Gregor, M.; Cymbalista, F.; Buske, C.; Hillmen, P.; et al. Chronic lymphocytic leukaemia: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann. Oncol. 2020, 32, 23–33. [CrossRef] [PubMed] 24. Humphrey-Murto, S.; Varpio, L.; Wood, T.J.; Gonsalves, C.; Ufholz, L.-A.; Mascioli, K.; Wang, C.; Foth, T. The Use of the Delphi and Other Consensus Group Methods in Medical Education Research: A Review. Acad. Med. 2017, 92, 1491–1498. [CrossRef] [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p14",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 14 of 14\n\n25. Allegra, A.; Tonacci, A.; Musolino, C.; Pioggia, G.; Gangemi, S. Secondary Immunodeﬁciency in Hematological Malignancies: Focus on Multiple Myeloma and Chronic Lymphocytic Leukemia. Front. Immunol. 2021, 12, 738915. [CrossRef] [PubMed] 26. Safdar, A.; Armstrong, D. Infections in Patients With Hematologic Neoplasms and Hematopoietic Stem Cell Transplantation: Neutropenia, Humoral, and Splenic Defects. Clin. Infect. Dis. 2011, 53, 798–806. [CrossRef] 27. Friman, V.; Winqvist, O.; Blimark, C.; Langerbeins, P.; Chapel, H.; Dhalla, F. Secondary immunodeﬁciency in lymphoproliferative malignancies. Hematol. Oncol. 2016, 34, 121–132. [CrossRef] 28. Jahnz-Ró˙zyk, K.; Wi˛esik-Szewczyk, E.; Roli´nski, J.; Siedlar, M.; J˛edrzejczak, W.; Sydor, W.; Tomaszewska, A. Secondary immunodeﬁciencies with predominant antibody deﬁciency: Multidisciplinary perspectives of Polish experts. Central Eur. J. Immunol. 2020, 45, 334–341. [CrossRef] 29. Benbrahim, O.; Viallard, J.-F.; Choquet, S.; Royer, B.; Bauduer, F.; Decaux, O.; Crave, J.-C.; Fardini, Y.; Clerson, P.; Lévy, V. The use of octagam and gammanorm in immunodeﬁciency associated with hematological malignancies: A prospective study from 21 French hematology departments. Hematology 2019, 24, 173–182. [CrossRef] 30. Na, I.; Buckland, M.; Agostini, C.; Edgar, J.D.M.; Friman, V.; Michallet, M.; Sánchez-Ramón, S.; Scheibenbogen, C.; Quinti, I. Current clinical practice and challenges in the management of secondary immunodeﬁciency in hematological malignancies. Eur. J. Haematol. 2019, 102, 447–456. [CrossRef] 31. Jolles, S.; Giralt, S.; Kerre, T.; Lazarus, H.M.; Mustafa, S.S.; Papanicolaou, G.A.; Reiser, M.; Ria, R.; Vinh, D.C.; Wingard, J.R. Secondary antibody deﬁciency in chronic lymphocytic leukemia and non-Hodgkin lymphoma: Recommendations from an international expert panel. Blood Rev. 2022, 58, 101020. [CrossRef] 32. Giralt, S.; Jolles, S.; Kerre, T.; Lazarus, H.M.; Mustafa, S.S.; Papanicolaou, G.A.; Ria, R.; Vinh, D.C.; Wingard, J.R. Recommendations for Management of Secondary Antibody Deﬁciency in Multiple Myeloma. Clin. Lymphoma Myeloma Leuk. 2023, 23, 719–732. [CrossRef] [PubMed] 33. Grigoriadou, S.; Clubbe, R.; Garcez, T.; Huissoon, A.; Grosse-Kreul, D.; Jolles, S.; Henderson, K.; Edmonds, J.; Lowe, D.; Bethune, C. British Society for Immunology and United Kingdom Primary Immunodeﬁciency Network (UKPIN) consensus guideline for the management of immunoglobulin replacement therapy. Clin. Exp. Immunol. 2022, 210, 1–13. [CrossRef] [PubMed] 34. Ochoa-Grullón, J.; Guevara-Hoyer, K.; López, C.P.; de Diego, R.P.; Cortijo, A.P.; Polo, M.; Morales, M.M.; Mandley, E.A.; García, C.J.; Bolaños, E.; et al. Combined Immune Defect in B-Cell Lymphoproliferative Disorders Is Associated with Severe Infection and Cancer Progression. Biomedicines 2022, 10, 2020. [CrossRef] [PubMed] 35. Chai, K.L.; Wong, J.; Weinkove, R.; Keegan, A.; Crispin, P.; Stanworth, S.; Morrissey, C.O.; Wood, E.M.; McQuilten, Z.K. Interventions to reduce infections in patients with hematological malignancies: A systematic review and meta-analysis. Blood Adv. 2023, 7, 20–31. [CrossRef] [PubMed] 36. Klein, E.-M.; Sauer, S.; Klein, S.; Tichy, D.; Benner, A.; Bertsch, U.; Brandt, J.; Kimmich, C.; Goldschmidt, H.; Müller-Tidow, C.; et al. Antibiotic Prophylaxis or Granulocyte-Colony Stimulating Factor Support in Multiple Myeloma Patients Undergoing Autologous Stem Cell Transplantation. Cancers 2021, 13, 3439. [CrossRef] 37. Compagno, N.; Cinetto, F.; Semenzato, G.; Agostini, C. Subcutaneous immunoglobulin in lymphoproliferative disorders and rituximab-related secondary hypogammaglobulinemia: A single-center experience in 61 patients. Haematologica 2014, 99, 1101–1106. [CrossRef] 38. Dimou, M.; Iliakis, T.; Maltezas, D.; Bitsani, A.; Kalyva, S.; Koudouna, A.; Kotsanti, S.; Petsa, P.; Papaioannou, P.; Kyrtsonis, M.-C.; et al. Efﬁcacy-safety of Facilitated Subcutaneous Immunoglobulin in Immunodeﬁciency Due to Hematological Malignancies. A Single-Center Retrospective Analysis. Anticancer. Res. 2018, 38, 4187–4191. [CrossRef]\n\nDisclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p2",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 2 of 14\n\nproduction, resulting in inadequate immunoglobulin (Ig) concentrations and the malfunc-tioning of polyclonal Ig, besides anomalous activity of the neoplastic and non-neoplastic B cells [2]. In fact, infections are the main cause of morbidity and mortality in CLL [3,4]. Correspondingly, patients with CLL and normal IgG levels may have a reduced response to immunization (e.g., pneumococcus vaccine), suggesting that the total IgG concentration alone is not enough to identify those patients who are at increased risk of infection [5]. Treatments can also have a deleterious effect on the immune systems of patients with CLL [3]. Multiple myeloma (MM) is generally recognized as another BCLPD, associated with intense immunodeﬁciency [6], being infections the cause of fatal outcomes in one out of ﬁve subjects with MM. The mechanisms by which MM patients develop SID include the in-volvement of innate and adaptive effectors of the immune system, such as immunoglobulin deﬁciency, anomalous immunoglobulin synthesis and cell-mediated immunity and natural killer (NK) cell defects, among others. The treatment of MM has also a great inﬂuence on SID because it is usually based on high doses of steroids, besides different strategies and new drugs with immunosuppressive effects, like B-cell-depleting therapies. The presence of secondary hypogammaglobulinemia, deﬁned as IgG levels < 5 g/L, has been identiﬁed as an independent prognostic factor of survival in MM patients [7]. In patients with non-Hodgkin lymphoma (NHL) and Hodgkin disease (HL), also a BCLPD, SID can be frequently attributed to treatment including stem cell transplantation. Meanwhile, in hematopoietic transplant patients, SID is initially related to chemotherapy and immunosuppressive regimens to prevent GvHD, and subsequently to immunological alterations established between tolerance and surveillance after transplantation [2]. There is evidence of the beneﬁcial effect of immunoglobulin replacement therapy (IgRT) in patients with secondary antibody deﬁciency (SAD) [6–12]. SAD is the most common type of SID, deﬁned as a quantitative or qualitative decrease in antibodies that occurs most commonly as a consequence of hematological malignancies (mainly BCLPD), renal or gastrointestinal immunoglobulin loss and corticosteroid or other immunosuppressive or anticonvulsant medications. SAD can have a clinical course with limited infection susceptibility to more signiﬁcant or life-threatening infectious episodes. Regarding the prescription of IgRT, the recommendations of the European Medicines Agency (EMA), effective as of January 1, 2019, include the indication of IgRT in all SID patients with severe or recurrent infections, ineffective antimicrobial treatment and either proven speciﬁc antibody failure to pneumococcal polysaccharide and polypeptide antigen vaccines (failure to mount at least a two-fold rise in IgG antibody titer) or a serum IgG level of <4 g/L (hypogammaglobulinemia) [13,14]. The incidence of SID is increasing due to the rapid expansion of the therapeutic armamentarium for lymphoproliferative disorders (LPD) in hematological malignancies. This growth is facilitated by the use of hematopoietic transplantation, chemotherapy, more speciﬁc immunosuppressive therapy and new biological agents that target B cells beyond rituximab. These include other B-cell-directed therapies (plasma cells) such as daratumumab (a recombinant monoclonal antibody that targets CD38 and depletes plasma cells), or those that target B cells, such as T-cell therapy with a chimeric antigen receptor (CAR), like anti-CD19 CAR-T-cell therapy or B-cell maturation antigen (BCMA)-directed CAR-T-cell therapy [1,15–22]. More recently, other novel biological agents have emerged that target T cells, including bispeciﬁc T-cell engagers (BiTEs). Although there are clinical guidelines and recommendations on the use of IgRT in patients with CLL or treatment with anti-CD19-CD20 agents [23], in clinical practice, there is a lack of protocols about laboratory assessment and management, as well as accurate biological factors that could help clinicians to deﬁne SID. Basic screening procedures include, in general, a complete cell blood count, quantiﬁcation of serum Ig and a biochemical panel of lymphocyte subpopulations. However, other tests that can be useful, such as antibody production assessment after vaccination or IgG subclasses, are still not considered essential work-up tests. In conclusion, there are no standardized protocols for the assessment and management of patients with BCLPD and SID.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p3",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 3 of 14\n\nThe present questionnaire survey using the Delphi method was designed and conducted with the participation of a panel of expert hematologists and immunologists between December 2018 and March 2020, with two objectives: (a) to provide data on the real-world clinical practice in patients with SID and BCLPD and (b) to develop consensus recommendations for the management of SID in hematological malignancy patients, including different aspects of treatment with IgRT, as well as to assess points of agreement and disagreement between specialists in hematology and immunology. It should be noted that this questionnaire, primarily focused on baseline immunological assessments in patients with B-cell neoplasms, did not address post-hematopoietic stem cell transplant (HSCT) immunizations. The consensus statements provide a “ﬁrst glimpse” into the clinical practices in Spain concerning the management of SID in hematological malignancies.\n\n2. Materials and Methods 2.1. Survey Design\n\nA questionnaire, named “IDSTATUS: Present and Future of the Management of Hematological Patients” (IDSTATUS is the Spanish acronym for Secondary Immunodeﬁciency Status), was designed with the support of the Spanish Society of Hematology and Hemother-apy (SEHH) and the Spanish Society of Immunology (SEI). The objectives of the survey were the following: (1) to determine the opinions and details of the routine clinical practice of experts in hematology and immunology in the management of patients with hematological malignancies and SID and (2) to develop a consensus among participants in order to optimize the care of these patients. A modiﬁed Delphi method was used to reach a consensus. The original Delphi method involves three or more rounds, whereas the modiﬁed technique is limited to one or two rounds to avoid a decrease in the rate of acceptable responses due to the prolonged duration of the process [24].\n\n2.2. Survey Questionnaire and Participants\n\nAt the beginning of the project, a scientiﬁc committee formed by ﬁve specialists (four hematologists and one immunologist) with proven experience and interest in SID in hematological malignancies was established. The scientiﬁc committee was responsible for the development of the Delphi questionnaire, and one hematologist and one immunologist coordinated the survey. The design of the questionnaire included three phases: (1) an initial proposal of the scope of the questionnaire by the Delphi coordinators after an extensive review of the literature and drafting of the different items, (2) a meeting of the members of the expert committee to discuss and modify the content of the questionnaire and (3) the ﬁnal process of the development and validation of the deﬁnitive questionnaire by the expert committee. The questions were grouped into two sections (A and B) and addressed to participants who were hematologists and immunologists, respectively. The questions included in section A were limited to data related to the current clinical practice in the management of SID in patients with hematological malignancies, grouped as CLL, MM, lymphoma, HSCT and advanced age/fragile patients. Questions included in section B were related to recommendations for the management of these patients. Each section (A and B) was divided into the following four subsections: (1) baseline immunological evaluation, (2) prophylaxis of infection, (3) treatment with intravenous IgG (IVIG) and (4) follow-up and monitoring of patients receiving IVIG. Section A included an additional subsection of “others” that included questions on treatment strategies and the frequency of infections related to the management of SID in hematological patients in routine daily practice. Moreover, the questionnaire included a preliminary part to gather demographic data and the characteristics of participants. A newsletter with details of the objectives and characteristics of the IDSTATUS project was mailed to hematologists included in the database of the SEHH and also to the Spanish Group of Geriatric Hematology (GEHG) and to immunologists included in the database",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p4",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 4 of 14\n\nof the Spanish Society of Immunology (SEI). The Delphi questionnaire was lodged in an Internet microsite that participants accessed via a weblink, and those who agreed to take part in the survey were provided with the microsite URL and the user’s password. Participation in the survey was anonymous, voluntary and unpaid.\n\n2.3. Assessment\n\nOnly fully completed questionnaires were considered. Each question in section A was formulated so that it could be answered using a 4-point Likert scale, including 1 = “never”, 2 = “sometimes”, 3 = “frequently” and 4 = “always”, according to the participant’s opinion regarding current clinical practice, whereas each question in section B, also using a 4-point Likert scale, could be answered as 1 = “not necessary, 2 = “optional, 3 = “recommendable” and 4 = “indispensable” regarding recommendations for the management of SID in hematological patients. Questions in the subsection of “others” could be answered as 1 = “strongly disagree”, 2 = “disagree”, 3 = “agree” and 4 = “strongly agree”. A consensus was established in favor of the question/recommendation when the sum of the responses “frequently”, “recommendable” or “agree” (Likert score 3) and “always”, “indispensable” or “strongly agree” (Likert score 4) was equal to or greater than two thirds (66.6%) of the total responses obtained for that item. By contrast, a consensus against the question/recommendation was reached when the sum of responses “sometimes”, “optional” or “disagree” (Likert score 2) and “never”, “not necessary” or “strongly disagree” (Likert score 1) was equal to or greater than 66.6% of the total responses obtained for that item. When none of these previous assumptions were met, a consensus neither in favor nor against the statement was not reached. A diagram of the methodology is shown in Figure 1.\n\nFigure 1. Design of the survey using the modiﬁed Delphi-based method.\n\n3. Results 3.1. General Characteristics of Participants\n\nOf a total of 88 questionnaires, 35 (39.8%) fully completed questionnaires were analyzed. The remaining 53 questionnaires, 24 from the hematologists and 29 from the immunologists, were returned incomplete and were excluded from the survey. The general characteristics of participants (hematologists, n = 17, immunologists = 18) are shown in Table 1.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p5",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 5 of 14\n\nTable 1. Demographic data of participants.\n\nData Percentage\n\nYears of professional practice\n\n<5 9\n\n5–10 29\n\n11–15 9\n\n>15 54\n\nHospital characteristics\n\nPublic hospital 94\n\nPrivate hospital 6\n\n<200 beds 6\n\n200–400 beds 11\n\n>400 beds 83\n\nCenter with immunology consultation 65\n\nCenter with immunology laboratory 75\n\nCenter with protocol for SID 35\n\nPatients\n\nCenter with hematological neoplasms and SID 100\n\n0–10 patients/year 9\n\n10–20 patients/year 32\n\nSID: secondary immunodeﬁciency.\n\nOverall, 54% of participants reported more than 15 years of professional experience and 29% had between 5 and 10 years. The model of the hospital where the 94% of the participants developed their activity was a public center and 83% of them had more than 400 beds. In 65% of the centers, there was a clinical immunology consultation and in 75% there was a laboratory of immunology. All participants attended patients with SID due to hematological malignancies, with >30 patients/year in 41% of cases, 20–30 patients/year in 18%, 10–20% patients/year in 32% and 0–10 patients/year in 9%. However, only 35% of participants reported that they knew whether a protocol for the management of SID in oncohematological patients was available in their centers.\n\n3.2. Current Clinical Practice 3.2.1. Baseline Immunological Assessment\n\nIn the speciﬁc question regarding the performance of a baseline immunological evaluation in the initial survey of different conditions, which was addressed to clinical hematologists only, a consensus was obtained in four of the ﬁve items (Table 2). In the remaining part of the questionnaire, a consensus was obtained by both hematologists and immunologists in most items, including the performance of a baseline immunological evaluation in the participant’s own center (88.6%), the need for a detailed medical history (85.7%) and physical examination (88.6%), the biochemical analysis of total proteins and protein electrophoresis (100%) and the quantiﬁcation of IgG, IgA and IgM levels (97.1%). In the case of suspicion of SID, clinical immunologists achieved a consensus on the need for the assessment of IgG subclasses (72.2%), IgG antibody titers to previous immunization/exposures (77.8%) and speciﬁc antibodies against immunizations with protein and polysaccharide antigens (tetanus toxoid, Salmonella typhi, etc.) (66.7%), while hematologists did not reach a consensus regarding these items (23.5%). The immunophenotyping of subpopulations of T, B and NK cells was considered necessary by clinical immunologists only (83.3%). A consensus in favor of memory B-cell immunophenotyping was not reached.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p6",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 6 of 14\n\nDetailed responses to all items included in this part of the questionnaire are shown in the Supplementary Materials Table S1.\n\nTable 2. Baseline evaluation at initial survey in patients with hematological malignancies (responses provided only by hematologists, n = 17).\n\nBaseline Immunological Evaluation in the Initial Survey Consensus\n\nAgainst In Favor\n\nPatients with chronic lymphocytic leukemia (CLL) 0 100.0\n\nPatients with multiple myeloma (MM) 0 100.0\n\nPatients with lymphoma 0 100.0\n\nHematopoietic stem cell transplantation (HSCT) recipients 0 100.0\n\nPatients of advanced age/fragile 47.1 52.9\n\n3.2.2. Prophylaxis of Infection\n\nIn this part of the survey, an overall consensus in favor of active immunization against seasonal inﬂuenza/H1N1 and pneumococcus infection for patients with CLL, MM and lymphoma was obtained, with overall percentages of agreement ranging between 71.4% and 97.1% (Table 3). Regarding the use of antibiotic prophylaxis for recurrent infections except for antibiotic prophylaxis against Pneumocystis carinii and viruses, clinical immunologists were in favor for CLL patients (66.7%), whereas clinical hematologists reached a consensus against antibiotic prophylaxis in patients with CLL (76.5%), MM (70.6%) and lymphoma (76.5%). A consensus against the use of antibiotic prophylaxis in the presence of hypogammaglobulinemia was reached by both clinical hematologists and clinical immunologists. The results obtained in this section of the questionnaire are shown in the Supplementary Materials Table S2.\n\nTable 3. Overall responses in the section on prophylaxis in the management of secondary immunodeﬁciency (SID) in patients with hematological malignancies in clinical practice (responses provided by overall specialists, n = 35).\n\nProphylaxis of Infection Consensus\n\nAgainst In Favor\n\nHow often do doctors think that patients with hematological malignancies receive active immunization against the following infections:\n\n• Patients with CLL\n\nSeasonal inﬂuenza and H1N1 2.9 97.1\n\nPneumococcus 20.0 80.0\n\nHaemophilus inﬂuenzae 51.4 48.6\n\n• Patients with MM\n\nSeasonal inﬂuenza and H1N1 8.6 91.4\n\nPneumococcus 25.7 74.3\n\nHaemophilus inﬂuenzae 48.6 51.4\n\n• Patients with lymphoma\n\nSeasonal inﬂuenza and H1N1 8.6 91.4\n\nPneumococcus 28.6 71.4\n\nHaemophilus inﬂuenzae 51.4 48.6",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p7",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 7 of 14\n\nTable 3. Cont.\n\nProphylaxis of Infection Consensus\n\nAgainst In Favor\n\nExcept for prophylaxis against Pneumocystis carinii and viruses, how often do doctors think that patients receive antibiotic prophylaxis for recurrent infections in:\n\n• Patients with CLL 54.3 45.7\n\n• Patients with MM 57.1 42.9\n\n• Patients with lymphoma 57.1 42.9\n\nHow often do you use antibiotic prophylaxis if there is evidence of hypogammaglobulinemia in:\n\n• Patients with CLL 71.4 28.6\n\n• Patients with MM 74.3 25.7\n\n• Patients with lymphoma 74.3 25.7\n\nCLL: chronic lymphocytic leukemia; MM: multiple myeloma.\n\n3.2.3. Treatment with IVIG and Follow-Up\n\nAs shown in Table 4, there was a consensus against the use of IgRT after the baseline immunological evaluation in patients with CLL (68.6%), MM (77.1%) and lymphoma (80%). In patients with CLL, MM and lymphoma, no consensus was reached in favor of the use of IVIG if there are recurrent infections or if there is evidence of hypogammaglobulinemia. In patients who are candidates for IVIG therapy because of recurrent infections, all participants agreed on the use of doses of 400 mg/kg every 4 weeks over 12 months (88.6%), the maintenance of minimum IgG levels between 500 and 700 mg/dL (91.4%) and the monitoring of IgG levels to optimize the doses of IgG (77.1%). In patients treated with IVIG, there was a consensus regarding the monitoring of IgG levels (97.1%), every 3 months (70.6%), as well as to discontinue IVIG after the recovery of IgG levels (77.1%). Finally, both hematologists (68.7%) and clinical immunologists (100%) were aware of the new indications of IVIG therapy approved by the EMA for the management of SID. Detailed results of treatment with IVIG and the follow-up of patients receiving IVIG are shown in the Supplementary Materials Tables S3 and S4.\n\nTable 4. Overall responses regarding treatment with intravenous IgG (IVIG) in current clinical practice after recurrent infections or evidence of hypogammaglobulinemia in secondary immunodeﬁciency (SID) patients with hematological malignancies (responses provided by overall specialists, n = 35).\n\nUse of IVIG Consensus\n\nAgainst In Favor\n\nHow do you often use IVIG after baseline immunological evaluation?\n\n• Patients with CLL 68.6 31.4\n\n• Patients with MM 77.1 22.9\n\n• Patients with lymphoma 80.0 20.0\n\nHow often do doctors use IVIG if there are recurrent infections in:\n\n• Patients with CLL 51.4 48.6\n\n• Patients with MM 68.6 31.4\n\n• Patients with lymphoma 60.0 40.0",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p8",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 8 of 14\n\nTable 4. Cont.\n\nUse of IVIG Consensus\n\nAgainst In Favor\n\nHow often do doctors use IVIG if there is evidence of hypogammaglobulinemia in:\n\n• Patients with CLL 55.9 44.1\n\n• Patients with MM 73.5 26.5\n\n• Patients with lymphoma 67.6 32.3\n\nCLL: chronic lymphocytic leukemia; MM: multiple myeloma; IVIG: intravenous IgG.\n\n3.3. Recommendations 3.3.1. Baseline Immunological Evaluation\n\nParticipants 100% agreed on the need to establish recommendations/guidelines for the management of immunodeﬁciencies in hematological malignancies (CLL, MM, lymphoma, HSCT); these would include an immunological evaluation in the initial patient’s assessment with a detailed medical history, a physical examination and total proteins and protein electrophoresis in patients with B-cell neoplasms, as well as the quantiﬁcation of IgG, IgA and IgM levels and IgG subclasses when SID is suspected. There was also a consensus on the immunophenotyping of T, B and natural killer subpopulations (91.4%). In contrast, regarding the determination of speciﬁc antibodies against immunizations with protein and polysaccharide antigens, a consensus was achieved among immunologists (83%), but not among hematologists (53%). In the case of SID, patients should be managed by hematologists (66.7%) or immunologists (100%), or by both specialists (88.6%). Results obtained in the management of SID in patients with hematological malignancies are shown in the Supplementary Materials Table S5.\n\n3.3.2. Prophylaxis of Infection\n\nThere was a strong consensus (between 94.3% and 100%), independently of the participant’s specialty, regarding the recommendation of active immunization against seasonal inﬂuenza and H1N1 infection, pneumococcus and Haemophilus inﬂuenzae in patients with CLL, MM and lymphoma. The use of antibiotic prophylaxis after the baseline immunological evaluation in patients with CLL (94.1%), MM (94.1%) and lymphoma (88.2%) obtained a consensus among clinical hematologists only. In the case of hypogammaglobulinemia, a consensus on the use of antibiotic prophylaxis was not obtained. Detailed results are shown in the Supplementary Materials Table S6.\n\n3.3.3. Use of IVIG and Follow-Up\n\nParticipants, particularly clinical hematologists, agreed against the indication of IVIG therapy after the initial immunological evaluation. In the presence of recurrent or severe infections, clinical immunologists reached a consensus in favor of treatment with IVIG after antibiotic failure in patients with CLL (77.8%), MM (77.8%) and lymphoma (72.2%). In contrast, clinical hematologists reached a consensus against this, with percentages of 70.6%, 76.5% and 76.5%, respectively. In patients with lymphoma and in the presence of hypogammaglobulinemia, only clinical hematologists agreed (82.4%) on the use of IVIG. With respect to the implementation of treatment with IVIG, there was consistent agreement by all participants on the need to have available a clinical protocol for the use of IVIG in the management of SID (94.3%) and to monitor trough IgG levels to determine the correct dose of IVIG (85.7%). Detailed results are shown in the Supplementary Materials Table S7. There was a consensus (97.2%) regarding the need for the monitoring of IgG levels in patients treated with IVIG, with a frequency of every 3 (82.7%) or 6 (77.1%) months, as well as to assess clinical efficacy every 3 (85.7%) or 6 (82.9%) months. There was a consensus against the withdrawal of IVIG therapy after completing chemotherapy (80%), but a consensus in favor of IVIG discontinuation after the recovery of IgG levels (77.1%).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/jcm12196356",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_sha256": "a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4",
+          "source_url": "https://doi.org/10.3390/jcm12196356"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4:p9",
+        "source_issue_ids": [],
+        "text": "J. Clin. Med. 2023, 12, 6356 9 of 14\n\nResults related to the follow-up and monitoring of patients treated with IVIG are shown in the Supplementary Materials Table S8. Final recommendations are summarized in Table 5.\n\nTable 5. Summarized recommendations for patients with SID and hematological malignancies.\n\nBaseline immunological evaluation\n\nRecommendations Consensus\n\nGuidelines are necessary for the management of immunodeﬁciencies in hematological patients 100%\n\nIn the initial survey of CLL, MM, lymphoma and HSCT recipients 100%\n\nAfter recurrent/severe infection when SID is suspected in CLL, MM, lymphoma and HSCT recipients 100%\n\nIn patients with B-cell neoplasms (anamnesis, physical examination, proteins total/electrophoresis) 100%\n\nQuantiﬁcation of IgG, IgA and IgM levels when SID is suspected 100%\n\nQuantiﬁcation of IgG subclasses when SID is suspected 77%\n\nSpeciﬁc antibodies against immunization with protein and polysaccharide antigens when SID is suspected 83% †\n\nImmunophenotyping subpopulations of T, B, natural killer when SID is suspected 91%\n\nChest CT scan in case of suspected SID 67% †\n\nAuto-antibodies (antinuclear, anti-DNA, anti-phospholipid, anti-platelet, anti-neutrophil, etc.) in case of suspected SID 72% †\n\nFunctional immunological evaluation after recurrent and/or severe infection when SID is suspected\n\nProphylaxis of infection\n\nIn patients with CLL 74%\n\nIn patients with MM 77%\n\nIn patients with lymphoma 78% †\n\nPatients with CLL should receive active immunization against\n\nPatients with MM should receive active immunization against\n\nPatients with lymphoma should receive active immunization against\n\nAntibiotic prophylaxis after baseline evaluation should be established\n\nAntibiotic prophylaxis in cases of recurrent infection (excluding Pneumocystis carinii and viruses) should be established\n\nUse of intravenous IgG (IVIG)\n\nSeasonal inﬂuenza and H1N1 and pneumococcus 97%\n\nHaemophilus inﬂuenzae 94%\n\nHAV and HBV (in sero-negative patients) 91%\n\nSeasonal inﬂuenza and H1N1 and pneumococcus 97%\n\nHaemophilus inﬂuenzae 94%\n\nHAV and HBV (in sero-negative patients) 91%\n\nSeasonal inﬂuenza and H1N1 97%\n\nPneumococcus 94%\n\nHaemophilus inﬂuenzae 91%\n\nHAV and HBV (in sero-negative patients) 86%\n\nIn patients with CLL 94% *\n\nIn patients with MM 94% *\n\nIn patients with lymphoma 88% *\n\nIn patients with CLL 89% †\n\nIn patients with MM 89% †\n\nIn patients with lymphoma 89% †\n\nIf there are recurrent infections\n\nIn patients with CLL 78% †\n\nIn patients with MM 78% †\n\nIn patients with lymphoma 72% †\n\nIn the presence of hypogammaglobulinemia in patients with lymphoma 82% *",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:a678f379f6a31fc96cd8bf87c47ed4700393e93d71a2ddc15e9bf99fb0e9e2e4"
+}

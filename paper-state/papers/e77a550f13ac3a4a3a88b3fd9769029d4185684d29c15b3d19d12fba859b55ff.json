@@ -1,0 +1,268 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:12:15.678498+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "The Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma",
+        "year": null
+      },
+      "doi": "10.46989/001c.92984",
+      "format": "pdf",
+      "id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+      "url": "https://doi.org/10.46989/001c.92984"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.46989/001c.92984",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_sha256": "f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_url": "https://doi.org/10.46989/001c.92984"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980:p1",
+        "source_issue_ids": [],
+        "text": "Thalambedu N, Kamran M, Al-Hadidi S. The Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma. Clinical Hematology International. 2024;6(1):51-58. doi:10.46989/001c.92984\n\nReview Articles\n\nThe Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma\n\n1a, Mudassar Kamran\n\nNishanth Thalambedu\n\n2, Samer Al-Hadidi\n\n3\n\n1 Hematology and Oncology, University of Arkansas for Medical Sciences, 2 Interventional Radiology, University of Arkansas for Medical Sciences, 3 Myeloma Center, University of Arkansas for Medical Sciences\n\nKeywords: Multiple myeloma, myeloma bone disease, vertebral compression fractures, vertebral augmentation procedures, kyphoplasty, vertebroplasty\n\nhttps://doi.org/10.46989/001c.92984\n\nClinical Hematology International\n\nVol. 6, Issue 1, 2024\n\nApproximately 90% of patients with multiple myeloma experience significant pain from osseous involvement during their lifetime. Untreated osseous involvement results in vertebral compression fractures, leading to negative consequences for quality of life. Vertebral augmentation procedures, including percutaneous vertebroplasty and kyphoplasty, offer better and faster pain control and likely lower morbidity compared with non-operative interventions. Our review provides an up-to-date summary of the indications, contraindications, timing, outcomes, and potential complications of vertebral augmentation procedures to guide practicing oncologists in effectively managing bone disease in patients with multiple myeloma.\n\nINTRODUCTION\n\nMultiple myeloma (MM), the second most common hematologic malignancy, is characterized by the malignant proliferation of clonal plasma cells in the bone marrow, leading to lytic bone lesions that may result in significant pain, pathological fractures and potential neurological compromise.1‑3 Up to 90% of patients with MM develop myeloma bone disease (MBD) during their lifetime, which is defined as the involvement of myeloma in the bones, manifesting as osteolytic bone disease or osteopenia, most commonly in the spine, and leading to substantial morbidity.4‑7\n\nComplex interactions between myeloma cells and the vertebral bone marrow microenvironment lead to bone loss and destruction, causing a disturbance in the natural skeletal architecture and predisposing patients to vertebral compression fractures (VCFs).8 The most common site of VCFs in MM is the thoracic spine, followed by the lumbar and cervical spines. VCFs are known to occur at the onset of diagnosis in 34% to 64% of patients.9 Each VCF leads to abnormal sagittal balance and consequent altered anterior spine compressive forces, increasing the risk of further VCFs. Pa­\n\ntients assume a kyphotic position to compensate for pain, which aggravates pain from altered facet joint mechanics. Moreover, prolonged kyphotic deformities cause pulmonary and gastric dysfunction, leading to increased morbidity, mortality, and poor quality of life (QoL).10,11\n\nWith advancements in understanding the biology of MM and the addition of novel therapeutics, the median survival of patients has increased in the last decade, justifying the need to focus on better interventions to improve QoL, with optimal pain control to promote good physical functioning.12,13 Current non-operative interventions to treat VCFs include oral and parenteral analgesics, steroids, bisphosphonates, spinal braces, and radiotherapy.14 While traditional non-operative management may improve pain control, it does not stabilize the VCF or minimize the progressive kyphotic deformity, which can only be achieved by vertebral augmentation procedures (VAPs), including percutaneous vertebroplasty (PVP) and percutaneous kyphoplasty (PKP). These minimally invasive outpatient procedures performed under moderate sedation provide improved and expedited pain control, thereby preventing prolonged immobilizations.11,15,16\n\na\n\nCorresponding Author: Nishanth Thalambedu, MD Myeloma Center Winthrop P. Rockefeller Cancer Institute University of Arkansas for Medical Sciences Little Rock, Arkansas Phone: (501) 686-8530 Fax: (501) 686-8541 Email: nishanth.medc@gmail.com",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.46989/001c.92984",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_sha256": "f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_url": "https://doi.org/10.46989/001c.92984"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980:p2",
+        "source_issue_ids": [],
+        "text": "The Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma\n\nTable 1. Indications for vertebral augmentation procedures in multiple myeloma patients with vertebral compression fractures 2\n\nAbsolute Indications:\n\n• Persistent, significant pain from a fractured vertebral body • Persistent, significant symptoms which have not resolved with normal conservative measures after 4 weeks of treatment affecting daily activities • Significant pain associated with a significant change in disability in conjunction with a new event • Acute-disease patient delayed for medical reasons • Selective chronic fractures\n\nRelative Indications:\n\n• Fracture of the thoracolumbar junction (T10–L2) that could result in a significant kyphotic deformity and, therefore, morbidity • Loss of vertebral body height (progressive as evidenced by sequential erect x-rays) • Posterior wall defect or destruction of a pedicle/pars, which may potentially render the affected area of the spine unstable and at risk of fracture/ neurological insult\n\nProphylactic Indications:\n\n[A]Loss of vertebral height sufficient to affect functional activities\n\n• For fracture at T10–L2 (thoracolumbar junction) consider cement augmentation; below L2 is not as significant • Only if progression over time; follow up with standard x-rays every 1–3 months\n\n[B] Risk of impending fracture\n\n• Need to take into consideration the aggressive nature of the disease and patient activity. • Need for clinical trials.\n\nIn 2019, the International Myeloma Working Group (IMWG) published a consensus statement to update the recommendations for VAPs in MM (outlined in Table 1). Briefly, any patient known to have MM who presents with back pain should undergo a careful assessment to determine the severity of pain and any accompanying neurological findings. MRI should confirm this, specifically on T1-weighted and short-T1 inversion recovery sequences, to rule out any spinal cord compression and facet joint-related pain. A CT scan must be performed for spinal instability neoplastic score classification to determine spinal instability and posterior vertebral wall defects. VAPs are also considered in patients with non-healing chronic fractures with a fracture cleft on imaging, and in patients with persistent symptoms from VCFs initially treated with conservative measures for 8-12 weeks, such as external supportive devices, including thoracolumbar spinal orthosis and thermoplastic braces. Lastly, MM disease status and hematological abnormalities, particularly thrombocytopenia, should be checked to assess the optimal timing for the performance of the procedure.2\n\nIn this review, we focused on the procedure and timing of VAPs among patients with MM, and on complications, contraindications, and outcomes evidence supporting the use of VAPs in these patients.\n\nPROCEDURE AND TIMING OF VAPS\n\nVAPs were first performed in the 1980s for the treatment of vertebral hemangiomas and osteolytic tumors.17 VAPs involve the injection of polymethylmethacrylate (PMMA) bone cement into the vertebral body cavity.1 Compared with PVP, PKP uses either a balloon or a curette to create a cavity within the affected vertebral body to instill high-viscosity PMMA cement. This procedure has been shown to restore lost vertebral height (VH), correct spinal defor­\n\nmities, and decrease the incidence of cement leakages.18\n\nRecently, smaller studies have shown the effectiveness of spine jack implants, an expandable titanium intravertebral implant that provides long-term pain relief and VH restoration in VCFs secondary to MM and other etiologies.19,20\n\nEven though both PVP and PKP use biplanar fluoroscopy guidance for determining the optimal location of cement injection, cement leakage into adjacent neural and vascular spaces is observed more with PVP than with PKP. In a large majority of patients, cement leakage is clinically inconsequential; however, in extreme situations, it can potentially cause pulmonary and cerebral embolism.21\n\nMBD generally affects more than one vertebral level. Although it has been advocated to augment as many involved vertebral levels as feasible, recent IMWG consensus recommends treating a maximum of 3 vertebral fractures in one PVP or PKP procedure session due to PMMA toxicity and an incrementally increased risk of respiratory dysfunction associated with cement embolization.2 Recent studies also show the benefit of using fenestrated pedicle screws for cement augmentation to enhance the durability of spinal constructs, particularly in cancer patients with poor bone quality.22‑24\n\nVCFs lead to loss of VH, resulting in an anterior shift of the spinal center of gravity, leading the patients to assume a kyphotic posture, which also compensates for weak paraspinal musculature.25 On a longer time frame, these compensatory mechanisms are detrimental and cause pulmonary and gastric complications leading to increased morbidity.11 One of the goals of VAPs is to improve or restore VH and kyphotic angle, thus achieving normal anatomical alignment of the spine and thereby improving the QoL.\n\nThe IMWG consensus statement recommends early intervention with VAPS within 4-8 weeks of diagnosis of VCFs due to the cumulative benefits of pain control, improved clinical outcomes, and enhanced QoL. This recommenda­\n\nClinical Hematology International 52",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.46989/001c.92984",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_sha256": "f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_url": "https://doi.org/10.46989/001c.92984"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980:p3",
+        "source_issue_ids": [],
+        "text": "The Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma\n\ntion stemmed from previous studies demonstrating the said benefits.15,26‑28 However, treatment of medical complications of MM, especially renal failure, should be prioritized over VAPs. During this period of patient stabilization, pain can be treated with non-operative interventions.\n\nOUTCOMES\n\nCompared to non-operative management, VAPs showed a statistically significant reduction in patients’ pain levels reflected by lower opioid requirements and improved pain visual analog scale (VAS) in multiple studies. Few studies compared the outcomes between PVP and PKP (Table 2). Kose et al conducted a retrospective study among 34 patients with MM and symptomatic VCFs that underwent PKP for 22 vertebral levels in 18 patients and PVP for 28 vertebral levels in 16 patients. They observed similar benefits of pain reduction and improved QoL from both procedures at 6 weeks (P = 0.106) but significantly better results at 6 months (P = 0.024) and 1 year (P = 0.027) post-procedure among those who underwent PKP.29\n\nErdem et al. performed another single-center large retrospective study of 792 patients with MM who underwent 1,072 VAPs. They reported that patients who underwent PKP or PVP had an identical reduction of back pain and analgesic requirements, and improvement in activity level at 1-month post-procedure.30 A pooled analysis of published case series of VAPs among patients with MM by Khan et al. revealed a similar reduction of pain scores after PVP and PKP at time intervals of <1 week, <1 year, and >1 year.31\n\nOverall, irrespective of the type, VAPs are shown to play a vital role in short- and long-term pain reduction from VCFs among patients with MM.\n\nBoth PVP and PKP have been shown to improve VH and kyphotic angle in multiple studies.33 This improvement maintained itself for up to 3.2 years in a few studies. Lamida et al observed a significant VH increase from PKP compared to PVP (0.41 cm versus 0.14 cm P = 0.006) with identical analgesic effects. Although the theoretical advantage of better VH and kyphotic angle correction is evident, its translation to clinical benefit is unclear.32\n\nCOMPLICATIONS\n\nOne of the most common complications of VAPs is cement leakage outside the confines of the vertebral body, possibly secondary to excessive injection or breach of cortical integrity. Studies show that injection of PMMA cement in amounts more than required will not lead to better pain relief or radiological outcomes, but rather increases the risk of leakage.34 Higher rates of leakage were more frequently encountered with an average injected cement volume of 4 mL or greater during VAPs.35 The cement may leak into adjacent dural, vascular, or soft tissue spaces or may embolize via the vertebral veins. Although cement extravasation does not often cause clinical symptoms, it can sometimes cause serious neurological and vascular outcomes.36,\n\n37\n\nMultiple studies revealed higher cement leakage rates among PVP (30%-75%) compared to PKP (8%-33%).38 This is also reflected in the recent 2019 IMWG consensus statement reporting higher rates of cement extrusion in PVP than in PKP procedures.2 However, cement leakage has been shown to not adversely affect the pain or functional scores in either PVP or PKP.31\n\nThere is increased stiffness of the vertebral elements after cement augmentation, which increases the future fracture risk of adjacent vertebral levels.39 Historically, this risk was found to be greater after PKP (45%-75%) than PVP (0%-16%). However, those studies were primarily performed in non-malignant osteoporotic VCFs.40 A recent meta-analysis of published cases of VCFs among patients with MM revealed similar rates of new VCFs at untreated vertebral bodies for both PVP and PKP (7.3% versus 6.8%, P = 0.78).31\n\nCONTRAINDICATIONS\n\nSome of the contraindications to performing VAPs identified in the literature include severe coagulopathy, >75% vertebral body collapse, the presence of epidural disease, posterior vertebral body wall fractures, spinal cord compression, and radiculopathy. This emphasizes the importance of involving interventional radiology early in the decision-making process to assess the feasibility and the appropriate type of procedure, and the number of levels that need to be treated to tailor the treatment accordingly. Additional limitations to VAPs include poor performance status, hyperviscosity symptoms, patients with active local or systemic infection, and operating on more than three levels in one session.41‑46\n\nROLE OF RADIOTHERAPY AND RADIOFREQUENCY ABLATION\n\nStereotactic radiotherapy has been studied as a treatment modality for MBD, secondary to its tumoricidal effect on MM cells, and to block the migration of neoplastic cells by forming an ablation-shell barrier or by embolization of necrotic tumor cells.47 The American Society for Radiation Oncology guidelines suggest schemes of a single 8 Gy fraction, 20 Gy in 5 fractions, 24 Gy in 6 fractions, or 30 Gy in 10 fractions, which showed adequate pain relief from painful bone metastasis.48 However, radiation doses in excess of 24 Gy pose a higher risk of Grade-I radiation toxicity.49 Previous studies using radiotherapy as a stand-alone treatment for MBD demonstrated pain relief ranging from 30%-50%. Although radiotherapy is an excellent non-invasive modality for pain control, it is associated with post-procedural neurological deterioration and continued risk of VCFs.50‑53\n\nBludau et al evaluated the role of intraoperative radiotherapy (IORT) during kyphoplasty for vertebral tumors. Although the study had very few patients with myeloma (3/104), combining IORT with kyphoplasty showed excellent long-term local control of the tumor.54 At present, in place of VAPs, the current role of stand-alone radiother­\n\nClinical Hematology International 53",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.46989/001c.92984",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_sha256": "f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_url": "https://doi.org/10.46989/001c.92984"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980:p4",
+        "source_issue_ids": [],
+        "text": "The Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma\n\nTable 2. Studies comparing the outcomes between balloon kyphoplasty (BK) and percutaneous vertebroplasty (PVP)\n\nStudy Outcome PKP PVP Conclusion\n\nKose et al29 Mean pre-and post-operative pain score\n\nPre-op pain: 36\n\n6 weeks: 12.13\n\n6 months: 8.63\n\nPre-op pain: 37.83\n\n6 weeks: 15.33\n\n6 months: 12.17\n\nPKP and PVP offer similar reduction in pain at 6 weeks but better results at 6 months (P = 0.024) and 1 year post-procedure (P = 0.027) among those who underwent PKP\n\nErdem et al30 Reported VAS, analgesic requirements, activity level pre- and 1-month post-procedure\n\nKhan et al31 Mean pain reduction scores\n\nLamida et al32 Improvement of VH and KD\n\n1 year: 9.72\n\n367 PKP treatments\n\n19 PKP\n\nMean Pre-op VH: 1.77cm\n\nMean pre-op KD: 9.7\n\n1 year: 13.47\n\n576 PVP treatments\n\n18 PVP\n\nMean Pre-op VH: 2.13cm\n\nMean pre-op KD: 8.4\n\nPre-op versus post-op VAS: 6.9 vs. 2.7, reduction of 4.2 points (95% confidence interval (CI) 4.0–4.5) that was significant (P < 0.001)\n\nReduction of analgesic requirement by 65% 1-month post-procedure (OR = 0.35; 95% CI, 0.21–0.58) compared with pre-procedure (P < 0.001)\n\nImprovement in good activity score to 4.2 times (95% CI, 3.1–5.8) higher post-procedure compared to pre-procedure (P < 0.001)\n\nNo significant differences in improvements between the type of procedure performed (kyphoplasty vs. vertebroplasty or kyphoplasty + vertebroplasty) for pain relief, decreased narcotics usage, or improvement in activity (all P > 0.05)\n\nAt 1 week: 2.8 points ± 0.4 versus 2.8 points ± 0.4 (P = .9)\n\n1 week-1 year: 2.5 points ± 0.4 versus 2.5 points ± 0.5 for (P = 1.00)\n\n>1 year: 2.9 points ± 0.6 compared with 2.7 points ± 0.4 for kyphoplasty patients (P = .9)\n\nStatistically significant VH increase from PKP compared to PVP (0.41 cm vs. 0.14 cm; P = 0.006).\n\nMean post-op VH: 2.18cm\n\nMean post-op VH: 2.27cm\n\nMean post-op KD: 7.9\n\nMean post-op KD: 7.4\n\nPKP, percutaneous kyphoplasty; PVP, percutaneous vertebroplasty; VAS, visual analog scale; VH, vertebral height; KD, kyphotic deformity\n\napy for treating MBD is minimal. It might be more beneficial in patients with epidural disease, soft tissue plasmacytoma causing cord compression, and neuropathic pain.50\n\nThe 2018 IMWG consensus statement made recommendations along the same lines for the current role of radiotherapy in MM (Table 3).\n\nRadiofrequency ablation (RFA) uses a thermal ablation technique which was thought to provide an analgesic effect by the destruction of pain-causing nerves and also reduce the production of cytokines and growth factors by necrosis.55 Oregera et al conducted a randomized control trial among 36 patients with MM and MBD to investigate the\n\nTable 3. Current indications of radiotherapy in MM as per IMWG 2\n\n• Patients with a soft tissue mass or plasmacytoma that has not resolved with systemic therapy or who cannot receive systemic therapy • Palliative approach for poor performance status patients • Plasmacytoma associated with severe pain • Location of plasmacytoma precluding use of VAPs; e.g., tumor impacting posterior part of the vertebral body close to spinal cord and nerves.\n\nClinical Hematology International 54",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.46989/001c.92984",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_sha256": "f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_url": "https://doi.org/10.46989/001c.92984"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980:p5",
+        "source_issue_ids": [],
+        "text": "The Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma\n\nrole of adding RFA to PVP for pain control. One group underwent RFA followed by PVP, and the other underwent PVP alone. Both groups were found to have similar pain relief at 24 hours and 6 weeks post-procedure. It was concluded that adding RFA to PVP provided no extra mid-term pain benefit; however, it increased procedure cost and time.56\n\nONGOING STUDIES\n\nWickstroem et al are conducting a single-blinded, multi-center clinical trial of around 100 patients with MM who had painful vertebral fractures and were randomized to either standard conservative care or standard conservative care with VAP, with the possibility of cross-over within 4 weeks of randomization.57 This will be the first nationwide randomized controlled study, and the outcomes will have an impact on the guidelines of patients with MM and painful VCFs.\n\nCONCLUSIONS\n\nVAPs are minimally invasive, safe, and effective for the treatment of VCFs in patients with MM. In addition to\n\ntreating acute pain associated with VCFs, vertebral augmentation improves anatomic deformity and prevents long-term complications of VCFs, thereby decreasing morbidity and improving QoL. We conclude that, for patients with MM and painful VCFs to obtain the maximum benefit, one of the VAPs should be considered at an early stage, preferably within 4-8 weeks of diagnosis of VCFs if no medical contraindications exist.\n\nCONFLICT OF INTEREST\n\nNone\n\nFUNDING\n\nNone\n\nSubmitted: August 11, 2023 GMT, Accepted: September 02,\n\n2023 GMT\n\nThis is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License (CCBY-4.0). View this license’s legal deed at http://creativecommons.org/licenses/by/4.0 and legal code at http://creativecommons.org/licenses/by/4.0/legalcode for more information.\n\nClinical Hematology International 55",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.46989/001c.92984",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_sha256": "f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_url": "https://doi.org/10.46989/001c.92984"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980:p6",
+        "source_issue_ids": [],
+        "text": "The Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma\n\nREFERENCES\n\n1. Tosi P. Diagnosis and Treatment of Bone Disease in Multiple Myeloma: Spotlight on Spinal Involvement. Scientifica. 2013;2013:1-12. doi:10.1155/2013/104546\n\n2. Kyriakou C, Molloy S, Vrionis F, et al. The role of cement augmentation with percutaneous vertebroplasty and balloon kyphoplasty for the treatment of vertebral compression fractures in multiple myeloma: a consensus statement from the International Myeloma Working Group (IMWG). Blood Cancer J. 2019;9(3). doi:10.1038/s41408-019-01 87-7\n\n3. Jemal A, Siegel R, Xu J, Ward E. Cancer statistics, 2010. CA Cancer J Clin. 2010;60(5):277-300. doi:10.33 22/caac.20073\n\n4. Terpos E, Christoulas D, Gavriatopoulou M. Biology and treatment of myeloma related bone disease. Metabolism. 2018;80:80-90. doi:10.1016/j.metabol.20 17.11.012\n\n5. Terpos E, Ntanasis-Stathopoulos I, Gavriatopoulou M, Dimopoulos MA. Pathogenesis of bone disease in multiple myeloma: from bench to bedside. Blood Cancer J. 2018;8(1):7. doi:10.1038/s41408-017-0037-4\n\n6. Terpos E, Christoulas D, Gavriatopoulou M, Dimopoulos MA. Mechanisms of bone destruction in multiple myeloma. Eur J Cancer Care. 2017;26(6):e12761. doi:10.1111/ecc.12761\n\n7. O’Donnell EK, Raje NS. Myeloma bone disease: pathogenesis and treatment. Clin Adv Hematol Oncol. 2017;15(4):285-295.\n\n8. Hussain M, Khan F, Al Hadidi S. The use of bone-modifying agents in multiple myeloma. Blood Rev. 2023;57:100999. doi:10.1016/j.blre.2022.100999\n\n9. Anselmetti GC, Manca A, Montemurro F, et al. Percutaneous vertebroplasty in multiple myeloma: prospective long-term follow-up in 106 consecutive patients. Cardiovasc Intervent Radiol. 2012;35(1):139-145. doi:10.1007/s00270-011-0111-4\n\n10. Kado DM, Duong T, Nevitt MC, et al. Incident vertebral fractures and mortality in older women: a prospective study. Osteoporosis International. 2003;14(7):589-594. doi:10.1007/s00198-003-1412-5\n\n11. Schlaich C, Minne HW, Bruckner T, et al. Reduced pulmonary function in patients with spinal osteoporotic fractures. Osteoporos Int. 1998;8(3):261-267. doi:10.1007/s001980050063\n\n12. Rajkumar SV. Myeloma today: Disease definitions and treatment advances. Am J Hematol. 2016;91(1):90-100. doi:10.1002/ajh.24236\n\n13. Barlogie B, Mitchell A, van Rhee F, Epstein J, Morgan GJ, Crowley J. Curing myeloma at last: defining criteria and providing the evidence. Blood. 2014;124(20):3043-3051. doi:10.1182/blood-2014-0 7-552059\n\n14. Simony A, Hansen EJ, Gaurilcikas M, Abildgaard N, Andersen MØ. Pain reduction after percutaneous vertebroplasty for myeloma-associated vertebral fractures. Dan Med J. 2014;61(12):A4945.\n\n15. Berenson J, Pflugmacher R, Jarzem P, et al. Balloon kyphoplasty versus non-surgical fracture management for treatment of painful vertebral body compression fractures in patients with cancer: a multicentre, randomised controlled trial. The Lancet Oncology. 2011;12(3):225-235. doi:10.1016/s1470-204 5(11)70008-0\n\n16. Dudeney S, Lieberman IH, Reinhardt MK, Hussein M. Kyphoplasty in the Treatment of Osteolytic Vertebral Compression Fractures as a Result of Multiple Myeloma. Journal of Clinical Oncology. 2002;20(9):2382-2387. doi:10.1200/jco.2002.09.097\n\n17. Galibert P, Deramond H, Rosat P, Le Gars D. [Preliminary note on the treatment of vertebral angioma by percutaneous acrylic vertebroplasty]. Neurochirurgie. 1987;33(2):166-168.\n\n18. Belkoff SM, Mathis JM, Fenton DC, Scribner RM, Reiley ME, Talmadge K. An ex vivo biomechanical evaluation of an inflatable bone tamp used in the treatment of compression fracture. Spine. 2001;26(2):151-156. doi:10.1097/00007632-20010115 0-00008\n\n19. Pusceddu C, Faiella E, Derudas D, et al. Re-expansion of vertebral compression fractures in patients with multiple myeloma with percutaneous vertebroplasty using spinejack implants: a preliminary and retrospective study. Front Surg. 2023;10:1121981. doi:10.3389/fsurg.2023.1121981\n\n20. Cornelis FH, Razakamanantsoa L, Ben Ammar M, et al. Expandable Intravertebral Implant in Cancer-Related Vertebral Compression Fractures: A Retrospective Review of 36 Implantations. J Vasc Interv Radiol. 2022;33(1):14-18. doi:10.1016/j.jvir.202 1.10.002\n\nClinical Hematology International 56",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.46989/001c.92984",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_sha256": "f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_url": "https://doi.org/10.46989/001c.92984"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980:p7",
+        "source_issue_ids": [],
+        "text": "The Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma\n\n21. Al-Nakshabandi NA. Percutaneous vertebroplasty complications. Ann Saudi Med. 2011;31(3):294-297. d oi:10.5144/0256-4947.2011.294\n\n22. Barzilai O, McLaughlin L, Lis E, Reiner AS, Bilsky MH, Laufer I. Utility of Cement Augmentation via Percutaneous Fenestrated Pedicle Screws for Stabilization of Cancer-Related Spinal Instability. Oper Neurosurg (Hagerstown). 2019;16(5):593-599. do i:10.1093/ons/opy186\n\n23. Massaad E, Rolle M, Hadzipasic M, Kiapour A, Shankar GM, Shin JH. Safety and efficacy of cement augmentation with fenestrated pedicle screws for tumor-related spinal instability. Neurosurg Focus. 2021;50(5):E12. doi:10.3171/2021.2.focus201121\n\n24. Ehresman J, Pennington Z, Elsamadicy AA, et al. Fenestrated pedicle screws for thoracolumbar instrumentation in patients with poor bone quality: Case series and systematic review of the literature. Clin Neurol Neurosurg. 2021;206:106675. doi:10.1016/ j.clineuro.2021.106675\n\n25. Katzman WB, Vittinghoff E, Kado DM. Age-related hyperkyphosis, independent of spinal osteoporosis, is associated with impaired mobility in older community-dwelling women. Osteoporos Int. 2011;22(1):85-90. doi:10.1007/s00198-010-1265-7\n\n26. Pennington Z, Ahmed AK, Cottrill E, Westbroek EM, Goodwin ML, Sciubba DM. Intra- and interobserver reliability of the Spinal Instability Neoplastic Score system for instability in spine metastases: a systematic review and meta-analysis. Ann Transl Med. 2019;7(10):218-218. doi:10.21037/at m.2019.01.65\n\n27. Papanastassiou ID, Vrionis FD. Is early vertebroplasty/kyphoplasty justified in multiple myeloma given the rapid vertebral fracture progression? Spine J. 2016;16(7):833-834. doi:10.101 6/j.spinee.2015.12.083\n\n28. Malhotra K, Butler JS, Yu HM, et al. Spinal disease in myeloma: cohort analysis at a specialist spinal surgery centre indicates benefit of early surgical augmentation or bracing. BMC Cancer. 2016;16(1):444. doi:10.1186/s12885-016-2495-7\n\n29. Köse KC, Cebesoy O, Akan B, Altinel L, Dinçer D, Yazar T. Functional results of vertebral augmentation techniques in pathological vertebral fractures of myelomatous patients. J Natl Med Assoc. 2006;98(10):1654-1658.\n\n30. Erdem E, Samant R, Malak SF, et al. Vertebral augmentation in the treatment of pathologic compression fractures in 792 patients with multiple myeloma. Leukemia. 2013;27(12):2391-2393. doi:10.1 038/leu.2013.162\n\n31. Khan OA, Brinjikji W, Kallmes DF. Vertebral augmentation in patients with multiple myeloma: a pooled analysis of published case series. AJNR Am J Neuroradiol. 2014;35(1):207-210. doi:10.3174/ajnr.a36 22\n\n32. La Maida GA, Sala F, Callea G, Capitani D, Singh S. Efficacy of unipedicular baloon kyphoplasty for treatment of multiple myeloma vertebral lesions. Asian Spine J. 2011;5(3):162-168. doi:10.4184/asj.201 1.5.3.162\n\n33. Lane JM, Hong R, Koob J, et al. Kyphoplasty enhances function and structural alignment in multiple myeloma. Clin Orthop Relat Res. 2004;426:49-53. doi:10.1097/01.blo.0000131642.9698 4.74\n\n34. Dalbayrak S, Önen MR, Yılmaz M, Naderi S. Clinical and radiographic results of balloon kyphoplasty for treatment of vertebral body metastases and multiple myelomas. J Clin Neurosci. 2010;17(2):219-224. doi:10.1016/j.jocn.2009.04.007\n\n35. Chew C, Craig L, Edwards R, Moss J, O’Dwyer PJ. Safety and efficacy of percutaneous vertebroplasty in malignancy: a systematic review. Clin Radiol. 2011;66(1):63-72. doi:10.1016/j.crad.2010.09.011\n\n36. Nooh A, Abduljabbar FH, Abduljabbar AH, Jarzem P. Pulmonary Artery Cement Embolism after a Vertebroplasty. Case Rep Orthop. 2015;2015:582769. d oi:10.1155/2015/582769\n\n37. Sabuncuoğlu H, Dinçer D, Güçlü B, et al. Intradural cement leakage: a rare complication of percutaneous vertebroplasty. Acta Neurochir. 2008;150(8):811-815. doi:10.1007/s00701-008-1503-3\n\n38. Eseonu KC, Panchmatia JR, Streetly MJ, Grauer JN, Fakouri B. The role of Vertebral Augmentation Procedures in the management of vertebral compression fractures secondary to multiple myeloma. Hematol Oncol. 2022;41(3):323-334. doi:1 0.1002/hon.3102\n\n39. Baroud G, Nemes J, Heini P, Steffen T. Load shift of the intervertebral disc after a vertebroplasty: a finite-element study. Eur Spine J. 2003;12(4):421-426. doi:10.1007/s00586-002-0512-9\n\n40. Frankel BM, Monroe T, Wang C. Percutaneous vertebral augmentation: an elevation in adjacent-level fracture risk in kyphoplasty as compared with vertebroplasty. Spine J. 2007;7(5):575-582. doi:10.101 6/j.spinee.2006.10.020\n\nClinical Hematology International 57",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.46989/001c.92984",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_sha256": "f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980",
+          "source_url": "https://doi.org/10.46989/001c.92984"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980:p8",
+        "source_issue_ids": [],
+        "text": "The Role of Vertebral Augmentation Procedures in the Management of Multiple Myeloma\n\n41. Deramond H, Depriester C, Galibert P, Le Gars D. Percutaneous vertebroplasty with polymethylmethacrylate. Technique, indications, and results. Radiol Clin North Am. 1998;36(3):533-546. do i:10.1016/s0033-8389(05)70042-7\n\n42. Fourney DR, Schomer DF, Nader R, et al. Percutaneous vertebroplasty and kyphoplasty for painful vertebral body fractures in cancer patients. J Neurosurg. 2003;98(1 Suppl):21-30. doi:10.3171/spi.2 003.98.1.0021\n\n43. Peh WCG, Gilula LA, Peck DD. Percutaneous vertebroplasty for severe osteoporotic vertebral body compression fractures. Radiology. 2002;223(1):121-126. doi:10.1148/radiol.2231010234\n\n44. Peters KR, Guiot BH, Martin PA, Fessler RG. Vertebroplasty for osteoporotic compression fractures: current practice and evolving techniques. Neurosurgery. 2002;51(5 Suppl):S96-103.\n\n45. Weill A, Chiras J, Simon JM, Rose M, Sola-Martinez T, Enkaoua E. Spinal metastases: indications for and results of percutaneous injection of acrylic surgical cement. Radiology. 1996;199(1):241-247. doi:10.1148/radiology.199.1.863 3152\n\n46. Mathis JM, Petri M, Naff N. Percutaneous vertebroplasty treatment of steroid-induced osteoporotic compression fractures. Arthritis Rheum. 1998;41(1):171-175. doi:10.1002/1529-0131(199801)4 1:1\n\n47. Patel MS, Ghasem A, Greif DN, Huntley SR, Conway SA, Al Maaieh M. Evaluating Treatment Strategies for Spinal Lesions in Multiple Myeloma: A Review of the Literature. Int J Spine Surg. 2018;12(5):571-581. doi:10.14444/5070\n\n48. Lutz S, Balboni T, Jones J, et al. Palliative radiation therapy for bone metastases: Update of an ASTRO Evidence-Based Guideline. Pract Radiat Oncol. 2017;7(1):4-12. doi:10.1016/j.prro.2016.08.001\n\n49. Meredith RF, Bassler JR, McDonald AM, Stahl JM, Redden DT, Bonner JA. Biological Effective Radiation Dose for Multiple Myeloma Palliation. Adv Radiat Oncol. 2023;8(4):101214. doi:10.1016/j.adro.2023.101 214\n\n50. Miller JA, Balagamwala EH, Chao ST, et al. Spine stereotactic radiosurgery for the treatment of multiple myeloma. J Neurosurg Spine. 2017;26(3):282-290. doi:10.3171/2016.8.spine16412\n\n51. Kasperk C, Haas A, Hillengass J, et al. Kyphoplasty in patients with multiple myeloma a retrospective comparative pilot study. J Surg Oncol. 2012;105(7):679-686. doi:10.1002/jso.22101\n\n52. Jin R, Rock J, Jin JY, Janakiraman N, Kim JH, Movsas B, et al. Single fraction spine radiosurgery for myeloma epidural spinal cord compression. J Exp Ther Oncol. 2009;8(1):35-41.\n\n53. Lecouvet F, Richard F, Vande Berg B, et al. Long-term effects of localized spinal radiation therapy on vertebral fractures and focal lesions appearance in patients with multiple myeloma. Br J Haematol. 1997;96(4):743-745. doi:10.1046/j.1365-2141.1997.d0 1-2108.x\n\n54. Bludau F, Winter L, Welzel G, et al. Long-term outcome after combined kyphoplasty and intraoperative radiotherapy (Kypho-IORT) for vertebral tumors. Radiat Oncol. 2020;15(1):263. doi:1 0.1186/s13014-020-01715-z\n\n55. Woolf CJ, Allchorne A, Safieh-Garabedian B, Poole S. Cytokines, nerve growth factor and inflammatory hyperalgesia: the contribution of tumour necrosis factor α. Br J Pharmacol. 1997;121(3):417-424. doi:1 0.1038/sj.bjp.0701148\n\n56. Orgera G, Krokidis M, Matteoli M, et al. Percutaneous vertebroplasty for pain management in patients with multiple myeloma: is radiofrequency ablation necessary? Cardiovasc Intervent Radiol. 2014;37(1):203-210. doi:10.1007/s00270-013-0624-0\n\n57. Wickstroem LA, Carreon L, Lund T, Abildgaard N, Lorenzen MD, Andersen MØ. Vertebroplasty in patients with multiple myeloma with vertebral compression fractures: protocol for a single-blind randomised controlled trial. BMJ Open. 2021;11(9):e045854. doi:10.1136/bmjopen-2020-0458 54\n\nClinical Hematology International 58",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:f7edd7853abbb6901690955386f10cca3f570b9389076c4831c37f7f03b13980"
+}

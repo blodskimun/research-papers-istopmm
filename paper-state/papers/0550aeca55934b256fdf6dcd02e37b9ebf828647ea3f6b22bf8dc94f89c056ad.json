@@ -1,0 +1,326 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:08:59.936578+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Antibody-drug conjugate, GSK2857916, in relapsed/refractory multiple myeloma: an update on safety and efficacy from dose expansion phase I study",
+        "year": null
+      },
+      "doi": "10.1038/s41408-019-0196-6",
+      "format": "pdf",
+      "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+      "url": "https://doi.org/10.1038/s41408-019-0196-6"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p1",
+        "source_issue_ids": [],
+        "text": "1234567890():,; 1234567890():,;\n\n1234567890():,; 1234567890():,;\n\nTrudel et al. Blood Cancer Journal (2019) 9:37 https://doi.org/10.1038/s41408-019-0196-6 Blood Cancer Journal\n\nA R T I C L E O p e n A c c e s s\n\nAntibody–drug conjugate, GSK2857916, in relapsed/refractory multiple myeloma: an update on safety and efﬁcacy from dose expansion phase I study\n\nSuzanne Trudel1, Nikoletta Lendvai2,3, Rakesh Popat4, Peter M. Voorhees5, Brandi Reeves6, Edward N. Libby7, Paul G. Richardson8, Axel Hoos9, Ira Gupta9, Veronique Bragulat9, Zangdong He9, Joanna B. Opalinska9 and Adam D. Cohen10\n\nAbstract Interim analyses of a phase I study with GSK2857916, an antibody–drug conjugate against B cell maturation antigen, have previously reported a 60% overall response and 7.9 months progression-free survival in relapsed/refractory multiple myeloma (MM). We provide updated safety and efﬁcacy results of the BMA117159 trial following an additional 14 months' follow-up. This open-label, ﬁrst-in-human, phase I study was conducted at nine centres in the USA, Canada and the UK, and included adults with MM and progressive disease after stem cell transplantation, alkylators, proteasome inhibitors, and immunomodulators. In part 1, the recommended dose of 3.4 mg/kg was identiﬁed; in part 2, patients received GSK2857916 3.4 mg/kg once every 3 weeks. Selected part 2 safety/tolerability and efﬁcacy endpoints are reported. Twenty-one (60.0%; 95% conﬁdence interval (CI) 42.1–76.1) of 35 patients achieved partial response or better, including two stringent complete responses and three complete responses. The median progression-free survival was 12 months and median duration of response was 14.3 months. Thrombocytopenia and corneal events were commonly reported; no new safety signals were identiﬁed. GSK2857916 was well tolerated and demonstrated a rapid, deep and durable response in heavily pre-treated patients with relapsed/refractory MM, consolidating the interim analyses conclusions that GSK2857916 is a promising treatment for these patients.\n\nIntroduction Multiple myeloma (MM) is a plasma cell malignancy characterised by clonal proliferation of plasma cells within the bone marrow1. While advances have been made in the management of MM in recent years with the introduction of novel therapies such as immunomodulators and proteasome inhibitors, outcomes are poor for those with relapsed and refractory disease2, highlighting the need for new treatments.\n\nCorrespondence: Suzanne Trudel (Suzanne.Trudel@uhn.ca) 1Princess Margaret Cancer Centre, Toronto, ON, Canada 2Department of Medicine, Myeloma Service, Memorial Sloan Kettering Cancer Center, New York, NY, USA Full list of author information is available at the end of the article.\n\nB cell maturation antigen (BCMA) is a cell-surface receptor required for the survival of plasma cells3. BCMA is also ubiquitously expressed on MM cells4 and its serum levels correlate with response to therapy and overall survival in patients with MM5. BCMA membrane expression is universally detected in patient-derived CD138-positive myeloma cells, but not in other tissues. As such, BCMA has emerged as a very selective antigen to be targeted by novel immune-based strategies for the treatment of MM. GSK2857916 is a humanised monoclonal anti-BCMA antibody, which is afucosylated and conjugated to the microtubule-disrupting agent monomethyl auristatin-F (MMAF)6. Upon binding to BCMA on the cell surface,\n\n© The Author(s) 2019\n\nOpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,whichpermitsuse,sharing,adaptation,distributionandreproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p10",
+        "source_issue_ids": [],
+        "text": "Trudel et al. Blood Cancer Journal (2019) 9:37 Page 10 of 10\n\nMyeloma Network meeting 2018; interim analyses were published in Lancet Oncology in 2018. We are grateful to the patients who participated in this study, the investigators and coordinators at the clinical sites and the employees of GSK who contributed to the design, implementation and data analysis. Editorial support, in the form of drafting and revising the manuscript based on author feedback, and adapting ﬁgures to journal guidelines, was provided by Leigh O’Connor, PhD, Clare Slater, PhD, CMPP, and Fiona Woodward, PhD, CMPP, of Fishawack Indicia Ltd, UK, which was funded by GSK. Drug linker technology was licensed from Seattle Genetics, Inc. (Bothell, WA, USA) and monoclonal antibody was produced using POTELLIGENT® Technology licensed from BioWa, Inc. (Princeton, NJ, USA).\n\nAuthor details 1Princess Margaret Cancer Centre, Toronto, ON, Canada. 2Department of Medicine, Myeloma Service, Memorial Sloan Kettering Cancer Center, New York, NY, USA. 3Department of Medicine, Weill Medical College of Cornell University, New York, NY, USA. 4NIHR/University College London Hospital Clinical Research Facility, NHS Foundation Trust, London, UK. 5Levine Cancer Institute, Atrium Health, Charlotte, NC, USA. 6Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA. 7University of Washington, Seattle, WA, USA. 8Dana-Farber Cancer Institute, Boston, MA, USA. 9GSK, Philadelphia, PA, USA. 10Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, USA\n\nAuthor contributions A.D.C., E.N.L., R.P., B.R., S.T., P.M.V., P.G.R. and N.L. contributed to acquisition of data. A.D.C., A.H., Z.H., N.L., E.N.L., J.B.O., P.G.R. and S.T. contributed to data analysis and interpretation. J.B.O., S.T., P.G.R. and P.M.V. contributed to study design. All authors were involved at each stage of manuscript preparation and approved the ﬁnal version.\n\nCompeting interest A.D.C. is a consultant for and a member of an advisory board for GlaxoSmithKline and Celgene, is a member of an advisory board for Janssen, Takeda, Oncopeptides, Kite Pharma, Seattle Genetics and Bristol-Myers Squibb, and has received research funding from Bristol-Myers Squibb and Novartis. N.L. has received research funding from GlaxoSmithKline, Takeda, Karyopharm, Sanoﬁand Amgen and served as consultant for Karyopharm and Amgen. R.P. has received honoraria from Janssen, Takeda, Celgene and Amgen, and travel support to attend meetings from Janssen, Takeda and Celgene. P.G.R. has received research funding from Celgene, Takeda, Oncopeptides and BMS, and is a member of advisory committees for Celgene, Oncopeptides, Janssen and Takeda. S.T. is a consultant for and has received honoraria from Amgen and Celgene, has received honoraria from Takeda and AbbVie, is a consultant for Novartis, and has received research support from Janssen. P.M.V. is a consultant for Amgen, Celgene, Janssen, Bristol-Myers Squibb, Novartis, Takeda, Oncopeptides and Teneo-Bio, and has participated in speakers’ bureaux for Amgen, Celgene and Janssen. I.G., A.H., V.B., J.B.O. and Z.H. are employees of and hold stocks/shares in GlaxoSmithKline. B.R. and E.N.L. declare no competing interests.\n\nPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afﬁliations.\n\nReceived: 31 December 2018 Revised: 15 February 2019 Accepted: 25 February 2019\n\nReferences 1. Fairﬁeld, H., Falank, C., Avery, L. & Reagan, M. R. Multiple myeloma in the marrow: pathogenesis and treatments. Ann. NY Acad. Sci. 1364, 32–51 (2016). 2. Kumar, S. K. et al. Natural history of relapsed myeloma, refractory to immunomodulatory drugs and proteasome inhibitors: a multicenter IMWG study. Leukemia 31, 2443–2448 (2017). 3. O’Connor, B. P. et al. BCMA is essential for the survival of long-lived bone marrow plasma cells. J. Exp. Med. 199, 91–98 (2004).\n\nBlood Cancer Journal\n\n4. Lee, L. et al. Evaluation of B cell maturation antigen as a target for antibody drug conjugate mediated cytotoxicity in multiple myeloma. Br. J. Haematol. 174, 911–922 (2016). 5. Sanchez, E. et al. Serum B-cell maturation antigen is elevated in multiple myeloma and correlates with disease status and survival. Br. J. Haematol. 158, 727–738 (2012). 6. Tai, Y.-T. et al. Novel anti–B-cell maturation antigen antibody-drug conjugate (GSK2857916) selectively induces killing of multiple myeloma. Blood 123, 3128–3138 (2014). 7. Trudel, S. et al. Targeting B-cell maturation antigen with GSK2857916 antibody-drug conjugate in relapsed or refractory multiple myeloma (BMA117159): a dose escalation and expansion phase 1 trial. Lancet Oncol. 19, 1641–1653 (2018). 8. Eaton, J. S., Miller, P. E., Mannis, M. J. & Murphy, C. J. Ocular adverse events associated with antibody–drug conjugates in human clinical trials. J. Ocul. Pharmacol. Ther. 31, 589–604 (2015). 9. Rajkumar, S. V. et al. Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel 1. Blood 117, 4691–4695 (2011). 10. Kumar, S. K. et al. Continued improvement in survival in multiple myeloma: changes in early mortality and outcomes in older patients. Leukemia 28, 1122–1128 (2014). 11. Kastritis, E. et al. Improved survival of patients with multiple myeloma after the introduction of novel agents and the applicability of the International Staging System (ISS): an analysis of the Greek Myeloma Study Group (GMSG). Leukemia 23, 1152 (2009). 12. US Food and Drug Administration. Daratumumab (DARZALEX). https://www. fda.gov/drugs/informationondrugs/approveddrugs/ucm530249.htm (2016). 13. Moreau, P. et al. Multiple myeloma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann. Oncol. 28 (Suppl. 4), iv52–iv61 (2017). 14. Lokhurst, H. M. et al. Targeting CD38 with daratumumab monotherapy in multiple myeloma. N. Engl. J. Med. 373, 1207–1219 (2015). 15. Benyamini, N. et al. Real-life data on the outcome of daratumamab-refractory myeloma patients: multi-center experience. Blood 132 (Suppl. 1), 3259 (2018). S A. 16. Gandhi, U. H. et al. Natural history of patients with multiple myeloma refractory to CD38-targeted monoclonal antibody-based treatment. Blood 132 (Suppl. 1), 3233 (2018). 17. Cornell, R. F. et al. Subsequent treatment outcomes of multiple myeloma refractory to CD38-monoclonal antibody therapy. Blood 132 (Suppl. 1), 2015 (2018). 18. Carpenter, R. O. et al. B-cell maturation antigen is a promising target for adoptive T-cell therapy of multiple myeloma. Clin. Cancer Res. 19, 2048–2060 (2013). 19. Kinneer, K. et al. Preclinical evaluation of MEDI2228, a BCMA-targeting pyrro-lobenzodiazepine-linked antibody drug conjugate for the treatment of multiple myeloma. Blood 130 (Suppl. 1), 3153 (2017). 20. Bu, D. X. et al. Pre-clinical validation of B cell maturation antigen (BCMA) as a target for T cell immunotherapy of multiple myeloma. Oncotarget 9, 25764–25780 (2018). 21. Hipp, S. et al. A novel BCMA/CD3 bispeciﬁc T-cell engager for the treatment of multiple myeloma induces selective lysis in vitro and in vivo. Leukemia 31, 1743 (2016). 22. Raje, N. S. et al. bb2121 anti-BCMA CAR T-cell therapy in patients with relapsed/refractory multiple myeloma: updated results from a multicenter phase I study. J. Clin. Oncol. 36 (Suppl.), 8007 (2018). 23. Zhao, W.-H. et al. Updated analysis of a phase 1, open-label study of LCAR-B38M, a chimeric antigen receptor T cell therapy directed against B-cell maturation antigen, in patients with relapsed/refractory multiple myeloma. Blood 132 (Suppl 1), 955 (2018). 24. Gregory, T. et al. Efﬁcacy and safety of P-Bcma-101 CAR-T cells in patients with relapsed/refractory (r/r) multiple myeloma (MM). Blood 132 (Suppl. 1), 1012 (2018). 25. Mailankody, S. et al. Clinical responses and pharmacokinetics of MCARH171, a human-derived Bcma targeted CAR T cell therapy in relapsed/refractory multiple myeloma: ﬁnal results of a phase I clinical trial. Blood 132 (Suppl. 1), 959 (2018). 26. Helwick C. CAR T-cell therapy: updated data remain favorable in heavily pretreated patients with myeloma. In The ASCO Post. http://www.ascopost. com/issues/july-10-2018/car-t-cell-therapy-in-heavily-pretreated-patients-with-myeloma/ (2018).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p2",
+        "source_issue_ids": [],
+        "text": "Trudel et al. Blood Cancer Journal (2019) 9:37 Page 2 of 10\n\nGSK2857916 is rapidly internalised and the cytotoxic moiety (cys-mcMMAF) is released, leading to direct cell death. Indeed, preclinical studies demonstrated in vitro and in vivo cytotoxic activity against both myeloma cell lines and primary patient cells4. We conducted a phase I, ﬁrst-in-human, open-label study with dose escalation (part 1) and dose expansion (part 2), which assessed the safety, pharmacokinetics (PK) and preliminary clinical activity of GSK2857916 monotherapy in patients with relapsed/refractory MM. Results of the prespeciﬁed interim analysis7 indicated that GSK2857916, at the identiﬁed recommended phase II dose of 3.4 mg/kg, demonstrated favourable PK proper-ties, was well tolerated and had good clinical activity in heavily pre-treated patients. Here, we report an update of the safety and efﬁcacy results of part 2, following an additional 14 months of follow-up from the date of the interim analysis data cut.\n\nMaterials and methods Study design This multicentre, open-label, ﬁrst-in-human, phase I study was conducted at nine centres in the USA, Canada, and the UK (BMA117159; NCT02064387). The study comprised two parts: part 1 was a dose-escalation phase that assessed the safety and tolerability of GSK2857916 to establish the recommended dose; part 2 conﬁrmed the safety, tolerability, PK, and efﬁcacy of GSK2857916 at the dose identiﬁed in part 1. Full methodological details of this study are reported in Trudel et al.7. The study was conducted according to good clinical practice, was approved by appropriate ethics committees and institutional review boards at each study site and all patients provided written informed consent.\n\nPatients Eligible adult (≥18 years of age) patients for part 2 had histologically or cytologically conﬁrmed MM, Eastern Cooperative Oncology Group performance status 0 or 1, prior therapy with alkylators, proteasome inhibitors and immunomodulators, and were refractory to the last line of treatment (deﬁned as progression on or within 60 days of completion of the last therapy), and measurable disease (deﬁned as having at least one of the following: serum M-protein ≥0.5 g/dL, urine M-protein ≥200 mg/24 h, serum free light chain ≥5 mg/dL and abnormal serum free light-chain ratio [ <0.26 or >1.65], or plasmacytoma conﬁrmed with biopsy). BCMA expression was not required for enrolment. Full inclusion and exclusion criteria are listed in Trudel et al.7.\n\nEndpoints The full list of trial endpoints is provided in Trudel et al.7. Here we report an update on safety endpoints\n\nBlood Cancer Journal\n\n(primary), clinical activity (secondary) and the exploratory endpoints of progression-free survival, duration of response and time to response.\n\nStudy treatment GSK2857916 3.4 mg/kg was administered through 1-h intravenous infusions once every 3 weeks, for a maximum of 16 cycles; the dose was selected based on part 1 PK and tolerability results7. Steroid eye drops (prednisolone phosphate 1% or dexamethasone 0.1% four times per day for 4 days starting 1 day before each GSK2857916 dose) were used by all patients at the time of each infusion to mitigate corneal events, a known toxic effect of MMAF8.\n\nStudy assessments Full details on study assessments can be found in Trudel et al.7 and are summarised here. Patients were initially followed up for up to 3 months after the end of the treatment; the protocol was amended to follow up patients for up to 1 year after end of treatment. To assess the safety and tolerability of GSK2857916, adverse events (AEs) were recorded from the ﬁrst dose until 30 days after the last dose. AEs that occurred within the ﬁrst 21 days of treatment and for which association with study treatment could not be excluded were considered a dose-limiting toxicity. Speciﬁc criteria for dose-limiting toxicity are provided in Trudel et al.7. Clinical activity of GSK2857916, measured as overall response rate, was assessed according to the International Myeloma Working Group uniform response criteria for MM9. Disease assessment was completed every 3 weeks or at the start of each treatment cycle until the ﬁnal study visit.\n\nData analysis Demographics and safety data were analysed descrip-tively. Overall response was calculated with two-sided 95% exact conﬁdence intervals (CIs). Progression-free survival, duration of response, and time to response were analysed using the Kaplan–Meier method. All patients who received at least one dose of GSK2857916 were included in the analyses.\n\nData sharing statement Anonymised individual participant data and study documents can be requested for further research from www.clinicalstudydatarequest.com.\n\nResults Patient population Enrolment of patients for part 2 took place from August 9, 2016 to December 7, 2016; all patients recruited in 2017 were dosed at GSK2857916 2.5 mg/kg in part 1, an additional dosing level not included in the original dose",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p3",
+        "source_issue_ids": [],
+        "text": "Trudel et al. Blood Cancer Journal (2019) 9:37 Page 3 of 10\n\nAll treated (n=35)\n\nAllocation Follow-up Analysis† Completion status*\n\n3.40 mg/kg GSK2857916 Allocated to intervention (n=35) • Received allocated intervention (n=35) • Did not receive allocated intervention (n=0)\n\nCompleted (n=22) Died (n=4) Ongoing on study treatment (n=1) Ongoing in follow-up (n=7) Withdrawn from study (withdrew consent) (n=1)\n\nOngoing (n=1) Discontinued (n=34) • Disease progression (n=18) • Completed scheduled (n=9) • Adverse event (n=4) • Decision by subject (n=2) • Decision by physician (n=1)\n\nAnalysed (n=35)\n\nFig. 1 Study proﬁle. *A completed subject is one who has completed at least one cycle of study treatment and an end of study visit without events causing them to withdraw or discontinue from the study; †Analysed for safety and clinical activity of study intervention\n\nescalation schedule but added later to further assess safety7. As of the data cut-off date of August 31, 2018, of the 35 patients treated in part 2, 22 completed the study, 7 are ongoing in follow-up, and 1 patient is continuing with study treatment (Fig. 1). All 35 patients were included in the analyses. Patient baseline demographics are shown in Table 1. Fourteen of the 35 patients had received >5 previous lines of therapy. The median duration of follow-up was 12.5 months (range 0.7–23.2).\n\nSafety and tolerability All patients experienced at least one AE, most commonly thrombocytopenia (22/35; 63%), blurred vision (18/35; 51%), and cough (14/35; 40%) (Table 2). Grade 3 or 4 AEs were reported in 29 (83%) patients, the most common of which were thrombocytopenia (grade 3, 9/35 [26%]; grade 4, 3/35 [9%]) and anaemia (grade 3, 6/35 [17%]); no grade 5 AEs were reported. Serious AEs (SAEs) were reported in 17/35 (49%) patients, most commonly pneumonia (3/35; 9%), lung infection (2/35; 6%), and infusion-related reactions (2/35; 6%). Seven (20%) patients experienced SAEs related to study treatment, most commonly infusion-related reactions (2/35; 6%). Four patients died during the study, all due to progression of MM. Four (11%) patients had AEs that led to permanent discontinuation of study treatment, each due to thrombocytopenia, keratopathy, fatigue and cough, and increased alanine aminotransferase, aspartate aminotransferase, and\n\nBlood Cancer Journal\n\nTable 1 Patient baseline characteristics and disposition\n\nCharacteristic n = 35\n\nAge, median (range) years 60 (46–75)\n\nSex\n\nMen 17 (49%)\n\nWomen 18 (51%)\n\nDisease stage at diagnosisa\n\nStage I 19 (54%)\n\nStage II 6 (17%)\n\nStage III 4 (11%)\n\nUnknown 6 (17%)\n\nECOG PS\n\n0 10 (29%)\n\n1 25 (71%)\n\nMyeloma light chain\n\nKappa light chain 24 (69%)\n\nLambda light chain 11 (31%)\n\nMyeloma immunoglobulin\n\nIgA 8 (23%)\n\nIgG 22 (63%)\n\nIgM 1 (3%)\n\nOther 4 (11%)\n\nGenetics, n (%)b\n\ndel13 6 (17%)\n\ndel17p13 6 (17%)\n\nt(11:14) 2 (6%)\n\nt(4:14) 3 (9%)\n\nt(14:16) 1 (3%)\n\n1q21 3 (9%)\n\nOther 14 (40%)\n\nMissing 11 (31%)\n\nPrior therapies\n\n1 line 1 (3%)\n\n2 lines 2 (6%)\n\n3 lines 7 (20%)\n\n4 lines 5 (14%)\n\n5 lines 6 (17%)\n\n6 lines 3 (9%)\n\n7 lines 2 (6%)\n\n8 lines 3 (9%)\n\n9 lines 2 (6%)\n\n10 lines 2 (6%)",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p4",
+        "source_issue_ids": [],
+        "text": "Trudel et al. Blood Cancer Journal (2019) 9:37 Page 4 of 10\n\nTable 1 continued\n\nCharacteristic n = 35\n\n>10 lines 2 (6%)\n\nProteasome inhibitors\n\nReceived 35 (100%)\n\nRefractory 34 (97%)\n\nImmunomodulatory drugs\n\nReceived 35 (100%)\n\nRefractory 33 (94%)\n\nPomalidomide\n\nReceived 22 (63%)\n\nRefractory 22 (63%)\n\nDaratumumab\n\nReceived 14 (40%)\n\nRefractoryc 14 (40%)\n\nCarﬁlzomib\n\nReceived 29 (83%)\n\nRefractory 27 (77%)\n\nPatient disposition\n\nCompleted study 22 (63%)\n\nDied 4 (11%)\n\nOngoing on study 8 (23%)\n\nOn treatment 1 (3%)\n\nIn follow-up 7 (20%)\n\nWithdrawn from study 1 (3%)\n\nWithdrew consent 1 (3%)\n\nLost to follow-up 0\n\nDiscontinued treatment 34 (97%)\n\nDisease progression 18 (51%)\n\nCompletion of treatment 9 (26%)\n\nAdverse event 4 (11%)\n\nInvestigator discretion 1 (3%)\n\nPatient decision 2 (6%)\n\nData are n (%), unless otherwise speciﬁed ECOG PS Eastern Cooperative Oncology Group performance status, Ig immunoglobulin aAssessed using the International Staging System classiﬁcation9,26\n\nbMultiple categories per patient possible, resulting in a total that adds to more than 100%; assessed using ﬂuorescence in situ hybridisation cThirteen (37%) of 35 patients had previous daratumumab treatment and were refractory to both immunomodulatory drugs and proteasome inhibitors\n\nblood creatine phosphokinase. Overall, 23 (66%) had AEs that caused dose reductions, most commonly blurred vision (12/35; 34%) and thrombocytopenia (6/35; 17%); 25\n\nBlood Cancer Journal\n\nTable 2 Summary of treatment-emergent adverse events\n\nMaximum grade, n (%)\n\nGrade 1 Grade 2 Grade 3 Grade 4\n\nThrombocytopeniaa 4 (11) 6 (17) 9 (26) 3 (9)\n\nBlurred vision 2 (6) 15 (43) 1 (3) 0\n\nCough 11 (31) 3 (9) 0 0\n\nIncreased aspartate aminotransferase 8 (23) 3 (9) 2 (6) 0\n\nDry eye 6 (17) 6 (17) 1 (3) 0\n\nNausea 9 (26) 2 (6) 0 0\n\nAnaemia 0 4 (11) 6 (17) 0\n\nDiarrhoea 6 (17) 2 (6) 2 (6) 2 (6)\n\nPhotophobia 7 (20) 3 (9) 0 0\n\nPyrexia 6 (17) 4 (11) 0 0\n\nChills 7 (20) 2 (6) 0 0\n\nFatigue 2 (6) 6 (17) 0 0\n\nUpper respiratory tract\n\ninfection\n\nIncreased alanine\n\naminotransferase\n\n5 (14) 3 (9) 0 0\n\n5 (14) 2 (6) 0 0\n\nBack pain 3 (9) 2 (6) 2 (6) 0\n\nConstipation 5 (14) 1 (3) 1 (3) 0\n\nIncreased γ-glutamyl\n\ntransferase\n\n2 (6) 3 (9) 2 (6) 0\n\nArthralgia 2 (6) 3 (9) 1 (3) 0\n\nIncreased blood alkaline\n\nphosphatase\n\n6 (17) 0 0 0\n\nDyspnoea 4 (11) 1 (3) 1 (3) 0\n\nContusion 5 (14) 0 0 0\n\nDecreased appetite 3 (9) 2 (6) 0 0\n\nHeadache 4 (11) 1 (3) 0 0\n\nSinusitis 0 5 (14) 0 0\n\nEye pain 3 (9) 0 1 (3) 0\n\nHypokalaemia 1 (3) 0 3 (9) 0\n\nInfusion-related reaction 1 (3) 2 (6) 1 (3) 0\n\nLung infection 0 1 (3) 3 (9) 0\n\nPneumonia 0 1 (3) 3 (9) 0\n\nUrinary tract infection 0 3 (9) 1 (3) 0\n\nHypertension 1 (3) 1 (3) 1 (3) 0\n\nKeratitis 0 1 (3) 2 (6) 0\n\nDecreased neutrophil count 0 0 3 (9) 0\n\nHaematuria 0 1 (3) 1 (3) 0",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p5",
+        "source_issue_ids": [],
+        "text": "Trudel et al. Blood Cancer Journal (2019) 9:37 Page 5 of 10\n\nTable 2 continued\n\nMaximum grade, n (%)\n\nGrade 1 Grade 2 Grade 3 Grade 4\n\nNeutropenia 0 0 1 (3) 1 (3)\n\nRib fracture 1 (3) 0 1 (3) 0\n\nToothache 0 1 (3) 1 (3) 0\n\nAppendicitis 0 0 1 (3) 0\n\nBacteraemia 0 0 0 1 (3)\n\nIncreased blood lactate\n\ndehydrogenase\n\n0 0 1 (3) 0\n\nCataract 0 0 1 (3) 0\n\nCholecystitis acute 0 0 0 1 (3)\n\nCholecystitis infective 0 0 0 1 (3)\n\nDeep vein thrombosis 0 0 1 (3) 0\n\nEncephalopathy 0 0 1 (3) 0\n\nFall 0 0 1 (3) 0\n\nFebrile neutropenia 0 0 1 (3) 0\n\nGastroenteritis 0 0 1 (3) 0\n\nHumerus fracture 0 0 1 (3) 0\n\nLower respiratory tract\n\ninfection\n\n0 0 1 (3) 0\n\nPericardial effusion 0 0 0 1 (3)\n\nPneumonia haemophilus 0 0 1 (3) 0\n\nRespiratory tract infection 0 0 1 (3) 0\n\nRetinal detachment 0 0 1 (3) 0\n\nSalmonellosis 0 0 1 (3) 0\n\nSyncope 0 0 1 (3) 0\n\nAbnormal visual acuity tests 0 0 1 (3) 0\n\nAll adverse events of grades 3 and 4 are shown, and adverse events of grades 1 and 2 that occurred in 10% or more of patients (n = 35). No grade 5 events occurred aGrouped term includes thrombocytopenia and decrease in platelet count\n\n(71%) had AEs that led to dose interruptions or delays, most commonly blurred vision (14/35; 40%), followed by thrombocytopenia (5/35; 14%), and keratitis, photophobia, and pneumonia (each reported by 3 [9%] patients). AEs of special interest included infusion-related reactions, thrombocytopenia, and corneal events. To fully assess the incidence and severity of infusion-related reactions, medications to prevent such reactions were not permitted for the ﬁrst infusion, but were allowed with subsequent infusions. Ten patients (29%) had infusion-related reactions, most of which were grade 1 or 2; all\n\nBlood Cancer Journal\n\noccurred with the ﬁrst dose of GSK2857916. The median time of onset of thrombocytopenia was 7.5 days (range 5–365) and the median duration for patients with a resolution date (n = 10) was 8 days (range 6–267). One (6%) patient discontinued treatment because of grade 3 thrombocytopenia and seven (20%) required dose reductions or delays/interruptions due to thrombocytopenia. Corneal events were reported in 24 (69%) of patients, most commonly blurred vision (18/35; 51%), dry eye (13/35; 37%) and photophobia (10/35; 29%). Most patients experienced grade 1 or 2 corneal events (19/35; 54%); 5 (14%) patients had grade 3 events. The median duration of corneal events for patients with a resolution date (n = 16) was 35 days (range 5–442). Corneal events led to dose reduction in 16 (46%) patients, and dose interruptions or delays in 17 (49%) patients.\n\nClinical efﬁcacy Twenty-one patients had a conﬁrmed response of partial response or better (60.0%; 95% CI 42.1–76.1), with two (6%) patients achieving a stringent complete response, and an additional three (9%) achieving a complete response, 14 (40%) achieving a very good partial response, and two (6%) achieving a partial response (Figs. 2a, 3a). Overall response rates grouped by baseline characteristics are shown in Fig. 2b. Of the 32 patients refractory to both immunomodulators and proteasome inhibitors, conﬁrmed overall response was achieved in 18 patients (56.3%; 95% CI 37.7–73.6). Of the 21 patients without prior daratumumab treatment, 15 achieved a conﬁrmed overall response (71.4%; 95% CI 47.8–88.7); of the 13 patients with prior daratumumab treatment and refractory to both immunomodulators and proteasome inhibitors, ﬁve had a conﬁrmed overall response (38.5%; 95% CI 13.9–68.4). The median time to ﬁrst response was 1.2 months (95% CI 0.7–1.4); responses were maintained and gen-erally deepened over time (Fig. 3a, b). The median progression-free survival was 12.0 months (95% CI 3.1–not estimable) (Fig. 4a) and the median duration of response was 14.3 months (95% CI 10.6–not estimable) (Fig. 4b). In patients refractory to both immunomodulators and proteasome inhibitors, median progression-free survival was 7.9 months (95% CI 2.3–not estimable); in patients without prior daratumumab treatment, median progression-free survival was 15.7 months (95% CI 2.3–not estimable). In patients with prior daratumumab treatment, median progression-free survival was 6.8 months (95% CI 1.3–not estimable) (Fig. 4c); and in those with prior daratumumab treatment and refractory to, immunomodulators, and proteasome inhibitors, median progression-free survival was 6.2 months (95% CI 0.7–7.9).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p6",
+        "source_issue_ids": [],
+        "text": "Trudel et al. Blood Cancer Journal (2019) 9:37 Page 6 of 10\n\nA\n\nMaximum percentage reduction from baseline (%)\n\n175 200\n\n150 125 100 75 50 25 0 -25 -50\n\n25 0 -25 -50 -75\n\n-100 -90\n\nPatients -100\n\nB\n\nAll patients Age 18 to <65 65 to <75 ≥75 Sex Male Female Ethnic background White Other ISS at screening I II III Other (unknown or missing) Number of lines of therapy ≤3 4–5 >5 Type of myeloma IgG Non-IgG Prior Daratumumab Treatment Yes No Refractory to Any proteasome inhibitor (PI) Bortezomib Carfilzomib Ixazomib Any immunomodulator (IMiD) Thalidomide Lenalidomide Pomalidomide Monoclonal antibodies Daratumumab Daratumumab alone* Daratumumab in combination PI+IMiD Daratumumab+PI+IMiD Penta-refractory Cytogenetics risk High Other (non-high risk, not done, or missing)\n\nn/N ORR (95% CI)\n\n21/35\n\n60.0%\n\n(42.1-76.1)\n\n12/21 8/13 1/1\n\n10/17 11/18\n\n18/28 3/7\n\n12/19 3/6 2/4 4/6\n\n57.1% 61.5% 100.0%\n\n58.8% 61.1%\n\n64.3% 42.9%\n\n63.2% 50.0% 50.0% 66.7%\n\n(34.0-78.2) (31.7-86.1) (2.5-100.0)\n\n(32.9-81.6) (35.7-82.7)\n\n(44.1-81.4) (9.9-81.6)\n\n(38.4-83.7) (11.8-88.2) (6.8-93.2) (22.3-95.7)\n\n7/10 7/11 7/14\n\n14/22 7/13\n\n6/14 15/21\n\n20/34 16/28 15/27 2/3 19/33 5/9 17/30 12/22 7/15 6/14 3/7 4/10 18/32 5/13 2/7\n\n5/8 16/27\n\n0 25 50 ORR (%) 75 100\n\n70.0% 63.6% 50.0%\n\n63.6% 53.8%\n\n42.9% 71.4%\n\n58.8% 57.1% 55.6% 66.7% 57.6% 55.6% 56.7% 54.5% 46.7% 42.9% 42.9% 40.0% 56.3% 38.5% 28.6%\n\n62.5% 59.3%\n\n(34.8-93.3) (30.8-89.1) (23.0-77.0)\n\n(40.7-82.8) (25.1-80.8)\n\n(17.7-71.1) (47.8-88.7)\n\n(40.7-75.4) (37.2-75.5) (35.3-74.5) (9.4-99.2) (39.2-74.5) (21.2-86.3) (37.4-74.5) (32.2-75.6) (21.3-73.4) (17.7-71.1) (9.9-81.6) (12.2-73.8) (37.7-73.6) (13.9-68.4) (3.7-71.0)\n\n(24.5-91.5) (38.8-77.6)\n\nFig. 2 Best responses to GSK2857916. a Maximum percentage change from baseline in M-protein or free light chain. For patients with measurable serum M-protein, serum concentration is shown; for patients with urine M-protein measurements, urine concentrations are shown; and for patients with no available serum or urine M-protein measurements, free light-chain concentrations are shown. b Forest plot of overall response rates by patient subgroup. *Deﬁned as prior cyclophosphamide (CTX) regimen with daratumumab as the only drug in the regimen; †deﬁned as prior CTX regimen with daratumumab and other drugs in the regimen; ‡deﬁned as refractory to bortezomib, carﬁlzomib, lenalidomide, pomalidomide and daratumumab; §a patient is considered as high risk if the subject has any of the following cytogenetics: t(4;14), del17p and t(14;16)\n\nDiscussion This update of a phase I, ﬁrst-in-human study demon-strates the high single-agent activity of anti-BCMA GSK2857916 therapy in patients with relapsed or refractory MM. With an additional 14 months of follow-up, we observed more complete responses and a longer progression-free survival compared with interim analyses, showing rapid, deep, and durable responses with\n\nBlood Cancer Journal\n\nGSK2857916. The interim analyses for the study (data cut-off date June 26, 2017) at a median follow-up of 12.5 months indicated a conﬁrmed overall response in 21 (60.0%) of the 35 patients in part 2 of the trial, including one stringent complete response and two complete responses. After over a year of additional follow-up, we found an identical overall response rate in these patients, but responses had deepened over time and the number of",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p7",
+        "source_issue_ids": [],
+        "text": "Trudel et al. Blood Cancer Journal (2019) 9:37 Page 7 of 10\n\nA\n\nPatients\n\nPD NE NE PD PD PD PD NE SD PD PD VGPR SD SD SD sCR VGPR R P G V R P R P G V R C R P G V R P G V R C R P G V R P G V R P G V R P G V R P G V R C R P G V R P G V R P R C s R P G V\n\n0 30 60 90 120 150 180 210 240 270 300 330 360 390 420 450 480 510 540 570 600 630 660 690 720 750\n\nStudy treatment duration (days)\n\nB\n\nPatients\n\nPR 1.9\n\n2.6\n\n1.9 1.7 1.7 1.7 1.7 1.7\n\n2.5 2.5 1.7 1.7 1.7 1.7 1.7 1.7 PR VGPR\n\n3.4\n\n2.6 VGPR PD PD PR 1.9 1.7\n\n1.7 1.7 1.7 VGPR sCR\n\n3.4\n\n2.5\n\n3.4 3.4 3.4 2.6 2.6 2.6 2.6 2.6 2.6 PR VGPR PD\n\nVGPR\n\nPR\n\n2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6\n\n3.4 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 PR CR\n\nVGPR sCR\n\n3.4 3.4 2.6 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7\n\n2.6 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 PR PD\n\nVGPR\n\nPR VGPR\n\n3.4\n\n2.6 2.6 2.6 2.6 2.6 2.6 2.6 1.9 1.9 1.9 1.9 1.9 1.9 1.9 1.9 VGPR PD\n\n3.4 3.4 3.4 PRVGPR\n\n2.6 1.9 1.9 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7\n\n3.4 3.4 3.4 VGPR\n\n2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6 2.6\n\nVGPR\n\nCR\n\n3.4\n\n3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4\n\nVGPR\n\n3.4 3.4 3.4 PR PD 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4 3.4\n\n3.4\n\n3.4\n\n3.4 3.4 2.5 1.9 1.9 1.9 1.9 1.9\n\nVGPR PD\n\n3.4 PR VGPR 2.6 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 VGPR CR 2.6 2.6 2.6 2.6 1.7 1.7 1.7 1.7 1.7\n\n2.6 1.7 1.7 1.7 1.7 1.7 PR VGPR 2.6 2.6 2.6 2.6 1.7 1.7 1.7 1.7 1.7 1.7 1.7\n\n1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7\n\nBest response First response PD\n\nDose (mg/kg)\n\nVGPR\n\nDuration of response\n\n1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7 1.7\n\n21 63 105 147 189 315 357 231 273\n\nStudy days\n\n399 441 483 525 567 609 651 693\n\nFig. 3 Response duration and effect of dose modiﬁcations. a Duration of study treatment by response. Treatment duration counts the time difference between ﬁrst dose date and ﬁnal dose date without accounting for dosing interruptions. Triangles indicate patients remaining on the study. b Dose modiﬁcations in responding patients. For each of the 21 responding patients, initial response (partial response or better) is indicated in green, best response in blue, and progressive disease in red. The numbers indicate dose (mg/kg) for each infusion. CR, complete response; NE, not evaluable; PD, progressive disease; PR, partial response; sCR, stringent complete response; SD, stable disease; VGPR, very good partial response\n\nstringent complete responses and complete responses had increased from one to two, and from two to three, respectively. Further, our analyses have provided an update on the progression-free survival and duration of response with GSK2857916: the median progression-free survival, previously at 7.9 months, is now estimated at 12.0 months (95% CI 3.1–not estimable) with an additional follow-up of 14 months, and the duration of response, not previously estimable at the interim analyses, is estimated at 14.3 months. Overall, these results show a sustained overall response rate, which has deepened over\n\ntime. Importantly, the median duration of response and median progression-free survival are considerably longer than initially reported at the interim analysis7. Treatment options for MM have increased in recent years and the introduction of novel proteasome inhibitors and immunomodulatory drugs is signiﬁcantly associated with prolonged survival in patients with MM10,11. However, outcomes remain poor for patients with relapsed and refractory disease, with those refractory to both proteasome inhibitors and immunomodulatory drugs having an estimated survival of only 13 months2.\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p8",
+        "source_issue_ids": [],
+        "text": "Trudel et al. Blood Cancer Journal (2019) 9:37 Page 8 of 10\n\nA\n\nProportion alive and progression free\n\n1.0\n\n0.8\n\n0.6\n\n0.4\n\n0.2\n\n0.0\n\n0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24\n\nTime from first dose (months)\n\n35(0) 28(5) 24(8) 22(10) 21(11) 21(11) 21(11) 19(13) 17(15) 16(16) 16(16) 12(16) 10(17) 7(17) 4(17) 4(17) 3(18) 3(18) 3(18) 3(18) 1(18) 1(18) 1(18) 1(18) 0(18) Number at risk (number censored):\n\nB\n\n1.0\n\n0.8\n\nProportion alive and progression free Proportion alive and progression free\n\n0.6\n\n0.4\n\n0.2\n\n0.0\n\n0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23\n\nTime from first dose (months)\n\n21(0) 21(0) 20(1) 20(1) 20(1) 20(1) 19(2) 16(4) 16(4) 15(5) 11(5) 8(6) 6(6) 4(6) 3(6) 2(7) 2(7) 2(7) 1(7) 1(7) 1(7) 1(7) 1(7) 0(7) Number at risk (number censored):\n\nC\n\n1.0\n\n0.8\n\n0.6\n\n0.4\n\n0.2\n\n0.0\n\nTime from first dose (months) 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20\n\nNumber at risk (number of events): 3.40 MM\n\n14(0) 11(2) 8(4) 7(5) 7(5) 7(5) 7(5) 5(7) 3(9) 3(9) 3(9) 3(9) 3(9) 2(9) 1(9) 1(9) 1(9) 1(9) 1(9) 1(9) 0(9)\n\nFig. 4 Kaplan–Meier curves for a progression-free survival and b duration of response in the overall population, and c progression-free survival in patients with prior daratumumab\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0196-6",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_sha256": "f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf",
+          "source_url": "https://doi.org/10.1038/s41408-019-0196-6"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf:p9",
+        "source_issue_ids": [],
+        "text": "Trudel et al. Blood Cancer Journal (2019) 9:37 Page 9 of 10\n\nSubgroup analyses in our study revealed an overall response rate of 56% in patients refractory to both proteasome inhibitors and immunomodulators, similar to the rate achieved in the overall population, sug-gesting GSK2857916 may be a promising treatment option in heavily pre-treated refractory patients. In 2015, daratumumab, an anti-CD38 monoclonal antibody, was approved for patients who have received at least three prior lines of therapy or who are double refractory to a proteasome inhibitor and an immunomodulator, and is currently a recommended therapy option in patients with relapsed/refractory disease12,13. Still, with a reported overall response rate of 36%14, most patients fail to respond to single-agent daratumumab, and the outcome of patients following failure of daratumumab therapy is poor, with a reported median overall survival of 5.3–8.6 months in two recent retro-spective studies15,16. Furthermore, patients refractory to anti-CD38 antibodies become increasingly less responsive with subsequent lines of therapy15,16. In this study, although the numbers are small, subgroup analysis found an overall response rate of 71% in those without prior daratumumab versus 42.9% with a progression-free survival of 6.8 months in patients refractory to daratumumab. While the response rate is lower in the latter population, it is still an encouraging response for a population of patients who typically respond poorly with any treatments following daratumumab failure. Indeed, a study of patients refractory to anti-CD38 antibody therapies (of which 93.5% were daratumumab-refractory) found the overall response rate of the ﬁrst treatment regimen after progression with anti-CD38 therapy was 31%, with a median progression-free survival of just 3.4 months17. In particular, use of elotuzumab-based therapies after failure of anti-CD38 therapy led to a low overall response rate of 21%, while the addition of an immunomodulatory drug to daratumumab treatment resulted in a higher overall response rate (37%) and slightly longer progression-free survival (4.5 months). Therefore, the results of our study suggest GSK2857916 may help to redeﬁne treatment expectations in heavily pre-treated patients refractory to daratumumab. Further studies are required to identify a possible reason for the difference in response rate between prior or no prior daratumumab subgroups, such as analysing the number of prior lines of therapy, cytogenetic risk, and expression of soluble or surface expression of BCMA between groups. Indeed, it is likely that the patients in the study who had received daratumumab had MM for longer and had more refractory disease with more clonal/subclonal evolution. Immunotherapy is a rapidly developing ﬁeld in MM. Currently the only antibody-based therapies to be approved are daratumumab and elotuzumab (anti-SLAMF7); in con-trast to the target antigens of these therapies, BCMA is speciﬁcally expressed on normal and malignant plasma cells,\n\nBlood Cancer Journal\n\nbut no other cells6,18. Two other antibody–drug conjugates that target BCMA are also in development, HDP-1 and MEDI2228, and have demonstrated anti-MM activity in preclinical studies19,20. Furthermore, anti-BCMA bi-speciﬁc T cell engagers and chimeric antigen receptor (CAR) T cells are being developed20,21, supporting the use of BCMA as a target in novel therapies. The clinical activity of GSK2857916 compares favourably with those described previously for CAR T cells targeting BCMA. Phase I studies of BCMA CAR T cells have demonstrated response rates of 64% to 96% at effective doses (>108 CAR-positive cells)22–25, and progression-free survival of 11.8 months has reported for bb212122,26. However, GSK2857916 does not have the risks of cytokine release syndrome or neurotoxicity present with BCMA CAR T cells22,23,25, and it offers the added advantage of scalability and feasibility, including outpatient administration, over CAR T cells. Our results also demonstrate an acceptable safety proﬁle with GSK2857916. The most commonly reported AEs were cough, increased aspartate aminotransferase, and nausea, all of which were mostly mild or moderate (grade 1 or 2), in addition to corneal events and thrombocytopenia, which are consistent with the known toxic effects of other MMAF-linked antibody–drug conjugates8 and were found to be manageable. Studies are ongoing to further characterise and understand the corneal events with GSK2857916 and future studies will also investigate the beneﬁts of convenient cooling eye masks and increasing the duration of steroid eye drop use from 4 to 7 days to mitigate corneal events. Importantly, no new safety signals were identiﬁed since the interim analyses7. In conclusion, GSK2857916 demonstrated a rapid, deep, and durable clinical response with a signiﬁcant progression-free survival in a heavily pre-treated population. New subgroup analyses indicate a beneﬁt for patients refractory to proteasome inhibitors and immunomodulatory drugs, and for those with prior daratumumab treatment. The favourable safety proﬁle and clinical activity of GSK2857916 monotherapy support progress into larger later-phase trials. Future studies may also investigate the use of GSK2857916 as a key component for combination with other therapies and in other MM populations. Overall, our results suggest that GSK2857916 is a promising therapy for patients with relapsed and refractory MM, including those in whom all other standard and available therapies have failed.\n\nAcknowledgements This study BMA117159 was funded by GlaxoSmithKline (GSK). This research was additionally funded in part through a National Cancer Institute, National Institutes of Health Cancer Center Support grant (P30CA008748) to N.L. R.P. is supported by the NIHR University College London Hospitals Biomedical Research Centre, and this trial was supported in part by the NIHR UCLH Clinical Research Facility and the Cancer Research UK Experimental Cancer Medicine Centre. This material was presented in part at the 2016 and 2017 annual meetings of the American Society of Hematology, and at the 1st European",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:f1c951d6e48442589adddbc90276902004b4e29f8188960308bb97e7c87799bf"
+}

@@ -1,0 +1,326 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:29:32.724662+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Lenalidomide plus Dexamethasone for High-Risk Smoldering Multiple Myeloma",
+        "year": null
+      },
+      "doi": "10.1056/nejmoa1300439",
+      "format": "pdf",
+      "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+      "url": "https://doi.org/10.1056/nejmoa1300439"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p1",
+        "source_issue_ids": [],
+        "text": "From Hospital Universitario de Salamanca, Instituto de Investigación Biomédica de Salamanca, Instituto de Biología Molecu-lar y Celular del Cáncer, Universidad de Salamanca–Consejo Superior de Investiga­ciones Científicas, Salamanca (M.-V.M., L.L.C., B.P., J.-F.S.M.); Hospital Universitario de Canarias, Santa Cruz de Tenerife (M.-T.H.); Hospital Universitario Miguel Servet (P.G.) and Hospital Clínico Universitario Lozano Blesa (L.P.), Zaragoza; Hospital Universitario La Fe, Universidad Católica de Valencia San Vicente Mártir, Valencia (J.R.); Hospital General Universitario Morales Meseguer, Murcia (F.A.); Hospital Clínic de Barcelona and Institut d’Investigacions Biomédiques Au­gust Pi i Sunyer, Barcelona (L.R., J. Bladé); Hospital Sont Llatzer, Palma de Mallorca (J. Bargay); Hospital Germans Trias i Pujol, Badalona (A.O.); Clínica Universidad de Navarra (F.P.) and Hospital de Navarra (E.O.), Pamplona; and Hospital Ramón y Cajal (J.L.), Celgene (N.Q., J.-L.G.), and Hospital 12 de Octu-bre (J.-J.L.), Madrid — all in Spain. Address reprint requests to Dr. San Miguel at the Hematology Department, Univer-sity Hospital of Salamanca, Paseo San Vicente 58-182, Salamanca 37007, Spain, or at sanmiguel@usal.es.\n\nN Engl J Med 2013;369:438-47. DOI: 10.1056/NEJMoa1300439 Copyright © 2013 Massachusetts Medical Society.\n\nThe new engl and jour nal of medicine\n\noriginal article\n\nLenalidomide plus Dexamethasone for High-Risk Smoldering Multiple Myeloma\n\nMaría-Victoria Mateos, M.D., Ph.D., Miguel-Teodoro Hernández, M.D., Pilar Giraldo, M.D., Javier de la Rubia, M.D., Felipe de Arriba, M.D., Ph.D., Lucía López Corral, M.D., Ph.D., Laura Rosiñol, M.D., Ph.D., Bruno Paiva, Ph.D., Luis Palomera, M.D., Ph.D., Joan Bargay, M.D., Albert Oriol, M.D., Felipe Prosper, M.D., Ph.D., Javier López, M.D., Ph.D., Eduardo Olavarría, M.D., Ph.D., Nuria Quintana, M.D., José-Luis García, M.D., Joan Bladé, M.D., Ph.D., Juan-José Lahuerta, M.D., Ph.D., and Jesús-F. San Miguel, M.D., Ph.D.\n\nABSTR ACT\n\nBACKGROUND For patients with smoldering multiple myeloma, the standard of care is observation until symptoms develop. However, this approach does not identify high-risk patients who may benefit from early intervention.\n\nMETHODS In this randomized, open-label, phase 3 trial, we randomly assigned 119 patients with high-risk smoldering myeloma to treatment or observation. Patients in the treatment group received an induction regimen (lenalidomide at a dose of 25 mg per day on days 1 to 21, plus dexamethasone at a dose of 20 mg per day on days 1 to 4 and days 12 to 15, at 4-week intervals for nine cycles), followed by a maintenance regimen (lenalidomide at a dose of 10 mg per day on days 1 to 21 of each 28-day cycle for 2 years). The primary end point was time to progression to symptomatic disease. Secondary end points were response rate, overall survival, and safety.\n\nRESULTS After a median follow-up of 40 months, the median time to progression was significantly longer in the treatment group than in the observation group (median not reached vs. 21 months; hazard ratio for progression, 0.18; 95% confidence interval [CI], 0.09 to 0.32; P<0.001). The 3-year survival rate was also higher in the treatment group (94% vs. 80%; hazard ratio for death, 0.31; 95% CI, 0.10 to 0.91; P = 0.03). A partial response or better was achieved in 79% of patients in the treatment group after the induction phase and in 90% during the maintenance phase. Toxic effects were mainly grade 2 or lower.\n\nCONCLUSIONS Early treatment for patients with high-risk smoldering myeloma delays progression to active disease and increases overall survival. (Funded by Celgene; ClinicalTrials.gov number, NCT00480363.)\n\nn engl j med 369;5 nejm.org august 1, 2013 438\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p10",
+        "source_issue_ids": [],
+        "text": "Lenalidomide and Dexamethasone for Smoldering Myeloma\n\nInduction of a chronic disease state in ­patients with smoldering or indolent multiple myeloma by targeting interleukin 1{beta}-induced interleukin 6 production and the myeloma proliferative component. Mayo Clin Proc 2009;84:114-22. 10. Rajkumar SV, Gertz MA, Lacy MQ, et al. Thalidomide as initial therapy for early-stage myeloma. Leukemia 2003;17:775-9. 11. Weber D, Rankin K, Gavino M, De­lasalle K, Alexanian R. Thalidomide alone or with dexamethasone for previously untreated multiple myeloma. J Clin Oncol 2003;21:16-9. 12. Barlogie B, van Rhee F, Shaughnessy JD Jr, et al. Seven-year median time to progression with thalidomide for smoldering myeloma: partial response identi-fies subset requiring earlier salvage therapy for symptomatic disease. Blood 2008; 112:3122-5. 13. Witzig TE, Laumann KM, Lacy MQ, et al. A phase III randomized trial of thalidomide plus zoledronic acid versus zoledronic acid alone in patients with asymptomatic multiple myeloma. Leukemia 2013; 27:220-5. 14. Pérez-Persona E, Vidriales MB, Mateo G, et al. New criteria to identify risk of progression in monoclonal gammopathy of uncertain significance and smoldering multiple myeloma based on multiparameter flow cytometry analysis of bone marrow plasma cells. Blood 2007;110:2586-92. 15. Dispenzieri A, Kyle RA, Katzmann JA, et al. Immunoglobulin free light chain ratio is an independent risk factor for pro-\n\ngression of smoldering (asymptomatic) multiple myeloma. Blood 2008;111:785-9. 16. Larsen JT, Kumar SK, Dispenzieri A, et al. Serum free light chain ratio as a bio-marker for high-risk smoldering multiple myeloma. Leukemia 2012 October 16 (Epub ahead of print). 17. Rosiñol L, Bladé J, Esteve J, et al. Smoldering multiple myeloma: natural history and recognition of an evolving type. Br J Haematol 2003;123:631-6. 18. Dimopoulos MA, Moulopoulos LA, Datseris I, et al. Imaging of myeloma bone disease — implications for staging, prognosis and follow-up. Acta Oncol 2000;39:823-7. 19. Mariette X, Zagdanski AM, Guermazi A, et al. Prognostic value of vertebral lesions detected by magnetic resonance imaging in patients with stage I multiple myeloma. Br J Haematol 1999;104:723-9. 20. Moulopoulos LA, Gika D, Anagnosto-poulos A, et al. Prognostic significance of magnetic resonance imaging of bone marrow in previously untreated patients with multiple myeloma. Ann Oncol 2005; 16:1824-8. 21. Hillengass J, Fechtner K, Weber MA, et al. Prognostic significance of focal lesions in whole-body magnetic resonance imaging in patients with asymptomatic multiple myeloma. J Clin Oncol 2010;28:1606-10. 22. Bianchi G, Kyle RA, Larson DR, et al. High levels of peripheral blood circulat-ing plasma cells as a specific risk factor for progression of smoldering multiple myeloma. Leukemia 2013;27:680-5.\n\n23. Rajkumar SV, Harousseau JL, Durie B, et al. Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel 1. Blood 2011; 117:4691-5. 24. National Cancer Institute. Common Terminology Criteria for Adverse Events (CTCAE), v3.0 (http://ctep.cancer.gov/ protocolDevelopment/electronic _applications/docs/ctcaev3notice.pdf). 25. Rajkumar SV, Jacobus S, Callander NS, et al. Lenalidomide plus high-dose dexamethasone versus lenalidomide plus low-dose dexamethasone as initial therapy for newly diagnosed multiple myeloma: an open-label randomised con-trolled trial. Lancet Oncol 2010;11:29-37. [Erratum, Lancet Oncol 2010;11:14.] 26. Weber DM, Chen C, Niesvizky R, et al. Lenalidomide plus dexamethasone for relapsed multiple myeloma in North Amer-ica. N Engl J Med 2007;357:2133-42. 27. Dimopoulos M, Spencer A, Attal M, et al. Lenalidomide plus dexamethasone for relapsed or refractory multiple myeloma. N Engl J Med 2007;357:2123-32. [Erratum, N Engl J Med 2009;361:544.] 28. Palumbo A, Hajek R, Delforge M, et al. Continuous lenalidomide treatment for newly diagnosed multiple myeloma. N Engl J Med 2012;366:1759-69. [Erratum, N Engl J Med 2012;367:285.] 29. Rajkumar SV, Larson D, Kyle RA. Diagnosis of smoldering multiple myeloma. N Engl J Med 2011;365:474-5.\n\nCopyright © 2013 Massachusetts Medical Society.\n\njournal archive at nejm.org Every article published by the Journal is now available at NEJM.org, beginning with the first article published in January 1812. The entire archive is fully searchable, and browsing of titles and tables of contents is easy and available to all. Individual subscribers are entitled to free 24-hour access to 50 archive articles per year. Access to content in the archive is available on a per-article basis and is also being provided through many institutional subscriptions.\n\nn engl j med 369;5 nejm.org august 1, 2013 447\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p2",
+        "source_issue_ids": [],
+        "text": "Lenalidomide and Dexamethasone for Smoldering Myeloma\n\nS\n\nmoldering multiple myeloma is a plasma-cell proliferative disorder character-ized by a monoclonal component of at least 3 g per deciliter, a level of plasma-cell infiltration into bone marrow of at least 10%, or both features.1 Currently, patients with smoldering myeloma are not treated until symptomatic disease develops.2 In the past, few drugs were effective against myeloma, and the available treatments, mainly al-kylating agents, led to concerns about long-term toxicity. Attempts at early intervention with al-kylating agents,3-5 bisphosphonates,6-8 antago-nists of the receptor of interleukin-1β,9 or thalidomide10-13 failed to show a significant benefit. Although the risk of progression to active disease among patients with smoldering multiple myeloma is low (10% annually),2 a subgroup of high-risk patients for whom the probability of progression to active disease in the first 2 years after diagnosis exceeds 50% has been identified.2,14-22 This high-risk subgroup, which represents approximately 40% of all patients with smoldering myeloma,2,14 is a target population for the investigation of early therapeutic interventions. Given that these patients are asymptomatic and would otherwise not receive treatment, the ideal early therapy should have limited toxicity. We conducted a phase 3, randomized trial comparing early treatment (induction therapy with lenalidomide [Revlimid, Celgene] and dexamethasone, followed by maintenance therapy with lenalidomide) with observation in patients with high-risk smoldering myeloma.\n\nMETHODS\n\nPATIENTS We included patients who had received a diagnosis of smoldering multiple myeloma within the previous 5 years and who were at high risk for progression to symptomatic disease. High-risk disease was defined as plasma-cell bone marrow infiltration of at least 10% and a monoclonal component (defined as an IgG level of ≥3 g per deciliter, an IgA level of ≥2 g per deciliter, or a urinary Bence Jones protein level of >1 g per 24 hours) or only one of the two criteria described above, plus at least 95% phenotypically aberrant plasma cells in the bone marrow plasma-cell compartment, with reductions in one or two uninvolved immunoglobulins of more than 25%, as compared with\n\nnormal values. Patients with hypercalcemia, bone lesions, renal failure (creatinine level, ≥2 mg per deciliter [180 μmol per liter]), or anemia (hemo-globin, <10 g per deciliter or 2 g per deciliter below the lower limit of the normal range) were excluded. All patients provided written informed consent. The review board at each participating in-stitution approved the study, which was conducted according to the Declaration of Helsinki and the International Conference on Harmoni-sation Guidelines for Good Clinical Practice. Data were monitored by an external contract research organization, and an independent data monitoring committee (see the Supplementary Appendix, available with the full text of this article at NEJM.org) confirmed that all patients included in the study were at high risk for progression to symptomatic disease.\n\nSTUDY DESIGN AND TREATMENT This was an open-label, randomized, phase 3 study conducted at 19 centers in Spain and at 3 centers in Portugal. Patients were recruited from November 2007 through June 2010 and were randomly assigned, in a 1:1 ratio, to early treatment or observation. Patients in the treatment group received induction therapy comprising nine 4-week cycles of lenalidomide (at a daily dose of 25 mg on days 1 to 21, followed by a 1-week rest period) and dexamethasone (at a daily dose of 20 mg on days 1 to 4 and days 12 to 15). Induction therapy was followed by maintenance therapy with lenalidomide (at a daily dose of 10 mg on days 1 to 21 of each 28-day cycle). Maintenance therapy was initially given until disease progression, but a protocol amendment limited the total duration of treatment (induction plus maintenance) to 2 years, and dexamethasone was added (at a daily dose of 20 mg on days 1 to 4 of each cycle) for patients in whom asymptomatic biologic progression occurred during the maintenance phase (defined as an increase of >25% in the monoclonal component as compared with the lowest value recorded during treatment, with no symptoms). Patients in the observation group received no treatment until progression to symptomatic disease. Patients were stratified according to the time from the diagnosis of smoldering multiple myeloma to study enrollment (≤6 months vs. >6 months). Treatment was discontinued on withdrawal of pa-\n\nn engl j med 369;5 nejm.org august 1, 2013 439\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p3",
+        "source_issue_ids": [],
+        "text": "The new engl and jour nal of medicine\n\ntient consent, progression to symptomatic disease, or the occurrence of unacceptable toxic effects. The study was designed by the Spanish Myeloma Group (PETHEMA/GEM), which sponsored the trial with an unrestricted grant from Celgene. The sponsor collected the data and performed the final analysis in collaboration with the first and last authors, who vouch for the ac-curacy and completeness of the data reported and the adherence of the study to the protocol. The first and last authors wrote the first draft of the manuscript, and they, in agreement with all the investigators participating in the trial, made the decision to submit the manuscript for publica-tion. A medical writer provided editorial support, which was funded by Celgene. All authors had full access to the data and reviewed and approved the manuscript before submission. The protocol, including the statistical analysis plan, is available at NEJM.org.\n\nEND POINTS AND ASSESSMENTS The primary end point was time to progression to symptomatic disease. Secondary end points were response rate, overall survival, and safety. Time to progression to symptomatic myeloma was mea-sured from the date of randomization to the date of the first assessment showing symptomatic disease, which was defined as the development of any of the following: hypercalcemia (serum calcium level, >11.5 mg per deciliter [2.9 mmol per liter]), bone lesions, renal failure (creatinine level, ≥2 mg per deciliter [180 μmol per liter]), or anemia (he-moglobin level, ≤10 g per deciliter or 2 g per deciliter below the lower limit of the normal range). Treatment response was assessed according to the International Uniform Response Criteria for Multiple Myeloma (see the Supplementary Appendix).23 Adverse events were graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0.24 If grade 3 or 4 events occurred, treatment was with-held and restarted at the next lower dose after improvement to grade 2 or lower. In the treatment group, blood counts, bio-chemical analysis (including creatinine and calcium levels), and physical examinations were performed on days 1 and 15 of cycles 1 and 2, and on day 1 of each cycle (monthly) thereafter. In the observation group, these tests were performed\n\nevery 4 weeks. Serum and urinary levels of the monoclonal component were assessed monthly in both groups until study discontinuation. A skel-etal survey was performed during the screening phase and was repeated thereafter only if clinical symptoms emerged. Safety was evaluated monthly until 30 days after the administration of the last dose of the study drug in the treatment group and until discontinuation of the study in the observation group.\n\nSTATISTICAL ANALYSIS We calculated that a sample of 120 patients (60 patients per group) would provide 80% pow-er to detect a hazard ratio of 0.54 for time to progression to symptomatic myeloma in the treatment group as compared with the observation group. A one-sided test was used to estimate the sample size on the basis of the primary end point because only the effect in the expected direction (the superiority of treatment) was to be tested. All efficacy analyses were based on the per-protocol population, which was restricted to the patients who fulfilled the eligibility criteria, but safety evaluations were based on the intention-to-treat population. Time to progression to symptomatic myeloma and overall survival were estimated with the use of Kaplan–Meier methods, and significance was determined with the use of a two-sided log-rank test.\n\nRESULTS\n\nPATIENTS AND TREATMENT Between November 8, 2007, and June 9, 2010, a total of 125 patients underwent randomization (6 patients were excluded because they did not meet the criteria of smoldering multiple myeloma at high risk for progression); 57 patients were assigned to treatment with lenalidomide and dexamethasone, and 62 were assigned to observation (Fig. 1). Baseline demographic and disease characteristics were well balanced between the two groups (Table 1).\n\nEFFICACY The cutoff date for the final analysis was October 15, 2012. The median follow-up was 40 months (range, 27 to 57). The median time to progression to symptomatic disease was not reached in the\n\nn engl j med 369;5 nejm.org august 1, 2013 440\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p4",
+        "source_issue_ids": [],
+        "text": "Lenalidomide and Dexamethasone for Smoldering Myeloma\n\n125 Patients underwent randomization (intention-to-treat population)\n\n6 Were excluded from the efficacy analysis because they did not meet the criteria of smoldering multiple myeloma at high risk for progression\n\n119 Were included in per-protocol population\n\n57 Were assigned to treatment group and entered induction phase 62 Were assigned to observation group and were not treated\n\n7 Discontinued treatment during induction phase 4 Withdrew consent 1 Had progression and died 1 Had second primary tumor 2 Had treatment-related adverse event 1 Had progression later 1 Died without progression 1 Withdrew owing to investigator’s decision\n\n50 Were included in maintenance phase\n\n15 Discontinued maintenance therapy 4 Had progression 5 Were withdrawn by investigator 3 Had progression later 1 Had progression later and died 2 Withdrew consent 1 Had second primary tumor and had progression later 1 Died without progression 2 Had treatment-related adverse event 1 Had progression later\n\n47 Discontinued study 44 Had progression 1 Had second primary tumor and had progression later 2 Withdrew consent and had progression later\n\n35 Completed maintenance phase\n\n15 Were included in ongoing follow-up\n\n10 Are continuing treatment 25 Completed treatment 1 Had progression later 1 Had second primary tumor\n\nFigure 1. Randomization and Follow-up of the Patients Included in the Trial.\n\nA total of 125 patients underwent randomization (6 patients were excluded because they did not meet the criteria of smoldering multiple myeloma at high risk for progression); 57 patients were assigned to treatment with lenalidomide and dexamethasone, and 62 were assigned to observation.\n\nn engl j med 369;5 nejm.org august 1, 2013 441\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p5",
+        "source_issue_ids": [],
+        "text": "The new engl and jour nal of medicine\n\nTable 1. Baseline Demographic and Clinical Characteristics of the Per-Protocol Population.*\n\nCharacteristic Treatment (N = 57) Observation (N = 62)\n\nAge — yr\n\nMedian 63 69\n\nRange 42–91 38–83\n\nSex — no. (%)\n\nMale 25 (44) 28 (45)\n\nFemale 32 (56) 34 (55)\n\nTime since diagnosis — no. (%)\n\n≤6 mo 25 (44) 26 (42)\n\n>6 mo 32 (56) 36 (58)\n\nCriteria for high-risk smoldering myeloma — no. (%)\n\nMonoclonal component and plasma-cell bone marrow infiltration† 10 (18) 8 (13)\n\n≥95% aberrant plasma cells plus\n\n­immunoparesis‡ 23 (40) 24 (39)\n\nBoth criteria 24 (42) 30 (48)\n\nMonoclonal component\n\nIn serum — g/dl\n\nMedian 27.0 27.4\n\nRange 0–56.6 0–64.5\n\nIn urine — g/24 hr\n\nMedian 0 0.002\n\nRange 0–16.2 0–18.2\n\nLevel of plasma-cell bone marrow\n\n­infiltration — %\n\nMedian 18 16\n\nRange 2–48 4–64\n\n* No significant differences were observed between the two study groups. † The monoclonal-component level indicating high-risk disease was defined as an IgG level of at least 3 g per deciliter, an IgA level of at least 2 g per deciliter, or Bence Jones proteinuria of more than 1 g per 24 hours. A level of plasma-cell infiltration into bone marrow of at least 10% also indicated high-risk disease. ‡ Aberrant plasma cells were detected by means of flow cytometry. Immuno­\n\nparesis was defined as reductions in one or two uninvolved immunoglobulins of more than 25%, as compared with normal values.\n\ntreatment group and was 21 months in the observation group (P<0.001). The hazard ratio for progression to symptomatic myeloma with treatment was 0.18 (95% confidence interval [CI], 0.09 to 0.32; P<0.001) (Fig. 2A). Symptomatic disease developed in 47 patients in the observation group (76%), as compared with 13 patients in the treatment group (23%).\n\nDuring maintenance therapy, 24 patients had biologic progression, and low-dose dexamethasone was added (according to the protocol amendment) to the therapy in 18 patients. With a median follow-up of 26 months (range, 4 to 40), 3 patients had a partial response, 11 had stable disease without symptoms, and symptomatic myeloma developed in 4. One patient had progression after 12 months of stable disease. Of the 6 patients who did not receive dexamethasone at the time of biologic progression, symptomatic myeloma developed in 4. In the intention-to-treat analysis of the treatment group, during the induction period, 45 patients (79%) had at least a partial response, including 4 (7%) with a stringent complete response, 4 other patients (7%) with a complete response, and 6 (11%) with a very good partial response (Table 2). A total of 50 patients (88%) completed the 9 planned cycles of induction therapy and received maintenance therapy with lenalidomide. After a median of 15 cycles of maintenance therapy (range, 2 to 41), improvement in the quality of the response was seen in 12 of these patients (24%): 2 patients with a complete response had an improvement to a stringent complete response (defined as a normal free light-chain ratio and an absence of clonal cells in bone marrow), 1 patient with a very good partial response had an improvement to a complete response, 7 patients with a partial response had an improvement to either a very good partial response (in 3 patients) or a complete response (in 4), and 2 patients with stable disease had an improvement to a partial response and a very good partial response. The overall response rate was 90%. A total of 35 patients (70%) completed maintenance therapy.\n\nSURVIVAL As of October 15, 2012, a total of 4 of the 57 patients in the treatment group (7%) and 13 of the 62 patients in the observation group (21%) had died; the median overall survival was not reached in either group. The proportion of patients who were alive 3 years after study entry was 94% in the treatment group as compared with 80% in the observation group (hazard ratio for death, 0.31; 95% CI, 0.10 to 0.91; P = 0.03) (Fig. 2B). Assessment of overall survival from the time of the diagnosis of smoldering myeloma, with a median follow-up of 46 months, also indicated significant improvement with early intervention (survival rate\n\nn engl j med 369;5 nejm.org august 1, 2013 442\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p6",
+        "source_issue_ids": [],
+        "text": "Lenalidomide and Dexamethasone for Smoldering Myeloma\n\nFigure 2. Survival Outcomes in the Per-Protocol ­Population. Panel A shows the Kaplan–Meier estimates of time to progression to symptomatic disease. Panel B shows overall survival from the date of inclusion in the study. Panel C shows overall survival from the date of diagnosis of smoldering multiple myeloma.\n\nat 5 years, 94% in the treatment group vs. 78% in the observation group; hazard ratio for death, 0.28; 95% CI, 0.09 to 0.91; P = 0.02) (Fig. 2C). The time between diagnosis and study entry (≤6 months vs. >6 months) did not influence the time to progression to symptomatic disease (Fig. S1 in the Supplementary Appendix).\n\nSAFETY All patients who underwent randomization were evaluated for adverse events (Table 3). One patient in the treatment group had a grade 5 adverse event (respiratory infection). Grade 3 events during induction therapy were uncommon; the most frequently reported grade 3 events were infection (in 6% of patients), asthenia (in 6%), neutropenia (in 5%), and rash (in 3%). Grade 2 neutropenia occurred in eight patients (13%). Rashes occurred in 32% of patients, but most cases (19%) were grade 1. Three patients (5%) had grade 1 or 2 deep-vein thrombosis: one patient was receiving aspirin (at a dose of 100 mg per day), the second patient was receiving oral anticoagulation therapy but had a low international normalized ratio, and the third was not receiving any prophylaxis. Grade 1 or 2 infection occurred in 40% of the patients in the treatment group, but most cases (31%) were grade 1, and the incidence did not dif-fer significantly from that in the observation group (22%). Grade 1 or 2 asthenia was reported in 18% and 10% of the patients in the treatment and observation groups, respectively. Although diarrhea or constipation of grade 1 (in 21% of the patients) or 2 (in 16%) was more common in the treatment group than in the observation group, 5% of the patients in the observation group also had these gastrointestinal adverse events. During induction therapy, 10 patients required reductions in the daily dose of lenalidomide from 25 mg to 15 mg, owing to grade 3 events. A total of 6 patients required reductions in the dose of dexamethasone to 20 mg administered on days 1 through 4.\n\nA\n\nFreedom from Progression to Symptomatic Disease (%)\n\n100\n\n90\n\n80\n\n70\n\n60\n\n50\n\n40\n\n30\n\nTreatment group\n\nObservation group\n\n20\n\nHazard ratio for progression, 0.18 P<0.001\n\n10\n\n0 0 10 20 30 40 50 60\n\nMonths\n\nNo. at Risk Treatment group Observation group 57 62 57 49 48 32 38 21 20 11 14 3 0 0\n\nB\n\nOverall Survival since Study Inclusion (%)\n\n100\n\n90\n\n80\n\n70\n\n60\n\n50\n\n40\n\n30\n\nTreatment group\n\nObservation group\n\n20\n\nHazard ratio for death, 0.31 P=0.03\n\n10\n\n0 0 10 20 30 40 50 60\n\nMonths\n\nNo. at Risk Treatment group Observation group 57 62 57 60 55 57 48 46 26 27 17 17 0 0\n\nC\n\nOverall Survival since Diagnosis of Smoldering Multiple Myeloma (%)\n\n100\n\n90\n\n80\n\n70\n\n60\n\n50\n\n40\n\n30\n\nTreatment group\n\nObservation group\n\n20\n\nHazard ratio for death, 0.28 P=0.02\n\n10\n\n0 0 20 40 60 80 100\n\nMonths\n\nNo. at Risk Treatment group Observation group 57 62 55 58 35 39 21 19 13 7 2 1\n\nn engl j med 369;5 nejm.org august 1, 2013 443\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p7",
+        "source_issue_ids": [],
+        "text": "The new engl and jour nal of medicine\n\nTable 2. Best Responses during the Induction and Maintenance Phases in the Treatment Group, According to the Per-Protocol Analysis.*\n\nBest Response† Induction Phase (N = 57) Maintenance Phase (N = 50)‡\n\nno. of patients (%)\n\nComplete or partial response 45 (79) 45 (90)\n\nStringent complete response 4 (7) 6 (12)\n\nComplete response 8 (14) 13 (26)\n\nVery good partial response 6 (11) 9 (18)\n\nPartial response 37 (65) 32 (64)\n\nStable disease 12 (21) 5 (10)\n\n* In the observation group, the 47 patients who had progression to symptomatic disease had a median increase in the monoclonal-component level of 6.45 g per liter (range, 0.0 to 54.5). In 4 of these patients (9%), the monoclonal-component level had doubled by the time they had progression to symptomatic disease. † Response was assessed according to the International Uniform Response Criteria for Multiple Myeloma (see the Supplementary Appendix).23 Patients who had a stringent complete response were considered to also have had a complete response, and those with a very good partial response were considered to also have had a partial response. ‡ Seven patients did not receive maintenance therapy owing to withdrawal of\n\n­informed consent (four patients), grade 4 pneumonia (one), dexamethasone-related delirium (one), and the investigator’s decision (one).\n\nThe rate of serious adverse events during induction therapy was higher in the treatment group than in the observation group (12% vs. 3%). Four patients in the treatment group and one in the observation group had infection resulting in serious adverse events. In the treatment group, one patient died from a grade 5 respiratory infection, four patients discontinued the study medications owing to treatment-related adverse events (related to dexamethasone in three of the patients), and six patients withdrew informed consent. In the observation group, two patients withdrew informed consent. The incidence of adverse events was lower during maintenance therapy than during induction therapy (Table 3). The rate of grade 1 and 2 infections was 18% in the treatment group; most cases (12%) were grade 1. The incidence of grade 1 and 2 infections in the observation group was 8%. No dose reductions were needed during maintenance therapy. Second primary tumors were reported in 4 of the 62 patients in the treatment group (6%) and in 1 of the 63 patients in the observation group (2%). The cumulative risk of a second primary tumor at 5 years was 20% and 25% in the treatment and observation groups, respectively (P = 0.42) (Fig. S2\n\nin the Supplementary Appendix). Hematologic can-cers included polycythemia vera (in 1 patient in the treatment group) and a myelodysplastic syn-drome (in 1 patient in the observation group). In the patient with polycythemia vera, a JAK2 mutation was present in samples obtained at study entry. Breast cancer developed in 1 patient in the treatment group, and prostate cancer in 2 patients in the treatment group, both of whom had a history of prostate hyperplasia with an elevated level of prostate-specific anti-gen and were under the care of a urologist. A total of 4 deaths occurred in the treatment group: 1 due to a treatment-related toxic effect (grade 5 respiratory infection, as discussed earlier), 1 due to surgical complications of knee replace-ment that was unrelated to myeloma or its treatment, and 2 as a result of progression to symptomatic disease (in one patient) or toxic effects after progression (in one). All 13 deaths in the observation group occurred after progression to symptomatic myeloma; the cause of death was disease progression (in nine patients), treatment-related adverse events (in three), and sudden death (in one) (Table S1 in the Supplementary Appendix).\n\nDISCUSSION\n\nThis phase 3 study evaluated treatment in patients with high-risk smoldering multiple myeloma. Lenalidomide-based treatment was associated with a significant delay in progression to symptomatic myeloma; 3 years after study entry, 77% of the patients in the treatment group vs. 30% of those in the observation group had progression-free survival (hazard ratio for progression, 0.18; P<0.001). This delay translated into a significant overall survival benefit; the proportion of patients who were alive at 3 years was 94% in the treatment group versus 80% in the observation group (hazard ratio for death, 0.31; 95% CI, 0.10 to 0.91; P = 0.03). Several trials have failed to show a benefit with early intervention, and observation is the established standard of care for patients with smoldering myeloma. Three small studies in which treatment with melphalan and prednisone was compared with observation showed no significant improvement in time to progression or overall survival with the combination treatment.3-5 The findings in trials evaluating bisphosphonates indicated that although these agents may reduce\n\nn engl j med 369;5 nejm.org august 1, 2013 444\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p8",
+        "source_issue_ids": [],
+        "text": "Lenalidomide and Dexamethasone for Smoldering Myeloma\n\nTable 3. Adverse Events of Clinical Interest in the Safety Population, According to Grade.*\n\nEvent Treatment (N = 62) Observation (N = 63)\n\nGrade 1 Grade 2 Grade 3 Grade 1 Grade 2\n\nnumber of patients (percent)\n\nInduction phase\n\nHematologic event\n\nNeutropenia 3 (5) 8 (13) 3 (5) 0 0\n\nThrombocytopenia 6 (10) 1 (2) 1 (2) 0 0\n\nAnemia 11 (18) 4 (6) 1 (2) 3 (5) 0\n\nNonhematologic event\n\nInfection† 19 (31) 6 (10) 4 (6) 7 (11) 7 (11)\n\nRash 12 (19) 6 (10) 2 (3) 0 0\n\nAsthenia 6 (10) 5 (8) 4 (6) 5 (8) 1 (2)\n\nConstipation 4 (6) 6 (10) 0 0 1 (2)\n\nDiarrhea 9 (15) 4 (6) 1 (2) 1 (2) 1 (2)\n\nDeep-vein thrombosis 1 (2) 2 (3) 0 0 0\n\nMaintenance phase‡\n\nHematologic event\n\nNeutropenia 1 (2) 3 (6) 0 0 0\n\nThrombocytopenia 0 3 (6) 0 0 0\n\nAnemia 4 (8) 1 (2) 0 0 0\n\nNonhematologic event\n\nAsthenia 0 2 (4) 0 0 0\n\nInfection 6 (12) 3 (6) 0 2 (3) 3 (5)\n\n* Adverse events were graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0.24 The safety population included all patients who underwent randomization. † Grade 5 infection developed in one patient in the treatment group. ‡ The safety population during the maintenance phase included the 50 patients in the treatment group who completed nine induction cycles and went on to receive maintenance therapy and the 61 in the ­observation group who did not have progression of disease during the induction phase.\n\nthe rate of skeletal-related events, they do not have activity in smoldering myeloma.6-8 In non-randomized, phase 2 trials evaluating thalidomide-based treatment, response rates among patients with smoldering multiple myeloma were relatively low (approximately 30%), and the high rates of discontinuation due to adverse events (mainly neuropathy) were troubling.10-12 Recently, a randomized study comparing combination therapy consisting of thalidomide and zoledronic acid with zoledronic acid alone in patients with smoldering myeloma showed a response rate of 37% in the combination-therapy group as compared with 0% in the monotherapy group, with no significant delay in the time to progression to symptomatic myeloma (P = 0.24).13 It should be noted, however, that none of these trials se-\n\nlected patients with smoldering myeloma who were at high risk for progression. The response rates in our study (79% after induction therapy, increasing to 90% after maintenance therapy) are higher than those reported for thalidomide (approximately 30%) in an unselected population of patients with smoldering multiple myeloma, suggesting that high-risk patients should be targeted for early intervention. The toxicity of this oral regimen was moder-ate, and the frequency of adverse events was lower than that reported in previous trials of lenalidomide and dexamethasone in patients with symptomatic myeloma.25-28 Infections were the most common nonhematologic adverse events, but they were mainly grade 1 and 2 in severity, and the incidence was not significantly\n\nn engl j med 369;5 nejm.org august 1, 2013 445\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1056/nejmoa1300439",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_sha256": "7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d",
+          "source_url": "https://doi.org/10.1056/nejmoa1300439"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d:p9",
+        "source_issue_ids": [],
+        "text": "The new engl and jour nal of medicine\n\ndifferent from that in the observation group. Few adverse events were reported during maintenance therapy; 88% of the patients completed induction therapy and 70% completed maintenance therapy as planned (Fig. 1). The incidence of second primary tumors was low and, in three of the four cases, early signs of the tumor were already present at study entry. At the time of the writing of this article, one additional patient in the treatment group had received a diagnosis of concomitant incidental prostate cancer (confirmed by a preplanned biopsy 6 weeks after randomization). Future studies should address the effect of early treatment on the quality of life, which we did not assess in this trial. Our results suggest that induction therapy with lenalidomide and dexamethasone to reduce the tumor burden, followed by maintenance therapy with low-dose lenalidomide, is an effective treatment approach. Our study allowed for the addition of a low-dose glucocorticoid at the time of biologic progression, which appeared to provide disease control in some patients. One limi-tation of the study was that patients received treatment off-protocol at the time of disease progression to symptomatic myeloma. It would have been informative to examine early treatment with lenalidomide and dexamethasone versus treatment with lenalidomide and dexamethasone that was deferred until the time of progression. However, the combination of lena­lid­omide and dexamethasone is not an approved first-line regimen for newly diagnosed multiple myeloma, and most patients in this study (81%) were treated with either bortezomib-based regimens (53% of patients) or induction therapy followed by autologous stem-cell transplantation (28%) at the time of progression. In addition, although the cases of myeloma in our patient population should probably be clas-\n\nsified as early myeloma, this classification could be refined by identifying cases with more than an 80% probability of disease progression within 2 years.29 There is currently no consensus re-garding the definition of high-risk smoldering myeloma; therefore, in the current study, we used the criteria defined by Kyle et al.2 together with criteria defined by our group.14 Both sets of criteria were internally validated in each series and identified patients with smoldering myeloma who had progression to symptomatic disease within approximately 2 years after diagnosis. Recently, other factors predicting early progression to symptomatic disease have been pro-posed,16,22,29 and together, these findings will probably contribute to the redefinition of high-risk smoldering myeloma in the near future. Several trials have been initiated to test early intervention in high-risk patients with smoldering multiple myeloma. The agents being evaluated in these trials are lenalidomide, siltuximab (anti– interleukin-6 monoclonal antibody), ixazomib (a proteasome inhibitor), and elotuzumab (anti-CS1 monoclonal antibody). The results will help es-tablish effective approaches to early intervention for patients with high-risk smoldering myeloma. In conclusion, this randomized, phase 3 trial showed that early treatment with lenalidomide and dexamethasone, followed by maintenance therapy with lenalidomide, in patients with high-risk smoldering multiple myeloma significantly delayed the time to progression to symptomatic disease and resulted in an overall survival benefit. The orally administered treatment regimen was associated with an acceptable toxicity profile.\n\nDisclosure forms provided by the authors are available with the full text of this article at NEJM.org. We thank Anna Georgieva, M.D., Ph.D. (Excerpta Medica), for assistance with the preparation of an earlier version of this manuscript.\n\nReferences\n\n1. International Myeloma Working Group. Criteria for the classification of monoclonal gammopathies, multiple myeloma and related disorders: a report of the International Myeloma Working Group. Br J Haematol 2003;121:749-57. 2. Kyle RA, Remstein ED, Therneau TM, et al. Clinical course and prognosis of smoldering (asymptomatic) multiple myeloma. N Engl J Med 2007;356:2582-90. 3. Hjorth M, Hellquist L, Holmberg E, Magnusson B, Rödjer S, Westin J. Initial versus deferred melphalan-prednisone therapy for asymptomatic multiple my-\n\neloma stage I — a randomized study. Eur J Haematol 1993;50:95-102. 4. Grignani G, Gobbi PG, Formisano R, et al. A prognostic index for multiple myeloma. Br J Cancer 1996;73:1101-7. 5. Riccardi A, Mora O, Tinelli C, et al. Long-term survival of stage I multiple myeloma given chemotherapy just after diagnosis or at progression of the disease: a multicentre randomized study. Br J Cancer 2000;82:1254-60. 6. Martín A, García-Sanz R, Hernández J, et al. Pamidronate induces bone forma-tion in patients with smouldering or indo-\n\nlent myeloma, with no significant anti-tumour effect. Br J Haematol 2002;118: 239-42. 7. Musto P, Petrucci MT, Bringhen S, et al. A multicenter, randomized clinical trial comparing zoledronic acid versus observation in patients with asymptomatic myeloma. Cancer 2008;113:1588-95. 8. D’Arena G, Gobbi PG, Broglia C, et al. Pamidronate versus observation in asymptomatic myeloma: final results with long-term follow-up of a randomized study. Leuk Lymphoma 2011;52:771-5. 9. Lust JA, Lacy MQ, Zeldenrust SR, et al.\n\nn engl j med 369;5 nejm.org august 1, 2013 446\n\nThe New England Journal of Medicine Downloaded from nejm.org on January 15, 2024. For personal use only. No other uses without permission.\n\nCopyright © 2013 Massachusetts Medical Society. All rights reserved.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:7c80dffd24c3e5f6b29f3c05d09c33d8cbf5d49c28d5bb0b596bca5f28ce2c8d"
+}

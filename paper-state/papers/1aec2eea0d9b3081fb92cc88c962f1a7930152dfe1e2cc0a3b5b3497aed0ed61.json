@@ -1,0 +1,297 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:38:38.927935+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Understanding mortality in multiple myeloma: Findings of a European retrospective chart review",
+        "year": null
+      },
+      "doi": "10.1111/ejh.13264",
+      "format": "pdf",
+      "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+      "url": "https://doi.org/10.1111/ejh.13264"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1111/ejh.13264",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_url": "https://doi.org/10.1111/ejh.13264"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d:p1",
+        "source_issue_ids": [],
+        "text": "Received: 18 December 2018 | Revised: 28 January 2019 | Accepted: 29 January 2019\n\nDOI: 10.1111/ejh.13264\n\nO R I G I N A L A R T I C L E\n\nUnderstanding mortality in multiple myeloma: Findings of a European retrospective chart review\n\nMohamad Mohty1 | Michele Cavo2 | Leah Fink3 | Sebastian Gonzalez‐McQuire4 |\n\nHenri Leleu5 | Maria‐Victoria Mateos6 | Marc S. Raab7 | Paul Schoen4 | Kwee Yong8\n\n1Department of Haematology, Hôpital Saint‐ Antoine, Universite Pierre & Marie Curie, INSERM UMRs 938, Paris, France\n\n2Seràgnoli Institute of Haematology and Medical Oncology, Bologna University School of Medicine, Bologna, Italy\n\n3Kantar Health, Paris, France\n\n4Amgen (Europe) GmbH, Rotkreuz, Switzerland\n\n5Public Health Expertise, Paris, France\n\n6Haematology Department, University Hospital of Salamanca/Institute for Biomedical Research of Salamanca, Salamanca, Spain\n\n7Department of Internal Medicine V, Heidelberg University Hospital, Heidelberg, Germany\n\n8Department of Haematology, University College London, London, UK\n\nCorrespondence Mohamad Mohty, Hôpital Saint‐Antoine, Universite Pierre & Marie Curie, INSERM UMRs 938, Paris, France. Email: mohamad.mohty@inserm.fr\n\nFunding information The study was funded by Amgen (Europe) GmbH.\n\nAbstract\n\nObjectives: This study aimed to provide real‐world data on the characteristics and\n\ntreatment of patients with multiple myeloma (MM) at the time of death.\n\nMethods: The study was a retrospective patient chart review across France,\n\nGermany, Italy, Spain and the UK during 2016, and included patients who had died in\n\nthe 3 months before the index date.\n\nResults: Data from 786 patients were reviewed. At the time of death, 37% of patients\n\nwere receiving active treatment, 12% were in a treatment‐free interval and 51% were\n\nreceiving only supportive care. Death before and during active first‐line treatment\n\nwas not uncommon (6% and 24% of patients, respectively) but these deaths were\n\noften not solely due to disease progression; factors such as renal failure and infection\n\nfrequently played a role (in 30% and 20% of patients at first‐line, respectively). Most\n\ndeaths at later lines were due to progressive disease. Cox model results suggested\n\nthat early deaths were associated with advanced disease stage, high‐risk cytogenet‐\n\nics and poor response and relapse profiles.\n\nConclusions: These real‐world data could be used to help develop strategies for im‐\n\nproving survival in patients with MM and to support management tailored to the\n\nstage of disease.\n\nK E Y W O R D S\n\ndeath, Europe, mortality, multiple myeloma, risk, survival\n\n1 | INTRODUCTION\n\nMultiple myeloma (MM) is a malignant plasma cell disorder,1 af‐\n\nfecting approximately 4 in every 100 000 individuals in Europe.2\n\nThe past few decades have seen improved management of MM\n\nthrough multidisciplinary approaches. A European population‐based\n\nstudy reported an increase in 5‐year survival in patients with MM/\n\nplasmacytoma from 29.8% in 1997‐1999 to 39.6% in 2006‐2008.3\n\nFurthermore, data from the Swedish Myeloma Registry suggested\n\nthat a later year of diagnosis was associated with improved survival\n\nbetween 2008 and 2015 (hazard ratio [HR]: 0.84; 95% confidence\n\ninterval [CI]: 0.77‐0.92; P < 0.05).4\n\nDespite the positive trend in survival, response to anti‐MM ther‐\n\napy remains variable. Although some treated patients survive pro‐\n\ngression‐free for more than 10 years,5 approximately 10% die within\n\n1 year of diagnosis.6,7 Furthermore, most patients will relapse and,\n\nbecause there is currently no effective cure, many will die of refrac‐\n\ntory disease.8,9\n\nThis is an open access article under the terms of the Creative Commons Attribution NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes. © 2019 The Authors European Journal of Haematology Published by John Wiley & Sons Ltd\n\nEur J Haematol. 2019;103:107–115. | 107 wileyonlinelibrary.com/journal/ejh",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1111/ejh.13264",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_url": "https://doi.org/10.1111/ejh.13264"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d:p2",
+        "source_issue_ids": [],
+        "text": "108 | MOHTY et al.\n\nA clear understanding of why patients with MM die is still lacking.\n\nStudy populations often include a mixture of surviving patients and\n\nthose who have died; there are few studies that focus on deceased\n\npatients. Mortality is usually attributed to combined effects of ac‐\n\ntive MM and comorbid factors, but it is also linked to cytogenetic\n\nabnormalities that drive disease aggressiveness.10 More research is\n\nrequired to improve our understanding of mortality in patients with\n\nMM, particularly if it occurs soon after diagnosis. Improved under‐\n\nstanding could help to inform clinical decision‐making regarding the\n\nbenefit‐risk profiles of therapeutic options and guide monitoring re‐\n\nquirements for patients with MM at different stages of the disease\n\nand treatment pathway. Improved understanding of clinical events\n\noccurring before death related to MM might facilitate interventions\n\nto extend survival and improve tailored management at this critical\n\nstage.\n\nThis study was conducted to describe the characteristics, treat‐\n\nment patterns and outcomes before death associated with patients\n\nwith MM.\n\n2 | METHODS\n\n2.1 | Study design\n\nThis was a retrospective chart review to describe treatment pat‐\n\nterns, outcomes and healthcare resource use in European patients\n\nwith symptomatic MM. During the second half of 2016, data were\n\ncollected from the charts of patients in five European countries\n\n(EU5: France, Germany, Italy, Spain and the UK). Ethics commit‐\n\ntee approval was received in Germany and Spain as per national\n\nregulations. The remaining countries did not have this requirement\n\nbecause the study was anonymous. The index date was the date\n\non which physicians received study materials. Documentation oc‐\n\ncurred in June or July 2016 in France, Italy and the UK, and between\n\nSeptember and November 2016 in Germany and Spain.\n\nHerein, we report a longitudinal analysis of a subgroup of pa‐\n\ntients with MM identified as part of the full study. This subgroup of\n\npatients formed the “deceased population”: those who had died in\n\nthe 3 months before the index date. The primary objective of this\n\npart of the study was to describe the treatment pathway from symp‐\n\ntomatic MM diagnosis to death for this subgroup of patients.\n\n2.2 | Eligibility\n\nThe recruitment process for participating physicians was designed\n\nto ensure that data were representative of clinical practice. Regional\n\nquotas and practice settings quotas (hospital types, office‐based for\n\nGermany) for the physicians were determined. Physicians, including\n\noncologists, haematologists and onco‐haematologists, and intern‐\n\nists in Germany were solicited to participate in the study. The num‐\n\nbers of physicians and patients per physician included in the study\n\nwere based on the distributions in the respective countries, reflect‐\n\ning the methodology of a previously conducted chart review.11,12\n\nDocumenting physicians were required to be personally responsible\n\nfor initiating anti‐MM treatment in patients, and for the manage‐\n\nment of at least 15 patients with symptomatic MM per month (or 10\n\nfor office‐based physicians in Germany). They were also required to\n\nhave at least 3 years of clinical experience.\n\nPatients were eligible for the “deceased patients” subgroup of\n\nthe study if they had been diagnosed with symptomatic MM and\n\nhad died, at the age of 18 years or over, in the 3 months prior to\n\nthe index date. Such patients were included irrespective of other\n\nparameters, such as diagnosis date, profile, disease characteristics,\n\ntreatment stage at death, treatment previously received, or previous\n\nparticipation in a clinical trial or early access programme.\n\n2.3 | Analysis variables for the deceased population\n\nDemographic data recorded at MM diagnosis included age, sex,\n\nheight and weight. Details relating to diagnosis included diagnosis\n\ndate, International Staging System (ISS) stage, circumstances of di‐\n\nagnosis, cytogenetic abnormalities, comorbidities (including cardio‐\n\nvascular disease, neuropathy and deep vein thrombosis) and history\n\nof skeletal‐related events.\n\nDetails relating to end of life included time from the end of the\n\nlast treatment to death, cause of death and the last line of treatment\n\nreceived. Patients were classified according to whether they were\n\nreceiving active anti‐MM treatment, were between treatment lines\n\nwith further treatment planned, or were receiving supportive care\n\nwith no further treatment planned. A patient was considered to be\n\nat a treatment line, for example first‐line (1L), if they were receiving\n\nactive treatment at that line, receiving supportive care after having\n\nreceived active treatment at that line (with no further treatment\n\nplanned), or were in a treatment‐free interval (TFI) after that treat‐\n\nment line with further treatment planned.\n\nData were analysed according to the treatment line received\n\nwhen patients died. It is important to appreciate that analysis of the\n\ndata in this study was not intended to establish the relative risk of\n\ndeath at each treatment line, because the distribution of patients\n\nacross lines was not reflective of the distribution observed in the\n\noverall MM population.\n\n2.4 | Statistical analyses\n\nThe sample size was determined according to the 95% CI for de‐\n\nscribing treatment lines of patients with symptomatic MM. Based\n\non two patients dying in the past 3 months per physician (three pa‐\n\ntients in the UK), the total anticipated sample size for the deceased\n\npopulation was 875 patients across the five countries. Aggregated\n\ndata for the EU5 were weighted according to MM prevalence in each\n\ncountry.\n\nAn exploratory multivariate Cox model regression analysis was\n\nperformed using backward selection with a significance threshold\n\nof P < 0.05 to explore factors associated with overall survival from\n\ndiagnosis and from the initiation of 1L therapy. Models were de‐\n\nveloped to include baseline characteristics, and baseline charac‐\n\nteristics and outcomes at 1L treatment. The following variables at",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1111/ejh.13264",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_url": "https://doi.org/10.1111/ejh.13264"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d:p3",
+        "source_issue_ids": [],
+        "text": "| 109 MOHTY et al.\n\nTA B LE 1 Deceased focus population: clinical and demographic characteristics\n\nTreatment status at time of death\n\nBefore treatment (n = 50; 6%) 1L (n = 188; 24%) 2L (n = 167; 21%) 3L (n = 167; 21%) 4L (n = 121; 15%) 5L (n = 96; 12%)\n\nTime elapsed since diagnosis (months)\n\nMean 2.6 11.0 30.1 49.0 61.4 87.7\n\nRange 0‐48 0‐112 1‐150 2‐220 13‐183 9‐256\n\nAge group at diagnosis (%)\n\n<65 y 5 18 17 38 54 57\n\n65‐75 y 15 21 45 40 37 34\n\n>75 y 80 61 38 22 10 9\n\nAge at diagnosis (y)\n\nMean 81.0 75.4 72.2 66.7 63.7 62.1\n\nMedian 83.0 78.0 74.0 67.0 64.0 63.0\n\nRange 53‐96 38‐96 41‐91 32‐91 39‐83 40‐83\n\nISS stage at diagnosis (%)\n\nI 5 3 8 14 13 26\n\nII 5 21 21 29 32 24\n\nIII 80 69 63 49 47 38\n\nUnknown 10 8 9 9 9 12\n\nSex (%)\n\nMale 56 54 56 54 57 52\n\nFemale 44 46 44 46 43 48\n\nTransplantation status (%)\n\nSCT 0 10 21 42 51 62\n\nNo SCT 100 90 79 58 49 38\n\nCytogenetic risk status (%)a\n\nHigh 6 21 27 30 21 18\n\nLow 9 17 20 19 27 45\n\nUnknown 84 62 53 52 53 37\n\nComorbidity (%)\n\nDeep vein thrombosis 42 27 18 14 10 10\n\nNeuropathy 18 15 11 12 10 16\n\nSignificant cardiovascular disease 86 53 34 23 16 20\n\nSkeletal‐related event 20 19 25 30 32 22\n\nECOG score at 1L therapy initiation (%)b\n\n0‐1 NA 33 61 71 81 73\n\n2 NA 67 39 29 19 27\n\nNote: Total patient number is reported here as 789, rather than 786, owing to weighting of the data. Low cytogenetic risk was defined as being negative for all three cytogenetic abnormalities. Abbreviations: ECOG, Eastern Cooperative Oncology Group; ISS, International Staging System; L, treatment line; NA, not available; SCT, stem cell transplantation. aHigh cytogenetic risk was defined as having t(4;14), t(14;16) or del(17p). bECOG score at 1L therapy initiation was measured approximately 1 mo after diagnosis.\n\ndiagnosis were tested: age (<65 vs ≥65 years), ISS stage (I or II vs III),\n\npresence of bone complications (yes vs no), renal dysfunction (yes\n\nvs no) and anaemia (yes vs no). The following variables at 1L were\n\ntested: Eastern Cooperative Oncology Group performance status\n\nat 1L initiation (0‐1 vs ≥2), time to progression (TTP; ≤15 months\n\nvs >15 months, based on the median TTP), very good partial re‐\n\nsponse (VGPR) or better (yes vs no) and symptomatic progression\n\nafter 1L (yes vs no). Additional variables tested included prior stem\n\ncell transplantation (yes vs no) and cytogenetic risk (high vs low).\n\nIncluded patients had initiated at least one treatment line and",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1111/ejh.13264",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_url": "https://doi.org/10.1111/ejh.13264"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d:p4",
+        "source_issue_ids": [],
+        "text": "110 | MOHTY et al.\n\nTA B LE 2 Situation of death, by treatment line\n\nTreatment status at time of death\n\nOverall (n = 789) Prior to treatment (n = 50; 6%) 1L (n = 188; 24%) 2L (n = 167; 21%) 3L (n = 167; 21%) 4L (n = 121; 15%) 5L (n = 96; 12%)\n\nDuring active treatment (%) 37 0 47 35 38 35 41\n\nDuring TFI (%) 63 100 54 65 62 65 59\n\nOn supportive care (%) 51 97 34 49 52 55 55\n\nFurther treatment planned (%) 12 3 19 16 10 10 5\n\nNote: Categorisation by treatment line includes patients who died during or following each treatment line, before moving on to the subsequent line. Total patient number is reported here as 789 rather than 786, owing to weighting of the data. Abbreviations: L, treatment line; TFI, treatment‐free interval.\n\nprogressed after 1L. Patients with missing or unknown values for\n\nthese variables were excluded from the analysis. No formal hypoth‐\n\neses were tested. Categorical data were summarised as the num‐\n\nber and percentage of patients in each category. Continuous data\n\nwere summarised as the mean, median, minimum and maximum.\n\nMissing or incomplete data were marked as unavailable if they could\n\nnot be captured even after communication with the participating\n\nphysician.\n\n3 | RESULTS\n\n3.1 | Physician and patient characteristics\n\nAcross the countries, 391 physicians from 391 centres participated\n\n(France, 82; Germany, 91; Italy, 85; Spain, 75; UK, 58). Almost all\n\nphysicians (99.5%) were oncologists or haematologists. The charts of\n\n786 deceased patients were reviewed (France, 139; Germany, 171;\n\nItaly, 171; Spain, 138; UK, 167). The clinical and demographic char‐\n\nacteristics of these patients at diagnosis are summarised in Table 1\n\n(note that the distribution of patients across treatment lines does\n\nnot reflect the overall population with MM).\n\n3.2 | Treatment status at time of death\n\nAt the time of death (ie study inclusion), 37% of patients were receiv‐\n\ning active anti‐MM treatment (6% in remission, 31% not in remis‐\n\nsion). Another 12% were in a TFI, with further treatment planned\n\n(4% in remission, 9% not in remission). The remaining 51% were re‐\n\nceiving only supportive care (ie no active anti‐MM treatment; 3% in\n\nremission, 48% not in remission).\n\nOf the 786 included patients, who died in the 3 months prior\n\nto the index date, approximately one‐quarter (24%) were at 1L at\n\nthe time of death (Figure S1). Similar proportions of patients were\n\nat second or third line (2L, 3L), with fewer at fourth or fifth line\n\n(4L, 5L). For those who died during a TFI, the earlier the treatment\n\nline, the more likely it was that further treatment was planned\n\n(Table 2).\n\nAt diagnosis, there were some notable differences in the char‐\n\nacteristics of patients who subsequently died at early (ie 1L or 2L)\n\nversus later treatment lines (ie 4L or 5L) (Table 1). For example,\n\nthose reaching later lines were typically younger (Figure 1) and at a\n\nlower ISS stage at diagnosis (Table 1). Patients reaching later lines\n\nalso had a lower Eastern Cooperative Oncology Group score and\n\ncarried a lower morbidity burden (Table 1).\n\n3.3 | Survival\n\nThe mean duration of survival from the end of the last treatment\n\nline tended to decrease with increasing line up to and including 4L\n\n(Figure 2A), indicating that patients dying at later lines had shorter\n\ntreatment‐free periods leading up to death. The median overall sur‐\n\nvival was 30 months (Figure 2B). As expected, patients dying at later\n\ntreatment lines survived for longer overall, although the survival curve\n\nreached a plateau for a small proportion of patients who died at 1L,\n\nindicating that a subset of patients may live for many years without\n\nrequiring treatment beyond 1L.\n\nProportion of patients (%)\n\n100\n\n> 75 years\n\n65–75 years\n\n< 65 years\n\n80\n\n60\n\n40\n\n80.5\n\n63.9 55.5 38.0 22.3 23.8\n\n38.1\n\n49.6 47.9\n\n18.9 31.0\n\n20\n\n17.2 13.5 23.9 28.1 28.3\n\n14.5\n\n5.0\n\n0 Before 1L (n = 50) 1L (n = 188) 2L (n = 167) 3L (n = 167) 4L (n = 121) 5L (n = 96)\n\n81.1 Mean age at time of death (years) 76.2 74.7 70.8 68.8 69.4\n\n83.0 Median age at time of death (years) 78.0 76.0 71.0 69.0 70.0\n\n2.6 Mean time since diagnosis (months) 11.0 30.1 49.0 61.4 87.7\n\nFI G U R E 1 Age at time of death, by treatment line. Categorisation by treatment line includes patients who died during or following each line, before moving on to the subsequent line. Total patient number is reported here as 789, rather than 786, owing to weighting of the data. L, treatment line",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1111/ejh.13264",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_url": "https://doi.org/10.1111/ejh.13264"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d:p5",
+        "source_issue_ids": [],
+        "text": "| 111 MOHTY et al.\n\nFI G U R E 2 A, Patient flow through the treatment pathway. Categorisation by treatment line includes patients who died during or following each line, before moving on to the subsequent line. Total patient number is reported here as 789, rather than 786, owing to weighting of the data. L, treatment line. B, Overall survival according to treatment line at time of death. Black line and data labels show the median overall survival in months. L, treatment line\n\n(A)\n\nDiagnosis Start 1L End 1L Start 2L End 2L Start 3L End 3L Start 4L End 4L Start 5L Start 6L End 5L\n\nn = 50\n\n(6%) n = 87 (11%) n = 100 (13%) n = 58 (7%) n = 109 (14%) n = 63 (8%) n = 104 (13%) n = 42 (5%) n = 80 (10%) n = 39 (5%) n = 57 (7%)\n\nTime elapsed from end of last treatment to death\n\n6.3 5.1 6.1 8.2 )s htn o m ( n a e M\n\n4.4\n\nRange (min–max)\n\n0 – 48 0 – 37 0 – 10 0 – 14 0 – 37\n\nTime elapsed from end of last treatment to death\n\n(B)\n\nProportion of patients (%)\n\n100\n\n90\n\n80\n\n70\n\n60\n\n50\n\n40\n\n30\n\n20\n\n10\n\n0\n\n1 7 25 30 42 53 80\n\nTotal\n\n1L 2L 3L 4L 5L\n\nNot treated\n\n0 12 24 36 48 60 72 84 96 108 120 132 144 156 168 180 192 219 204 216 228 240 252\n\nOverall survival (months)\n\n3.4 | Cause of death\n\nFor two‐thirds (67%) of patients, death was primarily attributed to dis‐\n\nease progression (which was defined as symptomatic relapse, increases\n\nin M‐protein or free light chain levels) (Figure 3A). Among those whose\n\ndeath was attributed to disease progression, 44% also had other causes\n\nlisted. These were primarily renal failure (59%) and infection (28%).\n\nAcross treatment lines, deaths were often not solely due to\n\ndisease progression (Figure 3B). Factors such as renal failure and\n\ninfection also played a role (in 30% and 20% of patients at 1L, re‐\n\nspectively). The later the treatment line at which a patient died,\n\nthe greater the likelihood that disease progression was the primary\n\ncause of death (Figure 3B). The proportion of patients whose death\n\nwas attributed to disease progression increased from 40% of those\n\nwho died before 1L, to 50% at 1L, 72% at 3L and 84% at 5L. This pat‐\n\ntern for the contribution of disease progression to death was seen\n\nregardless of patient age group at death (data not shown).\n\nRenal failure and infection were the next most common causes\n\nof death across all treatment lines (Figure 3B). This was true across\n\nall age groups; however, for patients in the age groups 65 years and\n\nunder or 65‐75 years at death, infection and renal failure became\n\nless likely to be the primary cause of death as therapy line increased,\n\nwhereas the opposite trend was seen for patients aged over 75 years\n\n(data not shown).\n\nThe proportion of patients with at least one other cause of death\n\nin addition to disease progression also tended to decrease with in‐\n\ncreasing treatment line: 73%, 53%, 48%, 42%, 30% and 39%, respec‐\n\ntively. The proportion of patients whose death was linked to disease\n\nprogression was higher in those receiving supportive care (78%) than\n\nthose on active treatment or in a TFI with further treatment planned\n\n(57% and 52%, respectively).\n\nFor the group of patients who died while in remission (12%),\n\ndeaths were still related to factors that may be associated with MM\n\nor its treatment, including disease progression (10%), renal failure\n\n(15%) or infection (22%) (Figure 3C).\n\n3.5 | Factors associated with death in MM\n\nAn exploratory Cox model regression analysis was conducted using\n\ndata from 338 patients after excluding the following patients: pa‐\n\ntients with missing or unknown values for one or more variables;\n\npatients who had not initiated at least one treatment line; or patients\n\nwho had not progressed after 1L (Figure 4). This analysis found that\n\noverall survival from diagnosis was significantly increased in patients\n\nwith low cytogenetic risk (vs high risk), ISS stage I or II at diagnosis (vs\n\nstage III) and a TTP of over 15 months at 1L (vs ≤15 months). In con‐\n\ntrast, overall survival was significantly reduced for patients whose\n\nbest response was partial or worse at 1L (vs VGPR or better) and\n\nfor patients with symptomatic relapse at 1L (vs non‐symptomatic re‐\n\nlapse). Similar results were obtained regarding patient survival from\n\nthe initiation of 1L therapy, and when assessing baseline variables\n\nonly (data not shown).\n\n4 | DISCUSSION\n\nMost data relating to mortality in MM come from clinical trials, in\n\nwhich populations are subject to eligibility criteria that often exclude",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1111/ejh.13264",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_url": "https://doi.org/10.1111/ejh.13264"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d:p6",
+        "source_issue_ids": [],
+        "text": "112 | MOHTY et al.\n\n(A)\n\nDisease progression\n\nRenal failure\n\nInfection\n\nThromboembolic event\n\nOther organ failure\n\nUnexpected event\n\nOther underlying disease\n\nBleeding\n\nTransplant complications\n\nOther treatment toxicity\n\n(B)\n\nDisease progression Renal failure Infection Thromboembolic event Other organ failure Unexpected event Other underlying disease Bleeding Transplant complications\n\nOther treatment toxicity Other\n\n7%\n\n5%\n\n4%\n\n3%\n\n3%\n\n2%\n\n1%\n\n17%\n\n26%\n\n67%\n\n0 10 20 30 40 Proportion of patients (%) 0 0 1 0 7 0 6 0 5 80 90\n\nBefore 1L (n = 50)\n\n40% 46% 39% 16% 9% 2% 1% 7% 0% 0% 2%\n\n1L (n = 188) 2L (n = 167) 3L (n = 167) 4L (n = 121) 5L (n = 96)\n\n50% 30% 20% 10% 5% 6% 5% 1% 4% 2% 1%\n\n72% 27% 12% 6% 3% 6% 2% 3% 1% 1% 0%\n\n72% 26% 14% 6% 6% 4% 3% 4% 3% 1% 1%\n\n78% 15% 14% 3% 5% 1% 2% 3% 0% 1% 1%\n\n84% 22% 18% 3% 6% 0% 1% 3% 1% 1% 1%\n\nFI G U R E 3 Causes of deatha (A) overall and (B) by line, and (C) overall stratified by response status at time of death. Total patient number is reported here as 789, rather than 786, owing to weighting of the data. aMultiple factors may be captured as cause of death. L, treatment line\n\n(C)\n\nDisease progression\n\nRenal failure\n\nInfection\n\nThromboembolic event\n\nOther organ failure\n\nUnexpected event\n\nOther underlying disease\n\nBleeding\n\nTransplant complications\n\nOther treatment toxicity\n\nDied not in remission\n\nDied in remission\n\n0 10 20 30 40 Proportion of patients (%)\n\n50 60 70 80 90 100\n\npatients with major comorbidities, thus confounding analysis of cir‐\n\ncumstances of death. To the best of our knowledge, this is the first\n\nstudy to evaluate data from deceased patients with MM in Europe.\n\nThe large size of this study, and the setting of care in oncology/hae‐\n\nmatology units, allowed us to examine both patient pathways and\n\nthe association of patient and disease factors with death, in patients\n\nwho died in 2016.\n\nDespite the increasing availability of effective treatment options,\n\nrelapse remains inevitable for most patients with MM, and an unmet\n\nmedical need exists with regard to the unchanged prevalence of\n\nearly deaths (approximately 10%).7,9,13 Owing to the study design, it\n\nis not possible to provide mortality per treatment line because the\n\nstudy population is not representative of the distribution of patients\n\nacross treatment lines in the overall MM population. Nevertheless,\n\nour data suggest that death during active 1L treatment remains a key\n\nissue; 47% of deaths at 1L were during active treatment. This study\n\nadds to a chart review conducted in 2014 that reported high losses\n\nof patients along the treatment pathway; in the previous review,\n\n39% of patients did not go on to receive 2L treatment, and 62% did\n\nnot receive 3L treatment.11,12\n\nDeath during active treatment is not only an issue at 1L; a sub‐\n\nstantial proportion of patients at each line died while on active treat‐\n\nment (more than one‐third of patients overall). Half of deaths at 1L\n\nwere due to MM progression, and the prognostic influence of depth\n\nof response to, and early relapse from, 1L treatment is borne out by\n\nthe Cox model results. This underscores the considerable contribu‐\n\ntion that disease progression makes to death. Nevertheless, other\n\ncauses of death that may be related to MM and associated treatment\n\nwere also important, such as renal failure (30%) and infection (20%),\n\nparticularly at early treatment lines. The proportion of deaths due\n\nto disease progression increased at later lines, but renal failure and\n\ninfections remained significant contributors to cause of death.\n\nThe Cox model results also highlight the fact that deaths can be\n\nassociated with disease‐related factors not captured by the ISS, such\n\nas cytogenetic risk and time to progression. Indeed, approximately\n\none‐quarter of patients who died at 1L or 2L had an ISS stage of I",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1111/ejh.13264",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_url": "https://doi.org/10.1111/ejh.13264"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d:p7",
+        "source_issue_ids": [],
+        "text": "| 113 MOHTY et al.\n\nAge at diagnosis: ≥65 years (vs <65 years)\n\nAnaemia at diagnosis: no (vs yes)\n\nBone pain at diagnosis: no (vs yes)\n\nCytogenetic risk: low (vs high)\n\nECOG performance status at 1L-treatment initiation ≥2 (vs 0–1)\n\nISS stage I or II at diagnosis (vs III)\n\nPR or worse at 1L (vs VGPR or better)\n\nRenal dysfunction at diagnosis: yes (vs no)\n\nSCT: yes (vs no)\n\nSymptomatic progression after 1L (vs non-symptomatic)\n\nTTP > 15 months (vs ≤15 months)\n\nHR\n\n1.74\n\n0.89\n\n0.97\n\n0.56\n\n1.24\n\n0.58\n\n2.34\n\n1.52\n\n0.49\n\n1.23\n\n0.20\n\n95% CI\n\n1.40–2.17\n\n0.72–1.10\n\n0.76–1.23\n\n0.45–0.69\n\n0.98–1.56\n\n0.47–0.72\n\n1.89–2.90\n\n1.21–1.91\n\n0.40–0.61\n\n0.99–1.52\n\n0.16–0.26\n\n0.0 0.5 1.0 1.5 2.0 2.5 3.0\n\nFavours death Favours survival\n\nHazard ratio\n\nFI G U R E 4 Factors associated with overall survival after MM diagnosis. Results of an exploratory multivariate Cox model regression analysis of overall survival from MM diagnosis using data from 338 patients. The analysis included variables at baseline and outcomes at 1L treatment for patients who had initiated at least one treatment line and progressed after 1L. Patients with missing or unknown values for the variables tested were excluded from the analysis. High cytogenetic risk was defined as having t(4;14), t(14;16) or del(17p). Low cytogenetic risk was defined as being negative for all three cytogenetic abnormalities. CI, confidence interval; ECOG, Eastern Cooperative Oncology Group; HR, hazard ratio; ISS, International Staging System; L, treatment line; MM, multiple myeloma; PR, partial response; SCT, stem cell transplantation; TTP, time to progression; VGPR, very good partial response\n\nor II. It is established that the ISS is not the strongest available pre‐\n\ndictive tool, and it has recently been revised to include serum lac‐\n\ntate dehydrogenase and chromosomal abnormalities, which improve\n\nprognostic power.14\n\nAlthough sparse, there are other real‐world data available on\n\nfactors associated with mortality in MM in Europe. A recent study\n\nfound that over four‐fifths of deaths in a cohort of patients with MM\n\nfrom Germany could be attributed to the underlying malignancy\n\nand associated complications, with approximately half of those my‐\n\neloma‐related deaths attributed to the malignancy itself, 15% to in‐\n\nfections and 13% to renal disorders.15 A study using the Connect®\n\nMM Registry identified predictors of early death (defined as death\n\nwithin the first 6 months after diagnosis).9 These predictors included\n\nage over 75 years, worse performance status, adverse cytogenetics,\n\nlower mobility score, higher ISS stage, lower platelet count and pre‐\n\nvious history of hypertension.9 A study using the Danish National\n\nMM Registry found that patients with newly diagnosed MM had\n\nincreased comorbidities compared with the general population, par‐\n\nticularly in the year preceding diagnosis; those with any registered\n\ncomorbidity had increased mortality compared with those without a\n\ncomorbidity (HR: 1.6).16 In a population‐based cohort study, the im‐\n\npact of comorbidities on early mortality was analysed over a 31‐year\n\nperiod.17 Comorbidities were found to have an independent impact\n\non early mortality: at different time points, renal failure, respiratory\n\ndisease, liver disease and hepatitis C infection were each associated\n\nwith early mortality.17 Similarly, a large chart review across seven\n\nEuropean countries found that comorbidities reduced continuation\n\nto the next treatment line.12 These studies suggest that disease‐re‐\n\nlated prognostic variables, such as ISS stage and cytogenetic risk,18\n\nare not the only determinants of death early in the disease course.\n\nThis is consistent with our data, which showed that there were fewer\n\ndeaths related to disease progression at earlier treatment lines than\n\nat later treatment lines.\n\nMany patients in this study died while their disease was consid‐\n\nered to be in remission, and yet deaths were often related to causes\n\nthat may be associated with MM and its treatment. A possible expla‐\n\nnation for this observation is that despite exhibiting a therapeutic\n\nresponse to each treatment line, patients were nonetheless subject\n\nto a cumulative disease burden, contributed to by multiple relapses,\n\ndrug resistance and increasingly aggressive biology. Thus, in order\n\nto maximise the benefits of increasingly effective MM therapies, a\n\nbetter understanding is needed of how to optimise the management\n\nof MM for patients who are in remission. Reducing the risk of renal\n\ndamage, and immune and bone marrow suppression, should be given\n\ndue attention in the overall care of these patients.19,20 Additionally,\n\nsufficient guidance needs to be produced to support physicians in\n\nthis aspect of treating patients with MM.\n\nOur study also identified patients who died before 1L therapy.\n\nThese individuals were typically elderly and had advanced disease\n\nat diagnosis. Nearly all (97%) of these patients did not receive ac‐\n\ntive anti‐MM treatment but instead received supportive care only.\n\nFurther work is required to improve the prognosis of these patients;\n\nfor example, if poor organ function and comorbidities are the result of\n\nMM, opportunities for effective management may include institution\n\nof anti‐MM therapy with careful dose and schedule adjustment.20\n\nA strength of this real‐world study is that findings should be re‐\n\nflective of clinical practice; the five countries included in the study\n\nwere selected because of their large populations, representing the\n\nmajority of patients treated in Europe. These populations offer a\n\nbroad and generalisable data set because of the differences in health",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1111/ejh.13264",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_url": "https://doi.org/10.1111/ejh.13264"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d:p8",
+        "source_issue_ids": [],
+        "text": "114 | MOHTY et al.\n\nsystems and drug access among the countries. It is, however, chal‐\n\nlenging to compare the characteristics of the study population with\n\nthose from other European population‐based studies owing to dif‐\n\nferences in the parameters reported.16,21 A relatively high propor‐\n\ntion of patients scored III using the ISS at diagnosis compared with\n\nother studies,16,21 although high ISS stages are associated with poor\n\nsurvival and would be expected in a population of now deceased\n\npatients.22 Furthermore, only one‐quarter of patients had a history\n\nof skeletal‐related events; this is lower than would be expected be‐\n\ncause bone disease occurs in 80% of patients with newly diagnosed\n\nMM.23 This may be explained by the specific definition of skeletal‐\n\nrelated events (pathologic fracture, spinal cord compression, and\n\nradiation or surgery to bone); “bone disease” is likely interpreted by\n\nphysicians as a more general term.\n\nPotential limitations of the study include the possibility of data\n\ninconsistencies resulting from site‐specific management differences,\n\nsuch as variation in clinical interpretation of disease progression and re‐\n\nmission. Interpretation of the data must consider the recording of mul‐\n\ntiple “causes” of death (primary, secondary; eg renal failure associated\n\nwith MM progression), and the generalisability of the exploratory Cox\n\nmodel regression analyses may be limited by the fact that they included\n\ndata from fewer than half of study patients. Only deceased patients\n\nwere evaluated; hence, the characteristics reported are specific to that\n\npopulation. Finally, it is important to note that the characteristics of\n\npatients at each treatment line were taken from separate populations.\n\nIn conclusion, this real‐world study of patients confirms that\n\ndeaths at early treatment lines remain a key challenge in MM man‐\n\nagement. It also highlights that death during early treatment lines\n\nis often not due to disease progression, and death commonly oc‐\n\ncurs during active treatment, indicating a need for improvements\n\nin supportive care. As patients reach later lines, death is more\n\ntypically related to progression, owing to treatment resistance.24\n\nUnderstanding factors associated with death in MM could help to\n\nincrease the proportion of patients who reach later lines and inform\n\nnew management approaches for improving patient survival.\n\nACKNOWLEDGEMENTS\n\nMedical writing support was provided by Kim Allcott PhD of Oxford\n\nPharmaGenesis Ltd and was funded by Amgen (Europe) GmbH.\n\nCONFLICT OF INTEREST\n\nM Mohty has received honoraria from Amgen, BMS, Celgene, Janssen,\n\nTakeda, Novartis, Sanofi and research funding from Celgene, Janssen,\n\nSanofi. M Cavo has received honoraria from Amgen, Bristol‐Myers\n\nSquibb, Celgene, Janssen and Takeda; L Fink is an employee of Kantar\n\nHealth, which received funding from Amgen to conduct this research;\n\nS Gonzalez‐McQuire is an Amgen employee and holds Amgen stock;\n\nH Leleu has received honoraria from Amgen; M Mateos has received\n\nhonoraria from Janssen, Celgene, Amgen, Takeda derived from lec‐\n\ntures and participation in advisory boards; MS Raab has received\n\nresearch support from Amgen, Novartis and honoraria from Amgen,\n\nNovartis, Celgene, Janssen and BMS; P Schoen is an Amgen employee\n\nand holds Amgen stock; K Yong has received honoraria from Celgene,\n\nAmgen, Takeda, Sanofi and Janssen, research funding from Janssen,\n\nAmgen and Celgene and was a consultant for Autolus.\n\nORCID\n\nMohamad Mohty https://orcid.org/0000-0002-7264-808X\n\nSebastian Gonzalez‐McQuire https://orcid.\n\norg/0000-0002-1019-7180\n\nREFERENCES\n\n1. Palumbo A, Anderson K. Multiple myeloma. N Engl J Med. 2011;364(11):1046‐1060. 2. Ferlay J, Steliarova‐Foucher E, Lortet‐Tieulent J, et al. Cancer inci‐ dence and mortality patterns in Europe: estimates for 40 countries in 2012. Eur J Cancer. 2013;49(6):1374‐1403. 3. Sant M, Minicozzi P, Mounier M, et al. Survival for haematological malignancies in Europe between 1997 and 2008 by region and age: results of EUROCARE‐5, a population‐based study. Lancet Oncol. 2014;15(9):931‐942. 4. Blimark CH, Turesson I, Genell A, et al. Outcome and survival of myeloma patients diagnosed 2008–2015. Real‐world data on 4904 patients from the Swedish Myeloma Registry. Haematologica. 2018;103(3):506‐513. 5. Barlogie B, Mitchell A, van Rhee F, Epstein J, Morgan GJ, Crowley\n\nJ. Curing myeloma at last: defining criteria and providing the evi‐ dence. Blood. 2014;124(20):3043‐3051. 6. Kumar SK, Dispenzieri A, Lacy MQ, et al. Continued improvement in survival in multiple myeloma: changes in early mortality and out‐ comes in older patients. Leukemia. 2014;28(5):1122‐1128. 7. Jung S‐H, Cho M‐S, Kim HK, et al. Risk factors associated with early\n\nmortality in patients with multiple myeloma who were treated upfront with a novel agents containing regimen. BMC Cancer. 2016;16:613. 8. San‐Miguel JF, Mateos MV. Can multiple myeloma become a cur‐ able disease? Haematologica. 2011;96(9):1246‐1248. 9. Terebelo H, Srinivasan S, Narang M, et al. Recognition of early mor‐ tality in multiple myeloma by a prediction matrix. Am J Hematol. 2017;92(9):915‐923. 10. Usmani SZ, Rodriguez‐Otero P, Bhutani M, Mateos MV, Miguel JS. Defining and treating high‐risk multiple myeloma. Leukemia. 2015;29(11):2119‐2125. 11. Raab MS, Cavo M, Delforge M, et al. Multiple myeloma: practice patterns across Europe. Br J Haematol. 2016;175(1):66‐76. 12. Yong K, Delforge M, Driessen C, et al. Multiple myeloma: patient out‐ comes in real‐world practice. Br J Haematol. 2016;175(2):252‐264. 13. Hsu P, Lin T‐W, Gau J‐P, et al. Risk of early mortality in patients\n\nwith newly diagnosed multiple myeloma. Medicine (Baltimore). 2015;94(50):e2305. 14. Palumbo A, Avet‐Loiseau H, Oliva S, et al. Revised international staging system for multiple myeloma: a report from international myeloma working group. J Clin Oncol. 2015;33(26):2863‐2869. 15. Mai EK, Haas E‐M, Lücke S, et al. A systematic classification of death causes in multiple myeloma. Blood Cancer J. 2018;8(3):30. 16. Gregersen H, Vangsted AJ, Abildgaard N, et al. The impact of co‐ morbidity on mortality in multiple myeloma: a Danish nationwide population‐based study. Cancer Med. 2017;6(7):1807‐1816. 17. Ríos‐Tamayo R, Sáinz J, Martínez‐López J, et al. Early mortality\n\nin multiple myeloma: the time‐dependent impact of comorbidity: a population‐based study in 621 real‐life patients. Am J Hematol. 2016;91(7):700‐704.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1111/ejh.13264",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_sha256": "bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d",
+          "source_url": "https://doi.org/10.1111/ejh.13264"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d:p9",
+        "source_issue_ids": [],
+        "text": "| 115 MOHTY et al.\n\n18. Chng WJ, Dispenzieri A, Chim C‐S, et al. IMWG consensus on risk\n\nstratification in multiple myeloma. Leukemia. 2014;28(2):269‐277. 19. Gavriatopoulou M, Terpos E, Kastritis E, Dimopoulos MA. Current treatments for renal failure due to multiple myeloma. Expert Opin Pharmacother. 2016;17(16):2165‐2177. 20. Terpos E, Kleber M, Engelhardt M, et al. European Myeloma Network guidelines for the management of multiple myeloma‐related compli‐ cations. Haematologica. 2015;100(10):1254‐1266. 21. Howell D, Smith A, Appleton S, et al. Multiple myeloma: routes to diagnosis, clinical characteristics and survival ‐ findings from a UK population‐based study. Br J Haematol. 2017;177(1):67‐71. 22. Greipp PR, San-Miguel J, Durie BGM, et al. International staging sys‐ tem for multiple myeloma. J Clin Oncol. 2005; 23(15): 3412 ‐ 3420. 23. Kyle RA, Gertz MA, Witzig TE, et al. Review of 1027 pa‐ tients with newly diagnosed multiple myeloma. Mayo Clin Proc. 2003;78(1):21‐33. 24. Cornell RF, Kassim AA. Evolving paradigms in the treatment of relapsed/refractory multiple myeloma: increased options and in‐ creased complexity. Bone Marrow Transplant. 2016;51(4):479‐491.\n\nSUPPORTING INFORMATION\n\nAdditional supporting information may be found online in the\n\nSupporting Information section at the end of the article.\n\nHow to cite this article: Mohty M, Cavo M, Fink L, et al.\n\nUnderstanding mortality in multiple myeloma: Findings of a\n\nEuropean retrospective chart review. Eur J Haematol.\n\n2019;103:107–115. https​://doi.org/10.1111/ejh.13264​",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:bc2f55e2d704bbea8ab44007d457695b36fd9698992f2ba74706591f1e98a86d"
+}

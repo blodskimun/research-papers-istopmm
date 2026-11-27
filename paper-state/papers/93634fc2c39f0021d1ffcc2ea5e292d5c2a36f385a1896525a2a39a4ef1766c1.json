@@ -1,0 +1,500 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T15:41:53.888068+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Immunoglobulin Gene Mutational Status Assessment by Next Generation Sequencing in Chronic Lymphocytic Leukemia",
+        "year": null
+      },
+      "doi": "10.1007/978-1-0716-2115-8_10",
+      "format": "pdf",
+      "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+      "url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p1",
+        "source_issue_ids": [],
+        "text": "Immunoglobulin Gene Mutational Status Assessment by Next Generation Sequencing in Chronic Lymphocytic Leukemia\n\nAnne Langlois de Septenville, Myriam Boudjoghra, Clotilde Bravetti, Marine\n\nArmand, Mikaël Salson, Mathieu Giraud, Frederic Davi\n\nTo cite this version:\n\nAnne Langlois de Septenville, Myriam Boudjoghra, Clotilde Bravetti, Marine Armand, Mikaël Salson, et al.. Immunoglobulin Gene Mutational Status Assessment by Next Generation Sequencing in Chronic Lymphocytic Leukemia. Anton W. Langerak. Immunogenetics, 2453, Springer, pp.153-167, 2022, Methods in Molecular Biology, 978-1-0716-2115-8. ⟨10.1007/978-1-0716-2115-8_10⟩. ⟨hal-03684717⟩\n\nHAL Id: hal-03684717\n\nhttps://hal.science/hal-03684717v1\n\nSubmitted on 2 Jun 2022\n\nHAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or pri-vate research centers.\n\nL’archive ouverte pluridisciplinaire HAL, est des-tinée au dépôt et à la diffusion de documents scien-tifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.\n\nHAL Authorization",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p10",
+        "source_issue_ids": [],
+        "text": "3.5 Quantiﬁcation of Puriﬁed PCR Products (See Note 7)\n\nNGS-Based IGHV Mutational Status in CLL 161\n\n2. Centrifuge brieﬂy the PCR plate.\n\n3. Shake the Agencourt AMPure XP bottle to resuspend the\n\nmagnetic beads before adding 37.5 μL per well of the PCR plate (see Note 6).\n\n4. Mix thoroughly by pipetting until the mixture appears\n\nhomogeneous.\n\n5. Incubate for 5 min at room temperature.\n\n6. Place the reaction plate on the magnetic stand for 5 min.\n\n7. Remove and discard the cleared supernatant (80 μL).\n\n8. Wash the beads by dispensing 200 μL of 70% ethanol (freshly\n\nprepared) to each well of the reaction plate, and incubate for 30 s at room temperature; then aspirate and discard the ethanol (200 μL).\n\n9. Repeat for a total of two washes.\n\n10. Dry 5 min at room temperature to ensure all traces of ethanol\n\nare removed.\n\n11. To elute puriﬁed DNA fragments from beads, remove the\n\nreaction plate from the magnetic stand, and then add 35 μL of nuclease-free water to each well of the reaction plate and mix by pipetting until beads are completely resuspended.\n\n12. Incubate for 5 min at room temperature.\n\n13. Place the reaction plate onto the magnetic plate for 2 min to\n\ncollect the beads.\n\n14. Transfer 25 μL of the eluate to a new microplate.\n\n15. At this stage, the plate can be sealed and stored at \u000520 \u0004C for\n\nlater usage.\n\n1. Dilute Quant-iT™dsDNA HS reagent 1:200 in Quant-\n\niT™dsDNA HS buffer (sufﬁcient quantity for all PCR samples plus 8 standards and 1 blank).\n\n2. Load 200 μL of the working solution into each microplate well.\n\n3. Add 10 μL of each dsDNA HS standards or 2.5 μL of each PCR\n\nsample.\n\n4. Place on the plate shaker at 1200 rpm for 5 min.\n\n5. Brieﬂy spin in a centrifuge.\n\n6. Measure the ﬂuorescence using the Clariostar microplate\n\nreader.\n\n7. Use the standard curve to determine the DNA amounts (see\n\nNote 8).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p11",
+        "source_issue_ids": [],
+        "text": "162 Anne Langlois de Septenville et al.\n\n3.6 Library Preparation and Quantiﬁcation\n\n3.7 Library Denaturation and Illumina MiSeq Sequencing\n\n1. Calculate the concentration in nM according to the formula:\n\nconcentration ng=μL ð Þ= size amplicon \u0006 550bp ð Þ \u0003 650 ð \u0007 \u0003 106: \u0001\n\n2. For samples with puriﬁed PCR products >10 nM:\n\n(a) Dilute samples in a new microplate to ﬁnal 10 nM concentration (5 μL PCR product + H2O up to 10 nM using the formula: vol. H2O ¼ [conc(nM)/2] \u0005 5.\n\n(b) Use 5 μL of this 10 nM dilution for pooling samples in a microfuge tube.\n\n3. For samples with puriﬁed PCR products <10 nmm, use 10 μL\n\nfor library pooling in the same microfuge tube.\n\n4. At this stage, the tube containing the library pool can be sealed\n\nand stored at \u000520 \u0004C for later use.\n\n1. Place the MiSeq Reagent Kit at 4 \u0004C the day before to thaw the\n\nreagents overnight.\n\n2. On the day of the run, prepare 1 mL of NaOH 0.2 N in a\n\nmicrocentrifuge tube: 200 μL 1 N NaOH +800 μL H2O.\n\nThe following steps (steps 3–9) should be performed on ice:\n\n3. Dilute library at 4 nM in a microcentrifuge tube: add 2 μL\n\nlibrary at 10 nM and 3 μL EBT.\n\n4. Denature and dilute library at 2 nM by adding 5 μL of\n\n0.2 N NaOH.\n\n5. Incubate for 5 min at room temperature.\n\n6. Add 990 μL of HT1 buffer resulting in 1 mL of a 20 pM\n\ndenatured library.\n\n7. Proceed the same way (i.e., steps 3–6) to obtain 20 pM\n\ndenatured PhiX.\n\n8. In a new microcentrifuge tube, add 300 μL of 20 pM library to\n\n300 μL HT1 resulting in 600 μL of 10 pM library; mix by pipetting.\n\n9. In a new microcentrifuge tube, add 540 μL of the 10 pM\n\nlibrary and 60 μL of 20 pM denatured PhiX; mix by pipetting.\n\n10. Load 600 μL of the ﬁnal combined library in the “load sample\n\nwell” of the MiSeq cartridge.\n\n11. Enter the following parameters in the Local Run Manager\n\n(LRM) of the Miseq as depicted in Table 5.\n\n12. Fill the sample table with sample ID, and the associated index\n\nwell (A01 corresponding to the unique indexes D701 and D501 combination).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p12",
+        "source_issue_ids": [],
+        "text": "NGS-Based IGHV Mutational Status in CLL 163\n\nTable 5 Parameters to enter into the MiSeq Local Run Manager\n\nModule GenerateFASTQ\n\nWorkﬂow GenerateFASTQ\n\nLibrary Prep Kit TruSeq DNA-RNA CD Indexes 96 Indexes\n\nChemistry Amplicon\n\nRead Type Paired end\n\nIndex Reads 2\n\nRead 1 length 301\n\nRead 2 length 301\n\nIndex read 1 length 8\n\nIndex read 2 length 8\n\nAdapter Trimming On\n\nAdapter read 1 AGATCGGAAGAGCACACGTCTGAACTCCAGTCA\n\nAdapter read 2 AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n3.8 Bioinformatic Analysis on Vidjil Platform (See Note 9)\n\n1. After completion of the run (56 h), copy the FASTQ ﬁles from\n\nthe MiSeq directory on a hard drive.\n\n2. Connect to your Vidjil server and enter login and password (see\n\nNote 10).\n\n3. Create a run: click on run, and then click on [+ new runs]; enter\n\nrun ID, run name, date, and other information, and click on [save].\n\n4. Create new patients for each sample in the run: click on [+ new\n\npatients] and enter patient ID, ﬁrst name, last name, and other information; click on [save].\n\n5. Open the created run and click on [+ add samples].\n\n6. Choose pre-process scenario (read merging with Flash2): select\n\n[4- M + R2: Merge paired-end reads].\n\n7. Sample1: select R1 (ﬁrst ﬁle) and R2 (second ﬁle) FASTQ ﬁles\n\nby clicking on [Browse. . .]. Date of sampling and other infor-mations can be added. Importantly, the corresponding patient had to be associated with the sample by clicking its ID in the ﬁeld [sample information].\n\n8. Repeat for each sample [add other sample].\n\n9. Click on [submit samples].\n\n10. In the created run select process conﬁg [IGH] and click on the\n\ngear wheel to launch the analysis. The results are available when Completed appears in the status.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p13",
+        "source_issue_ids": [],
+        "text": "164 Anne Langlois de Septenville et al.\n\nFig. 1 Screenshot of results displayed Vidjil. The Vidjil platform provides an interactive visualization of antigen receptor repertoire from high-throughput data. The left panel lists the most frequent clonotypes, the most abundant being at the top (squared). By default, the 50 most frequent ones are displayed, the value being adjustable (from 5 to 100). The IGHV, IGHD, and IGHJ genes contributing to each clonotype are indicated as well as number of deleted/inserted nucleotides. Further information is available by clicking on the yellow triangles. At the top of the left panel, a summary of the sample sequencing quality data can be obtained by clicking on the “i” symbol. The top-right panel shows the size distribution of the clonotype average read length, simulating the traditional Genescan view of clonality analysis. The bottom-right panel offers a representation of the clonotypes according to their size and IGHV and IGHJ gene composition. Note that, in the vast majority of cases, the CLL dominant IGH clonotype appears surrounded by multiple small variant ones, differing by minor nucleotides changes. Sequence of the selected clonotype appears at the very bottom, the IGHV, IGHD, and IGHJ genes being highlighted. By clicking on the bent arrow above (circled), the sequence is sent automatically to IMGT/V-QUEST, IgBlast, and ARResT/AssignSubsets for further analysis\n\n11. To access results, go to the patient page and click on [IGH].\n\n12. The following information is displayed: (see also Fig. 1).\n\n(a) List of most abundant clonotypes on the left.\n\n(b) Graphic visualization by abundance and read length (on top).\n\n(c) Graphic visualization by abundance and V/J usage (on the bottom).\n\n13. Select the most abundant clonotype(s).\n\n14. Click on the curved arrow on the bottom of the page to send\n\nthe clonotype sequence to IMGT/V-QUEST [18] and ARResT/AssignSubsets [19] (see Note 11).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p14",
+        "source_issue_ids": [],
+        "text": "4 Notes\n\nNGS-Based IGHV Mutational Status in CLL 165\n\n1. Peripheral blood is the most common source of material and\n\nshould be collected (10–20 mL) in EDTA (or citrate)- containing tubes. Tumor material can also be obtained from tissues inﬁltrated by leukemic cells such as bone marrow or lymph nodes. Frozen biopsies are much preferred over formalin-ﬁxed parafﬁn-embedded tissue samples due to the need to amplify relatively large PCR products (median size around 400 bp).\n\n2. If necessary, the quality of the cDNA synthesis can be assessed\n\nby ampliﬁcation of a house-keeping gene, although this is not a mandatory step.\n\n3. The sequencing protocol uses dual index PCR primers. Each\n\nprimer contains, from 50 to 30, the following: (1) a set of nucleotides for ﬂow cell binding (P5 or P7), (2) a patient barcode index (forward D501-D508, reverse D701-D712), (3) a set of nucleotides for sequencing initiation, and (4) IGHV-Leader or IGHJ (or IGHC) speciﬁc primer sequence. The double barcode indexing allows up to 96 unique combinations in a single run.\n\n4. Primers are ordered according to a standard quality synthesis\n\nfollowed by polyacrylamide gel electrophoresis puriﬁcation. They are resuspended in nuclease-free water at a 100 μM concentration.\n\n5. When preparing primer mixes, only IGHV-Leader and IGHJ\n\nor IGHC primers containing the same barcode can be pooled. Take precautions to avoid cross-contamination between primers with different barcodes.\n\n6. This 0.75:1 (beads/PCR products) ratio allows selective recov-\n\nery of DNA fragments above 150 bp, thus eliminating primer dimers.\n\n7. Quantiﬁcation of puriﬁed PCR products should be done pref-\n\nerentially by ﬂuorometry. Several types of ﬂuorescence readers can be used, including Qubit® 4 Fluorometer (Thermo Fischer Scientiﬁc) or Clariostar (BMG Labtech). Only the latter is described here.\n\n8. In case of concentration above the standards (upper limit\n\n40 ng/μL), dilute the sample and repeat quantiﬁcation.\n\n9. There are numerous tools to analyze antigen receptor sequences produced by high-throughput sequencing [20]. Here we refer to Vidjil (https://app.vidjil.org/) [21, 22], an easy-to-use platform which does not require speciﬁc informatics skills. Note that the current online version is for research only, but an option compliant for clinical use can",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p15",
+        "source_issue_ids": [],
+        "text": "166 Anne Langlois de Septenville et al.\n\nbe purchased. ArresT/Interrogate developed within the EuroClonality-NGS working group is another well-adapted alternative [23].\n\n10. Several options exist for adding patient data on a Vidjil server,\n\nsee http://www.vidjil.org/doc/healthcare/\n\n11. More detailed information can be found in the user manual:\n\nhttp://www.vidjil.org/doc/user.\n\nAcknowledgments\n\nAnne Langlois de Septenville and Myriam Boudjoghra contributed equally to this work.\n\nReferences\n\n1. Hallek M, Shanafelt TD, Eichhorst B (2018)\n\nChronic lymphocytic leukaemia. Lancet 391: 1524–1537 2. Chiorazzi N, Stevenson FK (2020) Celebrat-\n\ning 20 years of IGHV mutation analysis in CLL. Hemasphere 4:e334 3. Sutton LA, Hadzidimitriou A, Baliakas P et al\n\n(2017) Immunoglobulin genes in chronic lymphocytic leukemia: key to understanding the disease and improving risk stratiﬁcation. Hae-matologica 102:968–971 4. Rossi D, Terzi-di-Bergamo L, De Paoli L et al\n\n(2015) Molecular prediction of durable remis-sion after ﬁrst-line ﬂudarabine-cyclophosphamide-rituximab in chronic lymphocytic leukemia. Blood 126:1921–1924 5. Fischer K, Bahlo J, Fink AM et al (2016) Long-\n\nterm remissions after FCR chemoimmunother-apy in previously untreated patients with CLL: updated results of the CLL8 trial. Blood 127: 208–215 6. Hallek M, Cheson BD, Catovsky D et al\n\n(2018) iwCLL guidelines for diagnosis, indica-tions for treatment, response assessment, and supportive management of CLL. Blood 131: 2745–2760 7. Tonegawa S (1983) Somatic generation of\n\nantibody diversity. Nature 302:575–581 8. Rajewsky K (1996) Clonal selection and learning in the antibody system. Nature 381: 751–758 9. Lefranc MP, Giudicelli V, Duroux P et al\n\n(2015) IMGT®, the international imMunoGeneTics information system® 25 years on. Nucleic Acids Res 43:D413–D422 10. Damle RN, Wasil T, Fais F et al (1999) Ig V\n\ngene mutation status and CD38 expression as\n\nnovel prognostic indicators in chronic lymphocytic leukemia. Blood 94:1840–1847 11. Hamblin TJ, Davis Z, Gardiner A et al (1999)\n\nUnmutated Ig V(H) genes are associated with a more aggressive form of chronic lymphocytic leukemia. Blood 94:1848–1854 12. Stamatopoulos K, Agathangelidis A, Rosen-\n\nquist R et al (2017) Antigen receptor stereotypy in chronic lymphocytic leukemia. Leukemia 31:282–291 13. Baliakas P, Hadzidimitriou A, Sutton LA et al\n\n(2014) Clinical effect of stereotyped B-cell receptor immunoglobulins in chronic lymphocytic leukaemia: a retrospective multicentre study. Lancet Haematol 1:e74–e84 14. Sutton LA, Young E, Baliakas P et al (2016)\n\nDifferent spectra of recurrent gene mutations in subsets of chronic lymphocytic leukemia har-boring stereotyped B-cell receptors. Haemato-logica 101:959–967 15. Rosenquist R, Ghia P, Hadzidimitriou A et al\n\n(2017) Immunoglobulin gene sequence analysis in chronic lymphocytic leukemia: updated ERIC recommendations. Leukemia 31: 1477–1481 16. Langerak AW, Bru¨ggemann M, Davi F et al\n\n(2017) High-throughput immunogenetics for clinical and research applications in immuno-hematology: potential and challenges. J Immu-nol 198:3765–3774 17. Davi F, Langerak AW, de Septenville AL et al\n\n(2020) Immunoglobulin gene analysis in chronic lymphocytic leukemia in the era of next generation sequencing. Leukemia 34: 2545–2551 18. Brochet X, Lefranc MP, Giudicelli V (2008)\n\nIMGT/V-QUEST: the highly customized",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 16
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p16",
+        "source_issue_ids": [],
+        "text": "NGS-Based IGHV Mutational Status in CLL 167\n\nand integrated system for IG and TR standar-dized V-J and V-D-J sequence analysis. Nucleic Acids Res 36:W503–W508 19. Bystry V, Agathangelidis A, Bikos V et al\n\n(2015) ARResT/AssignSubsets: a novel appli-cation for robust subclassiﬁcation of chronic lymphocytic leukemia based on B cell receptor IG stereotypy. Bioinformatics 31:3844–3846 20. Chaudhary N, Wesemann DR (2018) Analyz-\n\ning immunoglobulin repertoires. Front Immu-nol 9:462 21. Giraud M, Salson M, Duez M et al (2014) Fast\n\nmulticlonal clusterization of V(D)J\n\nrecombinations from high-throughput sequencing. BMC Genomics 15:409 22. Duez M, Giraud M, Herbert R et al (2016)\n\nVidjil: a web platform for analysis of high-throughput repertoire sequencing. PLoS One 11:e0166126. [Erratum in: PLoS One (2017) 12:e0172249] 23. Bystry V, Reigl T, Krejci A et al (2017)\n\nARResT/Interrogate: an interactive immuno-proﬁler for IG/TR NGS data. Bioinformatics 33:435–437\n\nOpen Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\n\nThe images or other third party material in this chapter are included in the chapter’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p2",
+        "source_issue_ids": [],
+        "text": "Chapter 10\n\nImmunoglobulin Gene Mutational Status Assessment by Next Generation Sequencing in Chronic Lymphocytic Leukemia\n\nAnne Langlois de Septenville, Myriam Boudjoghra, Clotilde Bravetti, Marine Armand, Mikae¨l Salson, Mathieu Giraud, and Frederic Davi\n\nAbstract\n\nB cell receptor (BcR) immunoglobulins (IG) display a tremendous diversity due to complex DNA rearrangements, the V(D)J recombination, further enhanced by the somatic hypermutation process. In chronic lymphocytic leukemia (CLL), the mutational load of the clonal BcR IG expressed by the leukemic cells constitutes an important prognostic and predictive biomarker. Here, we provide a reliable methodology capable of determining the mutational status of IG genes in CLL using high-throughput sequencing, starting from leukemic cell DNA or RNA.\n\nKey words Chronic lymphocytic leukemia, Immunoglobulin genes, Next generation sequencing, Somatic hypermutation analysis, Mutational status\n\n1 Introduction\n\nChronic lymphocytic leukemia (CLL) is a malignant clonal prolif-eration of mature B cells. It is the most frequent leukemia in adults in the Western world and is characterized by a marked clinical heterogeneity. For some patients, it is an indolent disease with no or only late need of treatment, while in others it displays an aggressive behavior requiring early initiation of therapy [1]. Many prognostic factors have been identiﬁed, and among them, the mutational status of the immunoglobulin heavy chain variable (IGHV) genes of the B cell receptor (BcR) has emerged as one of the most robust parameters [2]. It has several advantages as it is stable and can be evaluated at any time including at diagnosis and is independent of other clinical or biological factors [3]. In addition, it has also proved to be a predictive factor of response to chemoim-munotherapy [4, 5]. Therefore the recent guidelines from the International Workshop on CLL recommend that determination\n\nAnton W. Langerak (ed.), Immunogenetics: Methods and Protocols, Methods in Molecular Biology, vol. 2453, https://doi.org/10.1007/978-1-0716-2115-8_10, © The Author(s) 2022\n\n153",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p3",
+        "source_issue_ids": [],
+        "text": "154 Anne Langlois de Septenville et al.\n\nof the IGHV mutational status should be performed before treatment initiation both in clinical trials and in general practice [6].\n\nThe BcR IG display huge diversity in their variable regions which results from complex mechanisms: (1) assembly of variable (V), diversity (D), and joining (J) genes, (2) imprecise junction of these rearranged genes with random nucleotide insertion and dele-tions, and (3) pairing of heavy and light chains [7]. Further diversi-ﬁcation occurs after antigen encounter by somatic hypermutation in the V regions coupled with afﬁnity maturation of the BcR [8]. In tumors such as CLL, all leukemic cells bear the same clonal BcR which reﬂects the developmental stage from which they derive and constitutes a biomarker of the disease.\n\nDetermination of IGHV mutational status is achieved by sequencing the IGHV gene from the clonal IGH rearrangement of the leukemic cells, followed by its comparison with the closest germline counterpart from which it derives [9]. An identity <98% classiﬁes the CLL as “mutated” which is associated with a favorable outcome, while an identity \u000198% deﬁnes “unmutated” CLL and confers a poor prognosis [10, 11]. Since this initial observation in 1999, numerous studies have conﬁrmed that unmutated CLL have shorter time-to-ﬁrst treatment and overall survival when compared to mutated cases [2, 3]. In addition, large-scale repertoire analyses have shown that CLL display a skewed IG repertoire with a sizeable fraction of patients sharing quasi-identical IG variable heavy chain regions sequences, a phenomenon termed BcR IG stereotypy [12]. Importantly, some of these CLL cases belonging to the same stereotypic groups (or subsets) may also share similar clinical and biological features, separating them from other patients with the same IGHV mutational status [13, 14]. Therefore, BcR IG stereotypy further reﬁnes the categorization into mutated or unmutated CLL.\n\nThe European Research Initiative on CLL (ERIC) has published methodological guidelines and recommendations on how to perform and interpret IGHV mutational status in CLL [15]. The ﬁrst step consists in polymerase chain reaction (PCR) ampliﬁcation of clonal IGH rearrangements. Importantly, as the whole IGHV gene sequence is necessary for accurate calculation of the somatic hypermutation load, 50 primers need to be positioned upstream, e.g., on the leader peptide. Both genomic DNA (gDNA) and RNA extracted from leukemic cells can serve as templates, with gDNA having the advantage of being a more robust material, simpler to obtain and also a source for other genomic investigations. However, in a fraction of cases, ampliﬁcation from gDNA is hampered by the presence of somatic hypermutation in the primer binding sites. Although starting from RNA requires an additional step of reverse transcription (RT), this can be a useful alternative or com-plementary approach as it allows the use of primers binding to sequences less or not targeted by somatic hypermutation upstream",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p4",
+        "source_issue_ids": [],
+        "text": "2 Materials\n\n2.1 Sample Preparation\n\n2.2 Primer Preparation\n\n2.3 PCR Ampliﬁcation\n\n2.4 PCR Product Puriﬁcation\n\nNGS-Based IGHV Mutational Status in CLL 155\n\nand downstream of the IGHV-IGHD-IGHJ rearrangement, respectively, in the leader region L1 part and the constant regions. Sequencing of the IGH rearrangements amplicons was tradi-tionally performed by Sanger methodology. However, with the constant advance of next generation sequencing (NGS) in the diagnostic ﬁeld, there is a need to adapt this technology to IGHV mutational determination [16, 17]. Here, we describe detailed protocols for NGS-based determination of the IGHV mutational in CLL, starting from either gDNA or cDNA templates.\n\n1. 50 mL polypropylene tubes.\n\n2. UNI-SEPMaxi (EUROBIO Scientiﬁc).\n\n3. Phosphate-buffered saline (1\u0003PBS) pH 7.4 (Thermo Fisher\n\nScientiﬁc).\n\n4. Centrifuge.\n\n5. 1.5 mL microfuge tubes.\n\n6. Blood and Cell Culture DNA kit (Qiagen).\n\n7. RNAeasy Mini Kit (Qiagen).\n\n8. Nanodrop ND1000 (Thermo Fisher Scientiﬁc).\n\n9. Nuclease-free water (Promega).\n\n10. Thermocycler.\n\n1. Primers (Eurogentec).\n\n2. Nuclease-free water (Promega).\n\n3. 1.5 mL microfuge tubes (Eppendorf).\n\n1. PCR primers (see Tables 1 and 2).\n\n2. High Fidelity Platinum® Taq DNA Polymerase, 5 U/μL (with\n\n10\u0003 High Fidelity PCR Buffer and 50 mM MgSO4) (Thermo Fisher Scientiﬁc).\n\n3. dNTP Mix, 10 mM (Thermo Fisher Scientiﬁc).\n\n4. Nuclease-free water (Promega).\n\n5. 0.2 mL 96-well PCR plate (AB-0600) (Thermo Fisher\n\nScientiﬁc).\n\n6. Adhesive sealing sheets (Dominique Dutscher).\n\n7. Thermocycler (typically: Applied Biosystems Veriti 96).\n\n1. Agencourt AMPure XP beads (Beckman Coulter).\n\n2. Ethanol absolute (VWR).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p5",
+        "source_issue_ids": [],
+        "text": "156 Anne Langlois de Septenville et al.\n\nTable 1 Primers for gDNA template (sequence composition : flow cell binding adapter_[barcode]_sequencing primer site_gene-specific primer)\n\nForward primers (IGHV-leader)\n\nFlow cell binding adapter_[barcode]_sequencing sequence\n\naatgatacggcgaccaccgagatctacac_[barcode]_acactctttccctacacgacgctcttccgatct_\n\nIGHV-L2 sequence\n\nIGHL2_1.1 GTGTTCTCTCCACAGGAGCC\n\nIGHL2_1.2 GTGTCTTCTCTACAGGTGCCCA\n\nIGHL2_1.3 GTGTTCTCTCCACAGGTGCC\n\nIGHL2_1.4 GTGTCCTCTCCACAGGTGCC\n\nIGHL2_1.5 CTGTCCTCTCCACAGGCACC\n\nIGHL2_1.6 GTGTCCCCTCCACAGATGC\n\nIGHL2_1.7 GTGTCCTCTCCGCAGGTG\n\nIGHL2_1.8 GTGTCCTCTCCACAGGTGTCCAGTCC\n\nIGHL2_1.9 TTCTCTTCTCCACAGGCACC\n\nIGHL2_2.1 CTTATGTCTTCTCCACAGGGGTC\n\nIGHL2_2.2 CTTATGCTTTCTCCACAGGGGT\n\nIGHL2_3.1 TGTGTTTGCAGGTGTCCAGTG\n\nIGHL2_3.2 TGTGTTTGCAGCTGTCCAGTG\n\nIGHL2_3.3 TCTGTTTGCAGGTGTCCAGTG\n\nIGHL2_3.4 TTTGTTTGCAGGTGTCCAGTG\n\nIGHL2_3.5 TGTGTTTGCAGGTGTCCAATG\n\nIGHL2_3.6 CGTGTTTGCAGGTGTCCAGT\n\nIGHL2_4.1 GTCTCTCTGTTCACAGGGGTCC\n\nIGHL2_4.2 GTTTCTCTGTTCACAGGGGTCC\n\nIGHL2_4.3 GTTTTTCTGTTCACAGGGGTCC\n\nIGHL2_5.1 TCTCCCCCACAGGAGTCTGT\n\nIGHL2_5.2 TCTTCCATACAGGAGTCTGTGC\n\nIGHL2_61 TGTCTCCAGGTGTCCTGTCAC\n\nIGHL2_7.1 CTTCATGCACTCCCATCTCCT\n\nReverse primer (IGHJ)\n\nIGHJ sequence\n\ncaagcagaagacggcatacgagat_[barcode]_gtgactggagttcagacgtgtgctcttccgatct\n\nIGHJ CTTACCTGAGGAGACGGTGACC",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p6",
+        "source_issue_ids": [],
+        "text": "NGS-Based IGHV Mutational Status in CLL 157\n\nTable 2 Primers for cDNA template (sequence composition : flow cell binding adapter_[barcode]_ sequencing primer site_gene-specific primer)\n\nForward primers (IGHV-leader)\n\nFlow cell binding adapter_[barcode]_sequencing sequence\n\naatgatacggcgaccaccgagatctacac_[barcode]_acactctttccctacacgacgctcttccgatct\n\nIGHV-L1 sequence\n\nIGHL1_1 CTCACCATGGACTGSAYYTGGAG\n\nIGHL1_2 ATGGACAYACTTTGYTMCACRCTCC\n\nIGHL1_3 ATGGARTTKGGGCTKWGCTGGGTTT\n\nIGHL1_4 CTGTGGTTCTTYCTBCTSCTGGTGG\n\nIGHL1_5 CCTCCTCCTRGCTRTTCTCCAAG\n\nIGHL1_6 CTGTCTCCTTCCTCATCTTCCTGCC\n\nReverse primer (IGHC)\n\nFlow cell binding adapter_[barcode]_sequencing sequence\n\ncaagcagaagacggcatacgagat_[barcode]_gtgactggagttcagacgtgtgctcttccgatct\n\nIGHC sequence\n\nIGHC_mu GGTTGGGGCGGATGCACT\n\nIGHC_gamma CGATGGGCCCTTGGTGGA\n\n2.5 Quantiﬁcation of Puriﬁed PCR Products\n\n3. Magnetic Stand-96 (Invitrogen).\n\n4. Nuclease-free water (Promega).\n\n5. 0.2 mL 96-well PCR plate (AB-0600) (Thermo Fisher\n\nScientiﬁc).\n\n6. Microplate shaker (Eppendorf).\n\n7. Microplate centrifuge.\n\n1. Quant-iT™dsDNA High-Sensitivity Assay Kit (Thermo\n\nFischer Scientiﬁc).\n\n2. Microplate ﬂuorescence reader, such as Clariostar (BMG\n\nLabtech).\n\n3. MicroPlate 96-well, F-bottom (chimney well), black (Greiner).\n\n4. Adhesive PCR sealing foil sheets (Thermo Fisher Scientiﬁc).\n\n5. Microplate shaker (Eppendorf).\n\n6. Microplate centrifuge.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p7",
+        "source_issue_ids": [],
+        "text": "158 Anne Langlois de Septenville et al.\n\n2.6 Library Preparation\n\n2.7 Library Denaturation and Illumina MiSeq Sequencing\n\n2.8 Bioinformatics Analysis\n\n1. 0.2 mL 96-well PCR plate (AB-0600) (Thermo Fisher\n\nScientiﬁc).\n\n2. 1.5 mL microfuge tubes (Eppendorf).\n\n1. Sodium hydroxide (NaOH) 1 N (VWR).\n\n2. Nuclease-free water (Promega).\n\n3. 1.5 mL microfuge tubes (Eppendorf).\n\n4. EBT: 10 mM Tris-Cl, pH 8.5 (Buffer EB Qiagen) with 0.1%\n\nTween 20 (Euromedex).\n\n5. PhiX control (10 nM) (Illumina).\n\n6. MiSeq Reagent Kit v3 (600 cycles) (Illumina) including car-\n\ntridge, HT1 buffer, ﬂow cell and sequencing buffer.\n\n7. MiSeq System (Illumina).\n\n1. Vidjil platform account (support@vidjil.org).\n\n3 Methods\n\n3.1 Template Preparation (See Note 1)\n\n3.1.1 Lymphocyte Isolation from Peripheral Blood Using Density Gradient Separation\n\n3.1.2 Genomic DNA Extraction\n\n3.1.3 RNA Extraction and cDNA Synthesis\n\n1. Slowly add 10–17.5 mL of blood to a UNI-SEP Maxi tube.\n\n2. Centrifuge at 1000 \u0003 g for 15 min.\n\n3. Collect the mononuclear cell ring above the membrane and\n\ntransfer to a 50 mL tube; ﬁll up to 50 mL with PBS 1\u0003.\n\n4. Centrifuge at 600 \u0003 g for 10 min, and then discard the\n\nsupernatant.\n\n5. Resuspend the cell pellet in 1 mL of PBS and then ﬁll the tube\n\nwith PBS 1\u0003.\n\n6. Centrifuge at 600 \u0003 g for 10 min, and then discard the\n\nsupernatant.\n\n7. Repeat steps 5 and 6 of this section.\n\n8. Transfer the cell pellet into a 1.5 mL microfuge tube and\n\nremove all remaining supernatants.\n\n1. Extract gDNA from cell pellets or tissue biopsy with the Qia-\n\ngen DNA kit following the manufacturer’s instructions.\n\n2. Quantify DNA by spectrophotometry (Nanodrop) and adjust\n\nto a ﬁnal working concentration of 20 ng/mL with nuclease-free water.\n\n1. Extract RNA with the Qiagen RNAeasy Mini kit according the\n\nmanufacturer’s instructions and then quantify on a Nanodrop spectrophotometer.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p8",
+        "source_issue_ids": [],
+        "text": "3.2 Primer Preparation\n\n3.2.1 Primer Preparation for gDNA Template\n\n3.2.2 Primer Preparation for cDNA Template\n\n3.3 PCR Ampliﬁcation of IGH Rearrangements\n\nNGS-Based IGHV Mutational Status in CLL 159\n\n2. Dilute 1 μg of RNA in a microcentrifuge tube with nuclease-\n\nfree water in a 10 μL total volume and incubate 10 min at 70 \u0004C.\n\n3. Add 10 μL of the RT mix containing: 2 μL RT buffer (10\u0003),\n\n0.8 μL dNTP mix (25\u0003), 2 μL random primers (10\u0003), 1 μL MultiScribe reverse transcriptase (50 U/μL), 1 μL RNAase inhibitor (20 U/μL), 3.2 μL nuclease-free water.\n\n4. Place in a thermocycler with the following program: 10 min at\n\n25 \u0004C, 120 min at 37 \u0004C, 5 min at 85 \u0004C, 4 \u0004C on hold.\n\n5. Add 30 μL nuclease-free water.\n\n6. At this stage the cDNA mixture can be stored at \u000580 \u0004C (see\n\nNote 2).\n\nPrimer sequences are indicated in Table 1 (see Notes 3 and 4).\n\n1. Prepare a 100 μM forward primer mix by pooling each of the\n\n24 IGHV-Leader L2-part primers, all bearing the same barcode, in a microcentrifuge tube. Further dilute this primer mix with nuclease-free water to a ﬁnal 20 μM concentration.\n\n2. Dilute the reverse IGHJ primer with nuclease-free water to a\n\nﬁnal 5 μM concentration (see Note 5).\n\nPrimer sequences are indicated in Table 2 (see Notes 3 and 4).\n\n1. Prepare a 100 μM forward primer mix by pooling each of the\n\n6 IGHV-Leader L1-part primers, all bearing the same barcode, in a microcentrifuge tube.\n\n2. Prepare a 100 μM reverse primer mix by pooling each of the\n\n2 IGHC primers, all bearing the same barcode, in a microcentrifuge tube. Further dilute these primer mixes with nuclease-free water to a ﬁnal 5 μM concentration (see Note 5).\n\n1. Thaw, mix, and brieﬂy centrifuge each component before use.\n\n2. Prepare a PCR master mix by adding the components as shown\n\nin Table 3 for gDNA or Table 4 for cDNA.\n\n3. Dispense 40 μL of this mix in each well of the plate.\n\n4. Add 3 μL of forward primer mix.\n\n5. Add 2 μL of reverse primer mix.\n\n6. Add 5 μL of gDNA or cDNA template.\n\n7. Seal the plate with adhesive sheet.\n\n8. Shake brieﬂy and centrifuge (short pulse).\n\n9. Place the plate in a thermocycler. The PCR program is the\n\nfollowing: denaturation at 95 \u0004C for 3 min; 35 cycles of 95 \u0004C for 45 s, 63 \u0004C for 45 s, 68 \u0004C for 1 min; ﬁnal extension at 68 \u0004C for 10 min; 12 \u0004C on hold.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1007/978-1-0716-2115-8_10",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_sha256": "5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab",
+          "source_url": "https://doi.org/10.1007/978-1-0716-2115-8_10"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab:p9",
+        "source_issue_ids": [],
+        "text": "160 Anne Langlois de Septenville et al.\n\nTable 3 PCR mix for gDNA template\n\nReagents Volume per reaction Final concentration\n\nPCR master mix (40 μL per reaction)\n\n10\u0003 High Fidelity PCR Buffer 5 μL 1x\n\n50 mM MgSO4 3.5 μL 3.5 mM\n\n10 mM dNTP mix 1 μL 0.2 mM\n\nPlatinum® HighFidelity Taq Polymerase (5 U/μL) 0.2 μL 1 U\n\nPCR-grade water 30.3 μL –\n\nPrimers\n\n20 μM forward primer mix 3 μL 1.2 μM\n\n5 μM reverse primer 2 μL 0.2 μM\n\nTemplate\n\n20 ng/μL gDNA 5 μL 100 ng\n\nTable 4 PCR mix for cDNA template\n\nReagents Volume per reaction Final concentration\n\nPCR master mix (40 μL per reaction)\n\n10\u0003 High Fidelity PCR Buffer 5 μL 1\u0003\n\n50 mM MgSO4 3.5 μL 3.5 mM\n\n10 mM dNTP mix 1 μL 0.2 mM\n\nPlatinum® HighFidelity Taq Polymerase (5 U/μL) 0.2 μL 1 U\n\nPCR-grade water 30.3 μL –\n\nPrimers\n\n5 μM forward primer mix 3 μL 0.3 μM\n\n5 μM reverse primer 2 μL 0.2 μM\n\nTemplate\n\n20 ng/μL gDNA 5 μL 100 ng\n\n3.4 PCR Product Puriﬁcation\n\n10. At this stage, the plate can be sealed and stored at \u000520 \u0004C for\n\nlater usage.\n\n1. Preparation.\n\n(a) Prepare fresh 70% ethanol for optimal results.\n\n(b) Agencourt AMPure XP bottle should be used at room temperature.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:5bdee3d8128d6822ea1725febd879a3b312eae6b02f7c8baa44a974d886758ab"
+}

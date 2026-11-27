@@ -1,0 +1,697 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T15:45:02.768955+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Mental health before and during the COVID-19 pandemic: a longitudinal probability sample survey of the UK population",
+        "year": null
+      },
+      "doi": "10.1016/s2215-0366(20)30308-4",
+      "format": "pdf",
+      "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+      "url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p1",
+        "source_issue_ids": [],
+        "text": "King’s Research Portal\n\nDOI: 10.1016/S2215-0366(20)30308-4\n\nDocument Version Peer reviewed version\n\nLink to publication record in King's Research Portal\n\nCitation for published version (APA): Pierce, M., Hope, H., Ford, T., Hatch, S., Hotopf, M., John, A., Kontopantelis, E., Webb, R., Wessely, S., McManus, S., & Abel, K. M. (2020). Mental health before and during the COVID-19 pandemic: a longitudinal probability sample survey of the UK population. The Lancet Psychiatry, 7(10), 883-892. https://doi.org/10.1016/S2215-0366(20)30308-4\n\nCiting this paper Please note that where the full-text provided on King's Research Portal is the Author Accepted Manuscript or Post-Print version this may differ from the final Published version. If citing, it is advised that you check and use the publisher's definitive version for pagination, volume/issue, and date of publication details. And where the final published version is provided on the Research Portal, if citing you are again advised to check the publisher's website for any subsequent corrections. General rights Copyright and moral rights for the publications made accessible in the Research Portal are retained by the authors and/or other copyright owners and it is a condition of accessing publications that users recognize and abide by the legal requirements associated with these rights.\n\n•Users may download and print one copy of any publication from the Research Portal for the purpose of private study or research. •You may not further distribute the material or use it for any profit-making activity or commercial gain •You may freely distribute the URL identifying the publication in the Research Portal Take down policy If you believe that this document breaches copyright please contact librarypure@kcl.ac.uk providing details, and we will remove access to the work immediately and investigate your claim.\n\nDownload date: 18. Nov. 2026",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p10",
+        "source_issue_ids": [],
+        "text": "Role of the funding source\n\nThis study was unfunded. The corresponding author had full access to all the data in the study and\n\nhad final responsibility for the decision to submit for publication.\n\nResults\n\n19,763 participants contributed data to at least one of the COVID-19 web surveys (58% female). Half\n\n(53%) of these completed all COVID-19 web survey’s and 19% completed only one (most commonly\n\n-14% - just the first). A detailed description of respondents to each web-survey and the pre-\n\npandemic survey are available in supplementary Table S1 and patterns of web-survey non-\n\nresponse are provided in supplementary Table S2.\n\nPopulation trends\n\nOver the first five waves of the COVID-19 web survey, mean GHQ-12 score for the total population\n\npeaked at 12·9 at the end of June, before improving, although not to pre-pandemic levels (Figure 1).\n\nThe temporal trend varied by sex and age group (Figure 2), with the initial peak most pronounced\n\nat ages 16-24-years. Those aged 45 and older had relatively little variation in GHQ-12 score over\n\ntime up to October 2020. A similar pattern was evident for temporal trends in prevalence of\n\nclinically significant levels of mental distress (see Figure S1 in the Supplementary Materials).\n\nBy examining temporal trends for individual GHQ-12 items it emerged that there was greater\n\ntemporal variation for some items than others (Figure S2 in supplementary table). Enjoyment in\n\nday-to-day activities showed the strongest pandemic effect, at least initially. Other items indicative\n\nof a sustained pandemic effect were loss of sleep, feeling under strain, and feeling unhappy and\n\ndepressed. Sensitivity analysis revealed that these trends persisted when the question “Have you\n\nrecently been able to enjoy your day-to-day activities” was removed from the GHQ-12 total (Figure\n\nS3 in supplementary material).\n\nLatent class trajectories\n\nAfter fitting latent class growth models with two to seven latent classes, the six-class model was\n\nassociated with the lowest BIC and therefore considered the best fit (Supplementary Table S4).\n\nFrom this model, six distinct mental health trajectories emerged (Figure 3). Most individuals in the\n\npopulation had either consistently good (46·2%, n=9,103) or consistently very good (30.6%, n=621)",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p11",
+        "source_issue_ids": [],
+        "text": "mental health across the pandemic, with little divergence from their pre-pandemic scores. Two\n\n’recovering’ groups (recovery 13·0% n=2,283 and marked recovery 2·8% n=496) worsened during the\n\ninitial ‘shock’ of the pandemic and then returned to around pre-pandemic levels of mental health\n\nby October. The two remaining groups were characterised by poor mental health over the course\n\nof the pandemic: for one group, (2·3%, n=375) there was an initial worsening in mental health which\n\nwas sustained with highly elevated scores. The other group (4·8%, n=885) experienced no initial\n\nacute deterioration in their mental health, but rather reported a steady sustained decline in mental\n\nhealth over time.\n\nCharacteristics of people following the six trajectories are shown in Table 1. People with\n\nconsistently very good mental health were more likely than the rest of the population to be male,\n\nolder, partnered, without prior health conditions and to live in the most affluent neighbourhoods. In\n\ncontrast, those in the deteriorating mental health group were more likely to be women, without a\n\npartner and keyworkers. Those in the consistently very poor group were more likely than the\n\ngeneral population to be mixed ethnicity, women, shielding, living in deprived neighbourhoods,\n\nwithout a partner and having prior mental illness. People in the two ‘recovering’ categories,\n\ncharacterised by initial reaction followed by recovery, were more likely to be women, young adults,\n\nor have children living in the household.\n\nFixed-effect regression\n\nResults from the fixed-effects regression (Table 2) showed that having confirmed or suspected\n\nCOVID infection was associated with a subsequent increase in GHQ-12 score, which was more\n\npronounced among confirmed cases (2·08, 1·06 to 3·10) than for suspected cases (0·24, 0·01 to\n\n0·46). Living in an area under local lockdown measures (0·24, 0·01 to 0·46) and having problems\n\npaying bills (0·59, 0·12 to 1·06) were also linked to subsequent worsening in mental health. In\n\nsensitivity analysis, these inferences were consistent when an adapted version of the GHQ-12 was\n\nused (Supplementary table S5).\n\nDiscussion\n\nKey findings\n\nThis study followed mental health in a random probability sample of the UK across a 6-month\n\nperiod of the pandemic. Overall, we report that, in the UK, mental health only started to recover by\n\nJuly 2020 (later than previously reported); and that it continued to improve through to October",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p12",
+        "source_issue_ids": [],
+        "text": "2020, although not to pre-pandemic levels. This overall view masks the very different experiences\n\nencountered by people as the pandemic progressed, which we identified using latent class\n\nanalysis. Six distinct trajectories emerged: three quarters had either consistently very good or\n\ngood mental health throughout the pandemic (77%); a significant minority (around 7%) reported a\n\nvery different experience, with very poor or steadily worsening mental health and, by October\n\n2020, this group was experiencing far more mental health symptoms than they had before the\n\npandemic. These trajectories were not equally distributed in the population; living in a deprived\n\nneighbourhood, shielding for health reasons, and self-reporting a prior mental illness diagnosis\n\nwere all significantly more common in individuals whose mental health worsened between April\n\nand October 2020. Whilst men, older age-groups and those living in affluent areas were most likely\n\nto have maintained good mental health throughout.\n\nFor women, the picture was complex; they were more likely than men to have deteriorating or very\n\npoor mental health trajectories. However, compared to our last report where women stood out as\n\nbeing worse affected than men at the start of the pandemic2, in this update, they were over-\n\nrepresented in the ‘recovered’ groups. Of note, this is also the case for parents of young children\n\nand for young people: many parents and young people who suffered precipitous decline in their\n\nmental health at the beginning of the pandemic2 appear to have improved by October 2020. Several\n\nfactors may play a role in their improving mental health over this period. For example, easing of\n\nnational containment measures, school re-openings, summer holidays, and falling infection and\n\ndeath rates. The change in keyworkers’ mental health is also notable. In our first report, at the\n\nstart of the pandemic, they did not show a decline in mental health; but many are reporting\n\nworsening mental health at subsequent time points.\n\nResults from fixed-effects regression reveal pandemic-specific effects. We corroborate findings\n\nfrom registry studies that confirmed diagnosis of COVID-19 is associated with a subsequent steep\n\ndecline in mental health9. Longer-term follow-up of COVID patients is required to assess who is\n\nmost affected and whether this translates into long-term clinical need for mental health services.\n\nAlso, for the first time, we reveal that local lockdown measures were negatively affecting mental\n\nhealth.\n\nComparison with literature\n\nThe overall positive message in the UK about the general population’s mental health during the\n\npandemic appears to mirror findings from earlier convenience surveys: these reported a rapid\n\ndecline to the lowest level of mental health at the beginning of the pandemic, followed by a ‘bounce",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p13",
+        "source_issue_ids": [],
+        "text": "back’ 3. Our results are also consistent with most reports from the US17 and across Europe3,5 of an\n\noverall improvement in mental health in populations since the initial deterioration at the beginning\n\nof the pandemic. However, whereas these report improvements almost immediately after the start\n\nof the pandemic, we found that recovery in population mental health did not occur in the UK until\n\nJuly 2020, coinciding with the lifting of national lockdown measures. This divergence in findings\n\ncould be because there was considerable attrition in other convenience surveys and those with\n\npoor or deteriorating mental health are more likely to drop out, resulting in assessment of trends\n\nbiased towards better mental health7. In the Understanding Society sample, 7% of respondents\n\ncompleted only one survey while 51% completed all five COVID-19 waves (see Supplementary table\n\nS2). In addition, sophisticated weights were deployed to account for longitudinal non-response.\n\nUnlike previous reports, our findings also provide important new signals of deteriorating mental\n\nhealth in particular groups as the pandemic developed through to the Autumn of 2020. Other\n\nstudies defined groups by social or economic characteristics and described the mental health\n\ntrajectory of these. In contrast, we identified the different mental health trajectories and then\n\ndescribed the social and economic characteristics associated with each distinct trajectory. This\n\napproach led to a focus on those with deteriorating or consistently poor mental health, and\n\nallowed us not only to identify individuals of greatest clinical relevance but also to isolate\n\npredictors of deterioration. This may be especially relevant given Chandola et al’s10 recent report of\n\ndeteriorating mental health in those experiencing financial stressors using the same COVID-19\n\nUnderstanding Society dataset up to July 2020. However, these investigators did not find an effect\n\nof having problems paying bills, which might result from the lower statistical power of shorter\n\nfollow-up and a dichotomised outcome measure. Our latent class model revealed six distinct\n\ntrajectories of mental health across the Spring to early Autumn 2020 pandemic months. These\n\ntrajectories are strikingly similar to those reported across six years of data collection in the UK,\n\nalbeit using a different measure (SF12)18. We might conclude from this comparison that the\n\npandemic has resulted in an acceleration of the rate of change of mental health among UK adults.\n\nThe fact that those in the lowest income areas were more likely to experience declines suggests\n\nthat existing mental health inequalities are being accentuated.\n\nStrengths and limitations\n\nThis analysis has several important strengths. First, the sample was identified using random\n\nprobability sampling. This is greatly preferable to surveys that use convenience sampling, which\n\nlack a theoretical basis for correcting sampling bias or for statistical inference6. Second, as well\n\nas including multiple post-pandemic time-points, unlike many other mental health surveys",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p14",
+        "source_issue_ids": [],
+        "text": "following the pandemic, this sample includes pre-pandemic data. This allows us to consider\n\nwhether individuals’ mental health had recovered to where it was prior to the pandemic. Lastly, the\n\nlarge sample size and rich set of covariates provides sufficient statistical power to identify latent\n\nclass trajectories and characteristics that were associated with them.\n\nThis study has some limitations. We lacked longitudinal data on some adversities that might have\n\ngiven a more complete picture of the determinants of mental health during the pandemic, such as\n\nexposure to violence and abuse, or health behaviours, like diet and exercise. This information\n\nwould help inform interventions aimed at preserving or improving mental health during the\n\npandemic. Also, whilst the GHQ-12 is a validated measure of mental health19, it does not reveal\n\nclinical need directly. A prior mental illness diagnosis was ascertained from self-report and the\n\nestimated prevalence (6.5%) is far lower than expected, indicating substantial underreporting.\n\nThese data might normally be ascertained from routinely collected clinical contacts; however,\n\nthere has been a fall in visits to primary care for mental illness20, even while people’s mental\n\nhealth was apparently worsening. Finally, our study only includes data up to the beginning of\n\nOctober 2020, before the second and third waves of COVID-19 restrictions in the UK. National\n\nsurvey data reported that post-pandemic anxiety was at its lowest in July 2020 and has increased\n\nagain up to January 202121.\n\nConclusions and Implications\n\nCompared to previous rapid convenience surveys that suggested the UK’s mental health adjusted\n\nquickly to the social changes surrounding the pandemic, our results imply that a more prolonged\n\ndeterioration in mental health occurred with relatively little psychological adjustment or\n\nhabituation, until lockdown measures were revoked. We also find an effect of localised lockdowns\n\non people’s levels of mental distress. We might anticipate similar effects to have occurred during\n\nsubsequent national lockdowns in November 2020 and January 2021.\n\nOur findings have important implications for mental health policymakers and service planners.\n\nMany individuals with deteriorating mental health may be existing service users whose symptoms\n\nhave been worsening over time. These individuals’ mental health may continue to deteriorate with\n\nthe ‘double dip’ recession anticipated for the UK post-Brexit and post-pandemic22. Therefore,\n\nsocioeconomic policies should be central to pandemic recovery programmes to take account of\n\nthe mental health effects seen in deprived communities and the further likely effects of school\n\nclosures, financial hardship, job insecurity and local restrictions.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p15",
+        "source_issue_ids": [],
+        "text": "Mental health services may also expect to see increased demand from approximately 10% of\n\nindividuals recovering from COVID-1923 who develop features of so-called ‘long Covid’ including\n\npsychiatric illness9. Preventive interventions might usefully be targeted at the vulnerable groups of\n\npeople that we have identified, including keyworkers who were more likely to report deteriorating\n\nmental health. In advance of further lockdowns, public mental health should be a priority and\n\nareas of deprivation should be targeted.\n\nAcknowledgements The Understanding Society COVID-19 Study is funded by the Economic and\n\nSocial Research Council and the Health Foundation Ipsos. Fieldwork for the study is carried out by\n\nMORI and Kantar. Understanding Society is an initiative funded by the Economic and Social\n\nResearch Council and various Government Departments, with scientific leadership by the Institute\n\nfor Social and Economic Research, University of Essex. The research data are distributed by the\n\nUK Data Service. Ethics approval was granted by the University of Essex Ethics Committee for the\n\nCOVID-19 web and telephone surveys (ETH1920-1271).\n\nRole of the funding source There was no funding source for this study. The corresponding author\n\nhad full access to all the data in the study and had final responsibility for the decision to submit for\n\npublication.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 16
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p16",
+        "source_issue_ids": [],
+        "text": "References\n\n1 Xiong J, Lipsitz O, Nasri F, et al. Impact of COVID-19 pandemic on mental health in the\n\ngeneral population: A systematic review. J. Affect. Disord. 2020. DOI:10.1016/j.jad.2020.08.001.\n\n2 Pierce M, Hope H, Ford T, et al. Mental Health Before and During the COVID-19 Pandemic: A\n\nLongitudinal Probability Sample Survey of the UK Population. SSRN Electron J 2020; 0366: 1–\n\n10.\n\n3 Fancourt D, Steptoe A, Bu F. Trajectories of anxiety and depressive symptoms during\n\nenforced isolation due to COVID-19: longitudinal analyses of 36,520 adults in England. The\n\nLancet Psychiatry 2020; 0366: 1–9.\n\n4 Bu F, Steptoe A, Fancourt D. Loneliness during a strict lockdown: Trajectories and\n\npredictors during the COVID-19 pandemic in 38,217 United Kingdom adults. Soc Sci Med 2020.\n\nDOI:10.1016/j.socscimed.2020.113521.\n\n5 Varga T V., Bu F, Dissing AS, et al. Loneliness, worries, anxiety, and precautionary\n\nbehaviours in response to the COVID-19 pandemic: a longitudinal analysis of 200,000\n\nWestern and Northern Europeans. Lancet Reg Heal - Eur 2021; : 100020.\n\n6 Pierce M, McManus S, Jessop C, et al. Says who? The significance of sampling in mental\n\nhealth surveys during COVID-19. The Lancet Psychiatry 2020; 0366: 19–20.\n\n7 Czeisler MÉ, Wiley JF, Czeisler CA, Rajaratnam SMW, Howard ME. Uncovering Survivorship\n\nBias in Longitudinal Mental Health Surveys. medRxiv 2021; : 1–20.\n\n8 Thombs BD, Bonardi O, Rice DB, et al. Curating evidence on mental health during COVID-19:\n\nA living systematic review. J. Psychosom. Res. 2020. DOI:10.1016/j.jpsychores.2020.110113.\n\n9 Taquet M, Luciano S, Geddes JR, Harrison PJ. Bidirectional associations between COVID-19\n\nand psychiatric disorder: retrospective cohort studies of 62 354 COVID-19 cases in the USA.\n\nThe lancet Psychiatry 2020; 0366: 1–11.\n\n10 Chandola T, Kumari M, Booker CL, Benzeval MJ. The mental health impact of COVID-19 and\n\npandemic related stressors among adults in the UK. Psychol Med 2020; : 1–10.\n\n11 University of Essex, Institute for Social and Economic Research, NatCen Social Research,\n\nKantar Public. Understanding Society: Waves 1-9, 2009-2018 and Harmonised BHPS: Waves\n\n1-18, 1991-2009. [data collection]. 12th Edition. UK Data Service. 2019.\n\nDOI:http://doi.org/10.5255/UKDA-SN-6614-13.\n\n12 Burton J, Lynn P, Benzeval M. How Understanding Society: The UK Household longitudinal\n\nstudy adapted to the COVID-19 pandemic. Surv Res Methods 2020.\n\nDOI:10.18148/srm/2020.v14i2.7746.\n\n13 Institute of Social and Economic Research. Understanding Society COVID-19 User Guide.\n\nVersion 5.0. Colchester, 2020.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 17
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p17",
+        "source_issue_ids": [],
+        "text": "14 Pevalin DJ. Multiple applications of the GHQ-12 in a general population sample: An\n\ninvestigation of long-term retest effects. Soc Psychiatry Psychiatr Epidemiol 2000.\n\nDOI:10.1007/s001270050272.\n\n15 Institute for Government. Coronavirus: local lockdowns. 2021.\n\nhttps://www.instituteforgovernment.org.uk/explainers/coronavirus-local-lockdowns.\n\n16 Jones BL, Nagin DS. A Note on a Stata Plugin for Estimating Group-based Trajectory Models.\n\nSociol Methods Res 2013. DOI:10.1177/0049124113503141.\n\n17 M. D, Robinson E. AO - Daly MO http://orcid. org/000.-0003-1557-8326. Psychological\n\ndistress and adaptation to the COVID-19 crisis in the United States. J Psychiatr Res 2020.\n\nDOI:http://dx.doi.org/10.1016/j.jpsychires.2020.10.035.\n\n18 Curtis S, Cunningham N, Pearce J, Congdon P, Cherrie M, Atkinson S. Trajectories in mental\n\nhealth and socio-spatial conditions in a time of economic recovery and austerity: a\n\nlongitudinal study in England 2011-17. Soc Sci Med 2020; 270: 113654.\n\n19 Goldberg DP, Gater R, Sartorius N, et al. The validity of two versions of the GHQ in the WHO\n\nstudy of mental illness in general health care. Psychol Med 1997.\n\nDOI:10.1017/S0033291796004242.\n\n20 Carr MJ, Steeg S, Webb RT, et al. Effects of the COVID-19 pandemic on primary care-\n\nrecorded mental illness and self-harm episodes in the UK: a population-based cohort study.\n\nLancet Public Heal 2021; 2667: 1–12.\n\n21 Office for National Statistics. Coronavirus and the social impacts on Great Britain: 15\n\nJanuary 2021. Heal. Wellbeing. 2021.\n\nhttps://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwell\n\nbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/15january2021.\n\n22 Romei V. UK at risk of double-dip recession as economy shrinks in November. Financ.\n\nTimes. 2021; published online Jan 15. https://www.ft.com/content/98d2c130-ac89-4eea-\n\n97a3-dc4636adc95d.\n\n23 Office for National Statistics. The prevalence of long COVID symptoms and COVID-19\n\ncomplications. Statements Lett. 2020.\n\nhttps://www.ons.gov.uk/news/statementsandletters/theprevalenceoflongcovidsymptomsan\n\ndcovid19complications.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 18
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p18",
+        "source_issue_ids": [],
+        "text": "Table 1: Proportion of membership in each latent class group according to key demographics\n\nLatent class group Characteristic All Consistently very good (n=6,621, 30·9%)\n\nConsistently good (n=9,103, 46·2%)\n\nRecovery (n=2,283, 13·0%)\n\nMarked recovery (n = 496, 2·8%)\n\nDeteriorating (n= 885, 4·8%)\n\nConsistently very poor (n= 375, 2·3%)\n\np-value\n\nAll 100 100 100 100 100 100 Gender <0·001 Women 50·9 42·0 50·8 63·8 68·4 58·5 60·1 Men 49·1 58·0 49·2 36·2 31·6 41·5 39·9 Age-group <0·001 16-24 13·1 6·5 16·3 13·7 19·9 16·8 16·4 25-34 16·1 10·7 17·6 21·1 21·9 17·5 22·9 35-44 15·3 12·5 16·0 18·3 20·4 16·2 15·8 45-54 17·6 18·4 16·9 17·4 15·4 19·6 22·0 55-69 23·0 29·0 20·9 19·2 15·6 21·1 19·7 70+ 14·8 23·0 12·3 10·3 6·8 8·8 3·1 Ethnicity <0·001 White British 86·0 88.5 85.6 84.4 88.1 85.5 69.5 White non-British 3·6 3.1 4.4 2.4 5.3 2.5 2.1\n\nMixed 2·1 1.4 1.9 2.5 1.3 2.4 14.9\n\nAsian 5·6 3.7 6.0 7.7 5.1 8.5 6.4\n\nBlack 2·1 2.8 1.9 1.5 0.2 0.8 6.9\n\nOther 0·5 0.5 0.3 1.5 0.0 0.4 0.3 Age of youngest child in household <0·001 None 72·5 77·2 70·9 69·4 59·3 72·0 74·4 <6 years 8·6 6·6 9·5 10·4 12·1 7·0 7·2 6-15 years 19·0 16·3 19·7 20·1 28·6 21·1 18·4 Lives with partner <0·001 Yes 48·1 60·4 46·4 36·8 32·8 38·0 18·9 No 51·9 39·6 53·6 63·2 67·2 62·0 81·1 Keyworker 0·026 Yes 29·6 29·4 29·7 29·4 29·8 36·3 19·6 No 70·4 70·6 70·3 70·6 70·2 63·7 80·4 NHS shielding letter received <0·001 Yes 7·2 6·3 6·2 9·6 5·7 10·3 21·3 No 92·8 93·8 93·8 90·4 94·4 89·7 78·8 Index of Multiple Deprivation quintile <0·001 Most deprived 18·4 14·3 18·1 21·8 21·6 25·4 40·7\n\n2nd 19·5 18·3 19·7 20·3 23·9 22·5 18·0 3rd 19·6 19·8 20·0 20·4 16·5 15·3 15·7 4th 22·3 24·9 21·5 21·5 18·8 19·2 16·5 Least deprived 20·3 22·7 20·8 16·0 19·2 17·7 9·1\n\nPrior mental illness <0·001 Yes 6·6 2·3 6·2 12·2 14·3 12·6 16·1 No 93·4 97·7 93·8 87·8 85·7 87·4 83·9 p-values for test of association between variable and trajectory.\n\nWave-specific frequencies for each covariate are provided in supplementary Table S1",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "No usable extraction at attachment; an admin must provide and check clear text."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 19
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p19",
+        "source_issue_ids": [],
+        "text": "",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p2",
+        "source_issue_ids": [],
+        "text": "Different mental health responses to the COVID-19 pandemic: latent class trajectory analysis using\n\nlongitudinal UK data\n\nPierce, Matthias*; McManus, Sally; Holly Hope; Hotopf, Matthew; Ford, Tamsin; Hatch, Stephani; John, Ann; Kontopantelis, Evangelos; Webb, Roger; Wessely, Simon; Abel, Kathryn**\n\n*corresponding author: matthias.pierce@manchester.ac.uk **senior author.\n\nCentre for Women’s Mental Health (M Pierce PhD, H Hope PhD, Prof K M Abel MD), Division of Informatics (Prof E Kontopantelis PhD), and Division of Psychology and Mental Health (M Pierce, Prof R Webb PhD, H Hope, Prof K M Abel), Faculty of Biology, Medicine and Health Sciences, and National Institute for Health Research Greater Manchester Patient Safety Translational Research Centre (Prof R Webb), University of Manchester, Manchester, UK\n\nNational Centre for Social Research, London, UK (S McManus MSc), School of Health Sciences, City, University of London, London, UK (S McManus)\n\nDepartment of Psychiatry, University of Cambridge, Cambridge, UK (Prof T Ford PhD)\n\nDepartment of Psychological Medicine, Institute of Psychiatry, Psychology and Neuroscience (Prof S Hatch PhD, Prof M Hotopf PhD, Prof S Wessely FMedSci), ESRC Centre for Society and Mental Health (Prof S Hatch), King’s College London, London, UK; Biomedical Research Centre, South London and Maudsley NHS Foundation Trust, London (Prof M Hotopf)\n\nPopulation Data Science, Swansea University Medical School, Swansea University, Swansea, UK (Prof A John PhD);\n\nGreater Manchester Mental Health NHS Foundation Trust, Manchester, UK (Prof K M Abel PhD)\n\nFunding\n\nNone.\n\nKey words\n\nCOVID-19; trajectories; mental health; inequalities.\n\nWord count: 4193 (exc. Summary)/4500",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 20
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p20",
+        "source_issue_ids": [],
+        "text": "Table 2 Fixed effect model: effect of dynamic time-dependent variables on within-subject change in\n\nGHQ-12\n\nVariable Mean change in\n\nGHQ-12\n\n95% Confidence\n\nInterval\n\nLocal lockdown 0·24 0·01, 0·46\n\nCOVID-19 infection status\n\nNo suspected symptoms REF\n\nSuspected COVID-19\n\nsymptoms\n\n0·23 0·04, 0·41\n\nConfirmed COVID-19 2·08 1·06, 3·10\n\nProblems paying bills 0·59 0·12, 1.06\n\nWave-specific frequencies for each covariate are in supplementary Table S1",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 21
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p21",
+        "source_issue_ids": [],
+        "text": "Figure 1: Overall mean GHQ-12 score by month of data collection. The dashed line represents the\n\npre-pandemic average (from 2018-2019).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 22
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p22",
+        "source_issue_ids": [],
+        "text": "Figure 2: Mean GHQ-12 score by month of data collection, by age group and gender. The dashed\n\nlines represent the pre-pandemic average (from 2018-2019).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 23
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p23",
+        "source_issue_ids": [],
+        "text": "Figure 3: Observed mean GHQ-12 score from 6 class-specific trajectories across five waves of\n\ndata collection during the pandemic. The dashed line indicates the change from their pre-pandemic\n\nscore.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p3",
+        "source_issue_ids": [],
+        "text": "Summary (words: 250/250)\n\nBackground\n\nThe UK population’s mental health declined at the pandemic onset. Convenience sample surveys\n\nindicate recovery began soon after. Using a probability sample, we tracked average mental health\n\nduring the pandemic, characterised distinct mental health trajectories and identified predictors of\n\ndeterioration.\n\nMethods\n\nSecondary analysis of five waves of UK Household Longitudinal Survey from late April-early\n\nOctober 2020 and pre-pandemic data, 2018-2019. Mental health was assessed in 19,763 adults (≥16\n\nyears) using 12-item General Health Questionnaire. Latent class growth models identified discrete\n\nmental health trajectories and fixed-effects regression identified predictors of change in mental\n\nhealth.\n\nFindings\n\nAverage population mental health deteriorated with onset of the pandemic and did not begin\n\nimproving until July 2020. Latent class analysis identified six distinct mental health trajectories up\n\nto October 2020. Three-quarters had consistently good (46·2%) or very good (30·9%) mental health.\n\nTwo ‘recovery’ groups (15·8%) initially experienced marked declines in mental health, improving to\n\ntheir pre-pandemic levels by October. For 4·8%, mental health steadily deteriorated and for 2·3% it\n\nwas very poor throughout. These two groups were more likely to have pre-existing mental or\n\nphysical ill-health, live in deprived neighbourhoods and be non-white. Infection with COVID-19,\n\nlocal lockdown and financial difficulties all predicted subsequent mental health deterioration.\n\nInterpretation\n\nBetween April-October 2020, the mental health of most UK adults remained resilient or returned\n\nto pre-pandemic levels. One-in-fourteen experienced deteriorating or consistently poor mental\n\nhealth. People living in areas affected by lockdown, struggling financially, with pre-existing\n\nconditions or COVID infection might benefit most from early intervention.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p4",
+        "source_issue_ids": [],
+        "text": "Evidence before this study\n\nWe searched Embase, Psychinfo and Medline for articles published in English between Jan 1 2020\n\nand Jan 31, 2021 that contained terms relating to mental illness (`psychiatr*’ or ‘mental’ or `distress’\n\nor `depression’ or `anxiety’), COVID, and longitudinal analysis (‘trajector*’ or `longitudinal’ or `latent\n\ncurve’). Of 496 studies retrieved only 13 conducted a trend analysis. Studies with a pre-pandemic\n\nbaseline showed that population mental health deteriorated with the onset of the pandemic in the\n\nUK, US, China and other European countries. Most studies were drawn from convenience samples\n\nwhere participants are recruited according to ease of access. UK studies conducted on trends\n\nsince the beginning of the pandemic indicated a pattern of immediate recovery in the population\n\noverall and in all subgroups (gender, age, employment status and other deprivation measures).\n\nHowever, studies that rely on follow-up from convenience samples might be biased towards a\n\npositive trend in mental health because study attrition is more likely among those with poor or\n\ndeteriorating mental health.\n\nAdded value of this study\n\nThis study used a longitudinal, probability sample survey to map the overall mental health\n\ntrajectory in the first five months of the pandemic and to distinguish the different mental health\n\ntrajectories individuals tended to follow. Overall, we found the elevated rates of poor mental\n\nhealth were sustained, with significant improvements occurring only after June 2020 (when UK\n\nschools reopened, infection rates fell and significant relaxation of lockdown measures occurred).\n\nThis study revealed that, while most of the population either remained resilient, or reacted and\n\nrecovered within the first six months of the pandemic, there are two groups of continuing concern.\n\nIn one, individuals’ mental health deteriorated rapidly at the onset of the pandemic and showed no\n\nsign of recovery; the other group comprised people whose mental health progressively worsened\n\nmonth on month during the pandemic. COVID-19 infection, prior poor physical and/or mental health\n\nand financial difficulties predicted subsequent deterioration in mental health during the pandemic.\n\nImplications of all the available evidence\n\nWhile the mental health of the population as a whole improved after the initial reaction to the\n\npandemic, this recovery took some months and the overall trend masks sustained and dynamic\n\ndistinct patterns of change. Two groups showed no signs of recovery and manifested symptom\n\nseverity potentially warranting clinical intervention. Socioeconomic pressure - both area-level\n\ndeprivation and individual financial struggles - emerged as a risk for deteriorating mental health",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p5",
+        "source_issue_ids": [],
+        "text": "during the pandemic, highlighting the need for policies aimed at socio-economic inequalities in the\n\nrecovery response. COVID infection also strongly predicted subsequent decline in mental health.\n\nThese findings provide valuable information for policymakers and planners about rising demand\n\nfor mental health services.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p6",
+        "source_issue_ids": [],
+        "text": "Introduction\n\nAround the world, the onset of the COVID-19 pandemic has resulted in a marked decline in\n\npopulation mental health. In eight countries, relatively high rates of anxiety disorder, depression,\n\npost-traumatic stress disorder, psychological distress and stress have been reported1. Using a\n\nrandom sample with pre-pandemic data, we previously reported that, in April 2020, one month\n\nafter lockdown measures were introduced in the UK, the prevalence of clinically significant levels\n\nof mental distress was 50% higher than before the pandemic2.\n\nAs the pandemic develops, interest turns to how mental health changes with circumstances and\n\nwhether or not early indicators herald persistently poor mental health and, therefore, clinical\n\nneed. Studies assessing mental health trends since the beginning of the pandemic have reported\n\nsymptoms of anxiety disorder, depression and loneliness steadily improving over the summer\n\nmonths of 20203–5. However, these studies suffer from methodological problems. First, they use\n\nconvenience samples which means they cannot adjust properly for sampling bias and are, thus,\n\nconsidered poor tools for estimating population statistics6. Second, many have considerable\n\nattrition over time; and those with poor mental health are more susceptible to drop-out7, resulting\n\nin an overoptimistic assessment of mental health trends. Also, most studies lack comparable pre-\n\npandemic data8 so it remains unknown whether mental health returned to pre-pandemic levels.\n\nFurthermore, the average trajectory for the population as a whole may mask heterogeneous\n\nresponses to the pandemic: it may be that some groups have remained or become increasingly\n\nvulnerable.\n\nCritical questions for public mental health are whether new disparities have emerged in population\n\nmental health and whose mental health has deteriorated during the pandemic. Understanding\n\nthese is key to anticipating additional demand on services, identifying where the unmet clinical\n\nneed might lie and delivering preventive interventions for those at most risk. We and others\n\nreported common risk factors for mental health deterioration in the initial phase of the pandemic,\n\nincluding being a woman, younger age (≤40 years), presence of a chronic physical or mental\n\nillness, unemployment and frequent exposure to social media or news coverage of COVID-191. Most\n\nof these were also associated with poor mental health before COVID-19. Compared with before, in\n\nthe early phases of the crisis, young people, women and parents living with preschool children\n\nsaw greater than average decreases in levels of mental health (measured by GHQ-12)2. Whether\n\nthese groups and characteristics are associated with sustained distress as the pandemic has\n\ncontinued remains unclear. In addition, while some of the determinants of worsening mental\n\nhealth may have receded after the early ‘shock’ of pandemic onset and initial easing of national",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p7",
+        "source_issue_ids": [],
+        "text": "lockdown, some effects may have persisted. For example, infection with COVID-199, localised\n\ncontainment measures and financial insecurity10.\n\nWe used a large, longitudinal panel sample, representative of the adult UK general population to:\n\na) Describe population trends in mental health in the first six months of the pandemic, overall\n\nand by age and gender.\n\nb) Identify distinct trajectories in mental health over this period.\n\nc) Describe the characteristics of individuals within each distinct mental health trajectory, and\n\nd) Identify adversities that predict worsening mental health during the pandemic: COVID-19\n\ninfection, financial difficulties and local containment measures.\n\nMethods\n\nStudy design and participants\n\nUnderstanding Society: the UK Household Longitudinal Study is a large, national, probability-based\n\nsurvey that has been collecting data continuously since January 200911. The sample is\n\nrepresentative of the UK population, consisting of clustered, stratified samples of households in\n\nEngland, Scotland and Wales and an unclustered, systematic random sample in Northern Ireland.\n\nAreas with proportionately large migrant and ethnic minority populations were oversampled. The\n\nquestionnaires were available in English and Welsh.\n\nPrior to March 2020, around half of data collection was carried out face-to-face and collected\n\nannually. With the pandemic’s onset, the survey transitioned online12, with monthly, and then bi-\n\nmonthly from July 2020. Panel members who took part in Waves 8 and/or 9 (between 2016 and\n\n2019) were invited to complete a series of web-based data collections carried out in the last week\n\nof each month: 24th to 30th April, 27th May to 2nd June, 25th June to 1st July, 24th to 31st July, and 24th\n\nSeptember to 1st October 2020.\n\nAll household members aged 16 or older were invited to participate, except for those unable to\n\nmake an informed decision as a result of incapacity and those with unknown postal addresses or\n\naddresses abroad. Those aged 16 years in April 2020 were not eligible to complete the UKHLS at\n\nprevious waves, but participated in the COVID-19 survey if they were from eligible households (i.e.\n\nthose with at least one participant in the two most recent waves of the main survey).\n\nInvitations were sent to 42,330 panel members. 17,761 participated in April (a 42·0% response rate),\n\n14,811 (35·0%) in May, 14,123 (33·4%) in June, and 13,754 (32·5%) in July. For the September 2020",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p8",
+        "source_issue_ids": [],
+        "text": "survey, only panel members who had completed at least one COVID web survey were invited\n\n(66·4% of the issued sample; 30·4% of the total eligible panel). Responses were linked to pre-\n\npandemic data from Understanding Society’s main survey Wave 10 (majority surveyed between\n\nJanuary 2018 and December 2019). Analyses used longitudinal non-response weights as calculated\n\nby the data custodians13 and provided with the September wave. Unweighted and weighted\n\nstatistics for each wave are provided in the supplementary Table S1 and patterns of non-response\n\nto the COVID-19 web-surveys are provided in supplementary Table S2.\n\nProcedures and outcomes\n\nA composite score was calculated from summing items in the 12-item General Health\n\nQuestionnaire (GHQ-12), which is validated as an unidimensional measure of mental distress in the\n\npast 2 weeks in non-clinical populations14. It was administered by self-completion in Wave 10 and\n\nin each of the five COVID-19 web-survey waves. The items refer to difficulties with sleep,\n\nconcentration, problems in decision-making, strain, feeling overwhelmed and other indicators of\n\ndistress. GHQ-12 items were scored as: 0, not at all; 1, no more than usual; 2, rather more than\n\nusual; or 3, much more than usual; a total score was derived for each wave (0–36).\n\nSociodemographic variables included gender (women, men), age (16–24, 25–34, 35–44, 45–54, 55–\n\n69, 70 years and older) and ethnicity (White British, White non-British, Mixed, Asian, Black, Other).\n\nHousehold structure captured indicators of whether or not the participant lived with a partner\n\n(yes, no) and the age of the youngest child living there (none; 0-5; 6-15 years). Area-level context\n\nwas captured with geography (Wales, Scotland, Northern Ireland, and English region) and quintiles\n\nbased on ranked Index of Multiple Deprivation (IMD) scores - an area-level deprivation measure\n\nthat was only available for England. Thus, analyses by IMD quintile were conducted in the sample\n\nof residents in England only.\n\nPresence of a pre-existing mental condition was identified using prior UKHLS waves using the\n\nquestion: “has a doctor or other health professional diagnosed you with a psychiatric illness?”.\n\nIndicator variables were also constructed to identify individuals who had been asked by the NHS to\n\nshield during the pandemic because they had an underlying physical illness or health condition and\n\nthose who identified as keyworkers, who were obliged to continue working in certain sectors\n\nduring lockdowns. COVID-related adversities were captured with three indicators. The first was\n\nCOVID-19 infection status, categorised into: no suspected symptoms, suspected but unconfirmed\n\ncase, and confirmed case. Second, a binary variable was created to indicate whether participants\n\nhad experienced particular problems with paying bills during the pandemic. This was only\n\navailable from 3 of the 5 COVID related waves. Last, whether the participant was in an area with",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/s2215-0366(20)30308-4",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_sha256": "96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4",
+          "source_url": "https://doi.org/10.1016/s2215-0366(20)30308-4"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4:p9",
+        "source_issue_ids": [],
+        "text": "local lockdown measures was determined (for England only) using local authority code. This was\n\nmapped to dates where they had been mandated to be under partial or full re-imposition of\n\nmeasures to control the spread of the coronavirus, or the deferring of planned easing of\n\nrestrictions, in response to a localised spike in infections15. A list of local authorities that had local\n\nlockdown restrictions, their implementation dates and a description of lockdown measures in the\n\nUK are provided in supplementary Table S3.\n\nStatistical analyses\n\nPopulation-level changes in mean GHQ-12 and the proportion with significant levels of mental\n\ndistress across the pandemic were examined graphically and compared with averages from wave\n\n10 (2018 to 2019). Latent class growth models were constructed to identify typical distinct\n\ntrajectories of mental health over the course of the pandemic. Models with two to seven latent\n\nclasses were fitted using the Stata package traj16. This procedure estimated discrete mixture\n\nmodels with GHQ-12 as the outcome, time as a covariate and class-specific fixed-effects. The time\n\nvariable was median date of data collection for each wave and parameterised as time (in years)\n\nsince the first COVID-19 wave. Each model included a linear and squared term for time to account\n\nfor non-linear trajectories. Model fit was determined using the Bayesian Information Criterion\n\n(BIC) and the model with the lowest BIC value was considered the best fit to the data. 7.3% had\n\nmissing GHQ-12 data for all their COVID-19 waves and these were excluded. Sociodemographic\n\nvariables were cross-tabulated with group membership. Each covariate had less than 5% of\n\nmissing data and these were excluded from cross-tabulations.\n\nUnivariable fixed-effect models were fitted to individual’s repeated GHQ-12 scores to ascertained\n\nwhich COVID-19 adversity variables predicted subject-specific change in mean GHQ-12. The\n\nvariables were: confirmed or suspected COVID-19 infection, local lockdown measures and reported\n\nproblems paying bills. These models adjusted for date of data collection (as a continuous variable\n\nand its square) and all person-specific, time-invariant effects. All analyses accounted for sampling\n\nprobability weights. Cross-tabulations and calculations of means also accounted for the clustered\n\nand stratified sampling using the svy suite of commands in Stata. Analyses were carried out using\n\nStata (Version 14) and graphs were produced using R package ggplot2.\n\nIn a sensitivity analysis, the GHQ-12 total for each participant was recalculated removing the\n\nquestion “Have you recently been able to enjoy your normal day-to-day activities?” which were\n\nconsidered to potentially be indicative of pandemic-related restrictions rather than mental health.\n\nPopulation trends and fixed-effects models were then refitted on this adapted version of the GHQ.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:96f62be7692526e94c3c2e393d707739d4aa3223df61037773614ac63c8e8fc4"
+}

@@ -1,0 +1,326 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:06:09.577239+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Non-COVID diseases during the pandemic: where have all other emergencies gone?",
+        "year": null
+      },
+      "doi": "10.3390/medicina56100512",
+      "format": "pdf",
+      "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+      "url": "https://doi.org/10.3390/medicina56100512"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p1",
+        "source_issue_ids": [],
+        "text": "medicina\n\nArticle Non-COVID Diseases during the Pandemic: Where Have All Other Emergencies Gone?\n\nVeronica Ojetti 1,2,*, Marcello Covino 1 , Mattia Brigida 2, Carmine Petruzziello 3, Angela Saviano 2, Alessio Migneco 1 , Marcello Candelli 1 and Francesco Franceschi 1,2\n\n1 Emergency Department—Fondazione Policlinico Universitario A. Gemelli, IRCCS—Largo A. Gemelli, 00168 1 Rome, Italy; macovino@gmail.com (M.C.); alessio.migneco@gmail.com (A.M.); mcandelli@gmail.com (M.C.); francesco.franceschi@unicatt.it (F.F.) 2 Università Cattolica del Sacro Cuore—Largo F. Vito, 00168 1 Rome, Italy; mattiabrigida@hotmail.it (M.B.); saviange@libero.it (A.S.) 3 Ospedale Cristo Re, Emergency Department—Via delle Calasanziane, 00168 25 Rome, Italy; carminepetruzziello@live.it * Correspondence: veronica.ojetti@unicatt.it; Tel.: +39-06-30153188\n\nReceived: 9 August 2020; Accepted: 29 September 2020; Published: 1 October 2020\n\n\u0001\u0002\u0003\u0001\u0004\u0005\u0006\u0007\b \u0001\u0002\u0003\u0004\u0005\u0006\u0007\n\nAbstract: Background and objectives: the emergency department (ED) is frequently identiﬁed by patients as a possible solution for all healthcare problems, leading to a high rate of misuse of the ED, possibly causing overcrowding. The coronavirus disease 2019 (COVID-19) pandemic started in China; it then spread throughout Italy, with the ﬁrst cases conﬁrmed in Lombardy, Italy, in February 2020. This has totally changed the type of patients referred to EDs. The aim of this study was to analyze the reduction of ED admissions at a Second level urban teaching (Fondazione Policlinico Universitario Agostino Gemelli IRCCS) during the COVID-19 pandemic. Materials and Methods: in this retrospective observational cross-sectional study, we reviewed and compared clinical records of all the patients consecutively admitted to our ED over a 40-day period (21 February –31 March) in the last three years (2018–2019–2020). Mean age, sex, triage urgency level, day/night admission, main presentation symptom, and ﬁnal diagnosis, according to diﬀerent medical specialties, hospitalization, and discharge rate, were analyzed. Results: we analyzed 16,281 patient clinical records. The overall reduction in ED admissions in 2020 was 37.6% compared to 2019. In 2020, we observed an increase in triage urgency levels for ED admissions (the main presentation symptom was a fever). We noticed a signiﬁcant drop in admissions for cardio-thoracic, gastroenterological, urological, otolaryngologic/ophthalmologic, and traumatological diseases. Acute neurological conditions registered only a slight, but signiﬁcant, reduction. Oncology admissions were stable. Admissions for infectious diseases were 30% in 2020, compared to 5% and 6% in 2018 and 2019, respectively. In 2020, the hospitalization rate increased to 42.9% compared to 27.7%, and 26.4% in previous years. Conclusions: the drastic reduction of ED admissions during the pandemic may be associated with fear of the virus, suggesting that patients with serious illnesses did not go to the emergency room. Moreover, there was possible misuse of the ED in the previous year. In particular, worrisome data emerged regarding a drop in cardiology and neurology admissions. Those patients postponed medical attention, possibly with fatal consequences, just for fear of exposure to COVID-19, leading to unnecessary morbidity and mortality.\n\nKeywords: COVID-19; Emergency department access; misuse; fever\n\n1. Introduction\n\nSevere acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative agent of the recent and current pandemic, coronavirus disease 2019 (COVID-19). Its main manifestations range from fever\n\nMedicina 2020, 56, 512; doi:10.3390/medicina56100512 www.mdpi.com/journal/medicina",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p10",
+        "source_issue_ids": [],
+        "text": "Medicina 2020, 56, 512 10 of 10\n\n21. In Ospedale non Ci Va Più Nessuno, Il Coronavirus Triplica le Morti per Infaro. La Stampa. Available online: https://www.lastampa.it/topnews/primo-piano/2020/04/20/news/in-ospedale-non-ci-va-piu-nessuno-il-coronavirus-triplica-le-morti-per-infarto-1.38740581?refresh_ce (accessed on 22 April 2020). 22. Mafham, M.M.; Spata, E.; Goldacre, R.; Gair, D.; Curnow, P.; Bray, M.; Hollings, S.; Roebuck, C.; Gale, C.P.; Mamas, M.A.; et al. COVID-19 pandemic and admission rates for and management of acute coronary syndromes in England. Lancet 2020, 396, 381–389. [CrossRef] 23. Contarini, M. Infarti in Sicilia, 2.000 Accessi in Meno al PS Per Timore del Contagio Covid. Aumentata la Mortalità Pre-Ospedaliera. Press Release by Italian Society of Interventional Radiology. Available online: https://www.insalutenews.it/in-salute/infarti-in-sicilia-2-000-accessi-in-meno-al-ps-per-timore-del-contagio-covid-aumentata-la-mortalita-pre-ospedaliera/ (accessed on 22 April 2020). 24. Volkow, N.D. Collision of the COVID-19 and addiction epidemics. Ann. Intern. Med. 2020, 173, 61–62. [CrossRef] [PubMed] 25. Toni, D. Ricoveri per Ictus Dimezzati, è L’eﬀetto Covid-19? Available online: https://www.pharmastar.it/ news/neuro/ricoveri-per-ictus-dimezzati-leﬀetto-covid-19-31811 (accessed on 22 April 2020). 26. Luciani, L.G.; Mattevi, D.; Cai, T.; Giusti, G.; Proietti, S.; Malossini, G. Teleurology in the time of covid-19 pandemic: Here to stay? Urology 2020, 140, 4–6. [CrossRef] [PubMed] 27. Protezione Civile. Realtime Monitoring of COVID-19 Contagion in Italy. Available online: http://opendatadpc. maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1 (accessed on 22 April 2020). 28. Almulhim, K.N.; Shesser, R.; Pourmand, A.; Whiteside, T.; Kane, E. The relationship between staﬀteaming models and emergency department eﬃciency. Am. J. Emerg. Med. 2020, 38, P1448–P1453. [CrossRef] [PubMed] 29. Singhal, T. A Review of Coronavirus disease-2019 (COVID-19). Indian J. Pediatr. 2020, 87, 281–286. [CrossRef] [PubMed] 30. Chen, Z.M.; Fu, J.F.; Shu, Q.; Chen, Y.H.; Hua, C.Z.; Li, F.B.; Lin, R.; Tang, L.F.; Wang, T.L.; Wang, W. Diagnosis and treatment recommendations for pediatric respiratory infection caused by the 2019 novel coronavirus. World J. Pediatr. 2020, 16, 240–246. [CrossRef] [PubMed] 31. Liu, Y.; Gu, Z.; Xia, S.; Shi, B.; Zhou, X.N.; Shi, Y.; Liu, J. What are the underlying transmission patterns of COVID-19 outbreak?—An Age-speciﬁc social contact characterization. E Clin. Med. 2020, 22, 100354. [CrossRef]\n\n© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p2",
+        "source_issue_ids": [],
+        "text": "Medicina 2020, 56, 512 2 of 10\n\n(89%), cough (68%), fatigue (38%), dyspnea (19%), pharyngodynia (14%), and headaches (14%), to other enteric, hepatic, and neurological symptoms [1–3]. Everything seems to have started in late December 2019, in China, with a cluster of patients hospitalized for pneumonia of an unknown etiology. Given the estimates of reproduction for SARS-CoV-2, ranging from 2.24 to 3.58, the scientiﬁc community expressed immediate concern about a potential SARS-CoV-2 outbreak [4]. As of 22 January, 2020, a total of 571 cases of COVID-19 were observed in 25 provinces in China. Less than one month later, on 16 February, the number of COVID-19 cases reached 51,857 globally in 25 countries [4,5]. In Italy, the ﬁrst case was registered on 21 February, 2020 [6]. The ﬁrst red zone declared in Lombardy was Codogno [7], a town near Milan; soon after, it was extended to the entire region. People were not allowed to enter or exit this area starting from 1 March [8]. The World Health Organization (WHO) declared COVID-19 as a pandemic on 11 March, 2020 [9]. While oﬃcial news was posted on the Italian Ministry of Health website, a new decree imposed a lockdown, with further restrictions on Italian citizens, until 3 April, with exceptions for health, food, and bank workers. Schools, museums, cinemas, and theaters closed, and all social gathering activities were forbidden. Moreover, social distancing among people was introduced, with obligation to wear facial masks when away from home or inside shops [10]. Subsequently, Italian containment measures became stricter, with a further decree [11] establishing a complete lockdown; however, no restrictions were imposed on individuals who left their homes for health reasons. Reports from medical facilities around the world seem to suggest that all of these conditions have, seemingly, gone into hiding since the COVID-19 onslaught. We also observed a signiﬁcant drop of access to EDs’ during the COVID-19 pandemic. Therefore, we designed a study aimed at analyzing diagnoses, hospitalization rates, and number of emergency department (ED) admissions at our hospital during the COVID-19 pandemic, from 21 February, 2020 (when the ﬁrst Italian case was observed) to 31 March, 2020, and compare the results to the same periods in 2018 and 2019.\n\n2. Methods\n\n2.1. Study Design\n\nThis is a single-center, retrospective, cross-sectional observational study, conducted in the ED of an urban tertiary teaching hospital (Fondazione Policlinico Universitario Agostino Gemelli IRCCS). Fondazione Policlinico Universitario Agostino Gemelli IRCCS is a large university hospital located in Rome, with an annual attendance at the emergency department (ED) of about 75,000 patients (more than 85% being adults). The study was conducted in accordance with the Declaration of Helsinki. All patients who accessed our ED signed an informed general consent form for personal data processing. Approval was received from the Ethical Committee on 20 April, 2020, protocol number 0017055/20. The database, with de-identiﬁed participants used for data retrieval, will be made available, with publication upon written request after approval of a proposal, with a signed data access agreement.\n\n2.2. Study Size and Selection Criteria\n\nWe reviewed and compared clinical records of all the patients who were consecutively admitted to our ED over a 40-day period (21 February–31 March) in the last three years (2018–2019–2020). We excluded from the study all patients < 18 years old, and pregnant women who were managed in another ED, in particular pediatric ﬁrst aid and obstetric ﬁrst aid.\n\n2.3. Study Variables\n\nThe following information was extracted from computerized clinical records, GIPSE, the informatic system utilized in our hospital and region.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p3",
+        "source_issue_ids": [],
+        "text": "Medicina 2020, 56, 512 3 of 10\n\nThe system manages the entire patient’s route: from reception, selection, and prioritization of access (triage), to clinical presentation, outcome management, report production, and statistics. The use of the same procedure on a regional scale supports the standardization of data collection activities and allows for the veriﬁcation of the quality of care and the standardization of assistance. Age, sex, triage urgency level, presentation time (day/night), main presentation symptom, ﬁnal diagnosis according to diﬀerent medical specialties (based on the International Classiﬁcation of Diseases, 9th revision, Clinical Modiﬁcation (ICD-9-CM)) [12], hospitalization, and discharge rate, were analyzed. The numeric triage:\n\n- Code 1: indicates maximum emergency; the patients to whom it is assigned have immediate access to the treatment areas. - Code 2: indicates urgency, and gives access to emergency room care within 15 min of being assigned. - Code 3: a deferrable urgency that does not require immediate intervention. - Code 4: when the urgency is less. - Code 5: this value indicates a situation of no urgency.\n\nIn a subgroup analysis, we considered three diﬀerent age groups: “adults”, aged between 18 and 64 years; “elderly” aged between 65 and 84 years; and “oldest old” aged over 85 years.\n\n2.4. Study Endpoint\n\nThe primary endpoint was to evaluate the number of total admissions, diagnoses, and hospitalization rates during the analyzed period in 2020, and compare these data to the previous two years (2018–2019). The secondary endpoint was to show the daily variation in trends of ED visits and trends for ED admissions for fever in the analyzed time interval, for 2018, 2019, and 2020.\n\n2.5. Statistical Analysis\n\nCategorical variables were statistically compared with the chi-square test. Continuous variables were compared with the t-test. Categorical variables are presented as numbers and percentages, and continuous variables are presented as mean ± standard deviation. A p-value of 0.05 or less was considered signiﬁcant. All data were analyzed with SPSS v25® (IBM, Armonk, NY, USA). There were no missing data to be addressed.\n\n3. Results\n\nWe retrospectively analyzed all of the 16,281 patients.\n\n3.1. Total Admissions\n\nGeneral characteristics of the patients in the three periods are summarized in Table 1.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p4",
+        "source_issue_ids": [],
+        "text": "Medicina 2020, 56, 512 4 of 10\n\nTable 1. Demographics, age group distribution, triage urgency levels, presentation time, and main presentation symptom from 21 February to 31 March in 2018, 2019, and 2020.\n\nVariable Year 2018 (n = 6001) Year 2019 (n = 6329) Year 2020 (n = 3951) p Value\n\nSex 2887/3114 3127/3202 2101/1850 <0.001 (Male%/Female%) (48.1%/51.9%) (49.4%/50.6%) (53.2%/46.8%)\n\nAge (median (IQ range)) 58.0 (42.0–75.0) 58.0 (42.0–75.0) 58.0 (44.0–75.0) 0.303\n\nAge group\n\n0.126 - 18–64 years 3525 (58.7%) 3748 (59.2%) 2343 (59.3%)\n\n- 65–85 years 1914 (31.9%) 1960 (31.0%) 1277 (32.3%)\n\n- ≥85 years 562 (9.4%) 621 (9.8%) 331 (8.4%)\n\nTriage\n\n<0.001 1 Emergency 384 (6.4%) 392 (6.2%) 308 (7.8%)\n\n2 Moderate Urgency 2340 (39.0%) 2500 (39.5%) 1825 (46.2%)\n\n3 Non Urgent 3163 (52.7%) 3380 (53.4%) 1755 (44.4%)\n\n4 Ambulatory 114 (1.9%) 57 (0.9%) 63 (1.6%)\n\nPresentation Time 0.028 Day (8 a.m.–7 p.m.) 4279 (71.3%) 4538 (71.7%) 2912 (73.7%)\n\nNight (8 p.m.–7 a.m.) 1722 (28.7%) 1791 (28.3%) 1039 (26.3%)\n\nMain presentation symptom\n\nPain 990 (16.5%) 987 (15.6%) 458 (11.6%) <0.001\n\nFever 162 (2.7%) 177 (2.8%) 1031 (26.1%) <0.001\n\nDyspnea 318 (5.3%) 303 (4.8%) 300 (7.6%) <0.001\n\nTrauma 846 (14.1%) 981 (15.5%) 336 (8.5%) <0.001\n\nTotal number of ED admissions were constant during the years 2018 and 2019 (6001 and 6329, respectively) while a drastic decrease was observed in the same period of 2020 (3951). The overall reduction in ED admissions in 2020 was 34.2% compared to 2018, and 37.6% compared to 2019. (Figure 1).\n\nFigure 1. Variation in trends of emergency department (ED) visits.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p5",
+        "source_issue_ids": [],
+        "text": "Medicina 2020, 56, 512 5 of 10\n\nWe did not ﬁnd any signiﬁcant diﬀerences (p = 0.303) in the average age of the patients analyzed in diﬀerent years: mean age was 57.7 ± 20.3 years in 2018, 57.6 ± 20.5 in 2019, and 58.3 ± 19.1 in 2020. In 2018, 58% of patients were adult, 31% were elderly, and only 11% over 85 years old. The same breakdown of patients by age group was highlighted in 2019 and 2020. In 2020, compared to the previous two years, we observed an increase of triage urgency level at ED admission (p < 0.001). In particular, there was a reduction of non-urgent conditions, whilst we registered an increase of moderate urgency (2018: 39.0% vs. 2019: 39.5% vs. 2020: 46.2%) and emergency (2018: 6.4% vs. 2019: 6.2% vs. 7.8%). Regarding presentation time, we found a slight reduction (p < 0.05) of night admissions in 2020. Main ED presentation symptoms were fever, pain, trauma, and dyspnea in 2018 and 2019, whereas in 2020 most of the patients presented with fever (Figure 2).\n\nFigure 2. Trends for ED admissions for fever.\n\n3.2. Admissions Divided by Specialties\n\nED visit outcomes are analyzed in Table 2.\n\nTable 2. ED admissions distributed according to diﬀerent diagnostic codes (from the International Classiﬁcation of Diseases, 9th revision, Clinical Modiﬁcation, ICD-9) and ED visit outcome.\n\nVariable Year 2018 (n = 6001) Year 2019 (n = 6329) Year 2020 (n = 3951) p Value\n\nDiagnosis group * Cardio-thoracic 1152 (19.2%) 1189 (18.8%) 644 (16.3%) 0.001 Neurological 432 (7.2%) 417 (6.6%) 233 (5.9%) 0.027 Gastrointestinal 768 (12.8%) 747 (11.8%) 363 (9.2%) <0.001 Urogenital 270 (4.5%) 335 (5.3%) 134 (3.4%) <0.001 Malignancy 240 (4.0%) 209 (3.3%) 142 (3.6%) 0.130 Traumatology 810 (13.5%) 816 (12.9%) 332 (8.4%) <0.001 Otolaryngology/Ophthalmology 192 (3.2%) 228 (3.6%) 91 (2.3%) 0.001 Infectious disease 330 (5.5%) 405 (6.4%) 1185 (30.0%) <0.001 ED visit outcome Self-discharging 414 (6.9%) 430 (6.8%) 213 (5.4%) 0.005 Deceased in ED 36 (0.6%) 32 (0.5%) 12 (0.3%) 0.058 Admitted 1662 (27.7%) 1671 (26.4%) 1694 (42.9%) <0.001\n\n* Minor diagnostic groups from the ICD-9 classiﬁcation were not included in the analysis.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p6",
+        "source_issue_ids": [],
+        "text": "Medicina 2020, 56, 512 6 of 10\n\nWe noticed a signiﬁcant drop in admission for cardio-thoracic, gastroenterological, urological, otolaryngologic/ophthalmologic, and traumatological diseases. Acute neurological conditions registered a slight, but signiﬁcant, reduction. Interestingly, oncology admissions were stable. On the other hand, a signiﬁcant increase in admissions for infectious causes was registered in 2020 (p < 0.001). The conﬁrmed case of COVID-19 were 516 out of 3951 (13%). The other 515 patients who came with fever obtained a diagnosis of “fever for other causes”; this could be due to the suggestions from our health system to visit the ED for persistent fever.\n\n3.3. Hospitalization Rate\n\nConcerning the overall hospitalization rate in the three years taken into consideration (summarized in Table 2), we observed how 27.7% of patients were hospitalized in 2018 and 26.4% in 2019; conversely, hospitalization rate increased to 42.9% in 2020; thus, suggesting a greater severity of patients who were referred to the ED during the COVID-19 pandemic. The percentage of deceased patients in the ED was stable in the three years. In 2020, we registered a slight reduction of patients spontaneously leaving the ED (i.e., self-discharging).\n\n3.4. Trends in ED Visits\n\nDaily trends in ED visits (plotted in Figure 1) were severely aﬀected by government dispositions to contrast the pandemic spread. After the ﬁrst case diagnosed in Italy on 21 February, we observed a progressive reduction in ED total visits, which was lower compared to 2018 and 2019. With the ﬁrst measures aﬀecting all of Italy, we observed a further slight drop in ED admissions, which had been stable until the complete lockdown decision occurred on 21 March. Since then, total ED visits were mainly dominated by COVID-19 cases. Furthermore, we described trends in fever presentation of the admitted patients (Figure 2). In 2018 and 2019, the overall fever-related visits were stable, being about 6% of total admissions. The COVID-19 pandemic produced signiﬁcant changes in this regard; after the very ﬁrst days of March, the number of fever-related visits steadily increased, reaching a peak on 22 March, just after the Italian lockdown was declared.\n\n4. Discussion\n\nThe main ﬁnding of this study is the demonstration of a signiﬁcant drop in the number of patients accessing the ED for non-serious conditions and low priority codes. It is well known that the conditions for which patient’s access the ED include myocardial infarction, strokes, respiratory diseases, injuries, road traﬃc accidents. Moreover, it is very common to observe in our hospital, during the ﬁrst months of the year, ED overcrowding, partially due to the winter virus season and, in part, to inappropriateness of access for non-urgent visits [13,14]. On this subject, some authors suggested that around 20–30% of ED visits may be deﬁned as inappropriate, probably due to some critical issues inside national health systems, such as lack of primary care centers and low collaboration with general practitioners (GPs) [15]. Concerning main characteristics of the patients, in our study, mean age of admitted patients remained unchanged in 2018–2019 and 2020. However, when looking at the male/female ratio, we noticed a shift from a female prevalence in 2018 and 2019 to a male predominance. This ﬁnding may be linked, also, to a slightly higher prevalence of male patients aﬀected by COVID-19, especially those with speciﬁc comorbidities, such as blood hypertension, diabetes, cardiovascular disease, or chronic lung disease [16,17]. Concerning triage priority codes, we observed a signiﬁcant increase in patients with code 2 (moderate urgency) previously deﬁned as yellow code and code 1 (emergency), previously deﬁned as red code, reﬂecting a high number of patients who accessed the ED with signiﬁcant respiratory problems and consequent vital parameters alteration (i.e., oxygen saturation), which are taken into",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p7",
+        "source_issue_ids": [],
+        "text": "Medicina 2020, 56, 512 7 of 10\n\naccount to determine triage code [18]. Interestingly, a recent paper published by a group in Lodi, an Italian city with a very high COVID-19 prevalence, reported a complete disappearance of patients with priority codes 4 and 5 (previously deﬁned as green and white) [19]. This could be due to the role of territorial medicine, which perhaps favored the prevalence of only codes 1 and 2 in the hospital, eﬀectively managing the minor urgency. As illustrated in Table 1 and Figure 2, the pandemic also had a strong impact concerning prevalence of symptom presentation at ED admission, when compared to the previous two years. In particular, a progressive increase of the symptom “fever” was observed until complete lockdown occurred on 22 March, after which fever-related admissions dropped. Another interesting issue that emerged from our analysis was the prevalence of patients who came to the ED for pain symptom. While, in 2018 about 16.5% of total ED visits were recalled to pain, and a similar percentage was observed in 2019, during the 2020 COVID-19 pandemic outbreak, prevalence of these patients dropped to 11.6%, suggesting that many patients preferred an in-home management of pain rather than going to the ED (p < 0.001). Collaterally, a reduced admission for trauma has also been observed, while a reasonable explanation may be found in the protective eﬀect of lockdown on minor traumas. However, admissions for traumas remained basically unchanged. One of the most important considerations coming out from our analysis regards admission for cardiovascular diseases during the pandemic phase, which reported a decrease of about 46% compared to 2019 data. Several reports showed a signiﬁcant reduction of accesses in the ED for cardiovascular diseases; in the Sicily region, there was a drop in 50% of accesses [20], while in Milan, the COVID-19 pandemic has tripled acute coronary syndrome deaths and reduced life-saving procedures by 40% [21]. A recent paper published in The Lancet suggests that during the COVID-19 pandemic, there was a reduction of admission rates for (and management of) acute coronary syndromes in England [22]. This data was also noted in our studies. Our concern is that those patients postponed medical attention, possibly with fatal consequences, just for fear of exposure to COVID-19 [23]. Others suggested there was a signiﬁcant drop in cardiac events linked to unavailability of alcohol beverages and tobacco products, the drop in environmental pollution, and reduction of job-related and travel-related stress, with better or controlled sleeping hours [24]. Another similarly worrisome aspect concerns the neurological admission drops that we observed during the high prevalence pandemic phase, compared to the same periods in 2018 and 2019. This is consistent with data coming from an inquiry conducted in 81 centers belonging to the neurovascular unit network for pharmacological and/or mechanical revascularization in Italy. Therefore, further evaluation of this phenomenon will probably be required once we return to normal conditions [25]. On the other hand, not all admission reductions were equally concerning; we are less worried about the 51% reduction of access for Gatrointestinal (GI) conditions, considering that many of these are chronic and not acute diseases, which could be easily managed by the GP or GI specialists. Similarly, urological conditions (e.g., renal colic) and infectious otolaryngologic diseases could, as well, be handled by specialists, prescribing home appropriate treatments, possibly with a telemedicine approach [26]. No variation about patients accessing the ED for malignancies was observed, mostly due to the opening of chemotherapy services, also, during the high prevalence pandemic phase. On the contrary, a signiﬁcant increase of access for infectious causes, which also included COVID-19 infection, was observed, as largely expected. The most relevant ﬁnding was the increased prevalence of patients with those characteristics, from 5.5% of 2018 to 30% of the pandemic period of 2020. Indeed, the Italian COVID-19 contagion curve was describing an exponential trend during the time interval considered for our study [27]. Concerning hospitalization, the absolute number of hospitalized patients is roughly the same in the high prevalence pandemic phase compared to the same period of the last 2 years. There was only an increase in terms of hospitalization rate in 2020, but this was mostly due to a drop in patients with",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p8",
+        "source_issue_ids": [],
+        "text": "Medicina 2020, 56, 512 8 of 10\n\nlow priority codes, and it may be then considered as a pure artifact. The main problem was found in the characteristics of hospitalized patients, mostly aﬀected by severe respiratory problems, forcing our hospital to review and modify its usual organization, by increasing intensive and semi-intensive beds, and improving the number of ventilators. This was perfectly in line with what was observed in other hospitals, in which structural and logistical strategies were implemented in order to prepare to receive hundreds of patients with diﬀerent respiratory requirements, keeping clean emergency access lines, restoring surgical interventions, and deferring urgent ordinary activities [19,28]. Finally, our subgroup analysis on diﬀerent age groups revealed that, in the study period, the overall distribution of all-cause admissions did not change from previous years. However, focusing on distribution of infectious disease admissions, we observed a 227.6% increase in adults (N2019 = 199 vs. N2020 = 652), a 174.5% increase in elderly (N2019 = 153 vs. N2020 = 420), and a 111.1% increase in oldest old (N2019 = 54 vs. N2020 = 114); thus, suggesting a more severe impact of COVID-19 on the admission of patients belonging to the adult group, as observed by other authors [29–31]. A limitation of our study is probably its monocentric nature, and that Fondazione Policlinico Universitario Agostino Gemelli was one of the referral centers for COVID-19 in Rome. We do not know if these patients accessed other EDs, or if they stayed home with an ongoing disease process. A potential confounder in our study could be the concomitant inﬂuenza pandemic of the winter season. To date, there are no other studies reporting trends in ED admissions during the pandemic for such a large adult population. However, our data seem to be generalizable in light of the many TV news reports, suggesting decreasing trends throughout all EDs in Italy.\n\n5. Conclusions\n\nIn conclusion, our data highlight that, during the analyzed time interval, ED admissions were mostly related to the COVID-19 disease or complications. The main presentation symptoms registered for overall admissions were fever and dyspnea, and the most frequent ICD-9 diagnostic group was “Infectious Diseases”. The drastic reduction of ED admissions during the pandemic may be associated with fear of the virus, suggesting that patients with serious illnesses did not come to the emergency room and, on the other hand, there was possible misuse of the ED in the previous year. According to national emergency departement overcrowding study (NEDOCS) indices, measuring ED overcrowding, the drop was close to 70%. Even without using complex algorithms, it was very easy to observe how few patients were located inside the ED and waiting rooms. Speciﬁc government information programming on COVID-19, which suggested patients not access the ED, but call their GP, or dedicate numbers, together with the fear of coming in contact with infected patients inside EDs, was surely responsible for the lower access rate during this pandemic phase. This modality needs to be implemented even after the pandemic phase, in order to increase the role of GPs in the management of patients with non-evolutive conditions, which may also be managed outside the ED. Reduction of ED access, however, does not have to be related to time-related diseases, such as acute coronary syndrome and stroke, as it may dramatically increase overall mortality. Patients need to be appropriately solicited not to pursue this modality.\n\nAuthor Contributions: V.O. ideation, manuscript writing; M.C. (Marcello Covino) data retrieval; M.B. manuscript writing; C.P. statistical analysis; A.S. bibliography retrieval, revision of the manuscript; A.M. data interpretation; M.C. (Marcello Candelli) data analysis; F.F. study planning. All authors have read and agreed to the published version of the manuscript.\n\nFunding: This research received no external funding.\n\nConﬂicts of Interest: The authors declare no conﬂict of interest.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/medicina56100512",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_sha256": "63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1",
+          "source_url": "https://doi.org/10.3390/medicina56100512"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1:p9",
+        "source_issue_ids": [],
+        "text": "Medicina 2020, 56, 512 9 of 10\n\nReferences\n\n1. Tu, H.; Tu, S.; Gao, S.; Shao, A.; Sheng, J. The epidemiological and clinical features of COVID-19 and lessons from this global infectious public health event. J. Infect. 2020, 81, 1–9. [CrossRef] [PubMed] 2. Huang, X.; Wei, F.; Hu, L.; Wen, L.; Chen, K. Epidemiology and clinical characteristics of COVID-19. Arch. Iran. Med. 2020, 23, 268–327. [CrossRef] [PubMed] 3. Lovato, A.; de Filippis, C.; Marioni, G. Upper airway symptoms in coronavirus disease 2019 (COVID-19). Am. J. Otolaryngol. 2020, 102474. [CrossRef] [PubMed] 4. Adhikari, S.P.; Meng, S.; Wu, Y.J.; Mao, Y.P.; Ye, R.X.; Wang, Q.Z.; Sun, C.; Sylvia, S.; Rozelle, S. Epidemiology, causes, clinical manifestation and diagnosis, prevention and control of coronavirus disease (COVID-19) during the early outbreak period: A scoping review. Infect. Dis. Poverty 2020, 9, 29. [CrossRef] [PubMed] 5. Rothan, H.A.; Byrareddy, S.N. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. J. Autoimmun. 2020, 102433. [CrossRef] [PubMed] 6. Coronavirus, Il Primo Contagiato in Lombardia: Ricoverato un Uomo di 38 Anni a Codogno. Open. Available online: https://www.open.online/2020/02/21/coronavirus-primo-contagiato-in-lombardia-ricoverato-un-italiano-di-38-anni-a-codogno/ (accessed on 22 April 2020). 7. Coronavirus, Cosa Prevede L’ordinanza. Available online: https://www.adnkronos.com/fatti/cronaca/2020/ 02/21/coronavirus-cosa-prevede-ordinanza_665kbLJdN64mroSCn42zTK.html (accessed on 22 April 2020). 8. Lombardy Declared Red Zone. Available online: https://www.regione.lombardia.it/wps/wcm/connect/ 36c79588-7953-49d0-8796-da41f356e982/20_02_23+ORDINANZA+MINISTERO+DELLA+SALUTE+E+ RL+CORONAVIRUS.pdf+%281%29.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-36c79588- 7953-49d0-8796-da41f356e982-n1TCXbL (accessed on 22 April 2020). 9. WHO Declaration “COVID-19 Can Be Characterized as a Pandemic”. Available online: https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-brieﬁng-on-covid-19---11-march-2020 (accessed on 22 April 2020). 10. Italian Ministry of Health. Covid-19, in Gazzetta uﬃciale il Decreto #Iorestoacasa. 10 March 2020. Available online: http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p= dalministero&id=4186 (accessed on 26 March 2020). 11. DPCM. 22/03/2020 by the Italian Prime Minister. Available online: http://www.trovanorme.salute.gov.it/ norme/dettaglioAtto?id=73729. (accessed on 22 April 2020). 12. International Classiﬁcation of Diseases, 9th Revision, Clinical Modiﬁcation. Available online: http://www. salute.gov.it/imgs/C_17_pubblicazioni_2251_allegato.pdf (accessed on 22 April 2020). 13. Christiaens, H.; Charpentier, S.; Houze-Cerfon, C.H.; Balen, F. Winter virus season impact on acute dyspnoea in the emergency department. Clin. Respir. J. 2019, 13, 722–727. [CrossRef] [PubMed] 14. Beysard, N.; Yersin, B.; Meylan, P.; Hugli, O.; Carron, P.N. Impact of the 2014-2015 inﬂuenza season on the activity of an academic emergency department. Intern. Emerg. Med. 2018, 13, 251–256. [CrossRef] [PubMed] 15. Naouri, D.; Ranchon, G.; Vuagnat, A.; Schmidt, J.; El Khoury, C.; Yordanov, Y. Factors associated with inappropriate use of emergency departments: Findings from a cross-sectional national study in France. BMJ Qual. Saf. 2019, 29, 449–464. [CrossRef] [PubMed] 16. Li, X.; Xu, S.; Yu, M.; Wang, K.; Tao, Y.; Zhou, Y.; Shi, J.; Zhou, M.; Wu, B.; Yang, Z.; et al. Risk factors for severity and mortality in adult COVID-19 inpatients in Wuhan. J. Allergy Clin. Immunol. 2020, 146, 110–118. [CrossRef] [PubMed] 17. Jordan, R.E.; Adab, P.; Cheng, K.K. Covid-19: Risk factors for severe disease and death. BMJ 2020. [CrossRef] [PubMed] 18. Christ, M.; Grossmann, F.; Winter, D.; Bingisser, R.; Platz, E. Modern triage in the emergency department. Dtsch. Arztebl. Int. 2010, 107, 892–898. [CrossRef] [PubMed] 19. Gagliano, A.; Villani, P.G.; Manelli, A.; Paglia, S.; Bisagni, P.A.; Perotti, G.M.; Storti, E.; Lombardo, M. COVID-19 Epidemic in the Middle Province of Northern Italy: Impact, Logistics, and Strategy in the First Line Hospital. Disaster Med. Pub. Health Prep. 2020, 1–5. [CrossRef] [PubMed] 20. Pinto, S.D. Coronavirus Disease 2019 (COVID-19): Coronary Artery Disease Issues. Available online: https: //www.uptodate.com/contents/coronavirus-disease-2019-covid-19-coronary-artery-disease-issues (accessed on 22 April 2020).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:63776fcef14ed2f1e3c10eaf627bc2c495f7494649c3984e479e68e667558fd1"
+}

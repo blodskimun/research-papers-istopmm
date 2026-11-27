@@ -1,0 +1,529 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:26:40.444769+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Association between non-malignant monoclonal gammopathy and adverse outcomes in chronic kidney disease: A cohort study",
+        "year": null
+      },
+      "doi": "10.1371/journal.pmed.1003050",
+      "format": "pdf",
+      "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+      "url": "https://doi.org/10.1371/journal.pmed.1003050"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p1",
+        "source_issue_ids": [],
+        "text": "a1111111111 a1111111111 a1111111111 a1111111111 a1111111111\n\nOPEN ACCESS\n\nCitation: Fenton A, Chinnadurai R, Gullapudi L, Kampanis P, Dasgupta I, Ritchie J, et al. (2020) Association between non-malignant monoclonal gammopathy and adverse outcomes in chronic kidney disease: A cohort study. PLoS Med 17(2): e1003050. https://doi.org/10.1371/journal. pmed.1003050\n\nAcademic Editor: Giuseppe Remuzzi, Istituto Di Ricerche Farmacologiche Mario Negri, ITALY\n\nReceived: September 8, 2019\n\nAccepted: February 3, 2020\n\nPublished: February 28, 2020\n\nPeer Review History: PLOS recognizes the benefits of transparency in the peer review process; therefore, we enable the publication of all of the content of peer review and author responses alongside final, published articles. The editorial history of this article is available here: https://doi.org/10.1371/journal.pmed.1003050\n\nCopyright: © 2020 Fenton et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.\n\nData Availability Statement: Due to ethical restrictions by the National Research Ethics Service (NRES) Committee West Midlands-South\n\nRESEARCH ARTICLE Association between non-malignant monoclonal gammopathy and adverse outcomes in chronic kidney disease: A cohort study\n\nAnthony FentonID1,2*, Rajkumar ChinnaduraiID3, Latha GullapudiID4, Petros Kampanis5, Indranil Dasgupta1, James Ritchie3, Stephen Harding5, Charles J. FerroID1, Philip A. KalraID3, Maarten W. TaalID4, Paul Cockwell1,2\n\n1 University Hospitals Birmingham NHS Foundation Trust, Birmingham, United Kingdom, 2 Institute of Inflammation and Ageing, University of Birmingham, Birmingham, United Kingdom, 3 Salford Royal NHS Foundation Trust, Salford, United Kingdom, 4 Division of Medical Sciences and Graduate Entry Medicine, School of Medicine, University of Nottingham, Nottingham, United Kingdom, 5 Binding Site, Birmingham, United Kingdom\n\n* anthony.fenton1@nhs.net\n\nAbstract\n\nBackground\n\nIn studies including the general population, the presence of non-malignant monoclonal gammopathy (MG) can be causally associated with kidney damage and shorter survival. We assessed whether the presence of an MG is associated with a higher risk of kidney failure or death in individuals with chronic kidney disease (CKD).\n\nMethods and findings\n\nData were used from 3 prospective cohorts of individuals with CKD (not on dialysis or with a kidney transplant): (1) Renal Impairment in Secondary Care (RIISC, Queen Elizabeth Hospital and Heartlands Hospital, Birmingham, UK, N = 878), (2) Salford Kidney Study (SKS, Salford Royal Hospital, Salford, UK, N = 861), and (3) Renal Risk in Derby (RRID, Derby, UK, N = 1,739). Participants were excluded if they had multiple myeloma or any other B cell lymphoproliferative disorder with end-organ damage. Median age was 71.0 years, 50.6% were male, median estimated glomerular filtration rate was 42.3 ml/min/1.73 m2, and median urine albumin-to-creatinine ratio was 3.4 mg/mmol. All non-malignant MG was identified in the baseline serum of participants of RIISC. Further, light chain MG (LC-MG) was identified and studied in participants of RIISC, SKS, and RRID. Participants were followed up for kidney failure (defined as the initiation of dialysis or kidney transplantation) and death. Associations with the risk of kidney failure were estimated by competing-risks regression (handling death as a competing risk), and associations with death were estimated by Cox proportional hazards regression. In total, 102 (11.6%) of the 878 RIISC participants had an MG. During a median follow-up time of 74.0 months, there were 327 kidney failure events and 202 deaths. The presence of MG was not associated with risk of kidney failure\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 1 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p10",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nTable 4. Baseline characteristics for 3,478 participants with CKD from 3 cohort studies, by LC-MG status.\n\nVariable All With LC-MG Without LC-MG Completeness of data (%)\n\nN (%) 3,478 55 (1.6) 3,423 (98.4)\n\nAge (years) 71.0 (61.2 to 78.0) 77.8 (71.0 to 82.0) 71.0 (61.1 to 78.0) 100\n\nSex (male) 1,760 (50.6) 38 (69.1) 1,722 (50.3) 100\n\nEthnicity 100\n\nWhite 3,126 (89.9) 44 (80.0) 3,082 (90.0)\n\nSouth Asian 237 (6.8) 5 (9.1) 232 (6.8)\n\nBlack 96 (2.8) 6 (10.9) 90 (2.6)\n\nOther 19 (0.6) 0 (0.0) 19 (0.6)\n\nCo-morbidities 100\n\nDM 914 (26.3) 16 (29.1) 898 (26.2)\n\nIHD 1,347 (38.7) 10 (18.2) 1,337 (39.1)\n\nCerebrovascular disease 395 (11.4) 3 (5.5) 392 (11.5)\n\nPAD 879 (25.3) 5 (9.1) 874 (25.5)\n\nSmoking status 99.5\n\nNever 1,486 (43.0) 26 (47.3) 1,460 (42.9)\n\nPrevious 1,667 (48.2) 28 (50.9) 1,639 (48.1)\n\nCurrent 307 (8.9) 1 (1.8) 306 (9.0)\n\nMAP (mm Hg) 93 (86 to 102) 92 (85 to 99) 93 (86 to 102) 99.3\n\neGFR (ml/min/1.73 m2) 42.3 (26.2 to 54.4) 40.4 (24.3 to 54.2) 42.3 (26.3 to 54.4) 99.2\n\nUrine ACR (mg/mmol) 3.4 (0.3 to 27.3) 4.7 (0.4 to 76.6) 3.4 (0.2 to 26.7) 95.5\n\nCategorical variables are shown as frequency (percentage), and continuous variables as median (interquartile range).\n\nACR, albumin-to-creatinine ratio; CKD, chronic kidney disease; DM, diabetes mellitus; eGFR, estimated glomerular filtration rate; IHD, ischaemic heart disease; LC-MG, light chain monoclonal gammopathy; MAP, mean arterial pressure; PAD, peripheral artery disease.\n\nhttps://doi.org/10.1371/journal.pmed.1003050.t004\n\nKidney failure\n\nIn total, 564 (16.2%) patients progressed to kidney failure, with rates per 100 person-years of 4.9 and 3.2 for those with and without an LC-MG, respectively. The univariable associations between baseline variables and the risk of kidney failure are shown in Table 5. Age, eGFR, and urine ACR had non-linear associations with risk of kidney failure in the univariable analyses (Fig 5). The presence of an LC-MG did not have a significant association with the risk of kidney failure (SHR 1.07 [95% CI 0.58 to 1.96], P = 0.82; Fig 6). The multivariable model for kidney failure is shown in Table 5. After adjusting for age, sex, ethnicity, MAP, eGFR, and urine ACR, the presence of an LC-MG did not have a statistically significant association with risk of kidney failure (SHR 1.42 [95% CI 0.78 to 2.57], P = 0.26). In this multivariable model, a younger age, black ethnicity, a lower eGFR, and a higher urine ACR were associated with a higher risk of kidney failure, and the non-linear associations with age, eGFR, and urine ACR are shown in Fig 7.\n\nDeath\n\nIn total, 803 (23.1%) participants died. Death rates were 9.3 and 4.5 per 100 person-years for those with and without an LC-MG, respectively. The univariable associations between baseline factors and death are shown in Table 5. LC-MG was associated with a higher risk of death (HR 2.51 [95% CI 1.59 to 3.96], P < 0.001), and Fig 8 shows Kaplan–Meier survival curves by LC-MG status. The univariable analyses showed that MAP, eGFR, and urine ACR had non-linear associations with risk of death (Fig 9). In the multivariable model (Table 5), after adjustment\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 10 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p11",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nTable 5. Association between baseline variables and risk of kidney failure (competing-risks regression, expressed as SHR with 95% CI) and death (Cox proportional hazards regression, expressed as HR with 95% CI) in 3,478 participants with CKD from 3 cohort studies.\n\nVariable Kidney failure Death\n\nUnivariable Multivariable Univariable Multivariable\n\nSHR 95% CI P SHR 95% CI P HR 95% CI P HR 95% CI P\n\nWith LC-MG 1.07 0.58 to 1.96 0.82 1.42 0.78 to 2.57 0.26 2.51 1.59 to 3.96 <0.001 1.49 0.93 to 2.39 0.10\n\nAge\n\n1.01a 1.00 to 1.02 0.20 1.00a 1.00 to 1.00 <0.001 2.88 2.60 to 3.19 <0.001 2.76 2.48 to 3.08 <0.001\n\n1.00b 0.99 to 1.00 0.050\n\nMale sex 0.95 0.81 to 1.12 0.53 1.14 0.96 to 1.37 0.13 1.59 1.37 to 1.84 <0.001 1.27 1.09 to 1.49 0.002\n\nEthnicity\n\nWhite Ref Ref Ref Ref\n\nSouth Asian 1.94 1.56 to 2.41 <0.001 1.15 0.89 to 1.48 0.30 0.67 0.47 to 0.94 0.022 1.11 0.79 to 1.56 0.56\n\nBlack 1.84 1.35 to 2.49 <0.001 1.71 1.29 to 2.27 <0.001 0.77 0.48 to 1.25 0.30 1.10 0.70 to 1.73 0.69\n\nOther 2.80 1.34 to 5.86 0.006 1.42 0.55 to 3.62 0.47 0.48 0.12 to 1.94 0.30 0.79 0.29 to 2.14 0.64\n\nCo-morbidities\n\nDM 0.92 0.77 to 1.09 0.31 1.71 1.48 to 1.97 <0.001 1.42 1.22 to 1.65 <0.001\n\nIHD 1.03 0.85 to 1.24 0.78 1.64 1.35 to 1.99 <0.001 1.31 1.10 to 1.56 0.002\n\nCerebrovascular disease 0.84 0.64 to 1.10 0.20 1.97 1.65 to 2.36 <0.001 1.39 1.15 to 1.69 0.001\n\nPAD 1.10 0.88 to 1.36 0.41 0.93 0.70 to 1.22 0.58 0.93 0.76 to 1.14 0.49\n\nSmoking status\n\nNever Ref Ref Ref\n\nPrevious 0.72 0.60 to 0.86 <0.001 1.71 1.47 to 2.00 <0.001 1.26 1.07 to 1.48 0.005\n\nCurrent 1.14 0.91 to 1.44 0.26 1.34 1.04 to 1.74 0.026 1.56 1.16 to 2.09 0.003\n\nMAP\n\neGFR\n\n1.33 1.23 to 1.44 <0.001 1.07 0.97 to 1.18 0.16 0.00c 0.00 to 0.00 <0.001\n\n71.39d 6.10 to 835.26 0.001\n\n1.17e 1.15 to 1.20 <0.001 0.96e 0.95 to 0.97 <0.001 0.00f 0.00 to 0.01 <0.001 0.65 0.58 to 0.74 <0.001\n\n1.06g 1.05 to 1.06 <0.001 2.4h 2.10 to 2.80 <0.001\n\nUrine ACR\n\n10.97i 7.20 to 16.70 <0.001 3.58i 2.62 to 4.90 <0.001 1.68i 1.18 to 2.40 0.005 1.15c 1.09 to 1.22 <0.001\n\n0.80f 0.68 to 0.95 0.008 0.40j 0.29 to 0.55 <0.001 1.01d 1.00 to 1.01 <0.001\n\nContinuous variables are linear per 1 standard deviation unless otherwise indicated. Transformed continuous variables are indicated by the following footnotes: (a) x3;\n\n(b) x3ln(x); (c) ln(x); (d) [ln(x)]2; (e) x−2; (f) x2; (g) x−2ln(x); (h) x−1; (i) x0.5; (j) x0.5ln(x). Two rows for a continuous variable indicate the SHR or HR for each power of\n\nthe degree-2 fractional polynomial transformation. Cells for variables not included in a particular multivariable model are shaded grey. ACR, albumin-to-creatinine ratio; CI, confidence interval; CKD, chronic kidney disease; DM, diabetes mellitus; eGFR, estimated glomerular filtration rate; HR, hazard\n\nratio; IHD, ischaemic heart disease; LC-MG, light chain monoclonal gammopathy; MAP, mean arterial pressure; PAD, peripheral artery disease; SHR, subhazard ratio.\n\nhttps://doi.org/10.1371/journal.pmed.1003050.t005\n\nfor age, sex, ethnicity, co-morbidities, smoking status, eGFR, and urine ACR, the presence of an LC-MG did not have a statistically significant association with death (HR 1.49 [95% CI 0.93 to 2.39], P = 0.10). In this multivariable model, older age; male sex; a history of DM, IHD, or cerebrovascular disease; being a previous or current smoker, a lower eGFR, and a higher urine ACR (non-linear association; Fig 10) were associated with a higher risk of death.\n\nDiscussion\n\nWe evaluated the prognostic significance of non-malignant MG in patients with CKD. We found the prevalence of non-malignant MG to be higher in our CKD population compared to\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 11 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p12",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nFig 5. Non-linear univariable associations with risk of kidney failure in 3,478 participants with chronic kidney disease from 3 cohort studies for age (relative to 70 years), estimated glomerular filtration rate (eGFR, relative to 40 ml/min/1.73 m2), and urine albumin-to-creatinine ratio (ACR, relative to 3 mg/mmol).\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g005\n\nreported estimates of prevalence for the general population [1]. However, the presence of an MG was not associated with a higher risk of kidney failure or death after accounting for established prognostic factors in CKD. To the best of our knowledge, only 1 other study, by Haynes et al. [7], has assessed the relationship between MG and clinical outcomes in patients with CKD. Compared to our study, that by Haynes et al. had far fewer participants (382), such that only 35 patients had MGUS. Therefore, there is likely to be less bias in our estimates of the risk of kidney failure or death associated with an MG in CKD.\n\nFig 6. Cumulative incidence function for kidney failure in 3,478 participants with chronic kidney disease from 3 cohort studies, by the presence or absence of light chain monoclonal gammopathy (LC-MG). LC-MG present (black line); LC-MG absent (grey line). Dashed lines represent 95% CIs.\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g006\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 12 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p13",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nFig 7. Non-linear associations with risk of kidney failure in 3,478 participants with chronic kidney disease from 3 cohort studies in a multivariable model containing light chain monoclonal gammopathy status, age, sex, ethnicity, mean arterial pressure, estimated glomerular filtration rate (eGFR), and urine albumin-to-creatinine ratio (ACR), for age (relative to 70 years), eGFR (relative to 40 ml/min/1.73 m2), and urine ACR (relative to 3 mg/mmol).\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g007\n\nThe results of our study and the study by Haynes et al. suggest that the shorter survival associated with MGUS in the general population is not seen in patients with CKD. It is possible that neither study was large enough to detect a small increase in the risk of death. However, it may be that the already significantly increased rate of death in individuals with CKD compared to individuals without CKD renders any risk associated with an MG, which is primarily due to malignant transformation over time, negligible.\n\nFig 8. Kaplan–Meier survival curves for 3,478 participants with chronic kidney disease from 3 cohort studies by the presence or absence of light chain monoclonal gammopathy (LC-MG). LC-MG present (black line); LC-MG absent (grey line).\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g008\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 13 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p14",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nFig 9. Non-linear univariable associations with risk of death in 3,478 participants with chronic kidney disease from 3 cohort studies for mean arterial pressure (relative to 90 mm Hg), estimated glomerular filtration rate (eGFR, relative to 40 ml/min/1.73 m2), and urine albumin-to-creatinine ratio (ACR, relative to 3 mg/ mmol).\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g009\n\nOur finding of a higher prevalence of MG in CKD is also consistent with the study by Haynes et al. and appears attributable to an increased prevalence of both intact immunoglobulin MG and LC-MG. The prevalence of total MGUS in the Olmsted County cohort in individuals aged 70–79 was 5.9%, and the prevalence of light chain MGUS was 1.1% [15]; in our study, the crude prevalence was 11.6% for total MGUS (median age 73.8 years) and 1.6% for light chain MGUS (median age 77.8 years).\n\nFig 10. Non-linear association of urine albumin-to-creatinine ratio (ACR, relative to 3 mg/mmol) with risk of death in 3,478 participants with chronic kidney disease from 3 cohort studies in a multivariable model containing light chain monoclonal gammopathy status, age, sex, ethnicity, co-morbidities, smoking status, estimated glomerular filtration rate, and urine ACR.\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g010\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 14 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p15",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nA significant strength of this study was the inclusion of participants from multiple cohorts from both primary and secondary care and that it is the largest cohort to date of patients with MGUS and CKD. A significant limitation was the absence of SPEP and immunofixation data from the SKS and RRID cohorts. We could, therefore, detect only LC-MG in these cohorts, and many patients with an intact Ig MG would not have been identified. However, in the RIISC study, where SPEP and immunofixation were performed on serum from all participants, the presence of any non-malignant MG was not associated with a higher risk of kidney failure or death. Further, we did not assess the association of MGUS in this CKD population with other clin-ically important outcomes that are associated with MGUS in those without CKD, such as cardiovascular events, infections, or the evolution of an MG to multiple myeloma or other paraprotein-related diseases. We also did not examine CKD progression (via change in eGFR) with time, which would be a more sensitive marker for MG-associated kidney damage than the outcome of kidney failure. Further research is required concerning the prognostic implications of non-malignant MG in patients with CKD. However, based on the results of our study, these patients and their healthcare providers may be reassured that the presence of an MG does not significantly increase the risk of kidney failure or death that is associated with CKD. In conclusion, the prevalence of non-malignant MG appears to be higher in patients with CKD than in the general population. However, its presence is not independently associated with a significantly higher risk of kidney failure or death.\n\nSupporting information\n\nS1 STROBE Checklist. The relevant section and paragraph of the paper is indicated for each item on the checklist. (DOCX)\n\nS1 Protocol. The prospectively written analysis plan for the study. (DOCX)\n\nS1 Table. Complete case analyses of the association between baseline variables and risk of kidney failure (competing-risks regression, expressed as SHR with 95% CI) and death (Cox proportional hazards regression, expressed as HR with 95% CI) in 878 participants from the RIISC study with CKD. Continuous variables are linear per 1 standard deviation unless otherwise indicated. Transformed continuous variables are indicated by the following footnotes: (a) x3; (b) x−2; (c) x-2ln(x); (d) ln(x); (e) x−1; (f) x0.5. ACR, albumin-to-creatinine ratio; CI, confidence interval; CKD, chronic kidney disease; COPD, chronic obstructive pulmonary disease; DM, diabetes mellitus; eGFR, estimated glomerular filtration rate; HR, hazard ratio; IHD, ischaemic heart disease; MAP, mean arterial pressure; MG, monoclonal gammopathy; PAD, peripheral artery disease; RIISC, Renal Impairment in Secondary Care; SHR, subhazard ratio. (DOCX)\n\nS2 Table. Complete case analyses of the association between baseline variables and risk of kidney failure (competing-risks regression, expressed as SHR with 95% CI) and death (Cox proportional hazards regression, expressed as HR with 95% CI) in 3,478 participants with CKD from 3 cohort studies. Continuous variables are linear per 1 standard deviation unless otherwise indicated. Transformed continuous variables are indicated by the following footnotes: (a) x3; (b) x-2; (c) x−2ln(x); (d) x0.5; (e) x2; (f) x−1; (g) ln(x); (h) [ln(x)]2; (i) x0.5ln(x). ACR, albumin-to-creatinine ratio; CI, confidence interval; CKD, chronic kidney disease; DM,\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 15 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 16
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p16",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\ndiabetes mellitus; eGFR, estimated glomerular filtration rate; HR, hazard ratio; IHD, ischaemic heart disease; LC-MG, light chain monoclonal gammopathy; MAP, mean arterial pressure; PAD, peripheral artery disease; SHR, subhazard ratio. (DOCX)\n\nAuthor Contributions\n\nConceptualization: Anthony Fenton, Paul Cockwell.\n\nData curation: Anthony Fenton, Rajkumar Chinnadurai, Latha Gullapudi, Petros Kampanis, Indranil Dasgupta, James Ritchie, Stephen Harding, Charles J. Ferro, Philip A. Kalra, Maarten W. Taal, Paul Cockwell.\n\nFormal analysis: Anthony Fenton.\n\nInvestigation: Anthony Fenton, Petros Kampanis, Indranil Dasgupta, Stephen Harding, Philip A. Kalra, Maarten W. Taal, Paul Cockwell.\n\nMethodology: Anthony Fenton, Charles J. Ferro, Philip A. Kalra, Maarten W. Taal, Paul Cockwell.\n\nProject administration: Anthony Fenton, Rajkumar Chinnadurai, Latha Gullapudi, Indranil Dasgupta, Stephen Harding, Charles J. Ferro, Maarten W. Taal, Paul Cockwell.\n\nResources: Indranil Dasgupta, Stephen Harding, Charles J. Ferro, Philip A. Kalra, Maarten W. Taal, Paul Cockwell.\n\nSupervision: Indranil Dasgupta, Charles J. Ferro, Philip A. Kalra, Maarten W. Taal, Paul Cockwell.\n\nWriting – original draft: Anthony Fenton, Paul Cockwell.\n\nWriting – review & editing: Rajkumar Chinnadurai, Latha Gullapudi, Petros Kampanis, Indranil Dasgupta, James Ritchie, Stephen Harding, Charles J. Ferro, Philip A. Kalra, Maarten W. Taal, Paul Cockwell.\n\nReferences\n\n1. Kyle RA, Therneau TM, Rajkumar SV, Larson DR, Plevak MF, Offord JR, et al. Prevalence of monoclonal gammopathy of undetermined significance. N Engl J Med. 2006; 354(13):1362–9. https://doi.org/10. 1056/NEJMoa054494 PMID: 16571879\n\n2. Fermand JP, Bridoux F, Dispenzieri A, Jaccard A, Kyle RA, Leung N, et al. Monoclonal gammopathy of clinical significance: a novel concept with therapeutic implications. Blood. 2018; 132(14):1478–85. https://doi.org/10.1182/blood-2018-04-839480 PMID: 30012636\n\n3. Rajkumar SV, Dimopoulos MA, Palumbo A, Blade J, Merlini G, Mateos MV, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014; 15(12): e538–48. https://doi.org/10.1016/S1470-2045(14)70442-5 PMID: 25439696\n\n4. Leung N, Bridoux F, Hutchison CA, Nasr SH, Cockwell P, Fermand JP, et al. Monoclonal gammopathy of renal significance: when MGUS is no longer undetermined or insignificant. Blood. 2012; 120 (22):4292–5. https://doi.org/10.1182/blood-2012-07-445304 PMID: 23047823\n\n5. Kyle RA, Larson DR, Therneau TM, Dispenzieri A, Kumar S, Cerhan JR, et al. Long-term follow-up of monoclonal gammopathy of undetermined significance. N Engl J Med. 2018; 378(3):241–9. https://doi. org/10.1056/NEJMoa1709974 PMID: 29342381\n\n6. Kristinsson SY, Bjorkholm M, Andersson TM, Eloranta S, Dickman PW, Goldin LR, et al. Patterns of survival and causes of death following a diagnosis of monoclonal gammopathy of undetermined significance: a population-based study. Haematologica. 2009; 94(12):1714–20. https://doi.org/10.3324/ haematol.2009.010066 PMID: 19608666\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 16 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 17
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p17",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\n7. Haynes R, Hutchison CA, Emberson J, Dasgupta T, Wheeler DC, Townend JN, et al. Serum free light chains and the risk of ESRD and death in CKD. Clin J Am Soc Nephrol. 2011; 6(12):2829–37. https:// doi.org/10.2215/CJN.03350411 PMID: 22034503\n\n8. Ritchie J, Assi LK, Burmeister A, Hoefield R, Cockwell P, Kalra PA. Association of serum ig free light chains with mortality and ESRD among patients with nondialysis-dependent CKD. Clin J Am Soc Nephrol. 2015; 10(5):740–9. https://doi.org/10.2215/CJN.09660914 PMID: 25825483\n\n9. Stringer S, Sharma P, Dutton M, Jesky M, Ng K, Kaur O, et al. The natural history of, and risk factors for, progressive chronic kidney disease (CKD): the Renal Impairment in Secondary care (RIISC) study; rationale and protocol. BMC Nephrol. 2013; 14:95. https://doi.org/10.1186/1471-2369-14-95 PMID: 23617441\n\n10. Hoefield RA, Kalra PA, Baker P, Lane B, New JP, O’Donoghue DJ, et al. Factors associated with kidney disease progression and mortality in a referred CKD population. Am J Kidney Dis. 2010; 56(6):1072– 81. https://doi.org/10.1053/j.ajkd.2010.06.010 PMID: 20692750\n\n11. McIntyre NJ, Fluck RJ, McIntyre CW, Taal MW. Skin autofluorescence and the association with renal and cardiovascular risk factors in chronic kidney disease stage 3. Clin J Am Soc Nephrol. 2011; 6 (10):2356–63. https://doi.org/10.2215/CJN.02420311 PMID: 21885790\n\n12. Hutchison CA, Harding S, Hewins P, Mead GP, Townsend J, Bradwell AR, et al. Quantitative assess-ment of serum and urinary polyclonal free light chains in patients with chronic kidney disease. Clin J Am Soc Nephrol. 2008; 3(6):1684–90. https://doi.org/10.2215/CJN.02290508 PMID: 18945993\n\n13. Hutchison CA, Plant T, Drayson M, Cockwell P, Kountouri M, Basnayake K, et al. Serum free light chain measurement aids the diagnosis of myeloma in patients with severe renal failure. BMC Nephrol. 2008; 9:11. https://doi.org/10.1186/1471-2369-9-11 PMID: 18808676\n\n14. Fine JP, Gray RJ. A proportional hazards model for the subdistribution of a competing risk. J Am Stat Assoc. 1999; 94(446):496–509. https://doi.org/10.1080/01621459.1999.10474144\n\n15. Dispenzieri A, Katzmann JA, Kyle RA, Larson DR, Melton LJ 3rd, Colby CL, et al. Prevalence and risk of progression of light-chain monoclonal gammopathy of undetermined significance: a retrospective population-based cohort study. Lancet. 2010; 375(9727):1721–8. https://doi.org/10.1016/S0140-6736 (10)60482-5 PMID: 20472173\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 17 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p2",
+        "source_issue_ids": [],
+        "text": "Birmingham, data cannot be shared publicly and is subject to adherence to existing ethics approval. Interested, qualified researchers can request the data by contacting Penelope Gregory, REC Manager, at NRESCommittee.westmidlands-southbirmingham@nhs.net.\n\nFunding: The authors received no specific funding for this work.\n\nCompeting interests: I have read the journal’s policy and the authors of this manuscript have the following competing interests: PC has consulted for and advised the Binding Site, who produce the Freelite assay that has been used to measure the LC MGUS reported in this paper, and who carried out the intact immunoglobulin assays. SH is on the Board of Directors for The Binding Site who produce the Freelite assay used in this paper. MWT is a member of the Editorial Board of PLOS Medicine.\n\nAbbreviations: ACR, albumin-to-creatinine ratio; CKD, chronic kidney disease; COPD, chronic obstructive pulmonary disease; DM, diabetes mellitus; eGFR, estimated glomerular filtration rate; FLC, free light chain; HR, hazard ratio; IHD, ischaemic heart disease; KRT, kidney replacement therapy; LC-MG, light chain monoclonal gammopathy; MAP, mean arterial pressure; MG, monoclonal gammopathy; MGRS, monoclonal gammopathy of renal significance; MGUS, monoclonal gammopathy of undetermined significance; PAD, peripheral artery disease; RIISC, Renal Impairment in Secondary Care; RRID, Renal Risk in Derby; SHR, subhazard ratio; SKS, Salford Kidney Study; SPEP, serum protein electrophoresis.\n\nNon-malignant monoclonal gammopathy in chronic kidney disease\n\n(univariable subhazard ratio [SHR] 0.97 [95% CI 0.68 to 1.38], P = 0.85; multivariable SHR 1.16 [95% CI 0.80 to 1.69], P = 0.43), and although there was a higher risk of death in univariable analysis (hazard ratio [HR] 2.13 [95% CI 1.49 to 3.02], P < 0.001), this was not significant in multivariable analysis (HR 1.37 [95% CI 0.93 to 2.00], P = 0.11). Fifty-five (1.6%) of the 3,478 participants from all 3 studies had LC-MG. During a median follow-up time of 62.5 months, 564 of the 3,478 participants progressed to kidney failure, and 803 died. LC-MG was not associated with risk of kidney failure (univariable SHR 1.07 [95% CI 0.58 to 1.96], P = 0.82; multivariable SHR 1.42 [95% CI 0.78 to 2.57], P = 0.26). There was a higher risk of death in those with LC-MG in the univariable model (HR 2.51 [95% CI 1.59 to 3.96], P < 0.001), but not in the multivariable model (HR 1.49 [95% CI 0.93 to 2.39], P = 0.10). An important limitation of this work was that only LC-MG, rather than any MG, could be identified in participants from SKS and RRID.\n\nConclusions\n\nThe prevalence of MG was higher in this CKD cohort than that reported in the general population. However, the presence of an MG was not independently associated with a significantly higher risk of kidney failure or, unlike in the general population, risk of death.\n\nAuthor summary\n\nWhy was this study done?\n\n• Non-malignant monoclonal gammopathy (MG) is a common pre-malignant condition that can be associated with kidney damage and a higher risk of death.\n\n• Chronic kidney disease (CKD) is also common, affecting approximately 10% of adults, and people with CKD may be more likely to have an MG.\n\n• It is unknown whether having an MG is associated with higher risk of kidney failure or death in people with CKD.\n\nWhat did the researchers do and find?\n\n• We examined how common an MG is in patients with CKD, and also examined the associations between MG and kidney failure and death using data from 3 cohort studies of patients with CKD in the UK.\n\n• An MG was present in 11.6% of patients with CKD.\n\n• Patients with an MG did not have a higher risk of kidney failure or death.\n\nWhat do these findings mean?\n\n• Our results are consistent with a previous study that suggested that MG is more common in patients with CKD.\n\n• However, the presence of an MG was not associated with a higher risk of kidney failure or death.\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 2 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p3",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\n• Although this is reassuring for patients with CKD and their healthcare providers, we did not examine whether having an MG is associated with the risk of other adverse outcomes.\n\nIntroduction\n\nMonoclonal gammopathy (MG) is a prevalent condition [1] that can indicate a malignant B cell disorder such as multiple myeloma, but more often results from a pre-malignant B cell clone with no demonstrable organ damage (MG of undetermined significance, MGUS) [2,3]. MGUS is common, affecting around 3% of those aged over 50 years [1], and requires monitor-ing but not targeted therapy. However, a non-malignant MG can, rarely, be causally associated with kidney damage (MG of renal significance [MGRS]), where specific targeted therapy is indicated to preserve organ function [4]. Several studies in general populations have shown that the presence of MGUS is associated with shorter survival [5,6], and the prevalence of MGUS in patients with chronic kidney disease (CKD) has been reported to be higher than in the general population [7,8]. However, to the best of our knowledge, there has been only 1 small study examining the prognostic significance of MGUS in patients with CKD [7]. The study found that those with MGUS were not at a significantly higher risk of kidney failure or, unlike in the general population, death [7]. This study was performed to determine the prevalence of non-malignant MG in a CKD population and to evaluate whether the presence of a non-malignant MG adds to the risk of adverse outcomes in CKD. We tested the pre-specified hypotheses that the presence of a non-malignant MG is independently associated with a higher risk of kidney failure and shorter survival in patients with CKD.\n\nMethods\n\nA prospective analysis plan was written (S1 Protocol). This study is reported as per the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guideline (S1 STROBE Checklist).\n\nPatients\n\nPatients from 3 prospective UK cohorts of individuals with CKD who had not received kidney replacement therapy (KRT, i.e., dialysis or kidney transplant) were included: Renal Impairment in Secondary Care (RIISC; ClinicalTrials.gov: NCT01722383), the Salford Kidney Study (SKS, previously termed the Chronic Renal Insufficiency Standards Implementation Study [CRISIS]), and Renal Risk in Derby (RRID; National Institute for Health Research study ID: 6632). Each study had research ethics committee (REC) approval (RIISC: West Midlands South Birmingham REC, ref 10/H1207/6; SKS: North West Greater Manchester South REC; ref 15/ NW/0818; RRID: East Midlands Nottingham 1 REC). All participants in all 3 studies provided written informed consent, and all studies were conducted in accordance with the Declaration of Helsinki. Complete details of these cohorts have been reported elsewhere [9–11], and the inclusion and exclusion criteria are summarised in Table 1. For this analysis, participants were excluded\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 3 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p4",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nat an individual level if they had a malignant MG (multiple myeloma or another malignant B cell lymphoproliferative disorder).\n\nDefinition of MG\n\nAlthough the majority of included participants with MG will have had MGUS, we have used the more general term non-malignant MG to reflect the fact that only a minority of participants had kidney biopsies to exclude MGRS definitively. Two forms of non-malignant MG were assessed: (1) any non-malignant MG (assessed in the RIISC cohort only), defined as (a) a monoclonal protein on serum protein electrophoresis (SPEP) confirmed by serum immunofixation or (b) a serum κ/λ free light chain (FLC) ratio < 0.37 or >3.10 with an increased level of the involved light chain, or (2) light chain MG (LC-MG) (assessed in all 3 cohorts), defined as a serum κ/λ FLC ratio < 0.37 or >3.10 with an increased level of the involved light chain. The Freelite assay (Binding Site, Birmingham, UK) was used to measure κ and λ FLC con-centration in all 3 cohorts. The serum κ/λ FLC ratio reference range of 0.37 to 3.10 has been recommended in patients with kidney impairment to account for the associated change in FLC clearance [12,13]. For the RIISC cohort, SPEP and immunofixation were also performed on baseline serum using standard laboratory procedures.\n\nStudy design\n\nPatients were recruited prospectively in all 3 cohorts, and data and biological samples collected at baseline visits were used for this analysis. Years of recruitment, end of follow-up, and median follow-up time for each study are given in Table 1. Time-to-event data were collected for 2 clinical endpoints: (1) kidney failure (defined as the initiation of KRT) and (2) death. The following variables were available for analysis: age, sex, ethnicity (white, black, South Asian, or other), smoking status (current smoker, previous smoker, never smoked), co-mor-bidities (diabetes mellitus [DM], ischaemic heart disease [IHD], cerebrovascular disease, peripheral artery disease [PAD], chronic obstructive pulmonary disease [COPD], and malignancy), cause of CKD (vascular, diabetes, glomerular, tubulointerstitial, cystic or congenital, or other or unknown), mean arterial pressure (MAP), estimated glomerular filtration rate (eGFR, calculated using the 4-variable Modification of Diet in Renal Disease formula), and urine albumin-to-creatinine ratio (ACR).\n\nTable 1. Number of participants included and characteristics of each cohort study. ACR in mg/mmol; eGFR in ml/min/1.73 m2.\n\nStudy Number included Setting Inclusion criteria Exclusion criteria Years of recruitment End of follow-up Median (IQR) follow-up (months)\n\nRIISC 878 Secondary care (1) eGFR < 30 or (2) eGFR 30–59 with (a) eGFR decline\u0003 or (b) urine ACR > 70\n\n(1) Previous dialysis or kidney transplant (2) Immunosuppression for immune-mediated kidney disease\n\n2010 to 2015 End of 2018 74 (64 to 83)\n\nSKS 861 Secondary care eGFR >10 to <60 Previous dialysis or kidney transplant 2002 to 2010 End of 2017 139 (110 to 161)\n\nRRID 1,739 Primary care eGFR 30–59 (1) Expected survival <1 year (2) Previous solid organ transplant 2008 to 2010 End of 2015 61 (60 to 63)\n\neGFR units are ml/min/1.73 m2; ACR units are mg/mmol.\n\n\u0003eGFR decline defined as \u0015 5 ml/min/1.73 m2 per year, or \u0015 10 ml/min/1.73 m2 over 5 years.\n\nACR, albumin-to-creatinine ratio; eGFR, estimated glomerular filtration rate; IQR, interquartile range; RIISC, Renal Impairment in Secondary Care; RRID, Renal Risk in Derby; SKS, Salford Kidney Study.\n\nhttps://doi.org/10.1371/journal.pmed.1003050.t001\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 4 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p5",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nNo formal sample size calculations were carried out for these analyses, which were performed using the available specimen collections and datasets.\n\nStatistical analysis\n\nMissing data were assumed to be missing at random, and multiple imputation using chained equations was performed. Results of complete case analyses were similar and are provided in S1 and S2 Tables. Continuous variables all had skewed distributions as assessed by histograms. The relationships of MG or LC-MG status with other categorical baseline variables were assessed using Fisher’s exact test, and relationships with continuous variables were assessed using the Wil-coxon rank-sum test. The prognostic significance of an MG or LC-MG for risk of kidney failure was estimated by competing-risks regression (the Fine and Gray method [14]) to account for the competing risk of death, and expressed as a subhazard ratio (SHR) with 95% confidence interval (CI). The associations with risk of death were estimated using Cox proportional hazards models and expressed as hazard ratios (HRs) with 95% CI. Log–log plots were assessed for each variable to ensure that the proportional hazards assumption was not violated. Following an initial statistical review of our study, robust estimates of variance were used in all regression models, which are less sensitive to the presence of outliers. In analyses that included amalgamated data from all 3 cohorts, clustering was accounted for by the use of stratified models, in which the baseline hazard is allowed to vary by cohort. However, the estimated coefficient for a particular predic-tor variable is equal across cohorts. All variables included in multivariable models were pre-specified, based on established prognostic factors for kidney failure and death in patients with CKD. Dummy variables were created for categorical variables with more than 2 categories, and fractional polynomials were used to explore the presence of non-linear relationships between continuous predictors and each outcome. Where fractional polynomials provided a better model fit, plots of risk against the variable on its original scale are presented to aid appreciation of the non-linear relationship.\n\nResults\n\nAny non-malignant MG\n\nIn total, 878 participants from the RIISC cohort were included, and 102 (11.6%) of these had an MG. Types of MG were as follows: 63 (61.8%) were IgG, 8 (7.8%) were IgM, 5 (4.9%) were IgA, 1 (1.0%) was biclonal (IgG and IgM), and 25 (24.5%) were LC-MG. Study population characteristics and the relationship between MG status and other baseline variables are shown in Table 2. Compared to those without an MG, those with an MG were on average older (P < 0.001), and a higher proportion had a history of malignancy (P = 0.037). For all other baseline variables, there were no statistically significant differences between those with and those without an MG.\n\nKidney failure\n\nIn total, 327 (37.2%) participants progressed to kidney failure, with rates per 100 person-years of 10.5 and 9.3 for those with and without MG, respectively. The univariable associations between baseline variables and the risk of kidney failure are shown in Table 2. Age, eGFR, and urine ACR had non-linear relationships with the risk of kidney failure (Fig 1). The presence of\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 5 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p6",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nTable 2. Baseline characteristics of 878 participants of the RIISC study with CKD by MG status.\n\nVariable All With MG Without MG Completeness of data (%)\n\nN (%) 878 102 (11.6) 776 (88.4) 100\n\nAge (years) 64.6 (51.7 to 76.0) 73.8 (59.8 to 81.4) 63.7 (50.2 to 75.5) 100\n\nSex male 542 (61.7) 66 (64.7) 476 (61.3) 100\n\nEthnicity 100\n\nWhite 598 (68.1) 68 (66.7) 530 (68.3)\n\nSouth Asian 188 (21.4) 24 (23.5) 164 (21.1)\n\nBlack 84 (9.6) 9 (8.9) 75 (9.7)\n\nOther 8 (0.9) 1 (1.0) 7 (0.9)\n\nCo-morbidities 100\n\nDM 341 (38.8) 48 (47.1) 293 (37.8)\n\nIHD 208 (23.7) 30 (29.4) 178 (22.9)\n\nCerebrovascular disease 102 (11.6) 15 (14.7) 87 (11.2)\n\nPAD 93 (10.6) 14 (13.7) 79 (10.2)\n\nCOPD 89 (10.1) 8 (7.8) 81 (10.4)\n\nMalignancy 128 (14.6) 22 (21.6) 106 (13.7)\n\nSmoking status 98.2\n\nNever 416 (48.3) 47 (47.0) 369 (48.4)\n\nPrevious 333 (38.6) 40 (40.0) 293 (38.5)\n\nCurrent 113 (13.1) 13 (13.0) 100 (13.1)\n\nCause of CKD 91.2\n\nVascular 230 (28.7) 34 (36.2) 196 (27.7)\n\nDiabetes 125 (15.6) 20 (21.3) 105 (14.9)\n\nGlomerular 109 (13.6) 7 (7.4) 102 (14.4)\n\nTubulointerstitial 89 (11.1) 6 (6.4) 83 (11.7)\n\nCystic or congenital 66 (8.2) 4 (4.3) 62 (8.8)\n\nOther or unknown 182 (22.7) 23 (24.5) 159 (22.5)\n\nMAP (mm Hg) 93 (85 to 102) 92 (83 to 103) 93 (86 to 102) 97.6\n\neGFR (ml/min/1.73 m2) 31 (23 to 42) 28 (22 to 42) 31 (23 to 42) 96.8\n\nUrine ACR (mg/mmol) 33.4 (6.3 to 130.0) 32.7 (5.6 to 161.2) 33.4 (6.5 to 122.7) 94.0\n\nCategorical variables are shown as frequency (percentage), and continuous variables as median (interquartile range).\n\nACR, albumin-to-creatinine ratio; CKD, chronic kidney disease; COPD, chronic obstructive pulmonary disease; DM, diabetes mellitus; eGFR, estimated glomerular\n\nfiltration rate; IHD, ischaemic heart disease; MAP, mean arterial pressure; MG, monoclonal gammopathy; PAD, peripheral artery disease; RIISC, Renal Impairment in Secondary Care.\n\nhttps://doi.org/10.1371/journal.pmed.1003050.t002\n\nan MG did not have a significant association with the risk of kidney failure (SHR 0.97 [95% CI 0.68 to 1.38], P = 0.85; Fig 2). The multivariable model for kidney failure is shown in Table 2. After adjustment for age, sex, ethnicity, cause of CKD, MAP, eGFR, and urine ACR, the presence of an MG was not significantly associated with risk of kidney failure (SHR 1.16 [95% CI 0.80 to 1.69], P = 0.43). Younger age, female sex, black ethnicity, a cystic or congenital cause of CKD, a lower eGFR, and a higher urine ACR were all associated with a higher risk of kidney failure. In this multivariable model, age, eGFR, and urine ACR had non-linear associations with risk of kidney failure (Fig 3).\n\nDeath\n\nIn total, 202 (23.0%) participants died. The death rates per 100 person-years were 10.8 and 5.3 for those with and without MG, respectively. The presence of an MG was associated with a\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 6 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p7",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nTable 3. Association between baseline variables and risk of kidney failure (competing-risks regression, expressed as SHR with 95% CI) and death (Cox proportional hazards regression, expressed as HR with 95% CI) in 878 participants from the RIISC study with CKD.\n\nVariable Kidney failure Death\n\nUnivariable Multivariable Univariable Multivariable\n\nSHR 95% CI P SHR 95% CI P HR 95% CI P HR 95% CI P\n\nWith MG 0.97 0.68 to 1.38 0.85 1.16 0.80 to 1.69 0.43 2.13 1.49 to 3.02 <0.001 1.37 0.93 to 2.00 0.11\n\nAge 1.00a 1.00 to 1.00 <0.001 1.00a 0.99 to 1.00 <0.001 3.36 2.73 to 4.12 <0.001 2.83 2.21 to 3.64 <0.001\n\nMale sex 0.99 0.79 to 1.23 0.92 0.55 0.44 to 0.69 <0.001 1.27 0.95 to 1.69 0.11 0.88 0.62 to 1.24 0.46\n\nEthnicity\n\nWhite Ref Ref Ref Ref\n\nSouth Asian 2.02 1.58 to 2.57 <0.001 1.29 0.98 to 1.69 0.07 0.51 0.33 to 0.78 0.002 0.91 0.58 to 1.42 0.67\n\nBlack 1.98 1.42 to 2.76 <0.001 1.77 1.32 to 2.38 <0.001 0.80 0.48 to 1.33 0.39 1.13 0.67 to 1.90 0.65\n\nOther 2.64 1.07 to 6.55 0.036 1.82 0.91 to 3.62 0.09 0.56 0.08 to 3.86 0.56 0.66 0.16 to 2.72 0.57\n\nCo-morbidities\n\nDM 0.92 0.73 to 1.15 0.46 1.64 1.25 to 2.16 <0.001 1.27 0.94 to 1.72 0.12\n\nIHD 0.85 0.65 to 1.11 0.22 2.44 1.83 to 3.24 <0.001 1.44 1.05 to 1.96 0.022\n\nCerebrovascular disease 0.77 0.53 to 1.13 0.18 1.97 1.38 to 2.81 <0.001 1.27 0.87 to 1.85 0.21\n\nPAD 0.86 0.59 to 1.27 0.45 2.21 1.57 to 3.11 <0.001 1.27 0.85 to 1.91 0.24\n\nCOPD 0.45 0.28 to 0.72 0.001 1.46 0.99 to 2.16 0.06 1.14 0.74 to 1.77 0.55\n\nMalignancy 0.51 0.35 to 0.76 0.001 2.16 1.56 to 2.99 <0.001 1.56 1.10 to 2.22 0.013\n\nSmoking status\n\nNever Ref Ref Ref\n\nPrevious 0.69 0.54 to 0.88 0.003 1.73 1.28 to 2.34 <0.001 1.06 0.76 to 1.49 0.74\n\nCurrent 1.07 0.78 to 1.47 0.71 1.14 0.71 to 1.84 0.58 1.25 0.70 to 2.24 0.45\n\nCause of CKD\n\nVascular Ref Ref Ref\n\nDiabetes 1.92 1.33 to 2.78 0.001 1.05 0.69 to 1.60 0.81 0.81 0.52 to 1.26 0.35\n\nGlomerular 1.19 0.81 to 1.76 0.38 1.00 0.66 to 1.51 1.00 0.22 0.11 to 0.41 <0.001\n\nTubulointerstitial 0.89 0.57 to 1.38 0.59 0.63 0.37 to 1.06 0.08 0.31 0.16 to 0.59 <0.001\n\nCystic or congenital 2.85 2.01 to 4.04 <0.001 3.99 2.74 to 5.83 <0.001 0.26 0.10 to 0.63 0.003\n\nOther or unknown 1.24 0.89 to 1.73 0.21 1.21 0.85 to 1.73 0.28 0.82 0.57 to 1.17 0.27\n\nMAP 1.39 1.25 to 1.54 <0.001 0.93 0.83 to 1.06 0.28 0.79 0.68 to 0.93 0.005\n\neGFR\n\nUrine ACR\n\n1.18b 1.14 to 1.22 <0.001 0.94b 0.93 to 0.96 <0.001 0.45 0.36 to 0.56 <0.001 0.67 0.53 to 0.86 0.002\n\n1.06c 1.05 to 1.07 <0.001 3.26d 2.73 to 3.91 <0.001\n\n1.48e 1.37 to 1.59 <0.001 3.30f 2.61 to 4.17 <0.001 0.78g 0.63 to 0.96 0.018 1.24 1.07 to 1.45 0.005\n\n1.00a 1.00 to 1.00 <0.001 1.01a 1.00 to 1.01 <0.001\n\nContinuous variables are linear per 1 standard deviation unless otherwise indicated. Transformed continuous variables are indicated by the following footnotes: (a) x3;\n\n(b) x−2; (c) x-2ln(x); (d) x−1; (e) ln(x); (f) x0.5; (g) x. Two rows for a continuous variable indicate the SHR or HR for each power of the degree-2 fractional polynomial transformation. Cells for variables not included in a particular multivariable model are shaded grey.\n\nACR, albumin-to-creatinine ratio; CI, confidence interval; CKD, chronic kidney disease; COPD, chronic obstructive pulmonary disease; DM, diabetes mellitus; eGFR,\n\nestimated glomerular filtration rate; HR, hazard ratio; IHD, ischaemic heart disease; MAP, mean arterial pressure; MG, monoclonal gammopathy; PAD, peripheral artery disease; RIISC, Renal Impairment in Secondary Care; SHR, subhazard ratio.\n\nhttps://doi.org/10.1371/journal.pmed.1003050.t003\n\nhigher risk of death in the univariable model (HR 2.13 [95% CI 1.49 to 3.02], P < 0.001), as shown in Table 2 and Fig 4. However, in the multivariable model, adjusting for age, sex, ethnicity, co-morbidities, smoking status, eGFR, and urine ACR, the presence of an MG no longer had a statistically significant association with death (HR 1.37 [95% CI 0.93 to 2.00],\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 7 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p8",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nFig 1. Non-linear univariable associations with risk of kidney failure in 878 participants of the Renal Impairment in Secondary Care study with chronic kidney disease for age (relative to 60 years), estimated glomerular filtration rate (eGFR, relative to 30 ml/min/1.73 m2), and urine albumin-to-creatinine ratio (ACR, relative to 30 mg/mmol).\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g001\n\nP = 0.11; Table 2). Older age, a history of IHD or malignancy, lower eGFR, and higher urine ACR were associated with a higher risk of death.\n\nNon-malignant LC-MG\n\nIn total, 3,478 participants from the 3 cohorts were included, and 55 (1.6%) of these had an LC-MG. Table 3 shows the study population characteristics and the relationship between\n\nFig 2. Cumulative incidence function for kidney failure in 878 participants of the Renal Impairment in Secondary Care study with chronic kidney disease, by presence or absence of monoclonal gammopathy (MG). MG present (black line); MG absent (grey line). Dashed lines represent 95% CIs.\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g002\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 8 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pmed.1003050",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_sha256": "60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c",
+          "source_url": "https://doi.org/10.1371/journal.pmed.1003050"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c:p9",
+        "source_issue_ids": [],
+        "text": "Non-malignant monoclonal gammopathy in chronic kidney disease\n\nFig 3. Non-linear associations with risk of kidney failure in 878 participants of the Renal Impairment in Secondary Care study with chronic kidney disease (CKD) in a multivariable model containing monoclonal gammopathy status, age, sex, ethnicity, cause of CKD, mean arterial pressure, estimated glomerular filtration rate (eGFR), and urine albumin-to-creatinine ratio (ACR), for age (relative to 60 years), eGFR (relative to 30 ml/min/1.73 m2), and urine ACR (relative to 30 mg/mmol).\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g003\n\nLC-MG status and other baseline variables. Compared to those without an LC-MG, those with an LC-MG were on average older (P < 0.001), a higher proportion were male (P = 0.006) and of black ethnicity (P = 0.004), and a lower proportion had a history of IHD (P = 0.001) or PAD (P = 0.004). There were no statistically significant differences between those with and those without LC-MG with respect to all other baseline variables.\n\nFig 4. Kaplan–Meier survival curves for 878 participants of the Renal Impairment in Secondary Care study with chronic kidney disease by the presence or absence of monoclonal gammopathy (MG). MG present (black line); MG absent (grey line).\n\nhttps://doi.org/10.1371/journal.pmed.1003050.g004\n\nPLOS Medicine | https://doi.org/10.1371/journal.pmed.1003050 February 28, 2020 9 / 17",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:60659393e63a8fcdbf01fa89fa904cba146b726976e3f58edde7aefac826bc7c"
+}

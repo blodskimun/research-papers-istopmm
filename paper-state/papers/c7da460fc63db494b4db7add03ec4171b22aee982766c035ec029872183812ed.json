@@ -1,0 +1,239 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:27:35.739990+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Normative Data for the Logical Memory Subtest of the Wechsler Memory Scale-IV in Middle-Aged and Elderly Korean People",
+        "year": null
+      },
+      "doi": "10.30773/pi.2019.0061",
+      "format": "pdf",
+      "id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+      "url": "https://doi.org/10.30773/pi.2019.0061"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.30773/pi.2019.0061",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_sha256": "c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_url": "https://doi.org/10.30773/pi.2019.0061"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162:p1",
+        "source_issue_ids": [],
+        "text": "ORIGINAL ARTICLE\n\nhttps://doi.org/10.30773/pi.2019.0061\n\nPrint ISSN 1738-3684 / On-line ISSN 1976-3026 OPEN ACCESS\n\nNormative Data for the Logical Memory Subtest of the Wechsler Memory Scale-IV in Middle-Aged and Elderly Korean People\n\nYebin D. Ahn1, Dahyun Yi2 , Haejung Joung1, Eun Hyun Seo2, Young Hwa Lee1, Min Soo Byun3, Jun Ho Lee1, So Yeon Jeon1, Jun-Young Lee4,5, Bo Kyung Sohn6, Dong Young Lee1,3,5 , for the KBASE Research Group*\n\n1Department of Neuropsychiatry, Seoul National University Hospital, Seoul, Republic of Korea\n\n2Institute of Human Behavioral Medicine, Medical Research Center, Seoul National University, Seoul, Republic of Korea\n\n3Premedical Science, College of Medicine, Chosun University, Gwangju, Republic of Korea\n\n4Department of Neuropsychiatry, SMG-SNU Boramae Medical Center, Seoul, Republic of Korea\n\n5Department of Psychiatry, Seoul National University College of Medicine, Seoul, Republic of Korea\n\n6Department of Psychiatry, Sanggye Paik Hospital, Inje University College of Medicine, Seoul, Republic of Korea\n\nObjective The purpose of this study is to identify the demographic variables that are affecting performances on the Logical Memory (LM) subtest included in the Korean version of the Wechsler Memory Scale (WMS)-IV and to provide normative data on the LM subtest for the middle-age and elderly Korean people.\n\nMethods The participants were 435 non-demented adults aging from 50 to 90 and with the educational level ranging from 0 to 21 years.\n\nResults Age and education were found to be significantly associated with performance on the LM subtest, while gender effect was not statistically significant. Therefore, we stratified the norm blocks by age and education. Age was divided into three groups: 50–59, 60–74, and 75–90 years. Education was stratified into three groups: 0–8 years, 9–12 years, and 13 years or more.\n\nConclusion The normative data provided in the current study are expected to be useful in clinical and research settings to detect or define subtle changes in episodic memory in Korean adults and elderly, and can also be used for cross-cultural comparison of verbal episodic memory performance among elderly populations using different languages. Psychiatry Investig 2019;16(11):793-799\n\nKey Words Normative data, Korean, Logical Memory subtest, WMS-IV.\n\nINTRODUCTION\n\nThe Logical Memory (LM) subtest is the most frequently administered subtest in the Wechsler Memory Scale, the 4th edition (WMS-IV),1 which is designed to measure verbal episodic memory.2 The LM subtest is consisted of three parts: LM I (immediate recall), LM II (delayed recall), and LM Recogni-\n\nReceived: March 11, 2019 Revised: May 31, 2019 Accepted: August 9, 2019\n\n Correspondence: Dong Young Lee, MD, PhD Department of Neuropsychiatry, Seoul National University Hospital, 101 Daehak-ro, Jongno-gu, Seoul 03080, Republic of Korea Tel: +82-2-2072-2205, Fax: +82-2-744-7241, E-mail: selfpsy@snu.ac.kr\n\n Correspondence: Dahyun Yi, PhD Institute of Human Behavioral Medicine, Medical Research Center, Seoul National University 101 Daehak-ro, Jongno-gu, Seoul 03080, Republic of Korea Tel: +82-2-2072-1722, Fax: +82-2-744-7241, E-mail: dahyunyi@snu.ac.kr\n\n*The co-investigators of the KBASE Research Group are listed in elsewhere (http://kbase.kr).\n\ncc This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (https://creativecommons.org/licenses/by-nc/4.0) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.\n\ntion (delayed recognition). In the LM I, subjects are required to immediately recall details of two short passages. In the LM II, subjects are asked to recall the passages after a 20 to 30-minute delay. In the LM Recognition, subjects are given yes or no questions regarding the passages learned earlier. The LM subtest is considered as a useful and effective measure of episodic memory as it addresses three processes involved in memory-encoding, storage and recall.3 The narrative nature of the recall is also known to be sensitive in detecting cognitive decline in early dementia since prose recall depends upon a range of high-level cognitive functions such as episodic memory, conceptual organization, and schema formation.4 The LM subtest is not only useful for distinguishing certain types of dementia such as Alzheimer’s disease (AD) dementia but is also known as a tool that can detect subtle memory changes in the individuals with mild cognitive impairment (MCI).3,5-8 In addition, the LM subtest can be used to discriminate between amnestic MCI and normal aging and to predict conversion to AD from MCI.9 It is also used to distinguish AD dementia\n\nCopyright © 2019 Korean Neuropsychiatric Association 793",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.30773/pi.2019.0061",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_sha256": "c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_url": "https://doi.org/10.30773/pi.2019.0061"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162:p2",
+        "source_issue_ids": [],
+        "text": "Logical Memory Subtest Korean Norm\n\nfrom non-AD dementia, such as dementia with Lewy bodies (DLB) and vascular dementia (VD).10,11\n\nThe LM subtest included in the Korean version of the WMS-IV (K-WMS-IV) was developed and standardized in 2012.12 Contrary to the original English version of the WMS-IV, which is consisted of an adult version with two full stories (A and B) and an older adults version with a shortened story A and the original story B, only the adult version with the full stories is available in the Korean version of the WMS-IV. As in most other cognitive function tests, performance on the LM subtest was shown to be affected by demographic variables from the previous studies. For example. it was shown that the LM subtest score decreased in older and relatively less educated population.13-18 However, the published normative data of the K-WMS-IV are limited as the data for older adults are unavailable, providing data for only the individuals with age between 16 and 69. Moreover, despite the importance of considering the effects of education, the published normative data of the K-WMS-IV do not directly incorporate the levels of education; instead, it only provides limited reference of cut-off points for standard scores derived for all the subtests included in the K-WMS-IV. Direct incorporation of the effects of education for development of the normative data is particu-larly important for the older adults in South Korea given that about 75.3 % of Korean elderly population in present days have less than 9 years of education.19\n\nHence, we aimed to identify the demographic variables affecting the performances on the LM subtest of the K-WMS-IV and to provide normative data for the middle-aged and elderly Korean people.\n\nMETHODS\n\nStudy population A total of 435 community dwelling healthy non-demented participants (243 females and 192 males; 50–90 years of age; and zero to 21 years of education) were included in this study. All subjects were participants of the Korean Brain Aging Study for the Early Diagnosis and Prediction of Alzheimer’s disease (KBASE), an ongoing prospective cohort study, which initiated in 2014 and was approved by Seoul National University Hospital Institutional Review Board (IRB: 1401-027-547). The details of the KBASE cohort are provided in a previous study.20 Briefly, each participant was examined by a psychiatrist with advanced training in neuropsychiatry and dementia research according to the KBASE protocol based on the Korean version of Consortium to Establish a Registry for Alzheimer’s disease (CERAD) assessment battery21 in order to establish a diagnosis. Reliable informants were also interviewed to acquire accurate information regarding cognitive and functional changes in addition to\n\n794 Psychiatry Investig 2019;16(11):793-799\n\ntheir medical history. A clinical review panel comprising sever-al board-certified psychiatrists and clinical neuropsychologist with expertise in dementia research made clinical decisions including a dementia diagnosis for exclusion. This panel reviewed all available raw data resulting from the clinical evaluations. All participants satisfied the entry criteria, which excluded dementia and other serious medical, psychiatric, and neurological disorders that could affect mental function. Psychiatrists diagnosed dementia using the criteria detailed in Diagnostic and Statistical Manual of Mental Disorders, 4th Edition, Text Revision (DSM-IV-TR).22 We excluded candidates with evidence of focal brain lesions on magnetic resonance image; the presence of severe behavioral or communication problems that would make a clinical examination difficult; absence of a reliable informant; and, inability to read Korean. All participants possessed adequate vision and hearing, although many wore glasses and some required hearing aids. Individuals with minor medical conditions (e.g., diabetes with no serious com-plications, essential hypertension, mild hearing loss, etc.) were included in the study.\n\nMeasurements The LM subtest in the K-WMS-IV was equivalent to that of the original full standard English version of the LM in the WMS-IV.1,12 The basic storyline is similar with the original version, but the names of person, city and streets were re-placed with more suitable Korean substitutes.12 The scoring guideline was similarly based on the guideline of the original English version of the LM subtest. Each part is based on two thematically independent stories (story A and story B). In the LM I, the two narrative stories (story A and story B) are ver-bally given and the examinee is required to immediately recall the stories as much as he/she can. In the LM II, free recall of two stories is elicited after a 20 to 30-minute delay. Each cor-rect detail was awarded with one score point. The 30 recognition questions (either yes or no) about the two stories are given subsequently to assess the recognition ability. - LM I Total (maximum score=50): LM I Story A (score range 0–25)+LM I Story B (score range 0–25) - LM II Total (maximum score=50): LM II Story A (score range 0–25)+LM II Story B (score range 0–25) - LM Recognition (maximum score=30): Story A (score range 0–15)+Story B (score range 0–15) Three trained psychometrists administered the LM subtest according to the published administration manual. During the 20 to 30-minute delay, the participants were given tests of visuospatial skills and non-verbal memory.\n\nStatistical analysis Bivariate correlational analyses were performed to exam-",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.30773/pi.2019.0061",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_sha256": "c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_url": "https://doi.org/10.30773/pi.2019.0061"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162:p3",
+        "source_issue_ids": [],
+        "text": "ine the associations between the demographic variables and the LM subtest scores. Age and education were entered as continuous variables and gender was coded as 0 or 1 for female and male, respectively. Hierarchical multiple linear regression analyses were used to assess the relative contribu-tion of the variables. A series of 3×3×2 analyses of variance (ANOVA) was performed to determine any main effects and interaction of age (50–59, 60–74, 75–90 years), education (0–8, 9–12, ≥13 years) and gender on the tests.\n\nRESULTS\n\nThe correlations analyses between the demographic variables and the LM subtest scores showed that age and education were significantly correlated with the LM scores whereas gender was not (Table 1). The relative effects of age, education and gender on the scores of the LM subtest were explored by using the regression analyses where each variable was entered separately. Age accounted for 15.0–20.7% of the variance, while education accounted for 9.8–14.2%. Gender accounted for less than 1%. When education was entered hierarchically after age, its effect was reduced slightly to a range between 5.9–9.4% (Table 2). Since performance on the LM subtest was affected by age and education and not by gender, it was decided to stratify the norms by these two variables (Figure 1). The scores were divided into 3 age groups and 3 education levels, based on the observation of the frequency distribution of the current data to ensure sufficient samples in each cell. Three-way ANOVA was also conducted to determine presence of interaction effects in addition to main effects among the demographic variables on the LM subtest scores. It was shown that age and education were found to have significant main effects on the all of the LM subtest scores; but, all LM scores were not significantly influenced by gender. There were no significant interactions between age, gender or education for all LM subtest scores. Scores on the LM subtest scores decreased with increasing age and fewer years of education. The effects of age was more pronounced on LM II Total than LM I Total, whereas the effects of education were more pronounced on LM I Total than LM II Total (LM I Total: Age: F(2, 434)=19.61, p<0.001; Education: F(2, 434)=35.45, p<0.001; Age×Education: F(4, 434)=2.29, p>0.05; LM II Total: Age: F(2, 434)=26.79, p<0.001; Education: F(2, 434)=27.70, p<0.001; Age×Education: F(4, 434)=2.39, p>0.05).\n\nNormative data Based on the above results on the effects of the demographic variables on the LM scores, the LM scores were stratified by\n\nYD Ahn et al.\n\nTable 1. Correlations of age, education, and gender with the scores of the LM subtest\n\nAge Gender† Education\n\nLM I Story A -0.39* 0.08 0.36*\n\nLM I Story B -0.42* 0.04 0.35*\n\nLM I Total -0.43* 0.06 0.38*\n\nLM II Story A -0.42* 0.09 0.32*\n\nLM II Story B -0.45* 0.02 0.32*\n\nLM II Total -0.46* 0.06 0.34*\n\nLM Recognition -0.40* 0.09 0.36*\n\n*p<0.001, †point-biserial correlation coefficient. LM: Logical Memory\n\nTable 2. Hierarchical multiple linear regression of age and education on the Logical Memory subtest scores\n\nVariables B SE(B) β ΔR2 p\n\nLM I Story A\n\nAge -0.195 0.025 -0.336 0.152 <0.001\n\nEducation 0.318 0.045 0.301 0.088 <0.001\n\nLM I Story B\n\nAge -0.173 0.020 -0.364 0.172 <0.001\n\nEducation 0.246 0.037 0.284 0.078 <0.001\n\nLM I Total\n\nAge -0.368 0.041 -0.373 0.184 <0.001\n\nEducation 0.564 0.075 0.314 0.095 <0.001\n\nLM II Story A\n\nAge -0.217 0.025 -0.373 0.174 <0.001\n\nEducation 0.266 0.045 0.251 0.061 <0.001\n\nLM II Story B\n\nAge -0.187 0.020 -0.404 0.201 <0.001\n\nEducation 0.207 0.036 0.245 0.058 <0.001\n\nLM II Total\n\nAge -0.404 0.041 -0.410 0.208 <0.001\n\nEducation 0.473 0.075 0.263 0.067 <0.001\n\nLM Recognition\n\nAge -0.176 0.021 -0.351 0.162 <0.001\n\nEducation 0.268 0.039 0.294 0.084 <0.001\n\nLM: Logical Memory, B: regression coefficient, SE(B): standard er-ror of B, β: standardized regression coefficient, ΔR2: percent variance explained by each variable from the model including both variables\n\nage and education, and not by gender. As mentioned above, age was stratified into three groups (50–59, 60–74, and 75–90 years of age) and the educational groups were divided into three strata (0–8, 9–12, ≥13 years of education). Of note, given the fact that most of the participants in the 50–59 age-range were relatively highly educated resulting in insufficient number of samples in the young and less educated group, the\n\nwww.psychiatryinvestigation.org 795",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.30773/pi.2019.0061",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_sha256": "c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_url": "https://doi.org/10.30773/pi.2019.0061"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162:p4",
+        "source_issue_ids": [],
+        "text": "Logical Memory Subtest Korean Norm\n\n30.00\n\nLM I total score\n\n20.00\n\n10.00\n\nEducation 0–8 9–12 ≥13\n\nLM II total score\n\n30.00\n\n20.00\n\n10.00\n\nEducation 0–8 9–12 ≥13\n\n0.00\n\n0.00 50–59 60–74 75–90 50–59 60–74 75–90\n\nAge groups Age groups\n\nFigure 1. Performance on the LM I and LM II as a function of 3 age groups and 3 education levels. LM: Logical Memory.\n\nresults led to the decision to provide the normative data for the 50–59 age group with two education levels (i.e., 9–12 and ≥13). All three levels of education were used for the normative data of the 60–74 and 75–90 age groups. The normative data of the LM subtest total scores by the demographic variables are shown in the forms of mean, standard deviation, median, 5th percentile, and 95th percentile (Table 3).\n\nDISCUSSION\n\nThe aim of the study was to examine the effect of age, education, and gender on the performances of non-demented older adults on the LM subtest and to provide normative data in a large and diverse population in Korea. It was shown that older age and low level of education was associated with poorer performances on the LM subtest. However, there was no significant influence of gender on the LM scores. The current results also suggest that age was indeed the demographic factor that accounted for the greatest amount of variance in the performances on the LM subtest, with education closely following age. Interestingly, it was found that age had greater effect on the delayed recall while education had greater effect on the immediate recall. Therefore, it is crucial to directly consider the level of education in addition to age when creating the normative data of the LM subtest. Because this study included subjects with diverse educational levels, ranging from 0 to 21 years, the current study was able to demonstrated the effects of education on the LM subtest scores much better than the pre-viously published normative data for Korean adults. In terms of the effects of education on the LM scores, our\n\n796 Psychiatry Investig 2019;16(11):793-799\n\nfindings were consistent with the findings from the previous studies,13-17,23,24 which showed that poorer performances on the LM subtest were observed in less educated group. In Danish and Italian studies, there was a significant effect of education on performances on the LM.15,16 In a Mexican-American study, the level of education was the strongest demographic predictor of the LM I and II performances.17 A previous study that estimated the influence of education on the LM test in the Korean version of WMS-IV among adults aging between 16 and 69 showed that education was an important determi-nant for the LM subtest scores and its influence on the LM performance increased as participants got older.24 Although a Japanese normative study of the LM for older adults reported that the LM I and not the LM II related to educational level,25 this may be due to small sample size (n=50) and relatively narrow range of educational level (6–18 years). The significant effect of age on the performances on the LM subtest found in this study is also in line with numerous previous re-ports.13–15,18,24,26,27 In contrast to the effects of education and age, the effects of gender was not significant on any of the LM subtest scores, which is also consistent with the results of the previous studies conducted in other countries.15,17,25\n\nTaking the results of the analyses together, the normative data of the LM subtest were stratified by both age and education with three age groups and three educational groups. We were able to provide the first reliable normative reference of the LM subtest with adequate number of participants with diverse educational background in Korean adults aging from 50 to 90 years old. Since this study excluded individuals with dementia and other underlying severe major illnesses or psy-",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.30773/pi.2019.0061",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_sha256": "c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_url": "https://doi.org/10.30773/pi.2019.0061"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162:p5",
+        "source_issue_ids": [],
+        "text": "YD Ahn et al.\n\nTable 3. Statistical properties for age, education, gender, LM I Total, LM II Total, and LM Recognition for each normative group\n\nAge groups Statistics\n\nMean SD Median 5th %ile 95th %ile\n\nAge group 50–59 (N=61) Education 9–12 years (N=26) Age 56.81 2.26 58.00 51.35 59.00 Education 11.19 1.30 12.00 9.00 12.00 Gender (F/M) 17/9 LM I Total 20.04 6.91 20.00 4.70 31.95 LM II Total 15.35 8.39 14.50 0.35 30.60 LM Recognition 22.04 3.76 22.00 14.70 28.30 Education≥13 years (N=35) Age 55.97 2.95 57.00 50.00 59.00 Education 16.51 1.38 16.00 14.00 20.00 Gender (F/M) 18/17 LM I Total 27.86 8.89 27.00 10.60 44.40 LM II Total 23.20 9.36 22.00 9.20 42.20 LM Recognition 24.40 3.02 25.00 19.00 29.00 Age group 60–74 (N=215) Education 0–8 years (N=53) Age 68.89 4.00 69.00 61.00 74.00 Education 5.11 2.09 6.00 0.00 7.30 Gender (F/M) 38/15 LM I Total 13.04 5.94 14.00 3.70 24.30 LM II Total 8.08 5.81 9.00 0.00 18.60 LM Recognition 17.92 4.24 18.00 11.70 26.30 Education 9–12 years (N=95) Age 67.66 4.27 68.00 60.00 74.00 Education 11.01 1.40 12.00 9.00 12.00 Gender (F/M) 58/37 LM I Total 16.25 7.14 16.00 4.80 29.20 LM II Total 10.91 7.16 11.00 0.00 25.00 LM Recognition 19.99 3.71 20.00 13.00 26.00 Age group 60–74 (N=215) Education≥13 years (N=67) Age 67.19 4.57 67.00 60.00 74.00 Education 16.27 1.51 16.00 14.00 19.20 Gender (F/M) 20/47 LM I Total 19.28 7.36 19.00 5.60 33.20 LM II Total 13.91 7.68 14.00 0.00 28.40 LM Recognition 21.52 3.74 22.00 14.00 27.00 Age group 75–90 (N=152) Education 0–8 years (N=54) Age 78.19 3.07 77.00 75.00 84.25 Education 4.94 2.23 6.00 0.00 7.25 Gender (F/M) 43/11 LM I Total 11.11 5.86 10.00 2.50 21.00 LM II Total 6.44 5.21 5.00 0.00 17.00 LM Recognition 17.46 3.51 18.00 11.75 23.25\n\nwww.psychiatryinvestigation.org 797",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.30773/pi.2019.0061",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_sha256": "c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_url": "https://doi.org/10.30773/pi.2019.0061"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162:p6",
+        "source_issue_ids": [],
+        "text": "Logical Memory Subtest Korean Norm\n\nTable 3. Statistical properties for age, education, gender, LM I Total, LM II Total, and LM Recognition for each normative group (continued)\n\nAge groups Statistics\n\nMean SD Median 5th %ile 95th %ile\n\nEducation 9–12 years (N=45)\n\nAge 78.73 3.34 77.00 75.00 85.70\n\nEducation 11.40 1.14 12.00 9.00 12.00\n\nGender (F/M) 27/18\n\nLM I Total 11.62 6.93 12.00 2.30 23.70\n\nLM II Total 6.31 6.29 5.00 0.00 19.70\n\nLM Recognition 17.89 3.30 17.00 12.30 25.00\n\nEducation ≥13 years (N=53)\n\nAge 79.23 3.85 78.00 75.00 88.00\n\nEducation 16.02 1.77 16.00 13.00 20.00\n\nGender (F/M) 16/37\n\nLM I Total 17.64 7.90 19.00 4.70 29.50\n\nLM II Total 10.85 7.43 12.00 0.00 21.60\n\nLM Recognition 20.06 4.41 20.00 13.70 26.30\n\nLM : Logical Memory, SD: standard deviation; %ile: percentile; F: female; M: male\n\nchiatric conditions that might affect cognitive function based on strict criteria, it is convinced that the normative data is enumerated by relatively healthy individuals. The normative data not only provided mean and standard deviation (SD) but also median, 5th and 95th percentile values for easy clinical utility. Information of mean and SD would be useful to define MCI based on the calculation of z-scores.28 The 5th percentile value may be useful in diagnosing dementia since it was suggested as cut-off value of neuropsychological tests for implying cognitive deficit according to the National Institute of Neurological and Communicative Diseases and Stroke/Alzheimer’s Disease and Related Disorders Association (NINCDS-ADRDA) criteria for AD.29 Nevertheless, a couple of possible limitations need to be mentioned. First, the current study does not provide normative reference for the 50–59 age group with 0–8 years of education. Given that the individuals in this particular age group are generally highly educated in general Korean population in the present day, it can be presumed that this will not affect us-ers much. However, given the notable disparity of educational attainment as well as socioeconomic background between the adults in their 50 s and the adults who are 65 and older, the normative references need to be updated more regularly as the young and highly educated group ages. Second, the current normative data were, unfortunately, based on the version with two full stories that parallels the adult version of the original English WMS-IV as the shortened older adult version was unavailable in Korean. Therefore, comparisons of the performances on the LM across nations may face some\n\n798 Psychiatry Investig 2019;16(11):793-799\n\nchallenges and cautious approach is warranted. In summary, the LM subtest scores were influenced by education and age but not by gender. The normative data provided in the current study will allow clinicians and research-ers to better interpret the LM test scores and understand the levels of verbal episodic memory.\n\nAcknowledgments This study was supported by a grant from Ministry of Science and ICT, Republic of Korea (Grant No. NRF-2014M3C7A1046042).\n\nConflicts of Interest The authors have no potential conflicts of interest to disclose.\n\nAuthor Contributions Conceptualization: Dong Young Lee, Dahyun Yi. Data curation: Yebin Ahn. Formal analysis: Yebin Ahn, Dahyun Yi. Funding acquisition: Dong Young Lee. Investigation: Haejung Joung, Eun Hyun Seo, Young Hwa Lee, Min Soo Byun, Jun Ho Lee, So Yeon Jeon, Jun-Young Lee, Bo Kyung Sohn. Methodology: Haejung Joung, Eun Hyun Seo, Young Hwa Lee, Min Soo Byun, Jun Ho Lee, So Yeon Jeon, Jun-Young Lee, Bo Kyung Sohn. Project administration: Haejung Joung, Eun Hyun Seo, Young Hwa Lee, Min Soo Byun, Jun Ho Lee, So Yeon Jeon, Jun-Young Lee, Bo Kyung Sohn. Re-sources: Haejung Joung, Eun Hyun Seo, Young Hwa Lee, Min Soo Byun, Jun Ho Lee, So Yeon Jeon, Jun-Young Lee, Bo Kyung Sohn. Supervision: Dong Young Lee, Dahyun Yi. Validation: Dong Young Lee, Dahyun Yi. Vi-sualization: Yebin Ahn. Writing—original draft: Yebin Ahn, Eun Hyun Seo. Writing—review & editing: Dong Young Lee, Dahyun Yi.\n\nORCID iDs Dong Young Lee https://orcid.org/0000-0001-8976-8320 Dahyun Yi https://orcid.org/0000-0002-0860-0946 Yebin D. Ahn https://orcid.org/0000-0001-9566-5555",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.30773/pi.2019.0061",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_sha256": "c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162",
+          "source_url": "https://doi.org/10.30773/pi.2019.0061"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162:p7",
+        "source_issue_ids": [],
+        "text": "REFERENCES\n\n1. Wechsler D. Wechsler Memory Scale IV (WMS-IV). New York, NY: Psychological Corporation; 2009. 2. Sullivan K. Alternate forms of prose passages for the assessment of au-ditory-verbal memory. Arch Clin Neuropsychol 2005;20:745-753. 3. Li M, Ng TP, Kua EH, Ko SM. Brief informant screening test for mild cognitive impairment and early Alzheimer’s disease. Dement Geriatr Cogn Disord 2006;21:392-402. 4. Dunn JC, Almeida OP, Barclay L, Waterreus A, Flicker L. Latent se-mantic analysis: a new method to measure prose recall. J Clin Exp Neuropsychol 2002;24:26-35. 5. Robinson-Whelen S, Storandt M. Immediate and delayed prose recall among normal and demented adults. Arch Neurol 1992;49:32-34. 6. Chapman LL, White DA, Storandt M. Prose recall in dementia. A comparison of delay intervals. Arch Neurol 1997;54:1501-1504. 7. Lim ML, Gomez R, Koopman C. A review of amnestic MCI screening in east/southeast Asian older adults with low education: implications for early informant-clinician collaboration. Int J Geriatr Psychiatry 2015;30:144-155. 8. An H, Chey J. A standardization study of the story recall test in the elderly Korean population. Korean J Clin Psychol 2004;23:435-454. 9. Rabin LA, Pare N, Saykin AJ, Brown MJ, Wishart HA, Flashman LA, et al. Differential memory test sensitivity for diagnosing amnestic mild cognitive impairment and predicting conversion to Alzheimer’s disease. Neuropsychol Dev Cogn B Aging Neuropsychol Cogn 2009;16:357-376. 10. Hayden KM, Warren LH, Pieper CF, Ostbye T, Tschanz JT, Norton MC, et al. Identification of VaD and AD prodromes: the Cache County Study. Alzheimers Dement 2005;1:19-29. 11. Hamilton JM, Salmon DP, Galasko D, Delis DC, Hansen LA, Masliah E, et al. A comparison of episodic memory deficits in neuropathologi-cally-confirmed Dementia with Lewy bodies and Alzheimer’s disease. J Int Neuropsychol Soc 2004;10:689-697. 12. Chey J, Park K, Hwang S, Hong S. Korean Wechsler Memory Scale IV. Daegu: Korea Psychology; 2012. 13. Marcopulos B, McLain C. Are our norms “normal”? A 4-year follow-up study of a biracial sample of rural elders with low education. Clin Neuropsychol 2003;17:19-33. 14. Haaland KY, Price L, Larue A. What does the WMS-III tell us about memory changes with normal aging? J Int Neuropsychol Soc 2003;9:89-96. 15. Iavarone A, Carpinelli Mazzi M, Russo G, D’Anna F, Peluso S, Mazzeo P, et al. The Italian version of the quick mild cognitive impairment (Qmci-I) screen: normative study on 307 healthy subjects. Aging Clin Exp Res 2019;31:353-360. 16. Vogel A, Stokholm J, Andreasen R, Henriksen BD, Bronniche V, Mad-sen GJ, et al. Psychometric properties and reference data for Danish\n\nYD Ahn et al.\n\nversions of Free and Cued Selective Reminding Test, Category Cued Memory Test and Logical Memory. Scand J Psychol 2018;59:496-502. 17. O’Bryant SE, Edwards M, Johnson L, Hall J, Gamboa A, O’Jile J. Texas Mexican American adult normative studies: normative data for com-monly used clinical neuropsychological measures for English- and Spanish-speakers. Dev Neuropsychol 2018;43:1-26. 18. Price L, Said K, Haaland KY. Age-associated memory impairment of Logical Memory and Visual Reproduction. J Clin Exp Neuropsychol 2004;26:531-538. 19. Korea Institute for Health and Social Affairs. Seoul: 2017 Korean National Survey on Older Adults; 2017. 20. Byun MS, Yi D, Lee JH, Choe YM, Sohn BK, Lee JY, et al. Korean brain aging study for the early diagnosis and prediction of alzheimer’s disease: methodology and baseline sample characteristics. Psychiatry Investig 2017;14:851-863. 21. Lee JH, Lee KU, Lee DY, Kim KW, Jhoo JH, Kim JH, et al. Development of the Korean version of the Consortium to Establish a Registry for Alzheimer’s Disease Assessment Packet (CERAD-K): clinical and neuropsychological assessment batteries. J Gerontol B Psychol Sci Soc Sci 2002;57:P47-P53. 22. American Psychiatric Association. Diagnostic Criteria from DSM-IV-TR. Washington, D.C.: American Psychiatric Association; 2000. 23. Ganguli M, Snitz BE, Lee CW, Vanderbilt J, Saxton JA, Chang CC. Age and education effects and norms on a cognitive test battery from a population-based cohort: the Monongahela-Youghiogheny Healthy Aging Team. Aging Ment Health 2010;14:100-107. 24. Shin M, Hong SH, Park K, Hwang ST, Chey J, Kim JH. Impact of education on the Korean Wechsler Memory Scale IV Performances. Korean J Clin Psychol 2016;35:585-599. 25. Kawano N, Awata S, Ijuin M, Iwamoto K, Ozaki N. Necessity of normative data on the Japanese version of the Wechsler Memory Scale-Revised Logical Memory subtest for old-old people. Geriatr Gerontol Int 2013;13:726-730. 26. Johnson DK, Storandt M, Balota DA. Discourse analysis of logical memory recall in normal aging and in dementia of the Alzheimer type. Neuropsychology 2003;17:82-92. 27. Oliveira C, Lima M, Esteves C, Gonzatti V, Viana SA, Irigaray T, et al. Normative data of the Brazilian elderly in Logical Memory subtest of WMS-R. Aval Psicol 2017;16:11-18. 28. Lezak MD. Neuropsychological Assessment (3rd Ed.). New York: Ox-ford University Press; 1995. 29. McKhann G, Drachman D, Folstein M, Katzman R, Price D, Stadlan EM. Clinical diagnosis of Alzheimer’s disease: report of the NINCDS-ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer’s Disease. Neurology 1984;34:939-944.\n\nwww.psychiatryinvestigation.org 799",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:c2ebd6cedf5bdd7798adaff7eab29d69a5d1a05dcfbcdb9e31c2fd21ab013162"
+}

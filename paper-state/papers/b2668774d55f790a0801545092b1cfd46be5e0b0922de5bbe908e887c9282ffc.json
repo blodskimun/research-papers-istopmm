@@ -1,0 +1,524 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:26:12.423820+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Long COVID in a prospective cohort of home-isolated patients",
+        "year": null
+      },
+      "doi": "10.1038/s41591-021-01433-3",
+      "format": "pdf",
+      "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+      "url": "https://doi.org/10.1038/s41591-021-01433-3"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p1",
+        "source_issue_ids": [],
+        "text": "Articles\n\nhttps://doi.org/10.1038/s41591-021-01433-3\n\nLong COVID in a prospective cohort of home-isolated patients\n\nBjørn Blomberg 1,2,3 ✉, Kristin Greve-Isdahl Mohn 3,4, Karl Albert Brokstad5,6, Fan Zhou4, Dagrun Waag Linchausen7, Bent-Are Hansen8, Sarah Lartey4, Therese Bredholt Onyango4, Kanika Kuwelker 1,2,3,4, Marianne Sævik 3, Hauke Bartsch 9,10, Camilla Tøndel 11,12, Bård Reiakvam Kittang1,8, Bergen COVID-19 Research Group*, Rebecca Jane Cox 4,13,14 ✉ and Nina Langeland 1,2,3,14 ✉\n\nLong-term complications after coronavirus disease 2019 (COVID-19) are common in hospitalized patients, but the spectrum of symptoms in milder cases needs further investigation. We conducted a long-term follow-up in a prospective cohort study of 312 patients—247 home-isolated and 65 hospitalized—comprising 82% of total cases in Bergen during the first pandemic wave in Norway. At 6 months, 61% (189/312) of all patients had persistent symptoms, which were independently associated with severity of initial illness, increased convalescent antibody titers and pre-existing chronic lung disease. We found that 52% (32/61) of home-isolated young adults, aged 16–30 years, had symptoms at 6 months, including loss of taste and/or smell (28%, 17/61), fatigue (21%, 13/61), dyspnea (13%, 8/61), impaired concentration (13%, 8/61) and memory problems (11%, 7/61). Our findings that young, home-isolated adults with mild COVID-19 are at risk of long-lasting dyspnea and cognitive symptoms highlight the importance of infection control measures, such as vaccination.\n\nT\n\nhe respiratory tract is the site of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) entry and infection; however, COVID-19 is a complex systemic disease, affecting the cardiovascular, renal, hematologic, gastrointestinal and central nervous systems1. As evidence emerges of predominantly lasting impairment of lung function related to fibrosis, more data on the long-term effects of COVID-19 on other organs are required2. A plethora of symptoms persist in patients surviving severe COVID- 19 (refs. 3,4), and a long COVID syndrome has been proposed5,6. However, the severity and duration of symptoms remain largely unknown. Chronic fatigue occurred after SARS infection in 2003 (ref. 7), and it is well known in the aftermath of a spectrum of infectious diseases8–13. Before the SARS-CoV-2 pandemic, patient man-agement in intensive care was frequently associated with mental and physical decline, and this could partially explain long COVID in patients with severe illness14. However, the burden of long COVID in mild to moderately ill patients is not well defined. We assessed persistent symptoms 6 months after initial COVID-19 in a prospective cohort of hospitalized and home-isolated patients from the first pandemic wave in Bergen, Norway.\n\nResults All patients diagnosed at the only centralized testing facility in the city of Bergen were invited to participate, as well as all patients\n\nadmitted to the city’s two hospitals: Haukeland University Hospital and Haraldsplass Deaconess Hospital. Recruitment commenced with the first diagnosed home-isolated and the first hospitalized patients; 92% of patients during the first pandemic wave agreed to participate. The objective was to identify factors and biomark-ers associated with long-term complications. From 28 February to 4 April 2020, we consecutively recruited 357 patients who were positive for SARS-CoV-2. We collected demographic and clinical data as well as blood samples. Household members of patients who tested positive were included to ensure completeness of the cohort, and their infection was diagnosed by SARS-CoV-2-specific antibodies at 2 months15. At 6-month follow-up, the study population available for analysis comprised 312 patients, of whom 247 were home-isolated and 65 were hospitalized (Fig. 1). The median age of the study population was 46 years (inter-quartile range (IQR) 30–58 years) with 51% (160/312) women. Forty-four percent had comorbidities (137/312), the most frequent being chronic lung disease (12%, 38/312, 34 with asthma), hypertension (11%, 35/312), chronic heart disease (7%, 22/312), rheumatic diseases (6%, 20/312), diabetes (4%, 13/312) and immunosuppressive conditions (4%, 11/312). In 272 patients who recorded symptoms during acute disease, fatigue (90%, 244/272), cough (71%), headache (64%), myalgia (58%) and dyspnea (55%) were the most frequent, whereas only 21% had fever. Hospitalized patients were\n\n1Department of Clinical Science, University of Bergen, Bergen, Norway. 2National Advisory Unit for Tropical Infectious Diseases, Haukeland University Hospital, Bergen, Norway. 3Department of Medicine, Haukeland University Hospital, Bergen, Norway. 4Influenza Centre, Department of Clinical Science, University of Bergen, Bergen, Norway. 5Broegelmann Research Laboratory, Department of Clinical Science, University of Bergen, Bergen, Norway.\n\n6Department of Safety, Chemistry and Biomedical Laboratory Sciences, Western Norway University of Applied Sciences, Bergen, Norway. 7Bergen Municipality Emergency Clinic, Bergen, Norway. 8Department of Medicine, Haraldsplass Deaconess Hospital, Bergen, Norway. 9Mohn Medical Imaging and Visualization Centre, Department of Radiology, Haukeland University Hospital, Bergen, Norway. 10Department of Informatics, University of Bergen, Bergen, Norway. 11Department of Paediatrics, Haukeland University Hospital, Bergen, Norway. 12Department of Research and Innovation, Haukeland University Hospital, Bergen, Norway. 13Department of Microbiology, Haukeland University Hospital, Bergen, Norway. 14These authors contributed equally: Rebecca Jane Cox, Nina Langeland. *A list of authors and their affiliations appears at the end of the paper. ✉e-mail: bjorn.blomberg@uib.no; rebecca.cox@uib.no; nina.langeland@uib.no\n\nNature Medicine | VOL 27 | September 2021 | 1607–1613 | www.nature.com/naturemedicine 1607",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p10",
+        "source_issue_ids": [],
+        "text": "Articles NATurE MEDICInE\n\n5\n\nSpike IgG titres (log 10)\n\n4\n\n3\n\n2\n\nSeverity vs. antibody titres a\n\n12\n\n10\n\nNo. of symptoms (0−13)\n\n8\n\n6\n\n4\n\n2\n\nAntibody titres vs number of symptoms b\n\nHome−isolated Hospitalised\n\n2 4 6 Severity*\n\n2 3 4 5 2 3 4 5\n\nSpike IgG titres (log 10)\n\nExtended Data Fig. 1 | Correlations between severity of acute illness, antibody titres at 2 months and number of symptoms at 6 months follow-up. Panel a is a scatter plot showing the correlation between severity of initial illness and the Spike IgG antibody titres (log 10) at 2 months follow-up. Panel b shows the correlation between Spike IgG antibody titres (log 10) at 2 months follow-up and the number of symptoms at 6 months follow-up, stratified by severity of initial illness, that is home-isolated versus hospitalised patients. A regression line calculated by linear model is shown in each graph with standard error represented by the shaded area.\n\nNature Medicine | www.nature.com/naturemedicine",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: ocr_required",
+          "Separate local OCR; not human verified. Native extraction retained unchanged.",
+          "OCR engine: tesseract 5.5.0",
+          "OCR page state: ocr_text",
+          "Mean OCR word confidence: 92.9; not a scientific accuracy guarantee."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p11",
+        "source_issue_ids": [],
+        "text": "[OCR transcription; not human verified]\nnature research Corresponding author(s): Bjgrn Blomberg NMED-L111507B\nLast updated by author(s): Jun 1, 2021\nReporting Summary\nNature Research wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency\nin reporting. For further information on Nature Research policies, see our Editorial Policies and the Editorial Policy Checklist.\nStatistics\nFor all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.\nConfirmed\nxX The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement\nx A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly\nThe statistical test(s) used AND whether they are one- or two-sided\nOnly common tests should be described solely by name; describe more complex techniques in the Methods section.\nA description of all covariates tested\nxX Xx!\nA description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons\nA full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient)\nAND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)\nXl\nFor null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted\nGive P values as exact values whenever suitable.\nFor Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings\nFor hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes\nKNX O OOOOOUs\nHU &\nEstimates of effect sizes (e.g. Cohen's d, Pearson's r), indicating how they were calculated\nOur web collection on statistics for biologists contains articles on many of the points above.\nSoftware and code\nPolicy information about availability of computer code\nData collection Data was entered using electronic case report forms (eCRF) in REDCap® (Research Electronic Data Capture, Vanderbilt University, Nashville,\nTennessee). All analyses were conducted in R version 4-0-3 (www.r-project.org). Negative binomial regression was performed using the R\npackage MASS, and graphs were produced in R using the ggplot and gridExtra packages.\nData analysis R code used in this study is publicaly available in GitHub or from the first author upon reasonable request\nFor manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and\nreviewers. We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Research guidelines for submitting code & software for further information.\nData\nPolicy information about availability of data\nAll manuscripts must include a data availability statement. This statement should provide the following information, where applicable:\n- Accession codes, unique identifiers, or web links for publicly available datasets\n- A list of figures that have associated raw data\n- A description of any restrictions on data availability\nThe virus sequence hCoV-19/Norway/Bergen-01/2020 GISAID accession ID EPI_ISL_541970\nThe statistical analysis are included in the tables, and the legend to the figures contains all information on the data in the figure. The R codes are publicaly available\non GitHub. The study data is available from the first author upon reasonable request. All data are not made publicly available due to small subgroups where\nindividual participants may be identifiable.\n5\nje’)\n@\nc\n=\nan\n=\nO\nZa)\n©\nfev)\n=\na)\n>\n=\n©\nae)\ne)\n.\n5\nCo)\nWN\nC\n3\nfev)\n5\n<",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: blank_or_vector_only",
+          "Separate local OCR; not human verified. Native extraction retained unchanged.",
+          "OCR engine: tesseract 5.5.0",
+          "OCR page state: ocr_text",
+          "Mean OCR word confidence: 91.2; not a scientific accuracy guarantee."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p12",
+        "source_issue_ids": [],
+        "text": "[OCR transcription; not human verified]\nField-specific reporting\nPlease select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.\nDX] Life sciences [| Behavioural & social sciences [_] Ecological, evolutionary & environmental sciences\nFor a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf\nLife sciences study design\nAll studies must disclose on these points even when the disclosure is negative.\nSample size No sample size was calculated as we recruited all patients diagnosed SARS CoV-2 at the only available centralized testing facility in the city of\nBergen were invited to participate, as well as all patients admitted to the city s two hospitals. 92% of cases during the first pandemic wave\nagreed to participate.\n5\nje’)\na\nC\n=\nan\n=\nO\nWN\n©\nfev)\n=\nia)\n>\n=\n©\nse)\ne)\n=e\n5\nCo)\nWn\nc\n5\njad)\n=\n<\nData exclusions | Patients who responded to the questions were included in the analysis. For subgroup analyses, the selection and number of patients are\ndescribed in the text. In multivariable analyses, all factors shown in the tables were analysed, and those with significance p<0.1 were included\nin multivariable analysis, while some factors were excluded due to strong collinearity\nReplication All serological assays (Spike IgG and MN) were performed in duplicate with the mean of the titres used.\nRandomization NA\nBlinding NA\nReporting for specific materials, systems and methods\nWe require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material,\nsystem or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.\nMaterials & experimental systems Methods\nInvolved in the study n/a | Involved in the study\nAntibodies XL] chie-seq\nEukaryotic cell lines x | Flow cytometry\nPalaeontology and archaeology xX L] MRI-based neuroimaging\nAnimals and other organisms\nHuman research participants\nClinical data\nXOORROOsS\nLIXXOOIXK &\nDual use research of concern\nAntibodies\nAntibodies used ELISA horseradish peroxidase (HRP) labeled goat anti-human IgG (SouthernBiotech, Cat.2040-05) Rabbit monoclonal IgG against\nSARS-CoV2 NP (Sino Biological Cat. 40143-RO19-100) Biotinylated goat anti-rabbit IgG (H+L) (Southern Biotech Cat. 4050-08)\nExtravidin-peroxidase (Sigma Cat. E2886-1ML\nValidation We have included a suitable seronegative control group and the validation is presented in Kuwelker et al. Lancet Regional Health\nEurope 2021 and Trieu et al. Journal of Infectious Diseases 2020\nEukaryotic cell lines\nPolicy information about cell lines\nCell line source(s) Vero cells ATCC Cat. CCL-81\nAuthentication The cell line was not authenicated as ATTC is a reliable supplier\nMycoplasma contamination Cells have not had mycoplasma\nCommonly misidentified lines NA\n(See ICLAC register)",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: blank_or_vector_only",
+          "Separate local OCR; not human verified. Native extraction retained unchanged.",
+          "OCR engine: tesseract 5.5.0",
+          "OCR page state: ocr_text",
+          "Mean OCR word confidence: 94.1; not a scientific accuracy guarantee."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p13",
+        "source_issue_ids": [],
+        "text": "[OCR transcription; not human verified]\nPalaeontology and Archaeology\nSpecimen provenance Provide provenance information for specimens and describe permits that were obtained for the work (including the name of the\nissuing authority, the date of issue, and any identifying information).\nSpecimen deposition Indicate where the specimens have been deposited to permit free access by other researchers.\nDating methods If new dates are provided, describe how they were obtained (e.g. collection, storage, sample pretreatment and measurement), where\nthey were obtained (i.e. lab name), the calibration program and the protocol for quality assurance OR state that no new dates are\nprovided.\n[ ] Tick this box to confirm that the raw and calibrated dates are available in the paper or in Supplementary Information.\nEthics oversight Identify the organization(s) that approved or provided guidance on the study protocol, OR state that no ethical approval or guidance\nwas required and explain why not.\nNote that full information on the approval of the study protocol must also be provided in the manuscript.\nAnimals and other organisms\nPolicy information about studies involving animals; ARRIVE guidelines recommended for reporting animal research\nLaboratory animals For laboratory animals, report species, strain, sex and age OR state that the study did not involve laboratory animals.\nWild animals Provide details on animals observed in or captured in the field; report species, sex and age where possible. Describe how animals were\ncaught and transported and what happened to captive animals after the study (if killed, explain why and describe method; if released,\nsay where and when) OR state that the study did not involve wild animals.\nField-collected samples | For laboratory work with field-collected samples, describe all relevant parameters such as housing, maintenance, temperature,\nphotoperiod and end-of-experiment protocol OR state that the study did not involve samples collected from the field.\nEthics oversight Identify the organization(s) that approved or provided guidance on the study protocol, OR state that no ethical approval or guidance\nwas required and explain why not.\nNote that full information on the approval of the study protocol must also be provided in the manuscript.\nHuman research participants\nPolicy information about studies involving human research participants\nPopulation characteristics All patients diagnosed SARS CoV-2 at the only available centralized testing facility in the city of Bergen were invited to\nparticipate, as well as all patients admitted to the city s two hospitals. Recruitment commenced with the first diagnosed\nhome-isolated and the first hospitalised patient, 92% of cases during the first pandemic wave agreed to participate.\nRecruitment We conducted a prospective cohort study recruiting all patients in Bergen municipality diagnosed with confirmed SARS CoV-2\nduring the period February to May 2020 are cases, identified by RT-PCR and/or antibody responses, and including secondary\ncases (47% attack rate). All cases were invited to join the study. Each participant or their guardian provided written informed\nconsent before inclusion in the study.The inclusion criteria were pre-established as all SARS CoV-2 infected people during the\nfirst wave of the pandemic in Bergen Norway. Recruitment into our study commenced from the first infected SARS CoV-2\ncommunity case (28th February 2020) and from the first hospitalised patient (9th March 2020). For the community patients\nwe recruited all consenting patients and their household members from February until April 2020, whereas hospitalised\npatients were included from both city hospitals until May due to the approximately 14 day delay after infection to\nhospitalisation.\nEthics oversight The study is approved by the Regional Ethics Committee of Western Norway (#118664)\nNote that full information on the approval of the study protocol must also be provided in the manuscript.\nClinical data\nPolicy information about clinical studies\nAll manuscripts should comply with the ICMJE guidelines for publication of clinical research and a completed CONSORT checklist must be included with all submissions.\nClinical trial registration NA\nStudy protocol Available upon reasonable request\nData collection Prospective clinical cohort\nOutcomes Persistent symptoms at six months follow-up\n5\nje’)\na\nC\n=\nan\n=\noO\niea)\n©\nfev)\n=\nia)\n>\n=\n©\nse)\n(e)\noF.\n5\noO\nWN\nc\n5\njad)\n=\n<",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: blank_or_vector_only",
+          "Separate local OCR; not human verified. Native extraction retained unchanged.",
+          "OCR engine: tesseract 5.5.0",
+          "OCR page state: ocr_text",
+          "Mean OCR word confidence: 89.3; not a scientific accuracy guarantee."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p14",
+        "source_issue_ids": [],
+        "text": "[OCR transcription; not human verified]\nDual use research of concern\nPolicy information about dual use research of concern\nHazards\nCould the accidental, deliberate or reckless misuse of agents or technologies generated in the work, or the application of information presented\nin the manuscript, pose a threat to:\nYes\n[| Public health\n[| National security\n[| Crops and/or livestock\n[| Ecosystems\n[| Any other significant area\nx XK Xi Ki x é\n5\nje’)\na\nC\n=\nan\n=\noO\niea)\n©\nfev)\n=\nia)\n>\n=\n©\nse)\n(e)\noF.\n5\noO\nWN\nc\n5\njad)\n=\n<\nExperiments of concern\nDoes the work involve any of these experiments of concern:\n~<\niv)\nwn\nDemonstrate how to render a vaccine ineffective\nConfer resistance to therapeutically useful antibiotics or antiviral agents\nEnhance the virulence of a pathogen or render a nonpathogen virulent\nIncrease transmissibility of a pathogen\nAlter the host range of a pathogen\nEnable evasion of diagnostic/detection modalities\nEnable the weaponization of a biological agent or toxin\nXXX XK XK Ks\nOOOOUOOOO\nAny other potentially harmful combination of experiments and agents\nChIP-seq\nData deposition\n[ ] Confirm that both raw and final processed data have been deposited in a public database such as GEO.\n[| Confirm that you have deposited or provided access to graph files (e.g. BED files) for the called peaks.\nData access links For Initial\n5\t1\t24\t1\t1\t6\t782\t1926\t160\t22\t95.772484\tsubmission or Revised\n5\t1\t24\t1\t1\t9\t1108\t1926\t106\t22\t95.459007\tversion documents, provide reviewer access links. For your Final\n5\t1\t24\t1\t1\t18\t1999\t1926\t152\t22\t95.569939\tsubmission document,\nMay remain private before publication. | provide a link to the deposited data.\nFiles in database submission Provide a list of all files available in the database submission.\nGenome browser session Provide a link to an anonymized genome browser session for Initial\n5\t1\t26\t1\t1\t15\t1542\t2135\t159\t22\t95.681267\tsubmission and Revised\n5\t1\t26\t1\t1\t18\t1890\t2135\t106\t22\t92.950455\tversion documents only, to\n(e.g. UCSC) enable peer review. Write no\n5\t1\t27\t1\t1\t8\t1048\t2175\t84\t28\t96.229126\tlonger\n5\t1\t27\t1\t1\t9\t1141\t2175\t193\t28\t96.238991\tapplicable for Final\n5\t1\t27\t1\t1\t12\t1434\t2171\t151\t36\t94.976997\tsubmission documents.\nMethodology\nReplicates Describe the experimental replicates, specifying number, type and replicate agreement.\nSequencing depth Describe the sequencing depth for each experiment, providing the total number of reads, uniquely mapped reads, length of reads and\nwhether they were paired- or single-end.\nAntibodies Describe the antibodies used for the ChiP-seq experiments; as applicable, provide supplier name, catalog number, clone name, and lot\nnumber.\nPeak calling parameters | Specify the command line program and parameters used for read mapping and peak calling, including the ChIP, control and index files\nused.\nData quality Describe the methods used to ensure data quality in full detail, including how many peaks are at FDR 5% and above 5-fold enrichment.\nSoftware Describe the software used to collect and analyze the ChIP-seq data. For custom code that has been deposited into a community\nrepository, provide accession details.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: blank_or_vector_only",
+          "Separate local OCR; not human verified. Native extraction retained unchanged.",
+          "OCR engine: tesseract 5.5.0",
+          "OCR page state: ocr_text",
+          "Mean OCR word confidence: 92.2; not a scientific accuracy guarantee."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p15",
+        "source_issue_ids": [],
+        "text": "[OCR transcription; not human verified]\nFlow Cytometry\nPlots\nConfirm that:\n[ ] The axis labels state the marker and fluorochrome used (e.g. CD4-FITC).\n[ ] The axis scales are clearly visible. Include numbers along axes only for bottom left plot of group (a 'group' is an analysis of identical markers).\n[ ] All plots are contour plots with outliers or pseudocolor plots.\n[| A numerical value for number of cells or percentage (with statistics) is provided.\n=)\nrev)\na\nCc\n=\nOD\n=\n©\niea)\n©\nced)\n=\na\n=)\n=\n®\n<2)\ne)\nD\nte)\nWN\nCc\n=\nced)\nS\n<\nMethodology\nSample preparation Describe the sample preparation, detailing the biological source of the cells and any tissue processing steps used.\nInstrument Identify the instrument used for data collection, specifying make and model number.\nSoftware Describe the software used to collect and analyze the flow cytometry data. For custom code that has been deposited into a\ncommunity repository, provide accession details.\nCell population abundance Describe the abundance of the relevant cell populations within post-sort fractions, providing details on the purity of the\nsamples and how it was determined.\nGating strategy Describe the gating strategy used for all relevant experiments, specifying the preliminary FSC/SSC gates of the starting cell\npopulation, indicating where boundaries between positive and negative staining cell populations are defined.\n[| Tick this box to confirm that a figure exemplifying the gating strategy is provided in the Supplementary Information.\nMagnetic resonance imaging\nExperimental design\nDesign type Indicate task or resting state; event-related or block design.\nDesign specifications Specify the number of blocks, trials or experimental units per session and/or subject, and specify the length of each trial\nor block (if trials are blocked) and interval between trials.\nBehavioral performance measures State number and/or type of variables recorded (e.g. correct button press, response time) and what statistics were used\nto establish that the subjects were performing the task as expected (e.g. mean, range, and/or standard deviation across\nsubjects).\nAcquisition\nImaging type(s) Specify: functional, structural, diffusion, perfusion.\nField strength Specify in Tesla\nSequence & imaging parameters Specify the pulse sequence type (gradient echo, spin echo, etc.), imaging type (EPI, spiral, etc.), field of view, matrix size,\nslice thickness, orientation and TE/TR/flip angle.\nArea of acquisition State whether a whole brain scan was used OR define the area of acquisition, describing how the region was determined.\nDiffusion MRI [|_| Used |] Not used\nPreprocessing\nPreprocessing software Provide detail on software version and revision number and on specific parameters (model/functions, brain extraction,\nsegmentation, smoothing kernel size, etc.).\nNormalization If data were normalized/standardized, describe the approach(es): specify linear or non-linear and define image types used for\ntransformation OR indicate that data were not normalized and explain rationale for lack of normalization.\nNormalization template Describe the template used for normalization/transformation, specifying subject space or group standardized space (e.g.\noriginal Talairach, MNI305, ICBM152) OR indicate that the data were not normalized.\nNoise and artifact removal Describe your procedure(s) for artifact and structured noise removal, specifying motion parameters, tissue signals and\nphysiological signals (heart rate, respiration).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: blank_or_vector_only",
+          "Separate local OCR; not human verified. Native extraction retained unchanged.",
+          "OCR engine: tesseract 5.5.0",
+          "OCR page state: ocr_text",
+          "Mean OCR word confidence: 88.6; not a scientific accuracy guarantee."
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 16
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p16",
+        "source_issue_ids": [],
+        "text": "[OCR transcription; not human verified]\nVolume censoring Define your software and/or method and criteria for volume censoring, and state the extent of such censoring.\nStatistical modeling & inference\nModel type and settings Specify type (mass univariate, multivariate, RSA, predictive, etc.) and describe essential details of the model at the first and\nsecond levels (e.g. fixed, random or mixed effects; drift or auto-correlation).\nEffect(s) tested Define precise effect in terms of the task or stimulus conditions instead of psychological concepts and indicate whether\nANOVA or factorial designs were used.\nSpecify type of analysis: [ ]|Wholebrain [| ROl-based [| Both\nStatistic type for inference Specify voxel-wise or cluster-wise and report all relevant parameters for cluster-wise methods.\n(See Eklund et al. 2016)\nCorrection Describe the type of correction and how it is obtained for multiple comparisons (e.g. FWE, FDR, permutation or Monte Carlo).\n=)\nrev)\na\nCc\n=\nOD\n=\n©\niea)\n©\nced)\n=\na\n=)\n=\n®\n<2)\ne)\nD\nte)\nWN\nCc\n=\nced)\nS\n<\nModels & analysis\nn/a | Involved in the study\n[| [| Functional and/or effective connectivity\n[| [| Graph analysis\n[| [| Multivariate modeling or predictive analysis\nFunctional and/or effective connectivity Report the measures of dependence used and the model details (e.g. Pearson correlation, partial correlation,\nmutual information).\nGraph analysis Report the dependent variable and connectivity measure, specifying weighted graph or binarized graph,\nsubject- or group-level, and the global and/or node summaries used (e.g. clustering coefficient, efficiency,\netc.).\nMultivariate modeling and predictive analysis Specify independent variables, features extraction and dimension reduction, model, training and evaluation\nmetrics.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p2",
+        "source_issue_ids": [],
+        "text": "Articles NATurE MEDICInE\n\nTested at BMEC n = 3,319\n\nStudy population Negative (n = 3,091)\n\nAdmitted to hospital (n = 2)\n\nCOVID-19 positive n = 228\n\nNot living in Bergen (n = 4)\n\nEligible Hospitalized patients with COVID-19 n = 80\n\nHome-isolated patients with confirmed* COVID-19 n = 222\n\nInformed consent\n\nDied (n = 5) LTF (n = 6)\n\nFollow-up 2 months\n\nn = 80\n\nLTF (n = 24)\n\nn = 198\n\nSeropositive n = 79 LTF (n = 10)\n\nn = 69 n = 267\n\nHousehold contacts n = 177\n\nSeronegative n = 98\n\nLTF (n = 20) Died (n = 1) LTF (n = 3)\n\nLTF (n = 37) COVID-19 during follow-up (n = 1)\n\nFollow-up at 6 months\n\nn = 65 81% follow-up (65/80 )\n\nn = 60 61% follow-up n = 247 89% follow-up (247/198+79)\n\nFig. 1 | Study population flow chart. Number of participants eligible for inclusion at baseline, blood sampling at 2 months and assessment and fatigue evaluation at 6 months. BMEC, Bergen Municipality Emergency Clinic; LTF, lost to follow-up.\n\nolder than home-isolated patients, had higher body mass index (BMI) and had more comorbidities, including chronic lung disease, chronic heart disease, hypertension and diabetes (Table 1). Sixty-one percent (189/312) of the total patient population had persistent symptoms 6 months after initial COVID-19 illness, with the most common symptoms being fatigue (37%), difficulty concentrating (26%), disturbed smell and/or taste (25%), memory problems (24%) and dyspnea (21%). Whereas the frequency of most symptoms increased with age in the study population, disturbed smell and/or taste was more frequent in people younger than 46 years old (Table 2). Thirty-nine percent of the study population, commonly children and young adults, had no symptoms at 6 months. Even among the 247 home-isolated patients, 55% (136/247) experienced persistent symptoms at 6 months, most commonly fatigue (30%), disturbed taste and/or smell (27%), concentration impairment (19%), memory loss (18%) and dyspnea (15%) (Table 2). The youngest age group (0–15 years) rarely suffered persistent symptoms (13%, 2/16), whereas 52% (32/61) of young adults aged 16–30 years who were home-isolated for mild to moderate initial illness had persistent symptoms, the most common being\n\ndisturbed taste and/or smell (28%), fatigue (21%), dyspnea (13%) and impaired concentration (13%) and memory (11%) (Table 2). In these young adults, comorbidity was not significantly associated with persistent symptoms (33% versus 31%, P = 1) or fatigue (47% versus 27%, P = 0.2), although numbers of subjects were low. Convalescent antibodies reach a plateau approximately 1–2 months after infection, providing a general marker for the magni-tude of the immune response16. SARS-CoV-2 spike protein specific IgG and microneutralizing antibody titers detected after 2 months were significantly higher in hospitalized patients than home-isolated patients (P < 0.001; Extended Data Fig. 1). Increased antibody titers at 2 months were associated with the severity of initial illness, older age and higher BMI in multivariable analysis (Table 3 and Fig. 2; severity score adapted from Beigel et al.17). Increased antibody titers as well as pre-existing lung disease were independently associated with both persistent fatigue and total number of symptoms at 6 months in multivariable analysis (Table 4 and Fig. 2c,d,g,h). Severity of initial illness was associated with persistent fatigue and weakly associated with total number of symptoms (Table 4).\n\nNature Medicine | VOL 27 | September 2021 | 1607–1613 | www.nature.com/naturemedicine 1608",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p3",
+        "source_issue_ids": [],
+        "text": "Articles NATurE MEDICInE\n\nTable 1 | Characteristics of study population available for follow-up at 6 months\n\nSeronegative exposed controls All patients with COVID-19 Hospitalized COVID-19 Home-isolated COVID-19\n\n% (n) % (n) % (n) % (n)\n\nN = 60 N = 312 N = 65 N = 247\n\nFemale sex 63% (38) 51% (160) 46% (30) 53% (130)\n\nAge, median (IQR) 29 (14–48) 46 (30–58) 55 (45–68) 43 (27–55)\n\nAge categories\n\n0–15 years 28% (17) 5% (16) 0% (0) 6% (16)\n\n16–30 years 23% (14) 21% (65) 6% (4) 25% (61)\n\n31–45 years 22% (13) 22% (69) 17% (11) 23% (58)\n\n46–60 years 25% (15) 29% (90) 35% (23) 27% (67)\n\n>60 years 2% (1) 23% (72) 42% (27) 18% (45)\n\nBMI, median (IQR) 23.3 (20.9–25.6) 24.6 (22.8–27.3) 27.0 (24.1–29.9) 24.3 (22.5–26.5)\n\nAny comorbiditya 15% (9) 44% (137) 69% (45) 37% (92)\n\nAsthma, COPDb 2% (1) 12% (38) 22% (14) 10% (24)\n\nHypertension 0% (0) 11% (35) 25% (16) 8% (19)\n\nChronic heart disease 0% (0) 7% (22) 18% (12) 4% (10)\n\nRheumatic disease 2% (1) 6% (20) 12% (8) 5% (12)\n\nDiabetes mellitus 3% (2) 4% (13) 9% (6) 3% (7)\n\nImmunosuppression 0% (0) 4% (11) 8% (5) 2% (6)\n\nCurrent or prior smokerc 19% (11/57) 31% (96/310) 39% (25/64) 29% (71/246)\n\nSeverity of diseased\n\nAsymptomatic (1) 53% (30/57)e 2% (5/312) - 2% (5/247)\n\nHome-isolated with symptoms (2) 47% (27/57)e 78% (242/312) - 98% (242/247)\n\nHospitalized without medical needs (3) - - -\n\nHospitalized with medical needs (4) 10% (31/312) 48% (31/65) -\n\nHospitalized needing O2 (5) 8% (24/312) 37% (24/65) -\n\nHospitalized needing NIV (6) 1% (4/312) 6% (4/65) -\n\nHospitalized needing respirator (7) 2% (6/312) 9% (6/65) -\n\nDead (8) - - -\n\nSeverity of illness, median (IQR) - 2 (2–2) 5 (4–5) 2 (2–2)\n\nDays in hospital, median (IQR) - 0 (0–0) 6 (2–8) 0 (0–0)\n\nSpike antibodiesf Negativeg 3.9 (3.8–4.0) 4.6 (4.4–4.8) 3.7 (3.6–3.8)\n\nMicroneutralizing antibodiesf - 2.0 (2.0–2.1) 2.9 (2.7–3.1) 1.8 (1.8–1.9)\n\nCOPD, chronic obstructive pulmonary disease; O2, supplemental oxygen; NIV, non-invasive ventilation. aComorbidities are listed in descending order of frequency. Participants were asked if they had any comorbidities; if yes, they were asked about the following specific comorbidities: asthma, chronic obstructive lung disease, chronic heart disease, hypertension, chronic liver disease, kidney disease, neuromuscular disease, dementia, rheumatic disease, active cancer, other severe chronic disease and immunosuppressive conditions, including genetic immunodeficiency, HIV, organ transplant and cytostatic or other immunosuppressive treatment. b34 of 38 had asthma. cNot known for five patients. dEight-step severity score modified after Beigel et al. (ref. 17). eMissing data for three patients.\n\nfMeasured 2 months after initial illness; log10 titers of IgG antibodies, means and 95% confidence intervals. gBelow the assay detection limit; only positive samples were run in the microneutralization assay.\n\nPost-viral fatigue has been reported afer SARS infection7 and other viral infections11–13. To assess fatigue, we used the Chalder fatigue score, which is validated for adults18,19. Fatigue is defined as a total bimodal score of 4 or higher on 11 questions. Thirty percent (69/231) of home-isolated patients, 16 years of age or older, had fatigue at 6 months compared to 63% (39/62) of hospitalized patients. Severe fatigue at 6 months, defined as bimodal score ≥4 + total ordinal score ≥23, was present in 7% (17/231) of home-isolated and 24% (15/62) of hospitalized patients (Supplementary Table 1). In home-isolated patients, the most frequent symptoms of physical fatigue (questions 1–7) were tiredness (35%, 81/231), increased need for rest (30%) and lack of energy (29%); the most common symptoms of mental fatigue (questions 8–11) were difficulties finding words (23%), difficulties concentrating (19%) and memory problems (18%) (Supplementary Table 1).\n\nIn patients 16 years of age or older, fever during acute illness, severity of initial illness and female gender were associated with fatigue at 6 months in binomial logistic regression (Supplementary Table 2). In addition to female gender, pre-existing lung disease, severity of acute illness and increased convalescent antibody titers were independently associated with increasing fatigue score at 6 months in multivariable analysis (Table 4 and Fig. 2d,h). Despite the correlation between severity of initial disease and antibody titers at 2 months, both factors were independently associated with features of long COVID in multivariable analysis (Table 4 and Supplementary Table 2). In stratified analysis of 242 home-isolated patients with low to moderate symptoms, increased antibody titers remained associated with number of symptoms (odds ratio (OR) = 1.56, confidence interval (CI) 1.23–1.96) and fatigue score (OR = 1.07, CI 1.02–1.12), although the association\n\nNature Medicine | VOL 27 | September 2021 | 1607–1613 | www.nature.com/naturemedicine 1609",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p4",
+        "source_issue_ids": [],
+        "text": "Articles NATurE MEDICInE\n\nTable 2 | Long-term complications by age group in 247 home-isolated patients with COVID-19 at 6-month follow-up\n\nCharacteristic All 0–15 years 16–30 years 31–45 years 46–60 years Over 60 years\n\n% (n/N) % (n) % (n) % (n) % (n) % (n)\n\nN = 247 N = 16 N = 61 N = 58 N = 67 N = 45\n\nAge, median (IQR) 43 (27–55) 8 (6–12) 24(22–27) 37 (34–41) 53 (49–55) 67 (63–73)\n\nFemale gender 53% (131/247) 56% (9) 54% (33) 52% (30) 52% (35) 53% (24)\n\nStatus at 6 months\n\nAny symptoms 55% (136/247) 13% (2)* 52% (32) 59% (34) 61% (41) 60% (27)\n\nFever 2% (4/247) 0% (0) 0% (0) 5% (3) 1% (1) 0% (0)\n\nCough 6% (15/247) 0% (0) 0% (0) 9% (5) 4% (3) 16% (7)\n\nDyspnea 15% (38/247) 0% (0) 13% (8) 17% (10) 18% (12) 18% (8)\n\nPalpitations 6% (15/247) 0% (0) 3% (2) 7% (4) 9% (6) 7% (3)\n\nStomach upset 6% (15/247) 6% (1) 5% (3) 7% (4) 6% (4) 7% (3)\n\nDisturbed taste/smell 27% (67/247) 13% (2) 28% (17) 34% (20) 28% (19) 20% (9)\n\nFatigue 30% (69/231) - a 21% (13) 31% (18) 33% (22) 36% (16)\n\nConcentration problems 19% (44/231) - a 13% (8) 19% (11) 21% (14) 24% (11)\n\nMemory problems 18% (42/231) - a 11% (7) 16% (9) 22% (15) 24% (11)\n\nSleep problems 5% (13/247) 0% (0) 5% (3) 7% (4) 4% (3) 7% (3)\n\nHeadache 11% (28/247) 0% (0) 11% (7) 14% (8) 9% (6) 16% (7)\n\nDizziness 10% (24/247) 0% (0) 7% (4) 10% (6) 10% (7) 16% (7)\n\nTingling in fingers 4% (9/247) 0% (0) 0% (0) 2% (1) 4% (3) 11% (5)\n\n*Statistically significant difference at level P < 0.05 in univariable analysis using binomial logistic regression with age group 46–60 as reference group. aChildren younger than 16 years were not assessed for these symptoms; therefore, N = 231 for these categories.\n\nSeverity of initial illness a\n\nSpike IgG titers\n\n105\n\n104\n\n103\n\n102\n\n1 2 4 5 6\n\nSeverity\n\n7\n\nSeverity of initial illness e\n\nMicroneutralizing antibody titers\n\n104\n\n103\n\n102\n\n101\n\n1 2 4 5 6 7\n\nSeverity\n\nAge b\n\nSpike IgG titers\n\n105\n\n104\n\n103\n\n102\n\n0−15 16−30 31−45 46−60 Over 60\n\nAge\n\nAge f\n\nMicroneutralizing antibody titers\n\n104\n\n103\n\n102\n\n101\n\n0−15 16−30 31−45 46−60 Over 60\n\nAge\n\nSymptoms c\n\n12\n\nNo. of symptoms\n\n10\n\n8\n\n6\n\n4\n\n2\n\n<150 150−4,999 5k−20k >20k\n\nSpike IgG titers\n\nSymptoms g\n\n12\n\nNo. of symptoms\n\n10\n\n8\n\n6\n\n4\n\n2\n\n<20 20−79 80−320 >320\n\nMicroneutralizing antibody titers\n\nFatigue d\n\n30\n\nFatigue score\n\n25\n\n20\n\n15\n\n10\n\n<150 150−4,999 5k−20k >20k\n\nSpike IgG titers\n\nFatigue h\n\n30\n\nFatigue score\n\n25\n\n20\n\n15\n\n10\n\n<20 20−79 80−320 >320\n\nMicroneutralizing antibody titers\n\nFig. 2 | Six-month follow-up of patients with COVID-19 in Bergen, Norway. The relationship of severity of initial COVID-19 illness and of age with anti-SARS-CoV-2 spike (a and b) and microneutralizing antibody titers (e and f) at 2 months. The relationship of antibody titers at 2 months with number of persistent symptoms (c and g) and total fatigue score according to the Chalder scale (d and h) at 6-month follow-up. The 13 symptoms used are listed in Table 2. The severity of illness was as follows: 1—asymptomatic (n = 5); 2—home-isolated with symptoms (n = 242); 3—hospitalized without medical needs (n = 0); 4—hospitalized with medical needs (n = 31); 5—hospitalized needing O2 (n = 24); 6—hospitalized needing non-invasive ventilation (n = 4); and 7—hospitalized needing respirator (n = 6). The cohort was divided into 15-year age groups: 0–15 (n = 16), 16–30 (n = 65), 31–45 (n = 69), 46–60 (n = 90) and >60 (n = 72). a, b, e and f show median spike IgG and microneutralizing antibody titers (horizontal line), 25% and 75% quantiles (box), plus 95% confidence intervals (lines) with outliers (dots). c and d are violin plots of number of symptoms (up to 13) or fatigue score (values 0–33) divided into four categories of spike IgG: <150 (n = 21), 150–4999 (n = 96), 5,000–20,000 (n = 103) and >20,000 (n = 92). 5k, 5,000; 20k, 20,000. g and h are violin plots of four categories of microneutralizing titers: <20 (neg n = 42), 20–79 (n = 107), 80–320 (n = 92) and >320 (n = 71). O2, supplemental oxygen.\n\nNature Medicine | VOL 27 | September 2021 | 1607–1613 | www.nature.com/naturemedicine 1610",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p5",
+        "source_issue_ids": [],
+        "text": "Articles NATurE MEDICInE\n\nTable 3 | Factors associated with increasing convalescent antibody titers in COVID-19\n\nGeometric mean ratio (CI) P\n\nn (%) Unadjusted Adjusted\n\nTotal 312 (100%)\n\nFemale sex 160 (51%) 0.63 (0.41–0.97) 0.036 0.81 (0.56–1.18) 0.276\n\nOlder age (by 10-year intervals) 1.50 (1.35–1.67) <0.001 1.23 (1.09–1.38) <0.001\n\nBMI 1.17 (1.12–1.23) <0.001 1.05 (1.00–1.11) 0.035\n\nComorbidity\n\nAsthma/COPD 38 (12%) 1.70 (0.88–3.28) 0.111\n\nHypertension 35 (11%) 5.43 (2.82–10.46) <0.001 1.74 (0.89–3.43) 0.108\n\nChronic heart disease 22 (7%) 4.68 (2.06–10.64) <0.001 0.94 (0.41–2.16) 0.891\n\nRheumatic disease 20 (6%) 1.67 (0.70–4.01) 0.249\n\nDiabetes 13 (4%) 3.57 (1.23–10.37) 0.020 1.47 (0.59–3.71) 0.409\n\nImmunosuppression 11 (4%) 1.51 (0.47–4.83) 0.488\n\nCurrent or prior smoker 96 (31%) 1.57 (0.99–2.50) 0.055\n\nSeverity of initial illness 2.12 (1.82–2.48) <0.001 1.67 (1.34–2.07) <0.001\n\nDays in hospital 1.10 (1.07–1.13) <0.001 1.01 (0.97–1.04) 0.679\n\nAssociated factors were analyzed by linear regression with log-transformed antibody titers as response variables and reported as geometric mean ratios with 95% confidence intervals (CIs) and P values. Factors with significance level P < 0.1 in univariable analysis were included in the multivariable analyses. For factors with significance level P < 0.05, the P values are shown in bold.\n\nTable 4 | COVID-19 patient factors associated with increasing number of symptoms and higher fatigue score at 6-month follow-up—negative binomial regression analysis\n\nNumber of symptoms (0–13)a Fatigue score (0–33)b\n\nn (%) RR (CI) Pc aRR (CI) Pd n (%)b RR (CI) Pc aRR (CI) Pd\n\nN = 312 N = 293\n\nFemale sex 160 (51%) 1.28 (0.95–1.73) 0.101 1.35 (1.01–1.81) 0.040 149 (51%) 1.09 (1.01–1.16) 0.018 1.09 (1.02–1.16) 0.014\n\nOlder age (by 10-year intervals) 1.18 (1.06–1.28) <0.001 1.08 (0.98–1.19) 0.092 1.03 (1.01–1.05) 0.002 1.00 (0.98–1.02) 0.924\n\nBMI 1.04 (1.01–1.08) 0.016 1.00 (0.97–1.04) 0.876 1.01 (1.00–1.02) 0.048 1.00 (0.99–1.01) 0.715\n\nComorbidity\n\nAsthma/COPD 38 (12%) 2.00 (1.33–3.07) 0.001 1.57 (1.05–2.37) 0.031 37 (13%) 1.22 (1.11–1.34) <0.001 1.14 (1.03–1.25) 0.008\n\nHypertension 35 (11%) 1.44 (0.93–2.30) 0.114 34 (12%) 1.13 (1.02–1.26) 0.017 1.01 (0.90–1.13) 0.902\n\nChronic heart disease 22 (7%) 1.70 (1.01–3.02) 0.057 1.23 (0.71–2.18) 0.460 21 (7%) 1.20 (1.06–1.35) 0.005 1.08 (0.94–1.23) 0.295\n\nRheumatic disease 20 (6%) 1.35 (0.77–2.50) 0.321 20 (7%) 1.15 (1.01–1.30) 0.038 1.05 (0.92–1.18) 0.460\n\nDiabetes 13 (4%) 1.33 (0.67–2.87) 0.438 13 (4%) 1.14 (0.97–1.34) 0.098 1.06 (0.91–1.23) 0.445\n\nImmunosuppression 11 (4%) 1.18 (0.56–2.76) 0.679 10 (3%) 1.12 (0.93–1.34) 0.232\n\nCurrent or prior smoker 96 (31%) 1.18 (0.86–1.63) 0.305 95 (32%) 1.05 (0.97–1.12) 0.230\n\nSeverity of initial illness 1.28 (1.14–1.44) <0.001 1.17 (1.00–1.37) 0.062 1.08 (1.05–1.10) <0.001 1.06 (1.02–1.10) 0.004\n\nDays in hospital 1.02 (1.00–1.05) 1.016 0.99 (0.97–1.02) 0.525 1.01 (1.00–1.01) 0.002 1.00 (0.99–1.00) 0.464\n\nSpike IgG titer at 2 monthse 1.51 (1.26–1.81) <0.001 1.25 (1.01–1.56) 0.037 1.11 (1.07–1.16) <0.001 1.07 (1.02–1.12) 0.009\n\nMicroneutralizing antibody titer at 2 monthse\n\n1.52 (1.25–1.86) <0.001 -f 1.13 (1.08–1.19) <0.001 -f\n\nAnalysis of associated factors was done by negative binomial regression. aRR, adjusted rate ratio; RR, rate ratio. Statistical significance at the level of P < 0.05 is shown in bold text. aPatients were assessed for 13 symptoms mentioned in Table 2. bChalder fatigue score is validated only for patients aged ≥16 years (n = 293); possible fatigue scores range from 0 (no fatigue) to 33 (worst possible fatigue).\n\ncNeurological illness (n = 8) and malignancy (n = 5) were not significantly associated with the outcomes and were not included in the table. dFactors with statistical significance of <0.1 were included in the multivariable analysis. eSARS-CoV-2 spike protein antibody titers, log10 transformed. fMicroneutralizing antibody titers were omitted owing to collinearity with spike IgG antibody titers.\n\nNature Medicine | VOL 27 | September 2021 | 1607–1613 | www.nature.com/naturemedicine 1611",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p6",
+        "source_issue_ids": [],
+        "text": "Articles NATurE MEDICInE\n\nwas not statistically significant for fatigue as a dichotomous variable (OR = 1.48, CI 0.98–2.31).\n\nDiscussion Our study is novel in assessing long COVID symptoms, not only in hospitalized patients but also in young patients and home-isolated patients with milder disease. A strength is a near-complete, geographically defined cohort of both antibody- and reverse-transcriptase polymerase chain reaction (RT-PCR)-positive patients from the first pandemic wave, including all severities of disease, in an immunologically naive population. The small subgroups are a limitation of this study, and our findings should be confirmed in larger cohorts. We found that a large proportion of survivors of COVID-19 in our cohort had persistent symptoms 6 months after their initial illness. Although it has previously been reported that patients hospitalized for severe COVID-19 frequently suffer long-term symptoms20–23, we found that more than half of home-isolated, mildly to moderately ill patients with COVID-19 still suffered symptoms 6 months after infection. It is worrying that non-hospitalized, young people (16–30 years old) suffer potentially severe symptoms, such as concentration and memory problems, dyspnea and fatigue, half a year after infection. Particularly for students, such symptoms might interfere with their learning and study progress. The high prevalence of persistent fatigue in patients with COVID-19 is striking and appears higher than observed after common infections, such as influenza, Epstein–Barr virus mononucleosis and dengue11–13. Data from Norway have previously shown slightly lower chronic fatigue prevalence (11%) in the general population24 than in the present household controls (14%), who were younger and had fewer comorbidities than infected patients but were sampled at the same time. However, this apparent difference might be a coincidence owing to low numbers. Our finding that women had higher prevalence of fatigue concurs with results from an earlier study in the general Norwegian population24. The association between severity of illness and persistent symptoms agrees with data from hospitalized patients with COVID-19 (ref. 20). As the respiratory tract is the main target organ for COVID-19, our finding of an association between underlying chronic lung disease (mostly asthma) and persistent symptoms, including fatigue, is not surprising. The association between severe initial disease and increased antibody titers at 2 months could be due to higher viral load, which could trigger the immune system more profoundly25. The finding of increased convalescent antibody titers with increasing age could be explained by more severe disease in older people, as age is a known strong risk factor for severe COVID-19. However, by contrast with the immunosenescence observed after influenza infection in the elderly, multivariable analysis indicated that age and severity of illness were independently associated with increased antibody titers. These findings call for enhanced surveillance of COVID-19 mass vaccination programs. Home-isolated patients aged 16–30 years with mild COVID-19 are at risk of long-lasting dyspnea and cognitive symptoms. Considering the millions of young people infected during the ongoing pandemic, our findings are a strong impetus for comprehensive infection control and population-wide mass vaccination.\n\nOnline content Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at https://doi.org/10.1038/ s41591-021-01433-3.\n\nReceived: 12 February 2021; Accepted: 9 June 2021; Published online: 23 June 2021\n\nReferences 1. Gupta, A. et al. Extrapulmonary manifestations of COVID-19. Nat. Med. 26, 1017–1032 (2020). 2. Meeting the challenge of long COVID. Nat. Med. 26, 1803 (2020). 3. Zhou, F. et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet 395, 1054–1062 (2020). 4. Menni, C. et al. Real-time tracking of self-reported symptoms to predict potential COVID-19. Nat. Med. 26, 1037–1040 (2020). 5. von Weyhern, C. H., Kaufmann, I., Neff, F. & Kremer, M. Early evidence of pronounced brain involvement in fatal COVID-19 outcomes. Lancet 395, e109 (2020). 6. Venkatesan, P. NICE guideline on long COVID. Lancet Respir. Med. 9, 129 (2021). 7. Lam, M. H. et al. Mental morbidities and chronic fatigue in severe acute respiratory syndrome survivors: long-term follow-up. Arch. Intern. Med. 169, 2142–2147 (2009). 8. Kerr, W. R., Coghlan, J. D., Payne, D. J. & Robertson, L. The laboratory diagnosis of chronic brucellosis. Lancet 2, 1181–1183 (1966). 9. Ayres, J. G., Smith, E. G. & Flint, N. Protracted fatigue and debility after acute Q fever. Lancet 347, 978–979 (1996). 10. Hanevik, K. et al. Irritable bowel syndrome and chronic fatigue 6 years after giardia infection: a controlled prospective cohort study. Clin. Infect. Dis. 59, 1394–1400 (2014). 11. White, P. D. et al. Predictions and associations of fatigue syndromes and mood disorders that occur after infectious mononucleosis. Lancet 358, 1946–1954 (2001). 12. Buchwald, D. S., Rea, T. D., Katon, W. J., Russo, J. E. & Ashley, R. L. Acute infectious mononucleosis: characteristics of patients who report failure to recover. Am. J. Med. 109, 531–537 (2000). 13. Seet, R. C., Quek, A. M. & Lim, E. C. Post-infectious fatigue syndrome in dengue infection. J. Clin. Virol. 38, 1–6 (2007). 14. Geense, W. W. et al. New physical, mental, and cognitive problems 1-year post-ICU: a prospective multicenter study. Am. J. Respir. Crit. Care Med. https://doi.org/10.1164/rccm.202009-3381OC (2021). 15. Kuwelker, K. et al. Attack rates amongst household members of outpatients with confirmed COVID-19 in Bergen, Norway: a case-ascertained study. Lancet Reg. Health Eur. 3, 100014 (2021). 16. Robbiani, D. F. et al. Convergent antibody responses to SARS-CoV-2 in convalescent individuals. Nature 584, 437–442 (2020). 17. Beigel, J. H. et al. Remdesivir for the treatment of Covid-19—final report. N. Engl. J. Med. 383, 1813–1826 (2020). 18. Chalder, T. et al. Development of a fatigue scale. J. Psychosom. Res. 37, 147–153 (1993). 19. Wessely, S. & Powell, R. Fatigue syndromes: a comparison of chronic ‘postviral’ fatigue with neuromuscular and affective disorders. J. Neurol. Neurosurg. Psychiatry 52, 940–948 (1989). 20. Huang, C. et al. 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study. Lancet 397, 220–232 (2021). 21. Bellan, M. et al. Respiratory and psychophysical sequelae among patients with COVID-19 four months after hospital discharge. JAMA Netw. Open 4, e2036142 (2021). 22. Sykes, D. L. et al. Post-COVID-19 symptom burden: what is long-COVID and how should we manage it? Lung 199, 113–119 (2021). 23. Venturelli, S. et al. Surviving COVID-19 in Bergamo province: a post-acute outpatient re-evaluation. Epidemiol. Infect. 149, e32 (2021). 24. Loge, J. H., Ekeberg, O. & Kaasa, S. Fatigue in the general Norwegian population: normative data and associations. J. Psychosom. Res. 45, 53–65 (1998). 25. Fajnzylber, J. et al. SARS-CoV-2 viral load is associated with increased disease severity and mortality. Nat. Commun. 11, 5493 (2020).\n\nPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.\n\nOpen Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adapta-tion, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/. © The Author(s) 2021\n\nNature Medicine | VOL 27 | September 2021 | 1607–1613 | www.nature.com/naturemedicine 1612",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p7",
+        "source_issue_ids": [],
+        "text": "Articles NATurE MEDICInE\n\nBergen COVID-19 Research Group\n\nAnders Madsen4, Geir Bredholt4, Juha Vahokoski3,4, Elisabeth Berg Fjelltveit4,13, Amit Bansal4, Mai Chi Trieu4, Sonja Ljostveit4, Jan Stefan Olofsson4, Nina Ertesvåg4, Helene Heitmann Sandnes1,4, Anette Corydon7, Hanne Søyland3, Marianne Eidsheim5, Kjerstin Jakobsen5, Nina Guldseth4 and Synnøve Hauge12\n\nNature Medicine | VOL 27 | September 2021 | 1607–1613 | www.nature.com/naturemedicine 1613",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p8",
+        "source_issue_ids": [],
+        "text": "Articles NATurE MEDICInE\n\nMethods Ethical considerations. All participants, or their guardians for children younger than 16 years old, provided written informed consent. The study was approved by the Regional Ethics Committee of Western Norway (no. 118664). No compensation was provided to participants beyond reimbursing travel costs to the clinic.\n\nStudy population. As part of a prospective cohort study with long-term follow-up, we consecutively enrolled home-isolated patients diagnosed with COVID-19 in the period 28 February to 4 April 2020, during the first wave of the pandemic in Bergen, Norway. For hospitalized patients, we accepted longer inclusion due to delay in hospitalization, up to 6 May. The study population included SARS-CoV-2 RT–PCR-positive patients diagnosed at Bergen Municipality Emergency Clinic and those admitted to the two neighboring city hospitals: Haukeland University Hospital and Haraldsplass Deaconess Hospital. Household contacts of identified patients were invited to participate in the study as secondary cases (seroconverters) or seronegative controls15. All registered patients with SARS-CoV-2 were invited to participate. The initial rate of participation at inclusion was 92% (278/302); at 2 months, the rate of participation was 88% (336/381, numerator and denominator includes seropositive household members at this time point); and at 6 months, the rate of participation was 82% (312/381). Convalescent serum samples were collected 2 months after infection for detection of anti-SARS-CoV-2 antibody titers. All testing in Bergen was centralized to the Emergency Clinic and the city’s two hospitals, allowing recruitment of all consenting patients diagnosed with COVID- 19 in Bergen. In total, 3,319 patients were tested by RT–PCR in the Municipality Emergency Clinic during the period. Of these, 228 tested positive by RT-PCR, and six were excluded because their address was outside of Bergen or because they were admitted to hospital and were categorized as hospitalized. All suspected cases seen at the Municipality Emergency Clinic were examined clinically and diagnosed by medical staff. Patients with moderate disease were sent home for home isolation, or, if considered severe, they were hospitalized. Most of the hospitalized patients were diagnosed upon admission. Nasopharyngeal swabs were collected for laboratory confirmation. Patients were telephoned with their results of the RT–PCR test, which was conducted at the reference microbiology laboratory in the tertiary hospital. All confirmed home-isolated patients were contacted by telephone with an invitation to join the study. An additional 79 patients were identified through investigation of seroconversion of household members of RT–PCR-positive patients. Telephone interviews were conducted by medical staff to collect clinical and demographic data. Participants attended the University Clinic at 2 months (6–8 weeks) and 6 months (±1 month) for follow-up appointments with medical staff where they were interviewed about long-term symptoms.\n\nClinical data. All consenting patients attended a follow-up clinic and were interviewed by medical staff at baseline, 2 months and 6 months. They provided demographic information; clinical information on symptoms at baseline and 6-month follow-up; and information on potential risk factors, including comorbidities and use of medication. Specific symptoms recorded during acute illness included fever, cough, dyspnea, fatigue, myalgia and headache. Participants were asked if they had any comorbidities and, if so, which specific comorbidities from the following: asthma, chronic obstructive lung disease, chronic heart disease, hypertension, chronic liver disease, kidney disease, neuromuscular disease, dementia, rheumatic disease, active cancer, other severe chronic disease and immunosuppressive conditions, including genetic immunodeficiency, HIV, organ transplant, and cytostatic or other immunosuppressive treatment. Data were collected on severity of initial illness—that is, need for hospitalization, symptoms during acute illness and need for non-invasive ventilatory support or respirator treatment17. Radiological investigations were conducted only on hospitalized patients. At 6-month follow-up, all participants aged 16 years or older were invited to complete a validated fatigue questionnaire containing 11 key questions according to the Chalder fatigue scale18,19. Fatigue was defined as a total dichotomized score of 4 or higher. Severe fatigue was defined as fatigue plus a total Chalder score of 23 or higher.\n\nLaboratory methods. Diagnosis of COVID-19 was based on RT–PCR on samples from nasopharyngeal swabs and on serological evidence of SARS-CoV-2 antibody positivity26. Serum samples were collected 2 months after infection for detection of anti-SARS-CoV-2 antibody titers and stored at −80 °C until analyzed. Samples were heat-inactivated for 1 h at 56 °C before analysis in duplicate by a two-step ELISA for detecting SARS-CoV-2-specific IgG antibodies (Southern Biotech, cat. no. 2040-05) to the receptor-binding domain (RBD) (screening 1:100 dilution) and the spike protein (confirmation from 1:100 in five-fold dilutions). Endpoint titers were calculated as the reciprocal of the serum dilution giving an optical density value of 3 standard deviations above the mean of historical pre-pandemic serum samples (n = 128)26. Sera with antibodies against the RBD were tested in a microneutralization assay using the local isolate hCoV-19/Norway/Bergen-01/2020 (GISAID accession ID EPI_ISL_541970) in a certified Biosafety Level 3 laboratory as previously described27. Briefly, sera were tested in duplicate in doubling dilutions starting from 1:20 dilution and mixed with 100 TCID50 viruses, followed by\n\nincubation with rabbit monoclonal IgG against SARS-CoV2 NP (Sino Biological, cat. no. 40143-R019-100) and biotinylated goat anti-rabbit IgG (H+L) (Southern Biotech, cat. no. 4050-08) and extravidin–peroxidase (Sigma-Aldrich, cat. no. E2886). The microneutralizing antibody titer is the reciprocal of the serum dilution giving 50% inhibition of virus infectivity. For all control individuals, negative serology was confirmed at 6 months.\n\nStatistical analysis. Data were entered using electronic case report forms in REDCap (Research Electronic Data Capture, Vanderbilt University). All analyses were conducted in R version 4.0.3 (www.r-project.org), and graphs were produced in R using the ggplot and gridExtra packages. Patients who responded to the questionnaire were included in the analysis, and results are presented as percentages with means or medians and 95% CIs. In univariable analysis, categorical variables were compared using the chi-square test and binomial logistic regression and presented with ORs, 95% CIs and P values. Multivariable analysis was performed by binary logistic regression for dichotomous outcome variables (Supplementary Tables 1 and 2). We used negative binomial regression employing the MASS package in R to analyze factors associated with numeric outcome variables (Table 4)—that is, ‘number of symptoms’, encoded as integers from 0 to 13, according to symptoms listed in Table 2, and fatigue score according to the Chalder scale encompassing values from 0 to 33. For convalescent antibody titer as outcome variable, we log-transformed the titer values to obtain near-normal distribution and performed linear regression and reported results as unadjusted and adjusted geometric mean ratios for univariable and multivariable analysis, respectively (Table 3). In Tables 3 and 4, we included a priori potential risk factors of interest but omitted rare occurrences, and, for multivariable analysis, we included gender as well as variables that had a significance level of P < 0.1 in univariable analysis. Owing to strong collinearity between spike IgG and microneutralizing antibody titers, and because microneutralizing antibodies are a proportion of total IgG, we omitted microneutralizing antibodies from the multivariable analysis. The analysis focuses on the potential effect of antibody titers as an exposure variable on fatigue and symptom score, respectively, as outcome variables. We assessed the confounding and effect size modification of all other exposure factors that were significant in univariable analysis. Severity of illness was classified using an eight-category ordinal scale, as previously published17. The categories are as follows: 1—not hospitalized and no limitations of activities; 2—not hospitalized, with limitation of activities, home oxygen requirement or both; 3—hospitalized, not requiring supplemental oxygen and no longer requiring ongoing medical care (used if hospitalization was extended for infection control or other non-medical reasons); 4—hospitalized, not requiring supplemental oxygen but requiring ongoing medical care (related to COVID-19 or to other medical conditions); 5—hospitalized, requiring any supplemental oxygen; 6—hospitalized, requiring non-invasive ventilation or use of high-flow oxygen devices; 7—hospitalized, receiving invasive mechanical ventilation or extracorporeal membrane oxygenation; and 8—death.\n\nReporting Summary. Further information on research design is available in the Nature Research Reporting Summary linked to this article.\n\nData availability Small subgroups of patients make the risk of identification of sensitive data of individual patients possible; therefore, the data are not openly accessible.\n\nCode availability The R code used to generate all results in this paper is publicly available on GitHub (https://github.com/BC19RG/NatureMedicine2021).\n\nReferences 26. Amanat, F. et al. A serological assay to detect SARS-CoV-2 seroconversion in humans. Nat. Med. 26, 1033–1036 (2020). 27. Trieu, M. C. et al. SARS-CoV-2-specific neutralizing antibody responses in Norwegian health care workers after the first wave of COVID-19 pandemic: a prospective cohort study. J. Infect. Dis. 223, 589–599 (2021).\n\nAcknowledgements We thank F. Krammer, Department of Microbiology, Icahn School of Medicine, Mount Sinai, New York, for supplying the RBD and spike constructs. We thank the Research Unit for Health Surveys (RUHS), where data were collected for the home-isolated patients. This work was supported by the Trond Mohn Stiftelse (RUHS, R.J.C., grant no. TMS2020TMT05); the Ministry of Health and Care Services, Norway; Helse Vest (R.J.C., grant no. F-11628); and the Faculty of Medicine, University of Bergen, Norway. The Influenza Centre is funded by the Norwegian Research Council Globvac (R.J.C., grant no. 284930); the European Union (R.J.C., grant nos. EU IMI115672, FLUCOP, H2020 874866 INCENTIVE and H2020 101037867 Vaccelerate); the Faculty of Medicine, University of Bergen, Norway; and Nanomedicines Flunanoair (R.J.C., grant no. ERA-NETet EuroNanoMed2 i JTC2016).\n\nNature Medicine | www.nature.com/naturemedicine",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41591-021-01433-3",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_sha256": "3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d",
+          "source_url": "https://doi.org/10.1038/s41591-021-01433-3"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d:p9",
+        "source_issue_ids": [],
+        "text": "Articles NATurE MEDICInE\n\nAuthor contributions N.L., R.J.C. and B.B. designed the study. K.G.I.-M., B.B., C.T., D.L., B.A.H., K.K., M.S. and B.R.K. recruited the participants and followed them up. K.A.B., S.L., T.B.O. and F.Z. conducted laboratory analysis and developed the assays. F.Z. developed and ran the neutralization assays. H.B. managed data and assisted in data analysis. B.B., R.J.C. and N.L. analyzed the data and wrote the manuscript. Members of the COVID-19 research group contributed to the study follow-up, data collection and laboratory assays. All authors read and approved the final version of the manuscript.\n\nCompeting interests The authors declare no competing interests.\n\nAdditional information Extended data is available for this paper at https://doi.org/10.1038/s41591-021-01433-3.\n\nSupplementary information The online version contains supplementary material available at https://doi.org/10.1038/s41591-021-01433-3.\n\nCorrespondence and requests for materials should be addressed to B.B., R.J.C. or N.L.\n\nPeer review information Nature Medicine thanks the anonymous reviewers for their contribution to the peer review of this work. Jennifer Sargent was the primary editor on this article and managed its editorial process and peer review in collaboration with the rest of the editorial team.\n\nReprints and permissions information is available at www.nature.com/reprints.\n\nNature Medicine | www.nature.com/naturemedicine",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:3679c46a178ef629b0bb2e73a57b25cef005542569cab71e778ac222db54bd7d"
+}

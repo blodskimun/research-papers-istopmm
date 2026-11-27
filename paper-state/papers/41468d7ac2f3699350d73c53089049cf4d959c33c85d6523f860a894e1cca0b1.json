@@ -1,0 +1,181 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:52:36.368796+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Regression of smoldering myeloma with treatment of Gaucher disease",
+        "year": null
+      },
+      "doi": "10.1182/bloodadvances.2023012304",
+      "format": "pdf",
+      "id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+      "url": "https://doi.org/10.1182/bloodadvances.2023012304"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2023012304",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_sha256": "a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2023012304"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819:p1",
+        "source_issue_ids": [],
+        "text": "RESEARCH LETTER\n\nTO THE EDITOR:\n\nRegression of smoldering myeloma with treatment of Gaucher disease\n\nKevin Barley,1,* Anshuman Parekh,2,3,* Syed Salam,4 Damodara Rao Mendu,4 Ravi Prakash Shukla,3 Deepa Vatti,3,5 Daniel Verina,3\n\nChanan Stauffer,6 Christian Salib,4 Siraj El Jamal,4 Julie Teruya-Feldstein,4 Amy S. Dufﬁeld,4 Violetta V. Leshchenko,3 Sundar Jagannath,3\n\nManisha Balwani,6,# and Samir Parekh3,6-8,#\n\n1Department of Geriatrics and Palliative Care, Icahn School of Medicine at Mount Sinai, New York, NY; 2Ardsley High School, Ardsley, NY; 3Department of Medicine, Hematology and Medical Oncology and 4Department of Pathology, Icahn School of Medicine at Mount Sinai, New York, NY; 5Department of Biology, New York University, New York, NY; and 6Department of Genetics and Genomic Sciences, 7Precision Immunology Institute, and 8Icahn Genomics Institute, Icahn School of Medicine at Mount Sinai, New York, NY\n\nGaucher disease type 1 (GD1) is a rare genetic disorder caused by the deﬁciency of a lysosomal enzyme, acid β-glucosidase, resulting in accumulation of the substrate glucosylceramide (GL1) and its deacylated lysolipid glucosylsphingosine (lyso-GL1).1 The accumulation of GL1 primarily occurs in the macrophages of the bone marrow, liver, and spleen. Clinically, patients with GD1 may display symptoms of cytopenia, hepatosplenomegaly, and skeletal disease.2 GD1 is associated with an approximately ninefold increased risk of plasma cell dyscrasias including multiple myeloma (MM), and its precursor forms smoldering MM (SMM) or monoclonal gammopathy of undetermined signiﬁcance (MGUS).3 The pathophysiology linking MM and GD1 has been elegantly demonstrated in murine models by chronic stimulation of B cells and plasma cells by glucosylsphingosine.4-6 However, there are limited data to show whether initiating treatment for GD1, and thereby reducing the degree of antigenic stimulation, reduces the burden of SMM or the risk of progression to MM.7-9 Here, we present 2 patients with SMM in the setting of GD1 where the myeloma burden receded with initiation of therapy for GD1. Using patient samples, we showed that the M-protein has binding speciﬁcity for lysolipids, which accumulate in GD1, providing further evidence to the hypothesis that chronic B-cell stimulation by lysolipids in GD1 leads to the development of plasma cell disorders and MM. These reports are critical as the distinction between smoldering and symptomatic MM in patients with GD1 can depend upon cytopenias or bone disease, which can be due to MM or caused by the many effects of GD1 including inﬂammatory bone marrow suppression, bone marrow inﬁltration, and splenomegaly.\n\nPatient 1, a 66-year-old male with GD1, was diagnosed in his 30s when he showed symptoms of hepatosplenomegaly and pancytopenia. He was lost to follow-up until 66 years of age when he had pro-gressive hepatosplenomegaly and severe thrombocytopenia with platelet count of 19 × 103/μL, prompting a referral to a Gaucher disease specialist. The diagnosis was conﬁrmed by demonstrating decreased acid β-glucosidase activity and by genetic testing, which identiﬁed biallelic heterozygous pathogenic variants, c.1226A > G; p.N409S (N370S), and c.1297G > T; p.V433L (V394L), in the GBA1 gene consistent with GD1. Laboratory results uncovered a concurrent monoclonal gammopathy and pancytopenia with WBC 2.5 × 103/μL, Hgb 12.1 g/dL, platelet 44 × 103/μL, M spike 1.58 g/dL, IgA λ on immunoﬁxation, IgA 2028 mg/dL with reciprocal suppression of IgG at 243 mg/dL, IgM 53 mg/dL, free lambda 53.5 mg/L, and κ/λ 0.24. Bone marrow biopsy and aspirate revealed 20% to 30% lambda restricted plasma cells consistent with MM and an atypical macrophage inﬁltration consistent with GD1. Cytogenetic analysis of plasma cells showed a normal male karyotype (46, XY), and ﬂuorescence in situ hybridization demonstrated gain of 1q and loss of 13q. MRI of the femurs identiﬁed patchy areas of low\n\nSubmitted 4 December 2023; accepted 16 January 2024; prepublished online on Blood Advances First Edition 29 January 2024. https://doi.org/10.1182/ bloodadvances.2023012304. *K.B. and A.P. are joint ﬁrst authors. #Co-corresponding authors Original data are available upon reasonable request from the corresponding author, Samir Parekh (samir.parekh@mssm.edu).\n\nThe full-text version of this article contains a data supplement. © 2024 by The American Society of Hematology. Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), permitting only noncommercial, nonderivative use with attribution. All other rights reserved.\n\n1634 9 APRIL 2024 • VOLUME 8, NUMBER 7",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2023012304",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_sha256": "a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2023012304"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819:p2",
+        "source_issue_ids": [],
+        "text": "Chitotriosidase A\n\n8000\n\nnmol/hr/mL\n\n6000\n\n4000\n\n2000\n\n0 0 1 2 3 4\n\nYears since treatment initiation\n\nLGL1 B\n\n150\n\nng/mL\n\n100\n\n50\n\n0 1 2 3 5 4 0\n\nYears since treatment initiation\n\nCBC Improvement C\n\nD\n\nPatient M-spike\n\ng/dL\n\n1.40\n\n1.15\n\n0.90\n\n0.65\n\n0.40\n\n0 1 2 3 4 5\n\nPercent increase post treatment\n\n70%\n\n60%\n\n50%\n\n40%\n\n30%\n\n20%\n\n10%\n\n0% WBC Hgb Plt\n\nYears since treatment initiation\n\nPatient 2 Patient 1\n\nPatient 1 Bone Marrow Biopsy E\n\n2019 2020 2021\n\nCD138 CD138 CD138\n\nFigure 1. Clinical response to GD1 therapy. (A-C) Laboratory response after initiation of Gaucher disease therapy in patient 1 (blue) and patient 2 (red) as assessed by\n\nchitotriosidase (A), LGL-1 (B), and serum M-spike (C). (D) Hematologic improvement after initiation of GD1 therapy. (E) Bone marrow biopsies pretreatment (2019) and\n\nposttreatment (2020, 2021); hematoxylin and eosin stain (upper panels) and CD138 immunohistochemical stain highlighting plasma cells (lower panels). Arrows indicate\n\naggregates of atypical macrophages with ﬁbrillar cytoplasm typical of “Gaucher cells.” Scale bar represents 50 μm. A marked reduction in plasma cells is seen after GD1\n\ntreatment. Chitotriosidase is measured in nmol/hr/mL. Hgb, hemoglobin; LGL1, plasma lysoglucosylceremide, (ng/mL); M-spike, monoclonal spike (g/dL); Plt, platelet; WBC, white\n\nblood cell count.\n\n9 APRIL 2024 • VOLUME 8, NUMBER 7 RESEARCH LETTER 1635",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2023012304",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_sha256": "a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2023012304"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819:p3",
+        "source_issue_ids": [],
+        "text": "A\n\nPt 1\n\n1\n\nRatio: 1.06\n\nT. P.: 3.3 g/dl\n\nB\n\nPt 2\n\n1\n\nRatio: 1.59\n\nT. P.: 3.7 g/dl\n\nFractions\n\nAlbumin\n\nAlpha 1 Alpha 2 Beta Gamma\n\nSerum electrophoresis\n\n% g/dl Ref g/dl\n\n51.5 4.3 7.7 31.5 5.0\n\n1.70 0.14 0.25 1.04 0.17\n\n3.50 - 5.70 0.10 - 0.40 0.40 - 1.10 0.50 - 1.20 0.60 - 1.60\n\nPeaks % g/dl\n\n1 19.5 0.64\n\nC\n\nPhosphatidylcholine\n\nGly-Sphingosine\n\nFractions\n\nAlbumin\n\nAlpha 1 Alpha 2 Beta Gamma\n\nSerum electrophoresis\n\n% g/dl Ref g/dl\n\n61.4 3.7 6.6 9.2 19.1\n\n2.27 0.14 0.24 0.34 0.71\n\n3.50 - 5.70 0.10 - 0.40 0.40 - 1.10 0.50 - 1.20 0.60 - 1.60\n\nPeaks % g/dl\n\n1 14.8 0.55\n\n+\n\nElution\n\nC18 beads\n\nWash\n\nCholesterol Spherical Vesicle (Liposome) Serum lg bound Vehicle Ig antibody detection\n\nPatient Serum\n\nPt 1 D\n\nControl liposome\n\nGly-Sphingosine liposome\n\n2:6:2\n\n2:4:4\n\nIgA\n\nWB after Lipid-Coated C18 Beads mediated pull-down\n\nPt 2 E\n\nGly-Sphingosine liposome\n\nControl liposome\n\n2:6:2 2:4:4\n\nIgG gamma\n\nWB after Lipid-Coated C18 Beads mediated pull-down\n\nG\n\nPt 1\n\nC\n\nS-1-P\n\nControl beads S-1-P beads\n\nWB after sphingosine-coated beads pull-down\n\nIgA\n\nH\n\nPt 2\n\nS-1-P C\n\nControl beads S-1-P beads\n\nWB after sphingosine-coated beads pull-down\n\nF\n\nSphingosine\n\n+\n\nSphingosine -1-P agarose beads Spherical Vesicle (Liposome)\n\nElution\n\nWash\n\nPatient Serum\n\nSerum lgA bound Vehicle Ig antibody detection\n\nFigure 2.\n\n1636 RESEARCH LETTER 9 APRIL 2024 • VOLUME 8, NUMBER 7\n\nIgG gamma",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2023012304",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_sha256": "a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2023012304"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819:p4",
+        "source_issue_ids": [],
+        "text": "signal in the medullary cavities consistent with Gaucher inﬁltration and a small medullary infarct in the distal left femur. PET-CT showed hepatosplenomegaly but no evidence of the 18F-ﬂuoro-2-deoxy-D-glucose-avid lytic lesions characteristic for active MM.\n\nThe patient was not a good candidate for substrate reduction therapy (SRT) due to his preexisting cardiac disease. He was started on enzyme replacement therapy (ERT) with imiglucerase 60 units/kg every 2 weeks and had a good response as evidenced by improved GD1 biomarkers, glucosylsphingosine (lyso-GL1), and chitotriosidase, (Figure 1A-B) along with reduced spleen volume. His blood counts improved to WBC 3.2 × 103/μL, hemoglobin 12.6 g/dL, and platelets 59 × 103/μL. His MM burden also decreased with M spike of 0.88 g/ dL, IgA 1294 g/dL, IgG 332 g/dL, free lambda 21.1 mg/L, and κ/λ 0.53 over the course of 3 years of therapy (Figure 1C-D). A bone marrow biopsy was performed yearly, consistently demonstrating an iterative decrease in the plasma cells from 20% to 30% to 5% to 10% lambda–restricted plasma cells (Figure 1E).\n\nPatient 2, a 41-year-old female with no notable medical history, was referred to a hematologist after an MRI performed after a motor vehicle accident revealed an abnormal bone marrow signal. Further workup showed WBC 2.7 × 103/μL, hgb 10.9 g/dL, platelets 169 × 103/μL, with serum protein electrophoresis revealing an M spike of 0.9 g/dL, IgG κ on immunoﬁxation, IgG 1730 mg/dL, IgA 43 mg/dL, IgM 54 mg/dL, free kappa 73.0 mg/L, and κ/λ 9.24 with a markedly elevated ferritin of 1880 ng/mL (Figure 1C). A bone marrow biopsy revealed 20% to 30% kappa restricted plasma cells in a hyper-cellular marrow with abundant macrophages with foamy eosinophilic cytoplasm. Cytogenetic analysis of plasma cells showed a normal female karyotype (46, XX), and no high-risk ﬂuorescence in situ hybridization abnormalities. She was diagnosed with SMM and referred to a Gaucher disease specialist. GD1 was diagnosed by demonstration of reduced acid β-glucosidase activity and genetic testing, which identiﬁed a homozygous pathogenic variant, c.1226A > G; p.N409S, in the GBA1 gene. She had a milder phenotype (normal platelet count, normal bone density, and no hepatosplenomegaly) and was started on oral SRT with eliglustat 84 mg twice daily based on elevated GD1 biomarkers, bone inﬁltration, leukopenia, and anemia. She tolerated therapy well and had a reduction in GD1 biomarkers, normalization of cytopenias, and gradual reduction in MM markers (Figure 1A-D). Her most recent evaluation after 4 years of eliglustat showed an M spike 0.42 g/dL, IgG 1113 mg/dL, free kappa 25.2 mg/L and κ/λ 3.83 (Figure 1C).\n\nThe decrease in MM burden in both patients and amelioration of cytopenias after Gaucher therapy demonstrate that GD1 therapy can modify the course of MM and prompted us to explore whether clonal immunoglobulins could directly interact with Gaucher lysolipids. To investigate this, we utilized Gly-sphingosine-coated C18 silica beads, which have been shown in previous studies to mimic lipids with a composition closely resembling physiological lipid content.6,10 These\n\nbeads were selected due to their afﬁnity for lyso-lipids as demonstrated in previous studies10 (Figure 2A-C,F). Our observations conﬁrmed speciﬁc binding of the monoclonal immunoglobulin in both the patients to GD1 lysolipids with 2 different methods, C-18 silica beads and sphingosine-1-phosphate bead pulldown (Figure 2D-E,G-H). Our ﬁndings provide real-world patient evidence of the patho-physiological link between GD1 and myeloma and highlight the potential for signiﬁcant antimyeloma beneﬁt from Gaucher therapy. Although spontaneous remissions of monoclonal gammopathies have been seen, particularly in MGUS, the biochemical demonstration that the clonal immunoglobulins directly bind Gaucher lysolipids, and correlation of GD1 biomarker response with the monoclonal gammopathy response after initiation of GD1 therapy in these patients supports that GD1 therapy led to the MM response, rather than spontaneous remission.11\n\nThese cases have implications for initiation of antimyeloma therapy as well as GD1 therapy in plasma cell dyscrasia patients with GD1. Careful examination by a joint group of myeloma and Gaucher disease specialists in patient 1 led to a decision to use the ERT and averted the use of cytotoxic therapy despite the patient having features (eg, cytopenias) due to GD1 mimicking active myeloma. Conversely, initiation of substrate reduction in patient 2 with a milder GD1 phenotype improved hematologic parameters and reduced myeloma burden. These cases suggest that timely initiation of GD1 treatment may reduce the risk of developing monoclonal gammopathy or reduce MGUS concentrations in GD1 patients; thus, all GD1 patients should be screening for monoclonal gammopathies. The response to GD1 therapy in terms of Gaucher’s biomarkers was seen in a month; the response in terms of myeloma markers was more gradual and took ~1.5 years. This is particularly important to note when planning end points for any future trials of GD1 therapy in patients with monoclonal gammopathies. In an era where earlier treatment for SMM is becoming more common and there are ongoing clinical trials in SMM for more intensive therapies including CAR-T cells and bispeciﬁc antibodies, these cases highlight the potential beneﬁt of GD1 therapy on MM and the need for interdisciplinary management by myeloma and Gaucher disease specialists in patients with concurrent plasma cell dyscrasias and GD1 with careful monitoring of myeloma burden for judicious initiation of antimyeloma therapy.\n\nContribution: K.B. and A.P. analyzed data and wrote the manuscript; S.S. provided samples and performed research; D.R.M., C. Salib, S.E.J., J.F., and A.S.D. analyzed patient samples; D. Vatti performed research; R.P.S. and V.V.L. designed the research, performed research, analyzed data, and wrote the manuscript; D. Verina, C. Stauffer, and M.B. treated patients, designed the research, and wrote the manuscript; S.J. treated patients, designed the research, and wrote the manuscript; S.P. treated patients, designed and over-saw the research project, analyzed data, and wrote the manuscript.\n\nFigure 2. Speciﬁc binding of clonal immunoglobulins to Gaucher lysolipids. (A-B) Serum protein electrophoresis (SPEP) for patient 1 and patient 2 highlighting a\n\nmonoclonal protein peak in the beta 2 and the gamma regions, respectively. (C) A schematic representation of the protein pull-down process using lipid-coated C18 beads from\n\npatient serum. (D) Western blot analysis demonstrating the binding of monoclonal IgA to lipid-coated C18 beads for patient 1. (E) Western blot analysis demonstrating binding of\n\nmonoclonal IgG (gamma) for patient 2. The lipids cholesterol, phosphatidylcholine (PC), and Gly-sphingosine were used at the following ratios (w:w): cholesterol/PC (2:4) for\n\ncontrol liposomes and cholesterol/PC/Gly-sphingosine (2:6:2 or 2:4:4) for Gly-sphingosine-containing liposomes. (F) A schematic depicting the sphingosine-coated beads pull-\n\ndown assay from patient serum. (G-H) Western blot analyses demonstrating speciﬁc binding of immunoglobulin IgA to sphingosine-coated beads (S-1-P) for patient 1 and IgG\n\n(gamma) for patient 2, respectively. Blocked agarose beads were used as a negative control (C) with lipid-coated beads. Illustrations for schematic representations (C) and (F)\n\nwere created with BioRender.com.\n\n9 APRIL 2024 • VOLUME 8, NUMBER 7 RESEARCH LETTER 1637",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2023012304",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_sha256": "a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2023012304"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819:p5",
+        "source_issue_ids": [],
+        "text": "Conﬂict-of-interest disclosure: M.B. is a member of the scientiﬁc advisory board for the International Collaborative Group Gaucher registry and has received honoraria for participation in advisory boards from Sanoﬁand Takeda. S.J. is a consultant to Janssen, Bristol Myers Squibb, Legend Biotech, Caribou, Kary-opharm, Regeneron, Takeda, and Sanoﬁand a member of data monitoring committee for Genmab and Sanoﬁ. S.P. has research support from Amgen, Celgene/Bristol Myers Squibb Corporation, and Caribou and is a consultant for Grail (advisory board). The remaining authors declare no competing ﬁnancial interests.\n\nORCID proﬁles: K.B., 0000-0003-1604-1694; D.V., 0009-0004- 0317-5057; C.S., 0000-0001-5466-6949; V.V.L., 0000-0003- 2989-0601; S.J., 0000-0003-2934-6518; M.B., 0000-0001-8047- 5011.\n\nCorrespondence: Manisha Balwani, Icahn School of Medicine at Mount Sinai, 1428 Madison Ave, New York, NY, 10029; email: manisha.balwani@mssm.edu; and Samir Parekh, Icahn School of Medicine at Mount Sinai, 1470 Madison Ave, New York, NY 10029; email: samir.parekh@mssm.edu.\n\nReferences\n\n1. Murugesan V, Chuang WL, Liu J, et al. Glucosylaphingoasine is a key biomarker of Gaucher disease. Am J Hematol. 2016;91(11):1082- 1089.\n\n2. Pastores GM, Hughes DA. Gaucher Disease. In: Adam MP, Feldman J, Mirzaa GM, et al; eds. GeneReviews®. University of Washington, Seattle; 2000:1993-2023.\n\n3. Rosenbloom BE, Cappellini MD, Weinreb NJ, et al. Cancer risk and gammopathies in 2123 adults with Gaucher disease type 1 in the International Gaucher Group Gaucher Registry. Am J Hematol. 2022; 97(10):1337-1347.\n\n4. Nair S, Branagan AR, Liu J, Boddupalli CS, Mistry PK, Dhodapkar MV. Clonal immunoglobulin against lysolipids in the origin of myeloma. N Engl J Med. 2016;374(6):555-561.\n\n5. Nair S, Bar N, Xu ML, Dhodapkar M, Mistry PK. Glucosylsphingosine but not saposin C, is the target antigen in Gaucher disease-associated gammopathy. Mol Genet Metab. 2020; 129(4):286-291.\n\n6. Dubot P, Astudillo L, Therville N, et al. Are glucosylceramide-related sphingolipids involved in the increased risk for cancer in gaucher disease patients? Review and hypotheses. Cancers. 2020;12(2):475.\n\n7. Harel R, Gavish I, Aviv A, et al. Enzyme replacement therapy leading to improvement in myeloma indices in a patient with concomitant Gaucher disease. Intern Med J. 2022;52(5):872-875.\n\n8. Ramos JM, Hough AJ. Plasma cell myeloma in a patient with Gaucher disease. Blood. 2019;133(1):100.\n\n9. Abell K, Chadwell SE, Burrow TA, et al. Outcomes of screening for gammopathies in children and adults with Gaucher disease type 1 in a cohort from Brazil and the United States. Am J Med Genet C Semin Med Genet. 2020;184(4):1052-1059.\n\n10. Nair S, Sng J, Boddupalli CS, et al. Antigen-mediated regulation in monoclonal gammopathies and myeloma. JCI Insight. 2018;3(8): e98259.\n\n11. Kyle RA, Therneau TM, Rajkumar SV, et al. A long-term study of prognosis in monoclonal gammopathy of undetermined signiﬁcance. N Engl J Med. 2002;346(8):564-569.\n\n1638 RESEARCH LETTER 9 APRIL 2024 • VOLUME 8, NUMBER 7",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:a172d61dccf5f3104bba4e5916f5db3425b0f34311eb9817faa325cd8c903819"
+}

@@ -1,4 +1,4 @@
-# Evidence and catalog tool contract v2.3
+# Evidence and catalog tool contract v2.4
 
 These schemas are shared by the stdio MCP server and the installed
 application's release-mode `tool` command. Legacy workspace retrieval preserves
@@ -12,6 +12,14 @@ turning an unreported value into text. This is an intentional major version
 change; version-1 consumers must not silently accept version-2 responses.
 
 ## Tools and inputs
+
+Contract **2.4.0** adds `get_source_document` for continuous reading of one
+retained PDF, with character-based pagination and page/unit provenance.
+It joins canonical page text with two newlines in original PDF page order;
+it does not repair split words, remove headers/footers or infer missing text.
+Existing release bytes and page-context tool behavior are unchanged.
+Releases exported with tool schemas 2.0.0 through 2.3.0 remain loadable;
+responses use the current contract without rewriting those releases.
 
 Contract **2.3.0** adds `list_publications`, `get_publication` and `catalog_status`
 for explicitly separate metadata-only catalog collections. These records contain
@@ -58,7 +66,8 @@ All inputs reject unknown properties, including arbitrary SQL or file paths.
 | `catalog_status` | none | none | Coverage for each selected catalog |
 | `search_evidence` | `query` | `paper`, `mode`, `limit`, `offset` | Page of cited search hits |
 | `get_claim` | `claim_id` | none | Whole contextual claim and numerical records |
-| `get_source_context` | `unit_id` | `max_characters` | Bounded cited context |
+| `get_source_context` | `unit_id` | `offset`, `max_characters` | Bounded cited context |
+| `get_source_document` | `source_id` | `offset`, `max_characters` | Continuous PDF text slice, page segments and continuation |
 | `get_table` | `table_id` | `limit`, `offset` | Headers, units, rows, footnotes and continuation |
 | `get_source_issue` | `issue_id` | none | Status, explanation, exact quotes and citations |
 | `get_related_evidence` | `evidence_id` | `limit`, `offset` | Cited, qualified relationship edges |
@@ -72,6 +81,55 @@ characters. `paper` accepts a DOI or the existing normalized paper ID.
 Word/Excel source-unit IDs do not imply PDF pagination. The exporter
 preserves existing record IDs and maps source units explicitly.
 
+Private project snapshots can index opted-in document-wide chunks instead of
+whole pages. `search_evidence` may return a chunk ID; use that ID with
+`get_source_context` in the same pinned snapshot. `get_source_document` and
+source-unit inventories continue to use original page units.
+
+Private PDF hits and source-context records include optional `passage_context`.
+`paper_title` is included when available in published source metadata.
+`section_paths` lists explicit Markdown heading paths in reading order and
+`elements` lists explicit figure/table labels and marked descriptions.
+An empty list means no corresponding markup was identified. `block_range`,
+when present, is an inclusive, one-based range of numbered blocks. When
+`block_scope` is `document`, numbering spans the paper; otherwise it is
+page-local. Document-wide chunks include `source_spans` in reading order,
+each with the canonical page unit ID, citation, and zero-based, half-open
+character offsets within that page. Chunk text joins the original slices with
+a newline. For compatibility, the top-level `citation` is the first span;
+clients should use `source_spans` to cite all contributing pages. Metadata
+describes the whole unit even if the returned text is clipped. Metadata is
+derived from the pinned publication, not appended to quoted text or indexed
+for search. Clients should not assume the field is present on legacy or Office
+records.
+
+Use `next_offset` with the same unit and snapshot to continue a context read.
+Some private PDF units also expose `reading_parts` with zero-based, half-open
+offsets into the full unit. For a table row, also read the header and any notes;
+for a figure panel, also read the caption introduction. Reference entries are
+bibliographic leads, not evidence from the cited works.
+
+An optional `passage_context.editorial_label` is operator-supplied search
+metadata, not author text. Private plain-text search indexes labels separately
+and boosts matches on all search terms. For `How common was/is ...?` (also
+`were`/`are`) or `What proportion/percentage had ...?`, search removes the
+question prefix and ranks matching labels marked with the word `frequency`
+ahead of unlabeled text matches.
+`How often did … persist?` searches for the topic plus `persistent`.
+Labels can include a plain-language synonym when it accurately describes the
+same evidence; search does not infer synonyms. Explicit table/figure lookups
+and advanced FTS5 search do not use this boost.
+
+On document-chunk plans, a plain query naming one table and a matching row
+label, an explicit figure such as `Figure 2`, or a panel such as `Figure 1C`, can return
+`exact_evidence` first instead of ordinary lexical hits. A table row includes
+the printed headers and marked notes; a figure returns its printed caption,
+and a panel includes the caption introduction.
+These are assembled source excerpts, not generated answers. The result ID
+still identifies the enclosing chunk for pinned follow-up. If no exact part
+matches, search uses ordinary lexical retrieval; do not treat a mention as
+the requested evidence. Advanced FTS5 queries retain their existing behavior.
+
 ## Bounds and ordering
 
 - Query: 1-2048 characters, not only whitespace. Safe `mode: "plain"` is the
@@ -81,6 +139,17 @@ preserves existing record IDs and maps source units explicitly.
 - `limit`: integer 1-100, default 10; `offset`: integer 0-1,000,000, default 0.
 - Context: `max_characters` 1-2048, default 1024. Evidence quotes/snippets are
   at most 2048 characters; other text fields at most 4096.
+- Document: `max_characters` 1-8192, default 4096; character `offset`
+  0-100,000,000, default 0. `next_offset` advances by the returned character
+  count (including page-separator newlines); null means the end of retained
+  text, not proof of complete PDF extraction. Follow all slices with the same
+  source, collection and snapshot. Office sources are explicitly unsupported.
+  Each segment has absolute document `start`/`end` offsets (end exclusive),
+  `unit_offset`, the original unit ID/citation, verification, caveats and source
+  issues. Empty retained pages have zero-length segments.
+  `extraction_incomplete` reports stored truncation anywhere in the document;
+  each segment retains its own `extraction_truncated` flag. Empty/missing
+  extraction may still require inspection even when neither flag is set.
 - Arrays have at most 100 entries. **Every serialized response is at most
   65,536 UTF-8 bytes**, including provenance and caveats. MCP framing and the
   text/structured duplication are additional transport overhead.
@@ -106,7 +175,7 @@ tests. Release handlers implement retrieval and truncation, not the schemas alon
 
 ## Success, provenance and uncertainty
 
-Success envelopes have `ok: true`, `schema_version: "2.3.0"`, a nonempty immutable
+Success envelopes have `ok: true`, `schema_version: "2.4.0"`, a nonempty immutable
 `release_id`, the tool name, `result` and collection-level `caveats`.
 Every evidence result inherits that release identity and adds:
 
@@ -154,3 +223,12 @@ rejected. An evidence release ID identifies content, not an application version.
 The application package version, tool contract version, and release
 manifest schema version are separate. Original source bytes may be restricted
 even when citation metadata is available.
+## Publication boundary
+
+Independent project endpoints read the published retrieval registry, not the
+private editorial registry. PDF attachment and draft edits do not authorize
+text for retrieval; explicit admin publication does. An empty evidence release
+is valid when no clear text has been published. Its source, unit and table lists
+and search results are empty, without a fallback to editorial drafts.
+Historical snapshot-pinned access remains available according to authorization.
+See [architecture](architecture.md) for the editorial/publication lifecycle.

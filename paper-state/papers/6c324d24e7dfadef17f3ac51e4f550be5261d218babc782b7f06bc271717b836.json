@@ -1,0 +1,471 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:01:04.387469+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Gender Differences in the prevalence of mental health, psychological distress and psychotropic medication consumption in Spain: a nationwide population-based study",
+        "year": null
+      },
+      "doi": "10.3390/ijerph18126350",
+      "format": "pdf",
+      "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+      "url": "https://doi.org/10.3390/ijerph18126350"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p1",
+        "source_issue_ids": [],
+        "text": "International Journal of Environmental Research and Public Health\n\nArticle Gender Differences in the Prevalence of Mental Health, Psychological Distress and Psychotropic Medication Consumption in Spain: A Nationwide Population-Based Study\n\nClara Maestre-Miquel 1 , Ana López-de-Andrés 2,* , Zichen Ji 3 , Javier de Miguel-Diez 3 , Arturo Brocate 4, Sara Sanz-Rojo 2, Antonio López-Farre 5, David Carabantes-Alarcon 2 , Rodrigo Jiménez-García 2\n\nand José J. Zamorano-León 2\n\n\u0001\u0002\u0003\u0001\u0004\u0005\u0006\u0007\b \u0001\u0002\u0003\u0004\u0005\u0006\u0007\n\nCitation: Maestre-Miquel, C.;\n\nLópez-de-Andrés, A.; Ji, Z.; de\n\nMiguel-Diez, J.; Brocate, A.;\n\nSanz-Rojo, S.; López-Farre, A.;\n\nCarabantes-Alarcon, D.;\n\nJiménez-García, R.; Zamorano-León,\n\nJ.J. Gender Differences in the\n\nPrevalence of Mental Health,\n\nPsychological Distress and\n\nPsychotropic Medication\n\nConsumption in Spain: A\n\nNationwide Population-Based Study.\n\nInt. J. Environ. Res. Public Health 2021,\n\n18, 6350. https://doi.org/\n\n10.3390/ijerph18126350\n\nAcademic Editor: Paul B. Tchounwou\n\nReceived: 22 April 2021\n\nAccepted: 8 June 2021\n\nPublished: 11 June 2021\n\nPublisher’s Note: MDPI stays neutral\n\nwith regard to jurisdictional claims in\n\npublished maps and institutional afﬁl-\n\niations.\n\n1 School of Health Sciences, Universidad de Castilla la Mancha, 45600 Talavera de la Reina, Spain; Clara.Maestre@uclm.es 2 Department of Public Health & Maternal and Child Health, Faculty of Medicine, Universidad Complutense de Madrid, 28040 Madrid, Spain; ssanz01@ucm.es (S.S.-R.); dcaraban@ucm.es (D.C.-A.); rodrijim@ucm.es (R.J.-G.); josejzam@ucm.es (J.J.Z.-L.) 3 Respiratory Care Department, Hospital General Universitario Gregorio Marañón, Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM), Universidad Complutense de Madrid, 28040 Madrid, Spain; jizich72@gmail.com (Z.J.); javier.miguel@salud.madrid.org (J.d.M.-D.) 4 Sport Science School, Universidad Castilla de la Mancha, 45071 Toledo, Spain; arturobrocate@gmail.com 5 Department of Medicine, Faculty of Medicine, Universidad Complutense de Madrid, 28040 Madrid, Spain; antonio.lopez.farre@med.ucm.es * Correspondence: anailo04@ucm.es\n\nAbstract: Background: To assess gender differences in the prevalence of self-reported mental disorders, psychological distress and psychotropic drug consumption, and to identify sociodemographic and health-related variables associated with these conditions in the male and female population (aged ≥18 years). Methods: A cross-sectional study was carried on 22,141 subjects aged 18 and over, using data from the Spanish National Health Interview Survey 2017. Results: We found an overall prevalence of mental disorders, psychological distress and psychotropic drug consumption of 13.8%, 18.3% and 13.9%, respectively. After multivariable adjustment, women showed signiﬁcantly increased probabilities of 1.74-fold for mental disorders, 1.26-fold for psychological distress and 1.26-fold for psychotropic drug consumption compared to men. Variables such as gender, age, nationality, marital status, educational level, self-rated health, the presence of different chronic disorders, alcohol consumption and smoking habit were independently associated with mental disorders, psychological distress and psychotropic drug consumption. Several variables showed a differential effect on mental health status and psychotropic drug consumption according to gender. Conclusions: Women suffer from mental disorders, experience psychological distress and consume psychotropic drugs signiﬁcantly more than men in Spain. Possible explanations for these results may be related to differences in emotional processing, willingness to report diseases and even intrinsic biological traits. Screening for mental health status and psychotropic drug consumption should be considered, particularly in Spanish women, younger adults and individuals who are not married, are obese, have poor self-rated health, suffer from chronic diseases or have a smoking habit.\n\nKeywords: mental health; psychological distress; psychotropic medication; sex differences; prevalence\n\nCopyright: © 2021 by the authors.\n\nLicensee MDPI, Basel, Switzerland.\n\nThis article is an open access article\n\ndistributed under the terms and\n\nconditions of the Creative Commons\n\nAttribution (CC BY) license (https://\n\ncreativecommons.org/licenses/by/\n\n4.0/).\n\n1. Introduction\n\nMental health is considered to be a crucial marker of the overall wellbeing of individuals, societies and countries [1]. Regrettably, mental health problems are currently among the ten leading causes of disability in both developed and developing countries. Indeed, the World Health Organization has estimated that at least 10% of the world’s population have been diagnosed with different types of mental disorders, the most common being\n\nInt. J. Environ. Res. Public Health 2021, 18, 6350. https://doi.org/10.3390/ijerph18126350 https://www.mdpi.com/journal/ijerph",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p10",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 10 of 15\n\nAge was also identiﬁed as a positive predictor for mental disorder; however, only the age range of 37–67 years reached statistical signiﬁcance. This ﬁnding is consistent with previous studies based on epidemiological surveys [7], suggesting that common mental disorders such as anxiety and depression have an early age of onset [44]. Age older than 50 years was also found to be a protector for psychologic distress. This observed pattern of decreased prevalence of mental disorder and psychologic distress with increasing age seems to be in accordance with the widely accepted socioemotional selectivity theory (SST) [45]. This theory concludes that older adults adopt a present-focused state of awareness, seeking the achievement of emotionally meaningful goals through relatives and friends, which increase the likelihood of experiencing positive emotions [45]. On the other hand, increased age was strongly identiﬁed as a predictor for psychotropic drug consumption. It is widely known that the prescription rate of psychotropic drugs increases with age, with mental health problems associated with aging identiﬁed as the main factor behind the use of these drugs [46,47]. However, our results suggest that mental health problems may not be the only factor or even the decisive one for psychotropic drug consumption, and therefore, the possibility of the presence of other predisposing factors must be considered. Regarding this last point, in addition to the presence of mental health problems, factors such as physiological alterations of sleep patterns, number of chronic disorders, limitations in functional abilities and even characteristics of those prescribing the medicine have been closely associated with the prescription of psychotropic drugs [48–50]. Additionally, in accordance with previous studies, not being married has been found to be a positive predictor for mental disease and psychologic distress. A plausible explanation for this may be that the married population may avoid feelings of loneliness and feel higher levels of emotional and psychological wellbeing [51,52]. Being an immigrant was found to be a negative predictor for poor mental health and psychotropic medication consumption. Different aspects closely related to immigration such as lack of social or economic factors or cultural changes have been widely associated with an adverse impact on mental health [53]. However, different conditions may modulate the relationship between immigration and high risk of developing mental alterations. A previous report performed in Spain concluded that immigrants who resided in Spain for less than 10 years showed a better state of mental health than the Spanish population [54]. Other works outside Spain have also reported that the mental health of immigrants was found to be similar or better than that of the native population of the destination country [55–57]. However, it is important to point out that data obtained about a good mental health state among immigrants may be biased, since people with poorer mental health would have lower possibilities to migrate. In this regard, different works have shown that physical and mental wellbeing were factors driving the decision to migrate [58,59]. The inverse relationship between mental health alterations and social class and education levels are two of the most well established in the ﬁeld of mental health epidemiology [60,61]. However, our results did not reveal the abovementioned inverse relationship. Uniquely, secondary and primary levels of education were identiﬁed as a predictor for mental disorders, while education levels were found to predict neither psychological distress nor psychotropic drug consumption. These controversial results may be due to the effect of social class and educational level on mental health being modulated by other aspects closely associated with the welfare state of a country. In this regard, it is important to note that when the data for the present work were collected, Spain had Europe’s second highest unemployment rate, the third highest percentage of underemployed part-time workers who wished to work more (51%) and the second highest rate of youth unemployment (43%) [62]. With these data, it would be plausible to think that stress due to unemployment or temporary employment status would increase the risk of developing poor mental health, independently of social class and education level. However, when the effect of social class on psychological distress was analyzed according to gender, it was found that a low social class was a predictor of psychological distress among women. This may be associated with",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p11",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 11 of 15\n\nthe demanding responsibilities of housework and parenting of children among women who belong to a low social class in Spain [63], which would provide additional stress in comparison to men, independently of employment status. Our results showed that the population with a negative perception of their health were in higher risk of mental disorders, psychologic distress and psychotropic drug consumption, agreeing with previous reports [11,19]. In addition, as was expected, psychologist consul-tations were also associated with poor mental health status and psychotropic medication consumption. Interestingly, our results also revealed that emergency and non-emergency hospital admission increased psychologic distress risk and psychotropic drug consumption. These ﬁndings may also be closely associated with the presence of chronic disorders. The diagnosis of chronic disorders often requires numerous visits to the doctor and exposes the patient to chronic stressors which may lead to psychological distress and, therefore, the prescription of psychotropic drugs. Regarding this point, we have found that chronic disorders such as malignant tumors, stroke, permanent injuries and pathologies with chronic pain are all characterized by a high emotional charge for patients due to treatment and psychosocial or labor stressors, and they were a positive predictor for poor mental health and psychotropic medication consumption. This is consistent with ﬁndings from previous works [11,64,65]. In line with other studies conducted in Spain and other countries, our analysis of variables associated with lifestyle revealed that obesity was a predictor of mental disorders [66–69]. Interestingly, our results also revealed that obesity was a predictor of mental disorders only for women. A negative self-perceived body image is closely associated with low levels of perceived social support, particularly in the female population [70,71]. Perceived social support plays a crucial role in enjoying a sense of general wellness and even as a stress-buffering process [72,73]. In our population, engaging in physical exercise was signiﬁcantly associated with lower psychological distress. This protective effect of physical activity has been previously described in the Spanish general population [23]. Regarding the consumption of addictive substances, smoking was a predictor of mental disorders, psychologic distress and psychotropic drug consumption. There is strong evidence for an association between smoking and the development and progression of mental disorders and psychotropic drug consumption [11,74]. On the other hand, the negative association between consumption of alcohol and both mental disorders and psychotropic drug consumption found in our work may be because alcohol is used as an alternative substance instead of psychotropic medicines for those who are suffering from anxiety or depression, especially in the male population [75]. Accordingly, we found that the protective effect of alcohol consumption on psychotropic drug consumption was limited to the male population. As expected, a positive association was found between the presence of mental disorder, psychologic distress and psychotropic drug consumption. These variables are closely related to each other. The positive directional association between distress and mental disorder is widely accepted, indicating that any study claiming to focus on mental health should incorporate measures of distress and mental disorders [76]. The main strength of this work was the use of a representative sample of the population residing in Spain, which allowed quantifying the prevalence of poor mental health status and psychotropic drug consumption as well as identifying predictors involved in the processes mentioned above. However, there were also several limitations to this study. The SNHIS is based on self-reported data, and therefore, it may be affected by nonresponse bias, memory bias or the tendency of interviewees to give socially desirable responses. Moreover, national health surveys rely on household sampling, but we do not have data from institutionalized populations, nor from hospitals and prisons or marginalized groups (e.g., the homeless population), who often have high rates of mental disorders and psychotropic treatment [77]. These taken all together, it is possible that the prevalence of poor mental health status and psychotropic drug consumption may be underestimated. Finally, the use of a cross-sectional design means that causality cannot be inferred.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p12",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 12 of 15\n\n5. Conclusions\n\nIn conclusion, our ﬁndings show a high prevalence of poor mental health status and psychotropic drug consumption in Spain, emphasizing that gender differences exist, with women being in higher risk of mental disorder, psychological distress and psychotropic drug consumption. However, this prevalence seems to have decreased in comparison to what was identiﬁed during analysis against the backdrop of a particularly hard economic crisis in Spain. Different sociodemographic, health status and lifestyle factors appear to be associated with a prevalence of mental health status and psychotropic medication consumption. Programs targeted at preventing, monitoring and controlling these gender differences in mental health problems should be implemented in primary care. Screening for these conditions should be considered, particularly in Spanish women, younger adults and individuals who are not married, have poor self-rated health, suffer from chronic diseases or have a smoking habit.\n\nSupplementary Materials: The following are available online at https://www.mdpi.com/article/10 .3390/ijerph18126350/s1, Table S1: Deﬁnition of dependent and independent variables used in our investigation according to the questions included in the Spanish National Health Interview Survey 2017 (SNHIS 2017). Table S2: Variables independently and signiﬁcantly associated with mental disorders, psychologic distress and psychiatric drug consumption according to gender. Results from the Spanish National Health Survey 2017.\n\nAuthor Contributions: Conceptualization, C.M.-M., R.J.-G. and J.J.Z.-L.; formal analysis, A.B., S.S.-R. and D.C.-A.; methodology, A.L.-d.-A., Z.J., J.d.M.-D. and A.L.-F.; writing—original draft preparation, C.M.-M., R.J.-G. and J.J.Z.-L.; writing—review and editing, A.B., S.S.-R., D.C.-A., A.L.-d.-A., Z.J., J.d.M.-D. and A.L.-F. All authors have read and agreed to the published version of the manuscript.\n\nFunding: No funding.\n\nInstitutional Review Board Statement: Not applicable.\n\nInformed Consent Statement: Not applicable.\n\nData Availability Statement: This database can be downloaded freely and without cost from the website of the Ministry of Health, Social Services, and Equality (https://www.mscbs.gob.es/ estadEstudios/estadisticas/encuestaNacional/encuesta2017.htm, accessed on 20 May 2021). All relevant data, however, are already presented within this paper.\n\nConﬂicts of Interest: The authors declare no conﬂict of interest.\n\nReferences\n\n1. Ritchie, H.; Roser, M. Mental Health. Available online: https://ourworldindata.org/mental-health (accessed on 29 March 2021). 2. WHO. Global Burden of Disease; World Health Organization: Geneva, Switzerland, 2004; Available online: http://www.who.int/ healthinfo/global_burden_disease/GBD_report_2004update_full.pdf (accessed on 29 March 2021). 3. Alonso, J.; Ferrer, M.; Romera, B.; Vilagut, G.; Angermeyer, M.; Bernert, S.; Brugha, T.; Taub, N.; McColgen, Z.; Girolamo, G.; et al. The European Study of the Epidemiology of Mental Disorders (ESEMeD/MHEDEA 2000) project: Rationale and methods. Int. J. Methods Psychiatr. Res. 2002, 11, 55–67. [CrossRef] 4. Alonso, J.; Lépine, J.-P. Overview of key data from the European Study of the Epidemiology of Mental Disorders (ESEMeD). J. Clin. Psychiatry 2007, 68, 3–9. 5. Gabilondo, A.; Rojas-Farreras, S.; Vilagut, G.; Haro, J.M.; Fernández, A.; Pinto-Meza, A.; Alonso, J. Epidemiology of major depressive episode in a southern European country: Results from the ESEMeD-Spain project. J. Affect. Disord. 2010, 120, 76–85. [CrossRef] 6. Gili, M.; Roca, M.; Basu, S.; McKee, M.; Stuckler, D. The mental health risks of economic crisis in Spain: Evidence from primary care centers, 2006 and 2010. Eur. J. Public Health 2012, 23, 103–108. [CrossRef] 7. Navarro-Mateu, F.; Tormo, M.J.; Salmeron, D.; Vilagut, G.; Navarro, C.; Ruiz-Merino, G.; Escámez, T.; Júdez, J.; Martinez, S.; Kessler, R.C.; et al. Prevalence of Mental Disorders in the South-East of Spain, One of the European Regions Most Affected by the Economic Crisis: The Cross-Sectional PEGASUS-Murcia Project. PLoS ONE 2015, 10, e0137293. [CrossRef] [PubMed] 8. OECD. Promoting mental health in Europe: Why and how? In Health at a Glance: Europe; Organization for Economic Co-Operation and Development (OECD): Paris, France, 2018; pp. 19–43.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p13",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 13 of 15\n\n9. Sánchez, M.P.V.; Saint-Gerons, D.M.; Honrubia, C.D.L.F.; Bermejo, C.E.O.; Corominas, D.M.; Catalá-López, F. Evolución del uso de medicamentos ansiolíticos e hipnóticos in Spain durante el período 2000-2011. Rev. Esp. Salud Pública 2013, 87, 247–255. [CrossRef] [PubMed] 10. Rubio-Valera, M.; Fernández, A.; Luciano, J.V.; Hughes, C.M.; Pinto-Meza, A.; Moreno-Küstner, B.; Palao, D.J.; Haro, J.M.; Serrano-Blanco, A. Psychotropic prescribing in Catalonia: Results from an epidemiological study. Fam. Pr. 2011, 29, 154–162. [CrossRef] 11. Carrasco-Garrido, P.; Hernández-Barrera, V.; Jiménez-Trujillo, I.; Esteban-Hernández, J.; Álvaro-Meca, A.; Andrés, D.; DelBarrio-Fernández, J.L.; Garcia, R.J. Time Trend in Psychotropic Medication Use in Spain: A Nationwide Population-Based Study. Int. J. Approx. Res. Public Health 2016, 13, 1177. [CrossRef] [PubMed] 12. Aparasu, R.R.; Death, J.R.; Brandt, H. Psychotropic prescription use by community-dwelling elderly in the United States. J. Am. Geriatr. Soc. 2003, 51, 671–677. [CrossRef] 13. Voyer, P.; Cohen, D.; Lauzon, S.; Collin, J. Factors associated with psychotropic drug use among community-dwelling older persons: A review of empirical studies. BMC Nurs. 2004, 3, 3. [CrossRef] 14. Wang, P.S.; Lane, M.; Olfson, M.; Pincus, H.A.; Wells, K.B.; Kessler, R.C. Twelve-Month Use of Mental Health Services in the United States. Arch. Gen. Psychiatry 2005, 62, 629–640. [CrossRef] 15. Carrasco, P.; Astasio, P.; Ortega, P.; Jiménez, R.; Gil, A. Factores asociados al consumo de fármacos psicotropos en la población adulta española. Datos obtained from the Encuestas Nacionales de Salud de España de los años 1993, 1995 y 1997. Med. Clin. 2001, 116, 324–329. [CrossRef] 16. Carrasco-Garrido, P.; Lopez-De-Andres, A.; Barrera, V.H.; Jiménez-Trujillo, I.; Garcia, R.J. National trends (2003–2009) and factors related to psychotropic medication use in community-dwelling elderly population. Int. Psychogeriatr. 2012, 25, 328–338. [CrossRef] [PubMed] 17. Salvador-Carulla, L.; Roca, M. Mental health impact of the economic crisis in Spain. Int. Psychiatry 2013, 10, 8–10. 18. Cuesta, J.D.P.; Ruiz, J.S.; Roca, M.; Noguer, I. Salud mental y salud pública en España: Vigilancia epidemiológica y prevención. Psiquiatr. Biol. 2016, 23, 67–73. [CrossRef] 19. Garcia, R.J.; Huedo, M.A.M.; Hernandez-Barrera, V.; Andrés, A.L.; Martinez, D.; Jiménez-Trujillo, I.; Carrasco-Garrido, P.; Jiménez-García, R.; Hernandez-Barrera, V. Psychological Distress and mental disorders among Spanish diabetic adults: A case—control study. Prim. Care Diabetes 2012, 6, 149–156. [CrossRef] 20. Goldberg, D.; Williams, P. User’s Guide to the General Health Questionnaire; NFER-Nelson: Berkshire, UK, 1988. 21. Muñóz, P.E.; Vázquez, J.L.; Rodríguez Insausti, F.; Pastrana, E.; Varo, J. Adaptación española del General Health Questionnaire (GHQ) by DP Goldberg (a method of identiﬁcación de casos psiquiátricos en la comunidad [Spanish adaptation of the General Health Questionnaire (GHQ) of DP Goldberg (a method for identifying psychiatric cases in the community)]. Arch. Neurobiol. 1979, 42, 139–158. 22. Sánchez-López, P.; Dresch, V. The 12-item General Health Questionnaire (GHQ-12): Reliability, external validity and factor structure in the Spanish population. Psicothema 2008, 20, 839–843. 23. Gispert, R.; Rajmil, L.; Schiafﬁno, A.; Herdman, M. Sociodemographic and health-related correlates of psychiatric distress in a general population. Soc. Psychiatry Psychiatr. Epidemiol. 2003, 38, 677–683. [CrossRef] 24. Instituto Nacional de Estadistica. Encuesta Nacional de Salud 2017. [National Health Survey 2017]. Available online: https: //www.ine.es/en/metodologia/t15/t153041917_en.pdf (accessed on 12 February 2021). 25. Instituto Nacional de Estadistica. Encuesta Nacional de Salud 2017. Cuestinario de Adultos [National Health Survey 2017. Adults Questionnaire]. Available online: https://www.ine.es/metodologia/t15/ense_adu17.pdf (accessed on 11 March 2020). 26. Ministerio de Sanidad Consumo y Bienestar Social. Encuesta Nacional de Salud. 2017. Microdatos. [National Health Survey 2017. Microdata]. Available online: https://www.mscbs.gob.es/estadisticas/microdatos.do (accessed on 18 February 2021). 27. Henares-Montiel, J.; Ruiz-Pérez, I.; Sordo, L. Salud mental en España y diferencias por sexo y por comunidades autónomas. Gac. Sanit. 2020, 34, 114–119. [CrossRef] 28. Munizza, C.; Argentero, P.; Coppo, A.; Tibaldi, G.; Di Giannantonio, M.; Picci, R.L.; Rucci, P. Public Beliefs and Attitudes towards Depression in Italy: A National Survey. PLoS ONE 2013, 8, e63806. [CrossRef] [PubMed] 29. Stoyanova, A.; Pinilla, J. Socioeconomic Burden of Mental Disorders in Spain 2006–2017 (3 April 2019). UB Economics Working Papers E19/389. Available online: https://ssrn.com/abstract=3369466 (accessed on 18 February 2021). 30. Cebrino, J.; De La Cruz, S.P. Environmental, Health and Sociodemographic Determinants Related to Common Mental Disorders in Adults: A Spanish Country-Wide Population-Based Study (2006–2017). J. Clin. Med. 2020, 9, 2199. [CrossRef] 31. Von Soest, T.; Bramness, J.G.; Pedersen, W.; Wichstrøm, L. The relationship between socio-economic status and antidepressant prescription: A longitudinal survey and register study of young adults. Epidemiol. Psychiatr. Sci. 2011, 21, 87–95. [CrossRef] 32. Abbing-Karahagopian, V.; Huerta, C.; Souverein, P.C.; de Abajo, F.; Leufkens, H.G.M.; Slattery, J.; Alvarez, Y.; Miret, M.; Gil, M.; Oliva, B.; et al. Antidepressant prescribing in ﬁve European countries: Application of common deﬁnitions to assess the prevalence, clinical observations, and methodological implications. Eur. J. Clin. Pharmacol. 2014, 70, 849–857. [CrossRef] [PubMed] 33. Mojtabai, R.; Olfson, M. National Trends in Psychotropic Medication Polypharmacy in Office-Based Psychiatry. Arch. Gen. Psychiatry 2010, 67, 26–36. [CrossRef] [PubMed] 34. Meng, X.; D’Arcy, C.; Tempier, R. Trends in Psychotropic Use in Saskatchewan from 1983 to 2007. Can. J. Psychiatry 2013, 58, 426–431. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p14",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 14 of 15\n\n35. Manteuffel, M.; Williams, S.; Chen, W.; Verbrugge, R.R.; Pittman, D.G.; Steinkellner, A. Inﬂuence of Patient Sex and Gender on Medication Use, Adherence, and Prescribing Alignment with Guidelines. J. Women’s Health 2014, 23, 112–119. [CrossRef] [PubMed] 36. Stuckler, D.; Basu, S.; Suhrcke, M.; Coutts, A.; McKee, M. The public health effect of economic crises and alternative policy responses in Europe: An empirical analysis. Lancet 2009, 374, 315–323. [CrossRef] 37. Gil-Alonso, F.; Thiers-Quintana, J. Population and economic cycles in the main Spanish urban areas: The migratory component. Comp. Popul. Stud. 2019, 44, 317–350. [CrossRef] 38. Lee, S.; Guo, W.-J.; Tsang, A.; Mak, A.D.P.; Wu, J.; Ng, K.L.; Kwok, K. Evidence for the 2008 economic crisis exacerbating depression in Hong Kong. J. Affect. Disord. 2010, 126, 125–133. [CrossRef] 39. Wang, J.; Smailes, E.; Sareen, J.; Fick, G.H.; Schmitz, N.; Patten, S.B. The Prevalence of Mental Disorders in the Working Population over the Period of Global Economic Crisis. Can. J. Psychiatry 2010, 55, 598–605. [CrossRef] 40. Economou, M.; Madianos, M.; Peppou, L.E.; Patelakis, A.; Stefanis, C.N. Major depression in the Era of economic crisis: A replication of a cross-sectional study across Greece. J. Affect. Disord. 2013, 145, 308–314. [CrossRef] 41. La Torre, J.-D.; Molina, A.J.; Fernández-Villa, T.; Artazcoz, L.; Martín, V. Mental health, family roles and employment status inside and outside the household in Spain. Gac. Sanit. 2019, 33, 235–241. [CrossRef] [PubMed] 42. Athanasopoulos, C.; Pitychutis, P.M.; Messari, I.; Lionis, C.; Papadopoulou-Daifoti, Z. Is Drug Utilization in Greece Sex dependent? A Population-based Study. Basic Clin. Pharmacol. Toxicol. 2012, 112, 55–62. [CrossRef] [PubMed] 43. Carrasco-Garrido, P.; Hernández-Barrera, V.; López de Andrés, A.; Jiménez-Trujillo, I.; Jiménez-García, R. Sex–differences on self-medication in Spain. Pharmacoepidemiol Drug Saf. 2010, 19, 1293–1299. [CrossRef] 44. Kessler, R.C.; Angermeyer, M.; Anthony, J.C.; Graaf, R.; Demyttenaere, K.; Gasquet, I.; de Girolamo, G.; Gluzman, S.; Gureje, O.; Haro, J.M.; et al. Lifetime prevalence and age-of-onset distributions of mental disorders in the World Health Organization’s World Mental Health Survey Initiative. World Psychiatry 2007, 6, 168–176. [PubMed] 45. Carstensen, L.L.; Isaacowitz, D.M.; Charles, S.T. Taking time seriously: A theory of socioemotional selectivity. Am. Psychol. 1999, 54, 165–181. [CrossRef] [PubMed] 46. Simoni-Wastila, L.; Yang, H.K. Psychoactive drug abuse in older adults. Am. J. Geriatr. Pharmacother. 2006, 4, 380–394. [CrossRef] 47. Bareis, N.; Sando, T.A.; Mezuk, B.; Cohen, S.A. Association Between Psychotropic Medication Polypharmacy and an Objective Measure of Balance Impairment Among Middle-Aged Adults: Results from the US National Health and Nutrition Examination Survey. CNS Drugs 2018, 32, 863–871. [CrossRef] [PubMed] 48. Linden, M.; Lecrubier, Y.; Bellantuono, C.; Benkert, O.; Kisely, S.; Simon, G. The prescribing of psychotropic drugs by primary care physicians: An international collaborative study. J. Clin. Psychopharmacol. 1999, 19, 132–140. [CrossRef] 49. Kjosavik, S.R.; Hunskaar, S.; Aarsland, D.; Ruths, S. Initial prescription of antipsychotics and antidepressants in general practice and specialist care in Norway. Acta Psychiatr. Scand. 2011, 123, 459–465. [CrossRef] 50. Mercier, A.; Bénichou, J.; Auger-Aubin, I.; Lebeau, J.-P.; Houivet, E.; Van Royen, P.; Peremans, L. How do GP practices and patient characteristics inﬂuence the prescription of antidepressants? A cross-sectional study. Ann. Gen. Psychiatry 2015, 14, 3. [CrossRef] [PubMed] 51. Williams, D.R.; Takeuchi, D.T.; Adair, R.K. Marital Status and Psychiatric Disorders Among Blacks and Whites. J. Health Soc. Behav. 1992, 33, 140. [CrossRef] [PubMed] 52. DistelIrene, M.A.; Rebollo-Mesa, I.; Abdellaoui, A.; Derom, C.A.; Willemsen, G.; Cacioppo, J.T.; Boomsma, D.I. Familial Resemblance for Loneliness. Behav. Genet. 2010, 40, 480–494. [CrossRef] 53. Bhugra, D.; Jones, P. Migration and mental illness. Adv. Psychiatr. Treat. 2001, 7, 216–222. [CrossRef] 54. Rivera, B.; Casal, B.; Currais, L. The Healthy Immigrant Effect on Mental Health: Determinants and Implications for Mental Health Policy in Spain. Adm. Policy Ment. Health Lying Health Serv. Res. 2016, 43, 616–627. [CrossRef] 55. Amponsah, M.O.; Non, U.K. Non-UK university students stress levels and their coping strategies. Educ. Res. 2010, 1, 88–98. 56. Elgorriaga, E.; Ibabe, I.; Arnoso, A. Spanish migrants to European Union countries: Predictors of psychological adjustment/Españoles que emigran a países de la Unión Europea: Predictores de su ajuste psicológico. Int. J. Soc. Psychol. 2016, 31, 1–35. [CrossRef] 57. Erlinghagen, M. Nowhere Better Than Here? The Subjective Well-Being of German Emigrants and Remigrants. Comp. Popul. Stud. 2012, 36, 899–926. [CrossRef] 58. Handlos, L.N.; Olwig, K.F.; Bygbjerg, I.C.; Kristiansen, M.; Norredam, M.L. Return Migration among Elderly, Chronically Ill Bosnian Refugees: Does Health Matter? Int. J. Approx. Res. Public Health 2015, 12, 12643–12661. [CrossRef] [PubMed] 59. Razum, O.; Sahin-Hodoglugil, N.N.; Polit, K. Health, Wealth or Family Ties? Why Turkish Work Migrants Return from Germany. J. Ethn. Migr. Stud. 2005, 31, 719–739. [CrossRef] 60. Perry, M.J. The relationship between social class and mental disorder. J. Prim. Prev. 1996, 17, 17–30. [CrossRef] 61. Bossé, R.; Aldwin, C.M.; Levenson, M.R.; Ekerdt, D.J. Mental health differences among retirees and workers: Findings from the normative aging study. Psychol. Aging 1987, 2, 383–389. [CrossRef] 62. Eurostat. Euroindicators, News Release. 2017. Available online: http://ec.europa.eu/eurostat/documents/2995521/8357265/3- 31102017-CP-EN.pdf/cc23432e-f918-4f93-9fe7-0c03badb9792 (accessed on 18 February 2021). 63. Mínguez, A.M. Family and Gender Roles in Spain from a Comparative Perspective. Eur. Soc. 2010, 12, 85–111. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p15",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 15 of 15\n\n64. Verhaak, P.F.; Heijmans, M.J.; Peters, L.; Rijken, M. Chronic disease and mental disorder. Soc. Sci. Med. 2005, 60, 789–797. [CrossRef] 65. Ng, C.G.; Boks, M.P.; Smeets, H.M.; Zainal, N.Z.; De Wit, N.J. Prescription patterns for psychotropic drugs in cancer patients; a large population study in the Netherlands. Psycho Oncol. 2012, 22, 762–767. [CrossRef] 66. Martín-López, R.; Pérez-Farinós, N.; Hernández-Barrera, V.; Lopez-De-Andres, A.; Carrasco-Garrido, P.; Garcia, R.J. The association between excess weight and self-rated health and psychological distress in women in Spain. Public Health Nutr. 2011, 14, 1259–1265. [CrossRef] 67. Hong, S.M.; Hur, Y.-I. Relationship between obesity and depression in Korean adults. Medicine 2017, 96, e9478. [CrossRef] 68. Konttinen, H.; Van Strien, T.; Männistö, S.; Jousilahti, P.; Haukkala, A. Depression, emotional eating and long-term weight changes: A population-based prospective study. Int. J. Behav. Nutr. Phys. Act. 2019, 16, 1–11. [CrossRef] 69. Chauvet-Gelinier, J.-C.; Roussot, A.; Cottenet, J.; Brindisi, M.-C.; Petit, J.-M.; Bonin, B.; Vergès, B.; Quantin, C. Depression and obesity, data from a national administrative database study: Geographic evidence for an epidemiological overlap. PLoS ONE 2019, 14, e0210507. [CrossRef] 70. Gortmaker, S.L.; Must, A.; Perrin, J.M.; Sobol, A.M.; Dietz, W.H. Social and Economic Consequences of Overweight in Adolescence and Young Adulthood. N. Engl. J. Med. 1993, 329, 1008–1012. [CrossRef] 71. Ball, K.; Crawford, D.; Kenardy, J. Longitudinal Relationships Among Overweight, Life Satisfaction, and Aspirations in Young Women. Obes. Res. 2004, 12, 1019–1030. [CrossRef] [PubMed] 72. Cohen, S.; Gottlieb, B.H. Underwood LG. Social relationship and health. In Social Support Measurement and Intervention: A Guide for Health and Social Scientist; Oxford University Press: Oxford, UK, 2000; pp. 3–25. 73. Caron, J.; Guay, S. Social support and mental health: Concept, measures, recent research and implications for clinicians. Ment. Health Que. 2005, 30, 15–41. [CrossRef] 74. Boksa, P. Smoking, psychiatric illness and the brain. J. Psychiatry Neurosci. 2017, 42, 147–149. [CrossRef] 75. Álvarez, F.J.; Rio, M.C. Gender Differences in Patterns of Alcohol Consumption in Spain. Alcohol. Clin. Exp. Res. 1994, 18, 1342–1347. [CrossRef] [PubMed] 76. Payton, A.R. Mental Health, Mental Illness, and Psychological Distress: Same Continuum or Distinct Phenomena? J. Health Soc. Behav. 2009, 50, 213–227. [CrossRef] [PubMed] 77. Teplin, L.A. The prevalence of severe mental disorder among male urban jail detainees: Comparison with the Epidemiologic Catchment Area Program. Am. J. Public Health 1990, 80, 663–669. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p2",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 2 of 15\n\nanxiety and depression [1]. In particular, depression is ranked third in the global burden of disease and is projected to rank ﬁrst in 2030 [2]. The European Study of the Epidemiology of Mental Disorders (ESEMeD) is the widest European study published on mental health [3]. This study reveals the high prevalence of mental disorders in Europe, with up to 25.9% of Europeans having been diagnosed with a mental disorder at some point in their life [4]. Historically, Spain is one of the European countries with the lowest prevalence of major depressive episodes [5]. However, recent ﬁndings have shown an increased incidence of mental disorders and psychological distress in recent years in Spain [6–8]. As expected, psychotropic medication consumption has progressively increased in Spain, particularly among women [9–11]. However, it is important to note that different studies have suggested that mental disorders may not be the only factor or even the most important factor behind this increment [12,13]. Several works have reported a great difference between percentages of mental health diagnosis and psychotropic drug consumption [14]. This means that other clinical and nonclinical predisposing factors to psychotropic treatment should also be analyzed [11,14–16]. Interestingly, the European economic recession seems to have had a particular impact on mental healthcare, serving as a modulating and predisposing factor for mental disorders [17]. Several authors have highlighted the importance and utility of population health surveys for monitoring psychological morbidity and identifying potential associations between sociodemographic and/or health-related factors and psychiatric morbidity, allow-ing to identify groups at risk of developing mental illness [11,15,16,18,19]. The Spanish National Health Interview Survey (SNHIS) has been described as a useful instrument for the epidemiological investigation of common mental disorders such as self-reported depression and anxiety [19]. Interestingly, it can be also used to measure psychological distress based on the 12-Item General Health Questionnaire (GHQ-12) [20], which has been previously validated in Spanish and used on the general population and on populations with chronic diseases [21–23]. Using the SNHIS 2017, the aims of the present work were to (i) assess gender differences in the prevalence of self-reported mental disorders, psychological distress (GHQ-12 ≥3) and self-reported psychiatric medication consumption and to (ii) identify which sociodemographic and health-related variables are associated with reporting mental disorders, psychological distress (GHQ-12 ≥3) and consumption of psychotropic medications in the male and female populations.\n\n2. Materials and Methods 2.1. Study Design and Study Population\n\nThis is an epidemiological cross-sectional study. The data for our investigation were obtained from the SNHIS 2017. Details on the methodology of the SNHIS 2017 are described elsewhere [24,25]. The SNHIS 2017 was designed to provide reliable estimates, at both national and regional levels, of the population living in Spain aged 15 years or over and included a total of 23,089 participants. However, in accordance with considerations of psychotropic drug prescription, we selected individuals aged ≥18 years, resulting in a study population of 22,141 subjects. The information collection period was from October 2016 to October 2017. Brieﬂy, the SNHIS 2017 uses three-stage sampling, the ﬁrst stage being the census tracts, the second the main family dwellings and the last stage involving the random selection (Kish method) of an adult (aged ≥15 years old) within each household [24]. The method used to collect the information is computer-assisted personal interview.\n\n2.2. Study Variables\n\nThe variables included in the present study were selected based on questions related to the variables of sociodemographic characteristics health status and use of health services and to lifestyle behaviors. Details regarding the questions used to create our study variables can be found in Table S1 and in the SNHIS 2017 methodology description [24,25].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p3",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 3 of 15\n\n• Mental health status was measured using three dependent variables:\n\n1. The self-reported presence of a “mental disorder”, deﬁned as the person interviewed reporting suffering from depression and/or anxiety, with these conditions having been diagnosed by a medical professional; 2. The presence of “psychological distress”, assessed using the 12-item General Health Questionnaire 12 (GHQ-12). The Spanish version of the GHQ-12 has been validated, and a cutoff point of ≥3 is recommended to identify individuals with psychological distress [20–23]; 3. The variable “psychotropic drug consumption”, created using questions regarding the self-reported use of physician-prescribed medications in the last two weeks. We considered any of the following as psychiatric medications: “tran-quilizers (anxiolytics)”, “sedatives (anxiolytics)”, “sleeping pills (anxiolytics)” and “antidepressants”. • Independent variables included were classiﬁed into four types:\n\n(i) sociodemographic characteristics: “gender”, “age groups”, “nationality”, “marital status”, “educational level” and “social class”; (ii) health status variables: “self-rated health” and self-reported presence of medical-professional-diagnosed concomitant chronic diseases (“hypertension”, “heart diseases”, “arthrosis”, “stroke”, “diabetes mellitus”, “malignant tumors”, “respiratory diseases“, “chronic pain” and “accident permanent injuries”); (iii) use of healthcare services in the last year (“emergency services”, “hospital admission”, “visit to physiotherapist” and “visit to psychologist”); and (iv) lifestyle variables (“obesity”, “alcohol consumption”, “current smoking habit” and “physical inactivity). Detailed descriptions and categories for these variables are shown in Table S1.\n\n2.3. Statistical Analysis\n\nQualitative variables were expressed as frequencies and percentages. Comparisons were carried out using Chi-squared test. If the participant answered, “Don’t know” or “Don’t answer”, they were excluded from the analysis of that variable. Multivariable analy-ses were performed using logistic regression, generating three models, one model for each dependent study variable. The models included variables with a signiﬁcant association in the bivariate analysis or reported as relevant in the literature. Odds ratios (OR) with 95% conﬁdence intervals (CI) are provided as measures of association. We considered as possible confounders of the multivariate logistic regression analysis the following variables: age, nationality, marital status, education level and social class. Statistical analysis was performed using the software SPSS 25.0. A p value < 0.05 was considered statistically signiﬁcant (two tails).\n\n2.4. Ethical Aspects\n\nIn accordance with the Spanish legislation, as we used a public access dataset with anonymous data, the approval of an ethics committee is waived. The database can be freely downloaded by anyone from the Spanish Ministry of Health webpage [26].\n\n3. Results 3.1. Distribution of Characteristics of the Study Population\n\nThe study population included a total of 22,141 participants aged 18 years or over interviewed in the SNHIS 2017, which is considered a balanced population with respect to gender, with percentages of 48.6% and 51.4% for men (n = 10,751) and women (n = 11,390), respectively. As Figure 1 shows, crude prevalence of mental disorders (8.9% vs. 18.4%), psychological distress (14.2% vs. 22.2%) and psychotropic drug consumption (9.3% vs. 18.1%) was signiﬁcantly higher among women compared to men. These results indicate a 2.07-fold higher crude prevalence for mental disorders, 1.56-fold for psychological distress and 1.95-fold for psychotropic medication consumption among women compared to men.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p4",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 4 of 15\n\nFigure 1. Prevalence of variables of mental disorders, psychological distress and psychotropic drug consumption according to gender. * p value < 0.001 for the comparison between men and women.\n\n3.2. Prevalence of Mental Health Disorders, Psychiatric Distress and Psychotropic Drug Consumption According to Sociodemographic Variables. Comparison between Men and Women\n\nIn Table 1, the prevalence of mental disorder, psychological distress and psychotropic drug consumption is presented according to sociodemographic variables for each gender. Mental disorders, psychological distress and psychotropic drug consumption were signiﬁcantly associated with the sociodemographic variables of age, nationality, marital status, education level and social class in the total population.\n\nTable 1. Prevalence of mental disorders, psychologic distress and psychiatric drug consumption among men and women according to sociodemographic variables. Results from the Spanish National Health Interview Survey 2017.\n\nMental Disorders Psychological Distress Psychotropic Drug Consumption\n\nVariables Men Women p Value Men Women p Value Men Women p Value n (%) n (%) n (%) n (%) n (%) n (%)\n\nAge (years) a,b,c\n\n18–37 154 (5.4) 254 (9.1) <0.001 314 (11.1) 482 (17.5) <0.001 107 (3.8) 131 (4.7) 0.098\n\n38–49 232 (7.9) 416 (14.2) <0.001 405 (14.0) 570 (19.6) <0.001 220 (7.5) 319 (10.9) <0.001\n\n50–67 351 (11.1) 735 (22.6) <0.001 488 (15.6) 754 (23.4) <0.001 352 (11.2) 706 (21.7) <0.001\n\n>67 221 (12.0) 692 (28.6) <0.001 308 (17.2) 686 (29.2) <0.001 325 (17.7) 908 (37.5) <0.001\n\nNationality a,b,c\n\nSpanish 911 (9.6) 1932 (19.7) <0.001 1392 (14.9) 2188 (22.6) <0.001 948 (10.0) 1925 (19.6) <0.001\n\nOther 47 (3.6) 165 (10.6) <0.001 123(9.2) 304 (19.8) <0.001 56 (4.3) 139 (8.9) <0.001\n\nMarital status a,b,c\n\nMarried 530 (7.6) 1117 (16.9) <0.001 900 (13.1) 1352 (20.6) <0.001 652 (9.4) 1127 (17.0) <0.001\n\nOthers 428 (11.2) 980 (20.6) <0.001 615 (16.3) 1140 (24.5) <0.001 352 (9.2) 937 (19.7) <0.001\n\nEducation level a,b,c\n\nPrimary 346 (13.9) 877 (28.9) <0.001 446 (18.3) 862 (29.1) <0.001 378 (15.2) 963 (31.7) <0.001\n\nSecondary 487 (7.9) 913 (16.1) <0.001 832 (13.5) 1177 (20.9) <0.001 483 (7.8) 798 (14.1) <0.001\n\nUniversity 95 (4.9) 216(8.9) <0.001 208 (10.7) 357 (14.8) <0.001 118 (6.1) 188(7.8) 0.032",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p5",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 5 of 15\n\nTable 1. Cont.\n\nMental Disorders Psychological Distress Psychotropic Drug Consumption\n\nVariables Men Women p Value Men Women p Value Men Women p Value n (%) n (%) n (%) n (%) n (%) n (%)\n\nSocial Class a,b,c\n\nUpper 117 (5.7) 238 (11.4) <0.001 227 (11.2) 300 (14.4) <0.001 145 (7.1) 230 (11.0) <0.001\n\nMiddle 313 (8.5) 622 (17.5) <0.001 494 (13.6) 735 (20.9) <0.001 336 (9.2) 635 (17.8) <0.001\n\nLow 516 (10.5) 1157 (21.3) <0.001 782 (16.1) 1382 (25.9) <0.001 513 (10.4) 1112 (20.5) <0.001\n\na Signiﬁcant association for mental disorders in the total population. b Signiﬁcant association for psychologic distress in the total population. c\n\nSigniﬁcant association for psychotropic drug consumption in the total population. p-Values represent comparison between the male and female population.\n\nThe highest prevalence of mental health disorders, psychiatric distress and psychotropic drug consumption was found in both genders for the categories of older than 67 years, not married, with primary studies and low social class. Being a woman was signiﬁcantly associated with a higher prevalence of suffering from mental health disorders, experiencing psychological distress and consuming psychiatric drugs than being a man, according to all categories of the sociodemographic variables included in the present study, with an exception made for the 18–37-year-old subgroup which did not reach signiﬁcant differences for psychotropic drug consumption (p = 0.098).\n\n3.3. Prevalence of Mental Health Disorders, Psychiatric Distress and Psychotropic Drug Consumption According to Health Status. Comparison between Men and Women\n\nTable 2 shows the distribution of mental health disorders, psychiatric distress and psychotropic drug consumption prevalence according to different health status variables, including self-rated health by gender. According to the chronic conditions analyzed, the highest prevalence of mental disorders was found in women who suffered from concomitant stroke (43.3%), heart diseases (38.9%) and malignant tumors (38.1%). Meanwhile, the highest prevalence of psychologic distress and psychotropic drug consumption was found among women who suffered from mental disorders (53.6% and 63.6%, respectively), stroke (45.3% and 46.2%, respectively) and heart diseases (42.6% and 41.1%, respectively). Being a woman was signiﬁcantly associated with a higher prevalence of suffering from mental health disorders, experiencing psychiatric distress and consuming psychiatric drugs according to all categories of health status variables included in the present study. The only exception was the value of mental disorder prevalence, which did not reach statistical signiﬁcance when a comparison was carried out among genders (p = 0.070).\n\n3.4. Prevalence of Mental Health Disorders, Psychiatric Distress and Psychotropic Drug Consumption According to Use of Healthcare Services and Lifestyle-Related Variables. Comparison between Men and Women\n\nAll variables related to the use of healthcare services and lifestyle analyzed in the present work were signiﬁcantly associated with mental health disorders, psychiatric distress and psychotropic drug consumption. As expected, it was found that women also showed a signiﬁcantly higher risk of developing mental health disorders, experiencing psychological distress and consuming psychotropic medication compared to men according to lifestyle variables. In terms of visits to a psychologist, no signiﬁcant differences were found in the prevalence of mental disorders, psychological distress or psychotropic medication consumption according to gender (Table 3).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p6",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 6 of 15\n\nTable 2. Mental disorders, psychologic distress and psychiatric drug consumption according to health status variables. Results from the Spanish National Health Interview Survey 2017.\n\nMental Disorders Psychological Distress Psychotropic Drug Consumption\n\nVariables Men Women p Value Men Women p Value Men Women p Value n (%) n (%) n (%) n (%) n (%) n (%)\n\nSelf-rated health a,b,c\n\nVery good, good 288 (3.6) 614 (8.2) <0.001 602 (7.6) 854 (11.5) <0.001 276 (3.5) 564 (7.6) <0.001\n\nFair, poor, very poor 670 (23.9) 1483 (37.8) <0.001 913 (33.3) 1637 (42.8) <0.001 728 (25.9) 1500 (38.2) <0.001\n\nHypertension a,b,c 335 (13.1) 798 (29.9) <0.001 484 (19.2) 821 (31.4) <0.001 405 (15.9) 927 (34.8) <0.001\n\nHeart diseases a,b,c 159 (15.9) 326 (38.9) <0.001 233 (23.8) 346 (42.6) <0.001 216 (21.6) 344 (41.1) <0.001\n\nArthrosis a,b,c 261 (19.0) 1010 (34.7) <0.001 356 (26.4) 1016 (35.6) <0.001 309 (22.5) 1142 (39.2) <0.001\n\nPermanent injuries a,b,c 159 (18.2) 219 (37.4) <0.001 238 (27.8) 243 (42.5) <0.001 147 (16.8) 193 (32.9) <0.001\n\nStroke a,b,c 63 (27.9) 74 (43.3) <0.001 74 (35.1) 72 (45.3) 0.040 81 (35.8) 79 (46.2) 0.040\n\nDiabetes mellitus a,b 145 (14.7) 300 (33.7) <0.001 219 (22.6) 327 (37.8) <0.001 180 (18.3) 348 (39.0) 0.040\n\nMalignant Tumors a,b,c 68 (17.4) 228 (38.1) <.001 112 (29.5) 217 (37.5) 0.010 87 (22.3) 226 (37.7) <0.001\n\nRespiratory diseases a,b,c 156 (16.7) 308 (29.1) <0.001 239 (26.0) 358 (34.5) <0.001 166 (12.7) 309 (29.2) <0.001\n\nChronic pain a,b,c 466 (18.1) 1413 (31.1) <0.001 665 (26.0) 1521 (33.9) <0.001 508 (19.7) 1375 (30.2) <0.001\n\nMental disorders b,c 958 (100) 2097 (100) NA 505 (55.3) 1081 (53.6) <0.001 578 (60.3) 1334 (63.6) 0.070\n\nPsychological distress a,c 505 (33.3) 1081 (43.4) <0.001 1515 (100) 2492 (100) NA 476 (31.4) 1028 (41.3) <0.001\n\na Signiﬁcant association for mental disorders in the total population. b Signiﬁcant association for psychologic distress in the total population. c\n\nSigniﬁcant association for psychotropic drug consumption in the total population. p-Values represent comparison between the male and female population.\n\nTable 3. Mental disorders, psychologic distress and psychiatric drug consumption according to use of healthcare services and lifestyle-related variables. Results from the Spanish National Health Interview Survey 2017.\n\nMental Disorders Psychological Distress Psychotropic Drug Consumption\n\nVariables Men Women p Value Men Women p Value Men Women p Value n (%) n (%) n (%) n (%) n (%) n (%)\n\nEmergency services a,b,c 381 (12.8) 956 (26.2) <0.001 650 (22.3) 1147 (32.1) <0.001 455 (15.3) 981 (26.9) <0.001\n\nHospital admission a,b,c 137 (15.8) 289 (31.2) <0.001 260 (31.1) 366 (40.6) <0.001 197 (22.8) 346 (37.2) <0.001\n\nVisit to physiotherapist a,b,c 168 (10.0) 450 (21.2) <0.001 296 (17.7) 518 (24.6) <0.001 210 (12.4) 405 (19.1) <0.001\n\nVisit to psychologist a,b,c 301 (70.3) 507 (69.5) 0.750 238 (58.0) 404 (57.0) 0.720 273 (63.9) 443 (60.6) 0.260\n\nPsychotropic drug use a,b 578 (57.7) 1334 (64.7) <0.001 476 (49.1) 1028 (51.6) 0.210 1004 (100) 2064 (100) NA\n\nObesity a,b,c 208 (10.9) 508 (28.0) <0.001 312 (16.5) 515 (28.9) <0.001 208 (32.2) 475 (53.8) <0.001\n\nAlcohol consumption a,b,c 581 (7.0) 937 (14.6) <0.001 1065 (12.8) 1195 (18.7) <0.001 618 (7.4) 872 (13.6) <0.001\n\nSmoking habit a,b,c 344 (11.0) 480 (19.8) <0.001 513 (16.6) 559 (23.1) <0.001 300 (9.6) 386 (15.9) <0.001\n\nPhysical inactivity a,b,c 511 (7.2) 993 (15.1) <0.001 744 (20.5) 1348 (28.7) <0.001 549 (7.8) 923 (14.0) <0.001\n\na Signiﬁcant association for mental disorders in the total population. b Signiﬁcant association for psychologic distress in the total population. c Signiﬁcant association for psychotropic drug consumption in the total population. p-Values represent comparison between the male and female population.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p7",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 7 of 15\n\n3.5. Variables Associated to Mental Health Disorders, Psychiatric Distress and Psychotropic Drug Consumption after Multivariable Analysis\n\nTable 4 shows the multivariable logistic regression adjusted ORs, identifying the potential predictors for mental health disorders, psychiatric distress and psychotropic drug consumption in the total study population.\n\nTable 4. Variables independently and signiﬁcantly associated with mental disorders, psychologic distress and psychiatric drug consumption. Results from the Spanish National Health Interview Survey 2017.\n\nVariables Categories Mental Disorders Psychological Distress Psychotropic Drug Consumption\n\nOR (CI 95%) p Value OR (CI 95%) p Value OR (CI 95%) p Value\n\nGender Male 1 1 1\n\nFemale 1.74 (1.54–1.96) <0.001 1.26 (1.15–1.37) <0.001 1.29 (1.15–1.45) <0.001\n\n18–37 1 1 1\n\nAge (years)\n\n38–49 1.25 (1.05–1.50) 0.013 0.97 (0.86–1.10) 0.670 2.31 (1.87–2.85) <0.001\n\n50–67 1.41 (1.17–1.70) <0.001 0.78 (0.68–0.89) <0.001 3.61 (2.92–4.46) <0.001\n\n>67 0.87 (0.69–1.10) 0.247 0.57 (0.48–0.68) <0.001 6.13 (4.79–7.83) <0.001\n\nNationality Spanish 1 1 1\n\nOther 0.67 (0.55–0.82) <0.001 0.96 (0.84–1.09) 0.514 0.77 (0.62–0.95) 0.013\n\nMarital status Married 1 1 1\n\nOther 1.40 (1.25–1.58) <0.001 1.25 (1.14–1.36) <0.001 1.06 (0.94–1.19) 0.325\n\nUniversity 1 1 1\n\nLevel of education\n\nSecondary 1.29 (1.07–1.56) <0.001 0.88 (0.75–1.04) 0.126 1.24 (0.99–1.53) 0.051\n\nPrimary 1.60 (1.31–2.02) 0.007 0.93 (0.82–1.06) 0.273 1.23 (1.02–1.48) 0.029\n\nUpper 1 1 1\n\nSocial class\n\nMiddle 1.01 (0.84–1.22) 0.882 1.12 (0.97–1.27) 0.139 1.03 (0.86–1.23) 0.749\n\nLow 1.10 (0.91–1.33) 0.331 1.21 (1.06–1.39) 0.006 0.93 (0.77–1.12) 0.429\n\nSelf-rated health Good 1 1 1\n\nPoor 2.17 (1.91–1.33) <0.001 2.92 (2.64–3.22) <0.001 1.87 (1.64–2.12) <0.001\n\nEmergency services Yes 0.95 (0.84–1.07) 0.399 1.31 (1.20–1.44) <0.001 1.46 (1.30–1.65) <0.001\n\nHospital admission Yes 0.64 (0.53–0.77) <0.001 1.26 (1.10–1.45) 0.001 1.29 (1.09–1.52) 0.003\n\nPhysiotherapist visit Yes 0.91 (0.79–1.05) 0.219 0.98 (0.88–1.09) 0.707 1.08 (0.94–1.24) 0.294\n\nPsychologist visit Yes 7.50 (6.21–9.06) <0.001 1.98 (1.68–2.32) <0.001 5.10 (4.21–6.17) <0.001\n\nHypertension Yes 1.02 (0.88–1.16) 0.826 1.05 (0.94–1.17) 0.402 1.24 (1.09–1.41) 0.001\n\nHeart diseases Yes 1.13 (0.94–1.35) 0.185 1.22 (1.05–1.40) 0.007 1.07 (0.91–1.26) 0.411\n\nArthrosis Yes 1.09 (0.94–1.26) 0.252 1.11 (0.99–1.25) 0.073 1.39 (1.22–1.59) 0.000\n\nPermanent injuries Yes 1.33 (1.10–1.61) 0.003 1.63 (1.42–1.88) <0.001 0.87 (0.72–1.06) 0.166\n\nStroke Yes 1.49 (1.06–2.09) 0.021 1.45 (1.11–1.91) 0.007 1.39 (1.02–1.89) 0.036\n\nDiabetes mellitus Yes 0.98 (0.82–1.18) 0.873 1.15 (1.00–1.33) 0.056 0.95 (0.80–1.12) 0.533",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p8",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 8 of 15\n\nTable 4. Cont.\n\nVariables Categories Mental Disorders Psychological Distress Psychotropic Drug Consumption\n\nOR (CI 95%) p Value OR (CI 95%) p Value OR (CI 95%) p Value\n\nMalignant tumors Yes 1.28 (1.03–1.58) 0.025 1.31 (1.10–1.56) 0.002 1.04 (0.85–1.28) 0.690\n\nRespiratory diseases Yes 1.03 (0.87–1.22) 0.732 1.26 (1.10–1.43) <0.001 1.05 (0.90–1.24) 0.578\n\nChronic pain Yes 1.72 (1.52–1.95) <0.001 1.43 (1.30–1.57) <0.001 1.42 (1.26–1.60) <0.001\n\nObesity Yes 1.23 (1.07–1.41) 0.004 0.93 (0.83–1.03 0.176 0.88 (0.76–1.00) 0.062\n\nAlcohol consumption Yes 0.85 (0.75–0.95) 0.007 0.93 (0.85–1.02) 0.126 0.87 (0.77–0.97) 0.017\n\nSmoking habit Yes 1.47 (1.29–1.68) <0.001 1.13 (1.02–1.24) 0.017 1.17 (1.02–1.34) 0.021\n\nPhysical activity Yes 0.99 (0.89–1.12) 0.959 0.68 (0.62–0.73) <0.001 0.93 (0.83–1.04) 0.196\n\nPsychotropic drugs Yes 10.35 (9.15–11.69) <0.001 1.77 (1.57–2.00) <0.001 -\n\nPsychological distress Yes 2.80 (2.48–3.15) <0.001 - 1.81 (1.59–2.04) <0.001\n\nMental disorders Yes - 2.72 (2.41–3.06) <0.001 10.46 (9.26–11.82) <0.001\n\nCategories “yes” were compared to “no” (reference categories, not shown) for each variable. CI: conﬁdence interval.\n\nAfter adjusting for possible confounders, women had a 1.74 (95% CI 1.54–1.96) fold probability of reporting mental disorders, 1.26 (95% CI 1.15–1.37) fold of reporting psychological distress and 1.26 (95% CI 1.15–1.45) fold of reporting psychotropic drug consumption compared to men (all p < 0.001). Results revealed that in addition to being a woman, being aged 37–67 years; not being married; having a medium–low education level (secondary and primary studies); having poor self-rated health; visiting a psychologist; suffering from a chronic disease, such as stroke, malignant tumors, chronic pain and psychologic distress, or having permanent injuries caused by an accident; and having unhealthy lifestyles, including obesity, psychotropic drug consumption or a smoking habit were identiﬁed as risk factors for reporting mental disorders. On the other hand, being an immigrant and consuming alcohol were found to be protective factors against mental disorders among residents in Spain. Our results also showed that positive predictors for psychological distress included not being married; coming from a low social class; having poor self-rated health; using emergency and psychological services or being admitted to hospital; suffering from a chronic disease, such as heart disease, stroke, diabetes mellitus, malignant tumors, respiratory diseases and chronic pain, or having permanent injuries caused by an accident; suffering from mental disorders; and having an unhealthy lifestyle, including a smoking habit and psychotropic drug consumption. By contrast, being older than 50 years and engaging in physical activity were described as negative predictors for psychological distress. As Table 4 shows, positive predictors for psychotropic drug consumption were an age older than 37 years; not being married; low educational levels (primary and secondary studies); poor self-rated health; use of emergency and psychologic services and hospital admission; several chronic diseases, including hypertension, arthrosis, chronic pain, psychologic distress and mental disorders; and a smoking habit. Being an immigrant and consuming alcohol were found to be negative predictors for psychotropic drug consumption. Table S2 shows the speciﬁc variables associated with the three study variables among men and women after multivariable analysis. Interestingly, there are several independent variables that have a different effect on mental health status and psychotropic drug consumption according to gender. Chronic diseases such as heart disease, stroke, permanent injuries and obesity were only identiﬁed as positive predictors for mental disorder among",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph18126350",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_sha256": "f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81",
+          "source_url": "https://doi.org/10.3390/ijerph18126350"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81:p9",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2021, 18, 6350 9 of 15\n\nwomen. In addition, the variables of low social class and several chronic diseases (heart disease, arthrosis, malignant tumors and respiratory diseases) also showed differential effects on psychological distress risk according to gender. On the other hand, a nationality other than Spanish, primary level of education, several chronic diseases and alcohol consumption also seem to exert a different effect on psychotropic drug consumption between men and women.\n\n4. Discussion\n\nIn the present study, the prevalence of mental disorder, psychologic stress and psychotropic treatment according to different sociodemographic, health- related and lifestyle variables was analyzed in a large and representative sample of the resident population in Spain based on data from the SNHIS 2017. Results emphasized the increased prevalence of mental disorders, psychological distress and psychotropic medication in women compared to men. In addition, sociodemographic, health status and lifestyle variables were identiﬁed as potential predictors for mental health status and psychotropic treatment. According to the Institute for Health Metrics and Evaluation (IHME 2018), 17.3% of people across EU countries had a mental health problem in 2016, with an estimated prevalence of 18.3% for Spain [8]. This estimation is similar to results obtained in the present study, where percentages of mental disorder and psychological distress prevalence reached up to 13.8% and 18.3%, respectively. What is remarkable is that this prevalence is lower than the values of 15.4% for mental disorder and 22.1% for psychologic distress obtained in Spain using the previous SNHIS 2011–2012 [27]. At the European level, the highest prevalence of mental health disorders is located in Finland, the Netherlands, France and Ireland, with rates of 18.5% or more, while Romania, Bulgaria and Poland showed the lowest prevalence, with rates of less than 15% of the population. Therefore, according to SNHIS2017 data, Spain would be ranked among the European countries with the lowest prevalence of mental disorders [8]. These marked differences among European countries may be due to the fact that people living in countries with greater awareness and less stigma associated with mental illness, as well as easier access to mental health services, may be diagnosed more easily or may be more likely to self-report mental ill health. However, there are countries where mental disorders are still strongly stigmatized, and it is thought that it is better to simply avoid talking about mental illness [28]. Our results also showed a decreased prevalence of prescription of psychotropic drugs compared to those reported in previous studies using the SNHIS 2011–2012 (SNHIS2017: 13.9% vs. SNHIS2011-2012: 15.6%) [11]. This descending trend across time has also been observed in other studies conducted in Spain with other methodological designs [29,30]. It contrasts results obtained from several countries such as Norway, the USA or Canada, where an increased prescription of psychotropic drugs was reported during the last decade [31–35]. The decreased prevalence of prescription of psychotropic drugs observed in the present study may be explained, at least in part, by the particularly adverse economic crisis that affected Spain starting in 2008 [36], which only began to recede in 2015 [37], just before data recruitment started for the present study. In different countries, the adverse effects of economic recession on mental health have been described, and how mental health status has improved after the economic crisis receded [29,38–40]. Our results also revealed that crude and adjusted prevalence of mental disorders, psychological distress and psychotropic medication consumption were higher among women than among men. In accordance with our results, there is a large body of scientiﬁc evidence supporting the occurrence of poorer mental status health and increased psychotropic medication consumption among women compared to men [7,27,30,41–43]. Possible explanations for these results may be related to differences in emotional processing and coping skills, willingness to report diseases or structural inequalities and even intrinsic biological factors such as hormone mechanisms [29]. In addition, despite great changes in female gender roles in recent decades, traditional gender roles that entail housework, childbearing, gender discrimination and gender-based violence promote exposure to stressors that can lead to psychological distress among women [29].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:f7e439e433bc4ef1524dcccb6daea1f29166ea92e807cfe53d494379b49dbc81"
+}

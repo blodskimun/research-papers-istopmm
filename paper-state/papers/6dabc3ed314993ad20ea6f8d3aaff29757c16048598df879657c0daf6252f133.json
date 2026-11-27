@@ -1,0 +1,268 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T17:33:29.647081+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "SARS-CoV-2 infection induces psoriatic arthritis flares and enthesis resident plasmacytoid dendritic cell type-1 interferon inhibition by JAK antagonism offer novel spondyloarthritis pathogenesis insights",
+        "year": null
+      },
+      "doi": "10.3389/fimmu.2021.635018",
+      "format": "pdf",
+      "id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+      "url": "https://doi.org/10.3389/fimmu.2021.635018"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fimmu.2021.635018",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_sha256": "13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_url": "https://doi.org/10.3389/fimmu.2021.635018"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8:p1",
+        "source_issue_ids": [],
+        "text": "ORIGINAL RESEARCH published: 15 April 2021 doi: 10.3389/fimmu.2021.635018\n\nEdited by: James Cheng-Chung Wei, Chung Shan Medical University Hospital, Taiwan\n\nReviewed by: David Yu, University of California, Los Angeles, United States Francesca Romana Spinelli, Sapienza University of Rome, Italy\n\n*Correspondence: Dennis McGonagle d.g.mcgonagle@leeds.ac.uk\n\nSpecialty section: This article was submitted to Inﬂammation, a section of the journal Frontiers in Immunology\n\nReceived: 29 November 2020 Accepted: 08 March 2021 Published: 15 April 2021\n\nCitation: Zhou Q, Vadakekolathu J, Watad A, Sharif K, Russell T, Rowe H, Khan A, Millner PA, Loughenbury P, Rao A, Dunsmuir R,\n\nTimothy J, Damiani G, Pigatto PDM, Malagoli P, BanﬁG, El-Sherbiny YM,\n\nBridgewood C and McGonagle D (2021) SARS-CoV-2 Infection Induces Psoriatic Arthritis Flares and Enthesis Resident Plasmacytoid Dendritic Cell Type-1 Interferon Inhibition by JAK Antagonism Offer Novel Spondyloarthritis Pathogenesis Insights. Front. Immunol. 12:635018. doi: 10.3389/fimmu.2021.635018\n\nSARS-CoV-2 Infection Induces Psoriatic Arthritis Flares and Enthesis Resident Plasmacytoid Dendritic Cell Type-1 Interferon Inhibition by JAK Antagonism Offer Novel Spondyloarthritis Pathogenesis Insights\n\nQiao Zhou 1,2,3, Jayakumar Vadakekolathu 4, Abdulla Watad 3, Kassem Sharif 3, Tobias Russell 3, Hannah Rowe 3, Almas Khan 5, Peter A. Millner 5, Peter Loughenbury 5, Abhay Rao 5, Robert Dunsmuir 5, Jake Timothy 6, Giovanni Damiani 7,8, Paolo D. M. Pigatto 7,8, Piergiorgio Malagoli 9, Giuseppe Banﬁ10, Yasser M. El-Sherbiny 4, Charlie Bridgewood 3 and Dennis McGonagle 3,11*\n\n1 Department of Rheumatology and Immunology, Sichuan Provincial People’s Hospital, University of Electronic Science and Technology of China, Chengdu, China, 2 Chinese Academy of Sciences Sichuan Translational Medicine Research Hospital, Chengdu, China, 3 Leeds Institute of Rheumatic and Musculoskeletal Medicine (LIRMM), University of Leeds, Leeds, United Kingdom, 4 Department of Biosciences, School of Science and Technology, Nottingham Trent University, Nottingham, United Kingdom, 5 Leeds Teaching Hospitals NHS Trust, Leeds, United Kingdom, 6 Department of Neurosurgery, Leeds Centre for Neurosciences, Leeds General Inﬁrmary, Leeds, United Kingdom, 7 Clinical Dermatology, IRCCS Istituto Ortopedico Galeazzi, Milan, Italy, 8 Department of Biomedical, Surgical and Dental Sciences, University of Milan, Milan, Italy, 9 Dermatology Unit, Azienda Ospedaliera San Donato Milanese, Milan, Italy, 10 School of Medicine, Universita´ Vita-Salute San Raffaele, Milan, Italy,\n\n11 National Institute for Health Research (NIHR) Leeds Biomedical Research Centre (BRC), Leeds Teaching Hospitals, Leeds, United Kingdom\n\nObjective: Bacterial and viral infectious triggers are linked to spondyloarthritis (SpA) including psoriatic arthritis (PsA) development, likely via dendritic cell activation. We investigated spinal entheseal plasmacytoid dendritic cells (pDCs) toll-like receptor (TLR)- 7 and 9 activation and therapeutic modulation, including JAK inhibition. We also investigated if COVID-19 infection, a potent TLR-7 stimulator triggered PsA ﬂares.\n\nMethods: Normal entheseal pDCs were characterized and stimulated with imiquimod and CpG oligodeoxynucleotides (ODN) to evaluate TNF and IFNa production. NanoString gene expression assay of total pDCs RNA was performed pre- and post- ODN stimulation. Pharmacological inhibition of induced IFNa protein was performed with Tofacitinib and PDE4 inhibition. The impact of SARS-CoV2 viral infection on PsA ﬂares was evaluated.\n\nResults: CD45+HLA-DR+CD123+CD303+CD11c- entheseal pDCs were more numerous than blood pDCs (1.9 ± 0.8% vs 0.2 ± 0.07% of CD45+ cells, p=0.008) and showed inducible IFNa and TNF protein following ODN/imiquimod stimulation and were the sole entheseal IFNa producers. NanoString data identiﬁed 11 signiﬁcantly upregulated differentially expressed genes (DEGs) including TNF in stimulated pDCs. Canonical\n\nFrontiers in Immunology | www.frontiersin.org April 2021 | Volume 12 | Article 635018 1",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fimmu.2021.635018",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_sha256": "13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_url": "https://doi.org/10.3389/fimmu.2021.635018"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8:p2",
+        "source_issue_ids": [],
+        "text": "Zhou et al. Plasmacytoid Dendritic Cells in PsA\n\npathway analysis revealed activation of dendritic cell maturation, NF-kB signaling, toll-like receptor signaling and JAK/STAT signaling pathways following ODN stimulation. Both tofacitinib and PDE4i strongly attenuated ODN induced IFNa. DAPSA scores elevations occurred in 18 PsA cases with SARS-CoV2 infection (9.7 ± 4 pre-infection and 35.3 ± 7.5 during infection).\n\nConclusion: Entheseal pDCs link microbes to TNF/IFNa production. SARS-CoV-2 infection is associated with PsA Flares and JAK inhibition suppressed activated entheseal plasmacytoid dendritic Type-1 interferon responses as pointers towards a novel mechanism of PsA and SpA-related arthropathy.\n\nKeywords: plasmacytoid dendritic cells, interferon alpha, psoriatic arthritis, COVID-19, enthesis\n\nINTRODUCTION\n\nEntheses are locations where tendons or ligaments attach to the bone and inﬂammation of the enthesis (enthesitis) is an important and frequent manifestation of inﬂammatory musculoskeletal disease, especially the Spondyloarthritis (SpA) group of diseases, which includes ankylosing spondylitis (AS) and psoriatic arthritis (PsA) (1–3). Plasmacytoid dendritic cells (pDCs), are a rare immune cell subset that was ﬁrst functionally characterized in the late 1990s (4) that upon toll-like receptor (TLR)-7 and TLR-9 stimulation, which recognize RNA and DNA respectively, are known to secrete type-I interferons (IFN) and other inﬂammatory cytokines such as TNF (5, 6). Moreover, pDCs have been implicated in psoriasis immunopathology whereby cutaneous pDCs orchestrate disease development through IFNa induction culminating in psoriasis development (4, 7, 8). Bacterial or viral infection or vaccinations have been linked to PsA and SpA like disease (7, 9, 10). The IL-17 axis and TNF cytokine pathways are central to the pathogenesis of PsA and SpA, but the emerging JAK inhibition in PsA and AS do not directly impact on the TNF/IL-17 pathways (11). However, the JAK-STAT pathway is a critical regulator of pDC cytokine production, including TNF and interferon. Nevertheless, direct evidence for this pathway as a potential human SpA initiator is lacking. During the global COVID-19 virus pandemic, arthralgia has been reported, raising the possibility of a poorly deﬁned entheseal mechanism (12, 13). We previously found evidence for a population of entheseal resident pDCs by phenotypic criteria (14). Herein, we investigated immune responses of entheseal pDCs following TLR7 and TLR9 stimulation and the potential modulation of this response by emergent SpA therapeutics and also whether the SARS-CoV-2 RNA virus, with potent TLR7 agonist properties was associated with PsA disease ﬂares.\n\nMATERIALS AND METHODS\n\nEnthesis Samples Normal interspinous process was obtained from 54 patients (20 men and 34 women; age 53.6 ± 23.2 years) who were undergoing\n\nspinal decompression or corrective scoliosis surgery. Peripheral blood was also collected from these patients and healthy volunteers (n=5). The enthesis was subsequently separated into peri-entheseal bone (PEB) and the entheseal soft tissue (EST). PEB was chosen for the following experiments because cells were more numerous in PEB than in ST. Mononuclear cells were isolated from PEB by mechanical digestion, as previously indicated (14, 15). The study protocol of the current investigation was approved by North West-Greater Manchester West Research Ethics Committee.\n\nPhenotyping of Entheseal pDC and Intracellular Measurement of TNF Following ODN or Imiquimod Stimulation Following digestion, 5×106 PEB cells were incubated in RPMI (Sigma-Aldrich) containing 10% FBS (Gibco) and 1% p/s (Penicillin-Streptomycin). Cells were stimulated with CpG oligodeoxynucleotides (ODN 2216, InvivoGen, 20 mg/mL) or imiquimod (30 mM, Cayman Chemical) for 2 hr. Cells were subsequently incubated for 12 hr in the presence of Golgi Plug (BD Biosciences). Following this, cells were blocked in 10% mouse serum and 1% human IgG buffer prior to incubation with antibodies. Cells were then stained extra and intracellularly using the Intraprep staining kit (Beckman Coulter) according to the manufacturer’s protocol. Cells were stained using anti-CD45, CD3, CD14, CD19, CD56, CD11c, HLA-DR, CD123, CD303 and TNF (additional details on the antibodies and processes used available upon request from the corresponding author). Cells were analyzed using LSRII (BD Biosciences) and FlowJo software (Tree Star Software).\n\nIsolation of pDC and Tomographic Microscopy Following digestion, pDCs were selected using CD304 (BDCA-4)- Biotin (Miotenyl Biotec, 2 ml per 10×10^6 cells) using LS columns (Miotenyl Biotec) according to the manufacturer’s protocol. Cells were subsequently separated into pDCs and non-pDCs. Isolated entheseal pDCs were seeded into 35-mm tissue culture dish at 15,000 cells/dish. The dish was then placed on a holotomographic microscope (3D Explorer, NanoLive, Lausanne, Switzerland) equipped with a 60X objective, and images were taken at ×600 magniﬁcation.\n\nFrontiers in Immunology | www.frontiersin.org April 2021 | Volume 12 | Article 635018 2",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fimmu.2021.635018",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_sha256": "13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_url": "https://doi.org/10.3389/fimmu.2021.635018"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8:p3",
+        "source_issue_ids": [],
+        "text": "Zhou et al. Plasmacytoid Dendritic Cells in PsA\n\nStimulation of pDCs and Quantiﬁcation of IFNa by ODN Due to sample size variance and resultant cell yields, different pDC numbers were isolated and seeded per experiment (between 12000 and 50000 per well) with IFNa secretion being expressed as pg/cell. During method optimization we noted that ODN was a much more potent inducer of entheseal pDC IFNa production than imiquimod (Supplementary Figure1B). Consequently, further in vitro studies were carried out on ODN stimulated cells whereby cells were stimulated with 20 mg/ml ODN for 24 hrs. Following this, supernatant was harvested. IFNa (all isoforms) were measured using ELISA (PBL Assay Science). The cells were harvested and RNA was isolated using PicoPure RNA isolation kit (ThermoFisher) and complementary DNA was synthesized using a high-capacity reverse transcription kit (ThermoFisher). Quantitative real-time polymerase chain reaction (PCR) with an ABI 7500 thermocycler (Applied Biosystems) was performed to measure IFNa gene expression using Taqman gene expression assay and universal Taqman master mix (both Thermoﬁsher). Expression levels of target gene were calculated relative to expression of the housekeeping gene HPRT1.\n\nAntagonism of IFNa Secretion After digestion, 1×105 cells/ml entheseal cells were seeded into 96-well plate. Cells were stimulated with ODN as before, with and without tofacitinib 1 mM (Pﬁzer), PDE4i/Rolipram 100µM (Cayman Chemical) or Methotrexate 5 mg/ml (Cayman Chemical) for 24 hr. DMSO 0.1% served as a solvent control. IFNa was quantiﬁed by ELISA as before.\n\nNanostring Analysis of Entheseal and Blood pDCs Upon ODN Stimulation Post ODN stimulation, RNA was extracted from enriched entheseal pDCs and matched blood cells as described above (each n=5). Immune related gene expression was assessed using a predesigned human autoimmune proﬁling panel established by Nanostring consisting of 770 immune related (genes involved in autoimmune, chronic inﬂammatory, and aberrant immune response diseases) and 20 housekeeping genes. All RNA samples were quality controlled using Nanodrop 8000. 100ng of total RNA from each sample was used for setting up the NanoString probe PCR hybridization (24 hrs) at 65°C. Following hybridization, excess probes were removed using nCounter Prep Station and magnetic beads, hybridized mRNA/probe were immobilized on a streptavidin-coated cartridge. The processed cartridges were scanned using an nCounter digital analyzer platform (nCounter® FLEX Analysis System) for generation of the raw data with a high-resolution scan (555 fov). Raw data were processed with nSolver Analysis Software (V.4.0), imaging quality control (QC), mRNA positive control QC and normalization QC checked, and all the samples were within the quality parameters of NanoString gene expression assays. Differential gene expression analysis was performed using nSolver advance analysis module V. 2.0.\n\nBioinformatics Analysis Nanostring data was analyzed using nSolver 4.0 and plot using Graphpad 8.0. Log2|fold change| >1 and Benjamini-Yekutieli p-value (FDR) <0.05 were considered statistically signiﬁcant. Protein-protein interaction (PPI) network was analyzed using online STRING database (https://string-db.org/). Pathways mapping was generated by ingenuity pathway analysis (IPA, QIAGEN Inc.) (16). IPA was used to predicted possible upstream regulators of the proteins in this study, which were assigned as inhibited or activated according to Z-score, a statistical result of differential gene expression according to the fold changes (17). Enrichment is determined by signiﬁcance overlap of genes known to be in this pathway according to the knowledge base and genes that are regulated in the dataset. Signiﬁcance is measured by Fisher exact test by p-value.\n\nAssessment of Disease Flares in PsA Post COVID-19 Infection SARS-CoV2 virus is a single-stranded RNA virus that stimulates TLR7 pathways. To provide further support for the potential relevance of viral infection in SpA related disease, 18 PsA patients (Classiﬁcation Criteria for Psoriatic Arthritis (CASPAR) score ≥3) with a conﬁrmed COVID-19 diagnosis by nasopharyngeal PCR were evaluated for PsA disease ﬂare between February and April 2020. The disease activity in psoriatic arthritis (DAPSA) scores including swollen and tender joints count, were collected at three times points: T0- last most recent measurement before infection; T1-during infection, whilst the patient was stable; T2-post infection, following 2 negative nasopharyngeal specimen tests. Patient demographic is reported in Table 1 (Supplementary Material).\n\nStatistical Analysis Statistical signiﬁcance was calculated using 2-tailed paired t-test unless stated. The analysis was performed using Prism software (GraphPad Software8.0). Error bars represent the standard error of the mean (SEM). p<0.05 was considered statistically signiﬁcant.\n\nRESULTS\n\nHuman Entheseal pDCs Secrete TNF and IFNa After ODN Stimulation Following entheseal digestion, pDCs were conﬁrmed in PEB by ﬂow cytometry by a CD45+HLA-DR+CD123+CD303+CD11c-Lin- phenotype (Figure 1A) and morphology is shown in Supplementary Figure 1A. Flow cytometry showed that pDCs were more numerous in PEB than in peripheral blood (1.86 ± 0.77% vs 0.21 ± 0.07% among CD45+ cells, n=5, p=0.008, Figure 1B). Entheseal cells stimulated with ODN showed upregulation of intracellular TNF (Figure 1A). TNF was also induced following imiquimod stimulation as determined by intracellular ﬂow cytometry (n=4, Figure 1C). Following isolation of both entheseal pDCs and non-pDCs and subsequent ODN stimulation, basal IFNa transcripts were detectable in unstimulated pDC (relative expression 1.552 ±\n\nFrontiers in Immunology | www.frontiersin.org April 2021 | Volume 12 | Article 635018 3",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fimmu.2021.635018",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_sha256": "13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_url": "https://doi.org/10.3389/fimmu.2021.635018"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8:p4",
+        "source_issue_ids": [],
+        "text": "Zhou et al. Plasmacytoid Dendritic Cells in PsA\n\nTABLE 1 | Basic demographic information for PsA patients.\n\nGender Age (years) BMI (kg/m2) PsA duration in years Current treatment COVID treatment Time between COVID infection and ﬂare (days)\n\nM 65 28 8 Ustekinumab Oxygen, Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 800mg/die, Prednisone 25 mg 13\n\nM 53 29 11 Secukinumab Amoxicillin 1000mg twice per day, Paracetamol 1000mg, Oxygen, Lopinavir-ritonavir 400mg twice 19\n\nF 48 31 16 Secukinumab Oxygen, Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 800mg/die, Doxycycline 100 mg, Azithromycin 500 mg 21\n\nM 67 27 14 Etanercept Oxygen, Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 800mg/die 17 F 61 28 12 Ustekinumab Oxygen, Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 800mg/die, Prednisone 25 mg 19\n\nF 53 31 17 Adalimumab Amoxicillin 1000mg twice per day, Paracetamol 1000mg, Oxygen, Hydroxychloroquine, Doxycycline 100 23\n\nF 58 27 11 Ustekinumab Doxycycline, Hydroxychloroquine, Lopinavir-ritonavir 400mg twice 14 M 45 26 13 Adalimumab Oxygen, Lopinavir-ritonavir 400mg twice, Amoxicillin 1000mg, Prednisone 25 mg 12 M 57 27 12 Ustekinumab Oxygen, Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 800mg/die, Prednisone 25 mg 18\n\nF 66 28 17 Adalimumab Oxygen, Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 800mg/die, Doxycycline 21\n\nM 43 26 15 Etanercept Hydroxychloroquine, Amoxicillin 15 F 54 28 16 Ustekinumab Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 19 F 69 27 9 Secukinumab Oxygen, Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 800mg/die, Amoxicillin 1000mg x2 16\n\nM 45 28 6 Ixekinzumab Oxygen, Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 800mg/die, Prednisone 25 mg 17\n\nF 37 28 13 Adalimumab Oxygen, Lopinavir-ritonavir 400mg twice, Hydroxychloroquine 800mg/die, Prednisone 25 mg 14\n\nF 71 29 7 Adalimumab Hydroxychloroquine, Doxycycline 16 M 60 27 17 Ustekinumab Hydroxychloroquine, Doxycycline 15 M 48 30 6 Adalimumab Hydroxychloroquine, Doxycycline 17\n\nM, male; F, female. BMI, body mass index.\n\n0.747, Figure 1D) but this was signiﬁcantly higher following ODN stimulation (relative expression 3.053 ± 1.070, p=0.01, Figure 1D). At the protein level, IFNa was only detectable from the pDC stimulated fraction (0.089 ± 0.038 pg/cell, p=0.031, Figure 1E). Noting that total IFNa was secreted by entheseal pDCs, further experiments were undertaken on unsorted cells. We investigated the effect of SpA disease-relevant compounds and their potential to modulate IFNa secretion. Both Tofacitinib (0.003 ± 0.002 pg/cell, p=0.008) and PDE4i (0.008 ± 0.004 pg/ cell, p=0.002) signiﬁcantly reduced ODN induced IFNa. Methotrexate however, had no effect on IFNa production (0.050 ± 0.016 pg/cell, p=0.24) (Figure 1F).\n\nDEG Pattern of Stimulated Entheseal pDCs and TNF Pathway Following ODN stimulation of entheseal pDCs, using NanoString, hierarchically clustered heat map representation of global gene expression proﬁles showed that stimulated pDCs could be differentiated from the unstimulated samples, although heterogeneity might exist (Figure 2A). Eleven DEGs were signiﬁcantly upregulated in the stimulated pDCs, including TNF (log2 fold change=1.95, p=0.042, Figure 2B). Protein-protein interaction (PPI) network was constructed from the 11 DEGs including 4 isolated nodes and 1 main connection component (Figure 2C). There were a total of 8 edges\n\nidentiﬁed and PPI enrichment p-value was 0.004. The main component consisted of ZBP1, RIPK3, TNF, ITGB2 and TLR7. RIPK3 and TNF had the greatest degree of interaction (Figure 2C). Canonical pathway analysis of the entheseal pDC genes upon ODN stimulation using IPA showed that pathways related to dendritic cell maturation (22 genes, z=4.416, p=1.59E-19, Supplementary Figure 2), NF-kB signaling (19 genes, z=3.3, p =5.5E-16, Supplementary Figure 3), toll-like receptor signaling (14 gens, z=2.714, p=1.65E-15, Figure 2D) and JAK/ STAT signaling (8 genes, z= 2.828, p=3.05E-07, Figure 2E) were signiﬁcantly activated.\n\nIncreased DAPSA Following Sars-Cov-2 Infection 18 PsA patients with conﬁrmed COVID-19 showed increased DAPSA score following COVID-19 (Figure 3A, 9.7 ± 4.06 vs 35.3 ± 7.47 pre- and during infection, respectively, p<0.0001). Even post-infection, DAPSA scores remained higher (Figure 3B, 9.7 ± 4.06 vs. 18.8 ± 4.39 for pre- and post-infection, respectively, p<0.0001). With respect to swollen and tender joint count, statistically signiﬁcant increases were shown for both during and post-infection (Figure 3C, 0.9 ± 0.9, 1.9 ± 0.8, 1.5 ± 0.6 for pre-, during, and post-infection, respectively. P=0.0005 for during- vs. pre-infection and p=0.002 for post- vs. pre-infection).\n\nFrontiers in Immunology | www.frontiersin.org April 2021 | Volume 12 | Article 635018 4",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fimmu.2021.635018",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_sha256": "13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_url": "https://doi.org/10.3389/fimmu.2021.635018"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8:p5",
+        "source_issue_ids": [],
+        "text": "Zhou et al. Plasmacytoid Dendritic Cells in PsA\n\nA\n\nB\n\nD E F C\n\nFIGURE 1 | (A) Peri-entheseal bone (PEB) was separated from soft tissue and digested and pDC phenotype was conﬁrmed using ﬂow cytometry. Following stimulation with ODN, intracellular TNF was quantiﬁed using ﬂow cytometry (last 2 graphs in A). (B) Flow cytometry showed that entheseal pDCs were more numerous than blood pDCs (1.86 ± 0.77% vs 0.21 ± 0.07% of CD45+ cells, n=5, p=0.008). (C) Mean percentage increase of TNF MFI also showed a signiﬁcant increase after stimulation with imiquimod (18.03% vs 0.18%, n=4, p=0.047). Secretion of IFNa from pDCs after ODN stimulation was demonstrated by RT-PCR (n=8, D) and ELISA (n=6, E) respectively. The effect of different drugs on the expression of IFNa from entheseal cells was compared (n=4, F). IFNa from ODN stimulated: 0.035 ± 0.011 pg/cell, co-incubated with Tofacitinib: 0.003 ± 0.003 pg/cell, co-incubated with PED4i: 0.008 ± 0.008 pg/cell, co-incubated with MTX: 0.050 ± 0.031 pg/cell. LIN: lineage markers (CD3, CD56, CD19, CD14, CD11c), MFI, median ﬂuorescence intensity; IMQ, imiquimod; Unstim, unstimulated; stim, stimulated. *p < 0.05, **p < 0.01.\n\nDISCUSSION\n\nWe report the presence of an enriched pDC population at the normal human enthesis. Upon relevant TLR pathway stimulation, we demonstrated inducible TNF and IFNa protein production and IPA analysis showed this operated through NFkB or MYD88 pathways, respectively. The enthesis pDC TNF induction by TLR7/9 is interesting since this is a critical cytokine in enthesitis (18). Although TNF is produced by many cells, pDCs was the sole entheseal source of TLR9 induced IFNa. The pDCs production of type-I interferons is a quintessential component of viral defense (19). Bacterial triggers are well deﬁned in reactive arthritis and in experimental SpA and a role for viral infection is also reported in reactive arthritis and several epidemiological surveys have shown a link between viral triggers and PsA onset (20–22), but viral initiation is not commonly thought of as important in axial disease including in AS. In keeping with this, we report that SARS-CoV-2 infection resulted in PsA disease ﬂares. Also, pDCs have previously been reported to be more abundant in PsA synovial ﬂuid when compared to osteoarthritis or rheumatoid arthritis (23, 24). Blood pDCs are decreased in peripheral blood of PsA and showed chemotaxis towards PsA synovial ﬂuid (24).\n\nWe also investigated several SpA and PsA disease relevant compounds for their ability to modulate entheseal IFNa induction. In agreement with previous blood derived pDC studies, both PDE4i and Tofacitinib attenuated ODN induced IFNa (25, 26); however, methotrexate did not. As TLR stimulation does not directly signal via JAK-STAT pathway, Tofacitinib attenuation of entheseal IFNa production could be due to reduced pDC TLR mRNA receptor expression, thus leading to decreased IFNa production as previously reported (25). The limitations of this study include the relatively small sample numbers and the fact that functional analysis could only be done on the spinous process peri-entheseal bone. However, it still highlighted that upregulation of TNF and IFNa in stimulated entheseal pDCs that could be blocked with JAK and PDE4 inhibition. Studies of pDCs from sites of active enthesitis would also be desirable. Second, the time length of post-infection was different for each PsA patient so we cannot use a speciﬁc time period to indicate how long symptoms persisted after infection. In conclusion, entheseal pDCs may represent a novel population that bridges SpA enthesis immunopathology and may be a population modiﬁed by JAK and PDE4 inhibition\n\nFrontiers in Immunology | www.frontiersin.org April 2021 | Volume 12 | Article 635018 5",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fimmu.2021.635018",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_sha256": "13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_url": "https://doi.org/10.3389/fimmu.2021.635018"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8:p6",
+        "source_issue_ids": [],
+        "text": "Zhou et al. Plasmacytoid Dendritic Cells in PsA\n\nA B\n\nD\n\nE\n\nC\n\nFIGURE 2 | (A) Heatmap showing clustering of PEB stimulated pDCs and PEB unstimulated pDCs. (B) Volcano map showing 11 signiﬁcantly upregulated genes (red, Log2(fold change) >1 and p<0.05) in stimulated vs unstimulated entheseal pDCs. Gene symbols were displayed if Log2|fold change| > 1. (C) PPI network of the 11 DEGs showing a main component consisted and 4 isolated nodes. Lines connecting two nodes represent protein-protein associations. Pathway mapping analysis of pDCs generated by IPA revealed the toll-like receptor signaling (D) and JAK/STAT signaling (E) among the topmost canonical pathways enriched upon treatment with ODN. Stimulation of TLRs leads to activation of MYD88 and ﬁnally transcription of pro-inﬂammatory cytokines including TNF (D). Activation of JAK leads to activation of STAT or PI3K pathway, which is predicted by IPA (E). Prediction legend is shared by 2D and 2E. Red & pink represents upregulation and intensity represents the relative magnitude of change in gene expression. Predicted activation indicated by orange color and blue for the predicted inhibition. Direct and indirect interactions are indicated by solid and dashed lines, respectively.\n\nand also provides a novel mechanistic link between infection, including viral triggers and SpA associated arthropathies. Numerical and functional abnormalities have already been\n\nreported in other rheumatic diseases including systemic lupus erythematosus and rheumatoid arthritis but this is the ﬁrst study to show resident pDCs at the normal enthesis, which offers new\n\nFrontiers in Immunology | www.frontiersin.org April 2021 | Volume 12 | Article 635018 6",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fimmu.2021.635018",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_sha256": "13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_url": "https://doi.org/10.3389/fimmu.2021.635018"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8:p7",
+        "source_issue_ids": [],
+        "text": "Zhou et al. Plasmacytoid Dendritic Cells in PsA\n\nA B C\n\nFIGURE 3 | Psoriatic Arthritis patients had DAPSA score calculated both pre-COVID-19 infection and during infection (A) and post-infection (B). The tender and swollen joint was scored, and the average calculated for pre-infection, during infection and post-infection (C). n=18. **p < 0.01, ***p < 0.001 and p < 0.0001\n\ninsights into how infectious triggers may precipitate SpA pathology (27, 28).\n\nDATA AVAILABILITY STATEMENT\n\nThe raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.\n\nETHICS STATEMENT\n\nThe study protocol of the current investigation was approved by North West-Greater Manchester West Research Ethics Committee. Written informed consent to participate in this study was provided by the participants’ legal guardian/next of kin.\n\nAUTHOR CONTRIBUTIONS\n\nQZ, CB and DM had substantial contributions to study conception and design. QZ, JV, YE-S, CB, and DM had\n\nREFERENCES\n\n1. Gracey E, Burssens A, Cambre I, Schett G, Lories R, IMcInnes B, et al. Tendon and ligament mechanical loading in the pathogenesis of inﬂammatory arthritis. Nat Rev Rheumatol (2020) 16(4):193–207. doi: 10.1038/s41584- 019-0364-x 2. Schett G, Lories RJ, D'Agostino MA, Elewaut D, Kirkham B, Soriano ER, et al. Enthesitis: from pathophysiology to treatment. Nat Rev Rheumatol (2017) 13 (12):731–41. doi: 10.1038/nrrheum.2017.188 3. Reveille JD. Spondyloarthritis. In: Clinical Immunology. Elsevier (2019). p. 769–87. 4. Gilliet M, Cao W, Liu YJ. Plasmacytoid dendritic cells: sensing nucleic acids in viral infection and autoimmune diseases. Nat Rev Immunol (2008) 8(8):594– 606. doi: 10.1038/nri2358\n\nsubstantial contributions to analysis and interpretation of data. All the authors had substantial contributions to acquisition of data, drafting the article or revising it critically for important intellectual content and ﬁnal approval of the version of the article to be published.\n\nFUNDING\n\nDM is funded by the Leeds NIHR Biomedical Research Centre. HR, TR, and CB are funded by the Novartis UK-investigator-initiated non-clinical research funding support. QZ, AW, and KS were funded by the Celgene supported PARTNER fellowship program. CB was partially funded by Pﬁzer who also provided Tofacitinib as a research compound.\n\nSUPPLEMENTARY MATERIAL\n\nThe Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/ﬁmmu.2021. 635018/full#supplementary-material\n\n5. Swiecki M, Colonna M. The multifaceted biology of plasmacytoid dendritic cells. Nat Rev Immunol (2015) 15(8):471–85. doi: 10.1038/nri3865 6. Reizis B. Regulation of plasmacytoid dendritic cell development. Curr Opin Immunol (2010) 22(2):206–11. doi: 10.1016/j.coi.2010.01.005 7. Nestle FO, Conrad C, Tun-Kyi A, Homey B, Gombert M, Boyman O, et al. Plasmacytoid predendritic cells initiate psoriasis through interferon-alpha production. J Exp Med (2005) 202(1):135–43. doi: 10.1084/ jem.20050500 8. Lande R, Gregorio J, Facchinetti V, Chatterjee B, Wang YH, Homey B, et al. Plasmacytoid dendritic cells sense self-DNA coupled with antimicrobial peptide. Nature (2007) 449(7162):564–9. doi: 10.1038/nature06116 9. Gunes AT, Fetil E, Akarsu S, Ozbagcivan O , Babayeva L. Possible Triggering Effect of Inﬂuenza Vaccination on Psoriasis. J Immunol Res (2015) 2015:258430. doi: 10.1155/2015/258430\n\nFrontiers in Immunology | www.frontiersin.org April 2021 | Volume 12 | Article 635018 7",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3389/fimmu.2021.635018",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_sha256": "13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8",
+          "source_url": "https://doi.org/10.3389/fimmu.2021.635018"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8:p8",
+        "source_issue_ids": [],
+        "text": "Zhou et al. Plasmacytoid Dendritic Cells in PsA\n\n10. Miner JJ, Aw-Yeang HX, Fox HX, Taffner S, Malkova ON, Oh ST, et al. Chikungunya viral arthritis in the United States: a mimic of seronegative rheumatoid arthritis. Arthritis Rheumatol (2015) 67(5):1214–20. doi: 10.1002/ art.39027 11. Veale DJ, McGonagle D, McInnes IB, Krueger JG, Ritchlin CT, Elewau D, et al. The rationale for Janus kinase inhibitors for the treatment of spondyloarthritis. Rheumatology (Oxford) (2019) 58(2):197–205. doi: 10.1093/rheumatology/key070 12. Joob B, Wiwanitkit V. Arthralgia as an initial presentation of COVID-19: observation. Rheumatol Int (2020) 40(5):823. doi: 10.1007/s00296-020- 04561-0 13. Novelli L, Motta F, Ceribelli A, Guidelli GM, Luciano N, Isailovic N, et al. A case of psoriatic arthritis triggered by SARS-CoV-2 infection. Rheumatology (2020) 60(1):e21–e3. doi: 10.1093/rheumatology/keaa691 14. Bridgewood C, Watad A, Russell T, Palmer TM, Marzo-Ortega H, Khan A. Identiﬁcation of myeloid cells in the human enthesis as the main source of local IL-23 production. Ann Rheum Dis (2019) 78(7):929–33. doi: 10.1136/ annrheumdis-2018-214944 15. Cuthbert RJ, Fragkakis EM, Dunsmuir R, Li ZM, Coles M, Marzo-Ortega H, et al. Brief Report: Group 3 Innate Lymphoid Cells in Human Enthesis. Arthritis Rheumatol (2017) 69(9):1816–22. doi: 10.1002/art.40150 16. Kramer A, Green J, Pollard J, Tugendreich S. Causal analysis approaches in Ingenuity Pathway Analysis. Bioinformatics (2014) 30(4):523–30. doi: 10.1093/bioinformatics/btt703 17. Sardiu ME, Florens L, Washburn MP. Evaluation of clustering algorithms for protein complex and protein interaction network assembly. J Proteome Res (2009) 8(6):2944–52. doi: 10.1021/pr900073d 18. Cambré I, Gaublomme D, Burssens A, Jacques P, Schryvers N, De Muynck A, et al. Mechanical strain determines the site-speciﬁc localization of inﬂammation and tissue damage in arthritis. Nat Commun (2018) 9 (1):4613. doi: 10.1038/s41467-018-06933-4 19. Barrat FJ, Su L. A pathogenic role of plasmacytoid dendritic cells in autoimmunity and chronic viral infection. J Exp Med (2019) 216(9):1974– 85. doi: 10.1084/jem.20181359 20. Pattison E, Harrison BJ, Grifﬁths CE, Silman AJ , Bruce IN. Environmental risk factors for the development of psoriatic arthritis: results from a case-control study. Ann Rheum Dis (2008) 67(5):672–6. doi: 10.1136/ ard.2007.073932 21. Hannu T, Hedman K, Hedman L, Leirisalo-Repo M. Frequency of recent parvovirus infection in patients examined for acute reactive arthritis. A study\n\nwith combinatorial parvovirus serodiagnostics. Clin Exp Rheumatol (2007) 25 (2):297–300. Available at: https://pubmed.ncbi.nlm.nih.gov/17543157/. 22. Rahman MA, Thomas R. The SKG model of spondyloarthritis. Best Pract Res Clin Rheumatol (2017) 31(6):895–909. doi: 10.1016/j.berh.2018.07.004 23. Jongbloed SL, Lebre MC, Fraser AR, Gracie JA, Sturrock RD, Pak PP, et al. Enumeration and phenotypical analysis of distinct dendritic cell subsets in psoriatic arthritis and rheumatoid arthritis. Arthritis Res Ther (2006) 8(1):R15. doi: 10.1186/ar1864 24. Lande R, Giacomini E, Seraﬁni B, Rosicarelli B, Sebastiani GD, Minisola G, et al. Characterization and recruitment of plasmacytoid dendritic cells in synovial ﬂuid and tissue of patients with chronic inﬂammatory arthritis. J Immunol (2004) 173(4):2815–24. doi: 10.4049/jimmunol.173.4.2815 25. Boor PP, De Ruiter PE, Asmawidjaja PS, Lubberts E, van der Laan LJ, Kwekkeboom J. JAK-inhibitor tofacitinib suppresses interferon alfa production by plasmacytoid dendritic cells and inhibits arthrogenic and antiviral effects of interferon alfa. Trans Res (2017) 188:67–79. doi: 10.1016/ j.trsl.2016.11.006 26. Schafer P, Parton A, Capone L, Cedzik D, Brady H, Evans J, et al. Apremilast is a selective PDE4 inhibitor with regulatory effects on innate immunity. Cell Signaling (2014) 26(9):2016–29. doi: 10.1016/j.cellsig.2014.05.014 27. Sakata K, Nakayamada S, Miyazaki Y, Kubo S, Ishii A, Nakano K, et al. Up-Regulation of TLR7-Mediated IFN-a Production by Plasmacytoid Dendritic Cells in Patients With Systemic Lupus Erythematosus. Front Immunol (2018) 9:1957. doi: 10.3389/ﬁmmu.2018.01957 28. Cavanagh LL, Boyce A, Smith L, Padmanabha J, Filgueira L, Pietschmann P, et al. Rheumatoid arthritis synovium contains plasmacytoid dendritic cells. Arthritis Res Ther (2005) 7(2):R230–40. doi: 10.1186/ar1467\n\nConﬂict of Interest: The authors declare that the research was conducted in the absence of any commercial or ﬁnancial relationships that could be construed as a potential conﬂict of interest.\n\nCopyright © 2021 Zhou, Vadakekolathu, Watad, Sharif, Russell, Rowe, Khan, Millner, Loughenbury, Rao, Dunsmuir, Timothy, Damiani, Pigatto, Malagoli, Banﬁ, El-Sherbiny, Bridgewood and McGonagle. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.\n\nFrontiers in Immunology | www.frontiersin.org April 2021 | Volume 12 | Article 635018 8",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:13c1bf836b77bb38fc1d9e90429b5ab636078b1a3c6b1ac981d389cf14972ca8"
+}

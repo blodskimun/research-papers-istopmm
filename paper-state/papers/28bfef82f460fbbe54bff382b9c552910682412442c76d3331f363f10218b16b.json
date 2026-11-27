@@ -1,0 +1,616 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T17:17:42.094315+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Olfactory recovery following infection with COVID-19: A systematic review",
+        "year": null
+      },
+      "doi": "10.1371/journal.pone.0259321",
+      "format": "pdf",
+      "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+      "url": "https://doi.org/10.1371/journal.pone.0259321"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p1",
+        "source_issue_ids": [],
+        "text": "PLOS ONE\n\na1111111111 a1111111111 a1111111111 a1111111111 a1111111111\n\nOPEN ACCESS\n\nCitation: Jafar A, Lasso A, Shorr R, Hutton B, Kilty S (2021) Olfactory recovery following infection with COVID-19: A systematic review. PLoS ONE 16(11): e0259321. https://doi.org/10.1371/journal. pone.0259321\n\nEditor: Eng Ooi, Flinders University, College of Medicine and Public Health, AUSTRALIA\n\nReceived: August 9, 2021\n\nAccepted: October 16, 2021\n\nPublished: November 9, 2021\n\nPeer Review History: PLOS recognizes the benefits of transparency in the peer review process; therefore, we enable the publication of all of the content of peer review and author responses alongside final, published articles. The editorial history of this article is available here: https://doi.org/10.1371/journal.pone.0259321\n\nCopyright: © 2021 Jafar et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.\n\nData Availability Statement: All relevant data are within the manuscript and its Supporting information files.\n\nFunding: The authors received no specific funding for this work.\n\nRESEARCH ARTICLE Olfactory recovery following infection with COVID-19: A systematic review\n\nAli JafarID1☯, Andrea Lasso2☯, Risa Shorr3, Brian Hutton4‡, Shaun KiltyID3,5‡*\n\n1 Department of Otolaryngology - Head and Neck Surgery, University of Ottawa, Ottawa, Canada, 2 Ottawa Hospital Research Institute (OHRI), Ottawa, Ontario, Canada, 3 The Ottawa Hospital, Ottawa, Ontario, Canada, 4 Knowledge Synthesis Unit, Ottawa Hospital Research Institute (OHRI), School of Epidemiology, Public Health and Preventative Medicine, University of Ottawa, Ottawa, Ontario, Canada, 5 Department of Otolaryngology - Head and Neck Surgery, University of Ottawa, Ottawa Hospital Research Institute (OHRI), Ottawa, Ontario, Canada\n\n☯These authors contributed equally to this work. ‡ BH and SK also contributed equally to this work * skilty@toh.ca\n\nAbstract\n\nOlfactory loss has been identified as one of the common symptoms related to COVID-19 infection. Although olfactory loss is recognized, our understanding of both the extent of loss and time to olfactory recovery following infection is less well known. Similarly, knowledge of potential impactful patient factors and therapies that influence olfactory recovery is desirable but is not overtly clear in the literature. Our systematic review sought to fill this knowledge gap. We included studies that: involved either an observational or an interventional design that reported data on patients with olfactory dysfunction due to Reverse Transcription Polymerase Chain Reaction (RT-PCR) diagnosed COVID-19 infection; and reported data regarding olfactory recovery measured by an objective olfactory test, Likert scale and/or visual analog scale (VAS). The study methods were determined a priori and registered in PROSPERO (Registration Number CRD42020204354). An information specialist searched Medline, Embase, LitCovid and the Cochrane Register of Controlled Trials up to March 2021, and two reviewers were involved in all aspects of study selection and data collection. After screening 2788 citations, a total of 44 studies of assorted observational designs were included. Patients had undergone objective COVID-19 testing, and most were adult patients with mild to moderate COVID-19. Olfactory recovery was found to occur as early as 7 days, with most patients recovering olfaction within 30 days. Few studies included prolonged follow-up to 6 months or longer duration. Poor olfaction at initial presentation was associated with poor recovery rates. Only a small number of studies assessed olfactory retraining and steroid therapy. Additional trials are underway.\n\nIntroduction\n\nThe spread of Coronavirus (COVID-19) infection was announced by the World Health Organization to be a pandemic on March 11th 2020 [1]. Since the pandemic began, more than 178\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 1 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p10",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nSix studies completed follow-up data for more than 90 days and up to 6 months [17, 18, 25, 26, 57, 58]. The rates of full recovery in these studies ranged from 58.8% to 85.7% (median 73.5%). A total of 10 studies that performed subjective olfactory measures completed follow-up data at 1 month [30, 33, 34, 41, 44–47, 52, 55] with rates of full recovery in these studies ranging from 22.7% to 100% (median 73%); six studies completed follow-up between 30 and 60 days [29, 31, 35–37, 46, 49, 53], the recovery rates in these studies ranged from 53.8% to 81.4% (median 62.3%). Two studies completed follow-up at 6 months [43, 51] only one reported rate of complete recovery at 58.4% (43). The study-specific findings for these measures are provided in Tables 4 and 5. The frequently observed mean days to olfactory recovery was within 2 weeks [18, 35, 41, 42, 46, 54, 56, 58], with some studies reporting recovery continuing up to 30 days [15, 20, 23, 24, 27, 29, 34, 51] and those with longer duration of follow-up to 6 months reporting most recovery to occur within 60 days of olfactory dysfunction, yet in other studies recovery was observed to continue up to 6 months [26, 43].\n\nProtective and risk factors for olfactory dysfunction and resolution\n\nApproaches to explore associations between olfactory resolution and other patient characteristics varied between studies. This included both univariate and multivariable regression analyses, subgroup analyses, and correlation studies. Amongst the most commonly studied factors were age, gender, medical co-morbidities, and initial severity of smell loss. Studies evaluating the effects of age determined it was not a factor that contributed to poor recovery rate [16, 18– 20, 25, 29, 46, 60]. One study showed age was inversely associated with improvement of olfactory function [15]. A positive association between age and the duration of hyposmia/anosmia was reported by one study [49] another study reported that persistent olfactory dysfunction is associated with age (\u0015 50 years) [26]. When the effect of gender on olfactory recovery was assessed, the majority of studies did not show any significant relationship between recovery and gender [15, 16, 26, 29, 32, 38, 46, 60], while one study found that females represent more than 70% of those who completely recovered [34] and one study showed female gender showed slower olfactory recovery rates [53]. Many studies had specific population eligibility criteria, thus excluding patients with an a priori diagnosis of neurodegenerative disease, asthma, craniofacial trauma, CRS, nasal polyposis disease. However, two studies identified that diabetes mellitus diagnosis amongst patients was a poor prognostic factor for recovery [34, 49] while others did not identify medical co-morbidities including diabetes mellitus to be have any prognostic value [19, 20, 31, 54]. An observational negative prognostic factor commonly identified was the initial degree of smell loss. Patients with more severe olfactory dysfunction at initial presentation had worse olfactory recovery outcomes compared to those with very mild to moderate hyposmia at initial presentation [18, 20, 30, 54]. S2 Table presents a summary of studies that assessed the effects of different characteristics, as well as the nature of the association that was reported by the study authors.\n\nTreatment intervention(s)\n\nThere was a paucity of studies in the literature that assessed interventions for the treatment of olfactory dysfunction following COVID-19 infection. A randomized controlled trial by Abdelalim et al 2021 [49] compared topical corticosteroid nasal spray (2 puffs, 100 mcg, mometa-sone furoate each nostril) once daily for 3 weeks in addition to olfactory training vs olfactory training only. This study included 100 patients who had recovered from COVID-19, demonstrated by 2 negative RT-PCR tests, but who had not recovered their olfactory function; Olfactory dysfunction (OD) was measured using a VAS. The study concluded that the use of nasal\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 10 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p11",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nTable 4. Olfactory recovery at the end of follow up in studies that used objective olfactory measures.\n\nStudy ID Sample Size Objective measures of olfactory dysfunction and recovery\n\nTiming of evaluations End of F/U Anosmia (%) End of F/U Hyposmia (%) End of F/U Normosmia (%)\n\nFollow up \u001430 days\n\nKlimek 2020 [24] 7 Sniffin’ Sticks \u0003 Initial: 1–14 days (during quarantine) 14.30% 0.00% 85.7%\n\nVaira 2020–1 [28] 106 patients (71 with olfactory dysfunction)\n\nSelf administered olfactory and gustatory psychophysical test CCCRC\n\n\u0003Test 2: Day 21\n\n\u0003Test 3: Day 28\n\n\u0003 Initial: Within 4 days of clinical onset 8.40% 47.1% 44.3%\n\n(Severe hyposmia 11.3% + Moderate hyposmia 8.4% + Mild hyposmia 24.7%)\n\n\u0003 Test 2: 10 days\n\n\u0003 Test 3: 20 days\n\nSalcan 2021 [27] 94 Sniffin’ Sticks \u0003Initial: At first clinical encounter - 3 patients (5.4% of those with initial smell alteration with a second evaluation n = 55)\n\n\u0003Test 2: 10 days from initial\n\n94.6%\n\nGonzalez 2021 [15] 100 UPSIT \u0003Initial: < 15 days of ongoing symptoms 0% 40.5% 59.5%\n\n(mild microsmia 22.1 + moderate microsmia 15.7% + severe microsmia 3.1%)\n\n\u0003Test 1: 30 days after symptoms onset\n\nFollow up 31–60 days\n\nVaira 2020–3 [20] 138 Self administered olfactory and gustatory psychophysical test CCCRC\n\n\u0003 Initial: Within 4 days of symptom onset 1% 20% 79%\n\n\u0003 Test 2: 10 days after symptom onset\n\n\u0003Test 3–5: Every 10 days\n\nIannuzzi 2020 [59] 34 Sniffin Sticks \u0003Initial: 25 days after COVID-19 diagnosis 0 26.70% 73.3%\n\n\u0003 Test 2: 1 month after initial\n\nMoein 2020 [22] 100 patients (82 retested) UPSIT \u0003Initial: During recovery period. 0% 39% (Mild microsmia 20% + moderate microsmia 13% + severe microsmia 6%)\n\n61%\n\n\u0003Test 2: 1 or 4 weeks\n\nLechien 2020 [60] 88 Sniffin’ Sticks \u0003 Initial: When acute course of disease was resolved.\n\nNR NR 79.5%\n\n\u0003 Test 2: 3–15 days from onset\n\n\u0003Test 3: 2 months\n\nVaira 2020–2 [23] 18 CCCRC \u0003 Initial: 30 days after diagnosis Treatment Group: 0% Treatment Group: 44.4% Treatment Group: 55.5%\n\n\u0003 Test 2: 20 days No treatment Group: 22.2% No treatment Group: 77% No treatment Group: 0% \u0003 Test 3: 40 days\n\nNiklassen 2021 [16] 111 Sniffin’ Sticks \u0003Initial: Within 3 days of positive COVID 1% 25% 74%\n\n\u0003 Test 2: Varied by study site. Average 62.9 days +/- 45.8\n\nAsad 2021 [21] 14 Cov 19 Positive patients UPSIT \u0003Initial: Within 48 hours of COVID-19 test\n\nNR NR NR\n\n\u0003Test 2: 6 weeks\n\nFollow up \u0015 90 days\n\n(Continued)\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 11 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p12",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nTable 4. (Continued)\n\nStudy ID Sample Size Objective measures of olfactory dysfunction and recovery\n\nTiming of evaluations End of F/U Anosmia (%) End of F/U Hyposmia (%) End of F/U Normosmia (%)\n\nUgurlu 2021 [18] 104 (42 with smell loss) BSIT \u0003Initial: At diagnosis - 14.3% 85.7%\n\n\u0003Test 2: 3 months\n\nPetrocelli 2021 [26] 300 Self-administered psychophysical evaluation\n\n\u0003Initial: Within 7 days of OD 5% 22% 73%\n\n\u0003Test 2–4: 1,2,3 months \u0003Test 5: 6 months\n\nOtte 2021 [17] 26 Sniffin’ Sticks \u0003Initial: 3 months post COVID 0% 26.90% 73.1%\n\n\u0003Test 2: 6 months after infection\n\nLeBon 2021 [25] 27 Sniffin’ Sticks \u0003Initial: Average 5 weeks after onset of OD\n\nNR NR NR\n\n\u0003Test 2: 10 weeks\n\nBertlich 2021 [57] 23 BSIT \u0003Initial: After positive test. 5.90% 35.3% 58.8%\n\n\u0003Test 2: 8 weeks\n\n\u0003Test 3: 6 months\n\nLechien 2021 [58] 233 Sniffin’ Sticks \u0003Initial: 2–3 weeks from symptom onset NR 15.3% (not fully recovered) NR\n\n\u0003Test 2: 60 days\n\n\u0003Test 3: 6 months\n\nUPSIT = The University of Pennsylvania Smell Identification Test; BSIT = The Brief Smell Identification Test; CCCRC = Connecticut Chemosensory Clinical Research\n\nCenter Test; NR = Not Reported.\n\nhttps://doi.org/10.1371/journal.pone.0259321.t004\n\nsteroid spray showed no added benefit over olfactory training alone. A pilot study by LeBon et al 2021 [25] compared two groups; Group 1 received 32 mg of methylprednisone orally once daily combined with olfactory training twice daily for 10 weeks compared to olfactory training only. This study included 27 patients who had recovered from COVID-19 but showed persistent OD five weeks after the onset of symptoms. The Sniffin’ Sticks test was used to measure OD. The outcome showed that combination therapy may be beneficial, although robust conclusions could not be made due to low recruitment of participants [25]. Vaira et al 2021 [23], conducted a case-control study in which patients were randomly assigned to systemic corticosteroids (prednisone starting with 1mg/kg day) tapering for 15 days as well as nasal irri-gation with betamethasone, ambroxol and rinazine for 15 days or no treatment. This study included 18 patients who had recovered from COVID-19, demonstrated by 2 negative tests, and who still demonstrated anosmia or hyposmia 30 days after clinical onset measured using the CCCRC test. In this study, patients in the treatment group showed significantly higher improvement in the CCRC test at both the 20 and 40-day evaluations. We searched the Clini-calTrials.gov registry in March 2021 to identify ongoing clinical trials assessing the efficacy of treatment of olfactory dysfunction related to COVID-19. We identified 9 trials, (NCT04764981, NCT04710394, NCT04361474, NCT04657809, NCT04406584, NCT04495816, NCT04569825, NCT04789499, NCT04528329) and we have provided their details in S3 Table. These studies are evaluating the effects of therapies that include olfactory\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 12 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p13",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nTable 5. Olfactory recovery at the end of follow up in studies that used subjective olfactory measures.\n\nStudy ID Sample Size Objective measures of olfactory dysfunction and recovery\n\nTime of evaluations End of F/U Anosmia (%)\n\nEnd of F/U Hyposmia (%) End of F/U Normosmia (%)\n\nFollow up \u001430 days\n\nJalessi 2020 [55] 92 Likert scale (0–5) \u0003Initial: While in hospital 0% 4.55% (partial improvement) 95.45% (complete resolution)\n\n\u0003 Test 2: Mean follow up 20.10 ± 7.42 days\n\nFreni 2020 [47] 50 sQOD-NS \u0003 Initial: During active phase of symptoms NR NR 82% (no olfactory dysfunction at follow up)\n\n\u0003 Test 2: 15 days after COVID test negative\n\nChary 2020 [46] 115 DyNaCHRON \u0003Initial: Day 5 after COVID + test NR 33% (partial recovery) 64% (complete recovery)\n\n\u0003 Test 2: Day 15 after COVID test 3% (no recovery)\n\n\u0003 Initial: NR NR 21.6 (no recovery) 18.2% (mild recovery) 37.5% (moderate recovery)\n\nSakalli 2020 [41] 172 (88) had OD Scale for severity (none, mild, moderate, severe)\n\n22.7% (complete recovery)\n\n\u0003 Test 2: 20 days after diagnosis\n\nKonstantinidis 2020 [30] 79 VAS \u0003 Initial: Before test results reported NR 36.6% (partial or no improvement) of those with OD at baseline\n\n63.3% (almost complete recovery)\n\n\u0003Test 2: 4 weeks\n\nAmer 2020 [34] 96 DyNaCHRON \u0003 Initial: After positive test NR 25% (no recovery) 41.7% (partial recovery) 33.3% (full recovery)\n\n\u0003 Test 2–5: weekly for 4 weeks\n\nMartin-Sanz 2020 [45] 355 VAS \u0003Initial: 7 days from symptom onset NR NR 85.4% (recovered olfactory function)\n\n\u0003 Test2: 2 weeks\n\n\u0003 Initial: Within 15 days of OD onset 0% 60% (Olfactory score 1–9 at f/u) 40% (Olfactory score = 10 at f/ u)\n\nEliezer 2020 [44] 40 Visual Olfactive Score (VOS) and Evaluation to assess the ability to detect and identify odorants\n\n\u0003 Test 2: 1 month\n\nYadav 2021 [52] 152 (28 reported olfactory dysfunction)\n\nsQOD-NS \u0003Initial: At admission 0% 0% 100% (of the 28 with olfactory dysfunction at baseline) \u0003Test 2: 7 days\n\n\u0003Test 3: 14 days\n\n\u0003Test 3: At discharge\n\nSahoo 2021 [33] 718 (77 reported smell loss) Likert scale \u0003Initial: 3 days after + test 0% (score = 5) 7.8% (scores 1–4) 92.2% (scores = 0)\n\n\u0003 Test 2: 2 weeks\n\nFollow up 30–60 days\n\nChary 2020 [46] 115 DyNaCHRON \u0003Initial: Day 5 + test NR 3% (no recovery) 33% (partial recovery) 64% (complete recovery)\n\n\u0003 Test 2: Day 15 after + test\n\nBoscolo-Rizzo 2020 [35–37] 183 SNOT-22 \u0003Initial: 5–6 days after swab 0% (score = 5) 18.6% (SNOT score = 1–4) 81.4% (SNOT score = 0) After 8 weeks\n\n\u0003Test 2: 4 weeks\n\n\u0003Test 3: 8 weeks\n\n(Continued)\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 13 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p14",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nTable 5. (Continued)\n\nStudy ID Sample Size Objective measures of olfactory dysfunction and recovery\n\nSpeth 2020 [31] Total 112 (66 had OD) At its worst scale of 0 (none), 1 (mild), 2 (moderate), or 3 (severe) Recovery: Full resolution partial resolution, No resolution\n\nTime of evaluations End of F/U Anosmia (%)\n\nEnd of F/U Hyposmia (%) End of F/U Normosmia (%)\n\n\u0003 Initial: NR NR NR 78.8% (who had COVID symptoms 22–60 days ago experienced complete resolution at a mean time of 11 days)\n\n\u0003Test 2: 36 days from beginning of symptoms\n\nLocatello 2021 [29] 43 CCS \u0003Initial: On admission NR 39.4% (Persistent hyposmia) 60.6% (Complete recovery)\n\n\u0003 Test 2: 30 days after negative Test\n\nAbdelalim 2021 [49] 108 VAS \u0003Initial: After recovery/ discharge NR NR Group 1: 62% of patients had sense of smell completely recovered. Group 2: 52% of patients had sense of smell completely recovered. All patients: 57%\n\n\u0003Test 2: week 1\n\n\u0003Test 3: week 2\n\n\u0003Test 4: week 3\n\nVAS \u0003 Initial: 15 days after symptom onset NR (no recovery 1.4%)\n\nBranda Neto 2020 [53] 655 (545 recruited from social network, 110 were at hospital)\n\n44.7% (partial recovery) 53.8% (total recovery)\n\n\u0003 Test 2: 36–119 days from symptom onset\n\nFollow up \u001590days\n\nRiestra-Ayora 2021 [43] 320 (195 in case group) VAS \u0003Initial: At onset of symptoms 11.2% (showed no recovery)\n\n\u0003Test 2: 1 month\n\n\u0003Test 3: 3 months \u0003Test 4: 6 months\n\n30.4% (Partial recovery) 58.4% (Complete recovery)\n\nRaad 2021 [51] 521 completed initial survey SNOT -22 rhinologic domain\n\n343 completed 6 months follow up\n\n\u0003Initial: 2 weeks prior to diagnosis, 2 weeks and 4 weeks after diagnosis (retrospective)\n\nNR NR NR\n\n\u0003Test 2: 6 months\n\nF/U = Follow up; sQOD-NS = short version of the Questionnaire of Olfactory Disorders-Negative Statements; DyNaCHRON = Dysfonctionnement Nasal Chronique;\n\nVAS = Visual Analogue Scale; SNOT-22 = Sinonasal Outcome Test– 22; CCS = Chemosensory Complaint Score; NR = Not Reported.\n\nhttps://doi.org/10.1371/journal.pone.0259321.t005\n\ntraining, systemic and intranasal corticosteroids, insulin fast dissolving film, theophylline nasal irrigations and injections of platelet rich plasma into the olfactory cleft.\n\nDiscussion\n\nIn this study, the evidence regarding olfactory recovery following COVID-19 infection was reviewed. Our literature review identified 44 studies that met our inclusion criteria that used objective and/or subjective olfactory evaluation. We identified considerable heterogeneity between the studies in terms of study designs employed, psychophysical testing tools utilised, the timing of initial assessments, follow-up intervals, and recording of olfactory scores. Due to this high degree of between-study variability, we did not perform meta-analyses of outcome data, and results were presented using a descriptive approach. Olfactory recovery most often occurred within the first two weeks from symptom onset with a rate of recovery at 1 month as high as 94.6%; at 6 months the rate of recovery was as high as 85.7%. We analyzed any treatment interventions as our secondary outcome. Only\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 14 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p15",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nthree published papers assessed treatment for persistent OD due to COVID-19 [23, 25, 49]. The treatments included oral and nasal corticosteroids and olfactory training. The small numbers of studies evaluating treatments and the similarly small numbers of patients included in these studies limit the ability to make firm conclusions. However, it has been demonstrated that olfactory training is associated with clinical improvement of olfactory dysfunction following upper respiratory tract viral infection [61, 62] and therefore it is a reasonable treatment alternative. There are several ongoing studies (NCT04764981, NCT04710394, NCT04361474, NCT04657809, NCT04406584, NCT04495816, NCT04569825, NCT04789499, NCT04528329) evaluating olfactory training and once completed, they will provide insight on whether this treatment is also effective in olfactory dysfunction due to COVID-19. The use of corticosteroids in post viral olfactory dysfunctions is not widely recommended [62–64] and their use in OD due to COVID-19 needs further study. We identified that patients with initial poor olfactory scores had slow rates of recovery, however the majority of studies did not observe medical co-morbidities, demographics, or general symptoms to be a pertinent factor in olfactory recovery.\n\nStrengths, limitations and implications for clinical practice\n\nMore than a year has passed since the WHO declared the COVID-19 pandemic. Many countries have experienced multiple waves and more recently the surfacing of numerous wide-spread virus variants. Concerns over olfactory dysfunction have become a common complaint of many patients surviving COVID-19 and a source of referral to clinicians. The data presented in this review can be used by healthcare professionals to counsel patients regarding the duration and expected recovery from OD. The major strength of our study lies in the fact that all the studies included in this review used RT-PCR to confirm COVID-19. We included studies that used objective and/or subjective measures for olfactory dysfunction. It is well known that olfactory dysfunction may be underreported when using subjective methods and thus the use of objective tests is preferred. However, the information provided by the studies using subjective methods may be used by clinicians in settings where access to objective methods is limited. There was considerably a high level of heterogeneity across studies that restricted our ability to carry out a pooled statistical analysis. Some studies, especially those from early in the pandemic, performed a retrospective assessment of olfaction which is subject to recall bias. Although we updated our literature search twice, the speed at which new studies related to COVID-19 are being published makes it difficult to include all available evidence in this review. Updates to this review will be needed in the future. We expect that newer studies will include randomized controlled trials evaluating therapies for OD with larger numbers of participants and longitudinal studies that will have longer follow up times.\n\nConclusion\n\nOur study identified several important and clinically relevant factors related to olfactory dysfunction following COVID-19 infection. We noted that the majority of studies showed olfactory recovery as early as the first two weeks, although some studies with more prolonged follow-up showed a small population of patients can have residual olfactory loss even after 6 months. Poor olfaction at initial presentation was associated with poor recovery rates, and factors such as age, gender, or medical co-morbidities did not play a major role in olfactory recovery. Treatment interventions included steroid therapy (topical/systemic) and/or olfactory retraining, but no robust conclusions were possible. Future research in this area should include large longitudinal studies that follow the course of the olfactory dysfunction beyond 6 months\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 15 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 16
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p16",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nand well designed RCTs that are powered to determine effectiveness of olfactory training and other therapies for the treatment of persistent olfactory dysfunction due to COVID-19.\n\nSupporting information\n\nS1 Fig. Publications by region of origin. (TIF)\n\nS1 Table. JBI critical appraisal checklist. (DOCX)\n\nS2 Table. Risk and protective factors. (DOCX)\n\nS3 Table. Ongoing studies evaluating treatments for olfactory dysfunction due to COVID- 19 infection. (DOCX)\n\nS1 Checklist. PRISMA 2020 checklist. (DOCX)\n\nS1 Text. Literature search strategy. (DOCX)\n\nS2 Text. Studies excluded in the full text review. (DOCX)\n\nS3 Text. Protocol. (DOCX)\n\nAcknowledgments\n\nWe would like to acknowledge Ms. Becky Skidmore for her contribution to the literature search design and review.\n\nAuthor Contributions\n\nConceptualization: Ali Jafar, Brian Hutton, Shaun Kilty.\n\nData curation: Ali Jafar, Andrea Lasso.\n\nInvestigation: Ali Jafar, Andrea Lasso, Risa Shorr.\n\nMethodology: Brian Hutton.\n\nProject administration: Andrea Lasso.\n\nResources: Risa Shorr.\n\nSupervision: Shaun Kilty.\n\nWriting – original draft: Ali Jafar.\n\nWriting – review & editing: Andrea Lasso, Brian Hutton, Shaun Kilty.\n\nReferences\n\n1. Cucinotta D, Vanelli M. WHO Declares COVID-19 a Pandemic. Acta Biomed. 2020; 91(1):157–60. https://doi.org/10.23750/abm.v91i1.9397 PMID: 32191675\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 16 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 17
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p17",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\n2. Center JHCR. COVID-19 Map—Johns Hopkins Coronavirus Resource Center 2021 [https:// coronavirus.jhu.edu/map.html.\n\n3. Organization WH. Coronavirus disease (COVID-19) pandemic [https://www.who.int/emergencies/ diseases/novel-coronavirus-2019.\n\n4. Control CfD. COVID-19 [https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms. html.\n\n5. Gane SB, Kelly C, Hopkins C. Isolated sudden onset anosmia in COVID-19 infection. A novel syndrome? Rhinology. 2020; 58(3):299–301. https://doi.org/10.4193/Rhin20.114 PMID: 32240279\n\n6. Lechien JR, Chiesa-Estomba CM, De Siati DR, Horoi M, Le Bon SD, Rodriguez A, et al. Olfactory and gustatory dysfunctions as a clinical presentation of mild-to-moderate forms of the coronavirus disease (COVID-19): a multicenter European study. Eur Arch Otorhinolaryngol. 2020; 277(8):2251–61. https:// doi.org/10.1007/s00405-020-05965-1 PMID: 32253535\n\n7. Speth MM, Singer-Cornelius T, Oberle M, Gengler I, Brockmeier SJ, Sedaghat AR. Olfactory Dysfunction and Sinonasal Symptomatology in COVID-19: Prevalence, Severity, Timing, and Associated Characteristics. Otolaryngol Head Neck Surg. 2020; 163(1):114–20. https://doi.org/10.1177/ 0194599820929185 PMID: 32423357\n\n8. Han AY, Mukdad L, Long JL, Lopez IA. Anosmia in COVID-19: Mechanisms and Significance. Chem Senses. 2020. https://doi.org/10.1093/chemse/bjaa040 PMID: 32556089\n\n9. Sowndhararajan K, Kim S. Influence of Fragrances on Human Psychophysiological Activity: With Spe-cial Reference to Human Electroencephalographic Response. Sci Pharm. 2016; 84(4):724–51. https:// doi.org/10.3390/scipharm84040724 PMID: 27916830\n\n10. Saniasiaya J, Islam MA, Abdullah B. Prevalence of Olfactory Dysfunction in Coronavirus Disease 2019 (COVID-19): A Meta-analysis of 27,492 Patients. Laryngoscope. 2021; 131(4):865–78. https://doi.org/ 10.1002/lary.29286 PMID: 33219539\n\n11. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021; 372:n71. https://doi.org/ 10.1136/bmj.n71 PMID: 33782057\n\n12. Sampson M, McGowan J, Cogo E, Grimshaw J, Moher D, Lefebvre C. An evidence-based practice guideline for the peer review of electronic search strategies. J Clin Epidemiol. 2009; 62(9):944–52. https://doi.org/10.1016/j.jclinepi.2008.10.012 PMID: 19230612\n\n13. Covidence Systemic Review Software, Veritas Health Innovation: Melbourne, Australia. [www. covidence.org.\n\n14. Aromataris E MZ. JBI Manual for Evidence Synthesis. JBI, 2020.\n\n15. Gonza´lez C, Garcı´a-Huidobro FG, Lagos AE, Aliaga R, Fuentes-Lo´pez E, Dı´az LA, et al. Prospective assessment of smell and taste impairment in a South-American coronavirus disease 2019 (COVID-19) cohort: Association with the need for hospitalization and reversibility of dysfunction. International Forum of Allergy & Rhinology. 2021; n/a(n/a).\n\n16. Niklassen AS, Draf J, Huart C, Hintschich C, Bocksberger S, Trecca EMC, et al. COVID-19: Recovery from Chemosensory Dysfunction. A Multicentre study on Smell and Taste. The Laryngoscope. 2021; 131(5):1095–100. https://doi.org/10.1002/lary.29383 PMID: 33404079\n\n17. Otte MS, Bork M-L, Zimmermann PH, Klussmann JP, Luers JC. Persisting olfactory dysfunction improves in patients 6 months after COVID-19 disease. Acta oto-laryngologica. 2021:1–4. https://doi. org/10.1080/00016489.2021.1905178 PMID: 33823752\n\n18. Ugurlu BN, Akdogan O, Yilmaz YA, Yapar D, Aktar Ugurlu G, Yerlikaya HS, et al. Quantitative evaluation and progress of olfactory dysfunction in COVID-19. European archives of oto-rhino-laryngology: official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS): affiliated with the German Society for Oto-Rhino-Laryngology—Head and Neck Surgery. 2021. https://doi.org/ 10.1007/s00405-020-06516-4 PMID: 33385250\n\n19. Vaira LA, Hopkins C, Salzano G, Petrocelli M, Melis A, Cucurullo M, et al. Olfactory and gustatory function impairment in COVID-19 patients: Italian objective multicenter-study. Head & Neck. 2020; 42 (7):1560–9. https://doi.org/10.1002/hed.26269 PMID: 32437022\n\n20. Vaira LA, Hopkins C, Petrocelli M, Lechien JR, Chiesa-Estomba CM, Salzano G, et al. Smell and taste recovery in coronavirus disease 2019 patients: a 60-day objective and prospective study. Journal of Laryngology & Otology. 2020; 134(8):703–9. https://doi.org/10.1017/S0022215120001826 PMID: 32782030\n\n21. Asad M, Sehanobish E, Fong V, O’Neill M, Patel V, Bottalico D, et al. Loss of sense of smells associated with sour taste is a possible diagnostic marker for COVID-19. Journal of Allergy and Clinical Immunology. 2021; 147(2 Supplement):AB163.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 17 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 18
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p18",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\n22. Moein ST, Hashemian SM, Tabarsi P, Doty RL. Prevalence and reversibility of smell dysfunction measured psychophysically in a cohort of COVID-19 patients. International Forum of Allergy & Rhinology. 2020; 10(10):1127–35.\n\n23. Vaira LA, Hopkins C, Petrocelli M, Lechien JR, Saussez S, Cutrupi S, et al. Efficacy of corticosteroid therapy in the treatment of long- lasting olfactory disorders in COVID-19 patients. Rhinology. 2021; 59 (1):21–5. https://doi.org/10.4193/Rhin20.515 PMID: 33290446\n\n24. Klimek L, Hagemann J, Alali A, Spielhaupter M, Huppertz T, Hormann K, et al. Telemedicine allows quantitative measuring of olfactory dysfunction in COVID-19. Allergy. 2020; 22:22. https://doi.org/10. 1111/all.14467 PMID: 32569393\n\n25. Le Bon S-D, Konopnicki D, Pisarski N, Prunier L, Lechien JR, Horoi M. Efficacy and safety of oral corticosteroids and olfactory training in the management of COVID-19-related loss of smell. European archives of oto-rhino-laryngology: official journal of the European Federation of Oto-Rhino-Laryngologi-cal Societies (EUFOS): affiliated with the German Society for Oto-Rhino-Laryngology—Head and Neck Surgery. 2021. https://doi.org/10.1007/s00405-020-06520-8 PMID: 33423106\n\n26. Petrocelli M, Cutrupi S, Salzano G, Maglitto F, Salzano FA, Lechien JR, et al. Six-month smell and taste recovery rates in coronavirus disease 2019 patients: a prospective psychophysical study. The Journal of laryngology and otology. 2021:1–6. https://doi.org/10.1017/S002221512100116X PMID: 33888166\n\n27. Salcan I, Karakecili F, Salcan S, Unver E, Akyuz S, Seckin E, et al. Is taste and smell impairment irre-versible in COVID-19 patients? European archives of oto-rhino-laryngology: official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS): affiliated with the German Society for Oto-Rhino-Laryngology—Head and Neck Surgery. 2021; 278(2):411–5.\n\n28. Vaira LA, Hopkins C, Petrocelli M, Lechien JR, Soma D, Giovanditto F, et al. Do olfactory and gustatory psychophysical scores have prognostic value in COVID-19 patients? A prospective study of 106 patients. Journal of Otolaryngology: Head and Neck Surgery. 2020; 49(1):56.\n\n29. Locatello LG, Bruno C, Maggiore G, Cilona M, Orlando P, Fancello G, et al. The prognostic role of IL-10 in non-severe COVID-19 with chemosensory dysfunction. Cytokine. 2021; 141:155456. https://doi.org/ 10.1016/j.cyto.2021.155456 PMID: 33561690\n\n30. Konstantinidis I, Delides A, Tsakiropoulou E, Maragoudakis P, Sapounas S, Tsiodras S. Short-Term Follow-Up of Self-Isolated COVID-19 Patients with Smell and Taste Dysfunction in Greece: Two Pheno-types of Recovery. Orl; Journal of Oto-Rhino-Laryngology & its Related Specialties. 2020; 82(6):295– 303. https://doi.org/10.1159/000511436 PMID: 33049753\n\n31. Speth MM, Singer-Cornelius T, Oberle M, Gengler I, Brockmeier SJ, Sedaghat AR. Time scale for resolution of olfactory dysfunction in COVID-19. Rhinology. 2020; 13:13. https://doi.org/10.4193/Rhin20.227 PMID: 32533768\n\n32. Biadsee A, Dagan O, Ormianer Z, Kassem F, Masarwa S, Biadsee A. Eight-month follow-up of olfactory and gustatory dysfunctions in recovered COVID-19 patients. American Journal of Otolaryngology. 2021; 42(4):103065. https://doi.org/10.1016/j.amjoto.2021.103065 PMID: 33894627\n\n33. Sahoo PR, Sahu M, Surapaneni PS, Maiti A, Vankamamidi R, Panda N, et al. Evolution of olfactory and gustatory dysfunctions in COVID-19 patients in India. European archives of oto-rhino-laryngology: official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS): affiliated with the German Society for Oto-Rhino-Laryngology—Head and Neck Surgery. 2021. https://doi.org/10. 1007/s00405-020-06563-x PMID: 33392762\n\n34. Amer MA, Elsherif HS, Abdel-Hamid AS, Elzayat S. Early recovery patterns of olfactory disorders in COVID-19 patients; a clinical cohort study. American Journal of Otolaryngology. 2020; 41(6):102725. https://doi.org/10.1016/j.amjoto.2020.102725 PMID: 32979666\n\n35. Boscolo-Rizzo P, Borsetto D, Fabbris C, Spinato G, Frezza D, Menegaldo A, et al. Evolution of Altered Sense of Smell or Taste in Patients With Mildly Symptomatic COVID-19. JAMA Otolaryngology Head & Neck Surgery. 2020; 02:02.\n\n36. Boscolo-Rizzo P, Polesel J, Spinato G, Fabbris C, Calvanese L, Menegaldo A, et al. Predominance of an altered sense of smell or taste among long-lasting symptoms in patients with mildly symptomatic COVID-19. Rhinology. 2020; 19:19. https://doi.org/10.4193/Rhin20.263 PMID: 32683438\n\n37. Boscolo-Rizzo P, Menegaldo A, Fabbris C, Spinato G, Borsetto D, Vaira LA, et al. Six-Month Psychophysical Evaluation of Olfactory Dysfunction in Patients with COVID-19. Chemical senses. 2021; 46. https://doi.org/10.1093/chemse/bjab006 PMID: 33575808\n\n38. Bulgurcu S, Oztutgan T, Baz E, Yonem A, Koc NG, Erkul E, et al. Assessment of Smell and Taste Disorders in COVID-19: A Cross-sectional Study. Journal of Craniofacial Surgery. 2020; 25:25. https://doi. org/10.1097/SCS.0000000000007284 PMID: 33252531\n\n39. Dell’Era V, Farri F, Garzaro G, Gatto M, Aluffi Valletti P, Garzaro M. Smell and taste disorders during COVID-19 outbreak: Cross-sectional study on 355 patients. Head & Neck. 2020; 42(7):1591–6. https:// doi.org/10.1002/hed.26288 PMID: 32524707\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 18 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 19
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p19",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\n40. Gorzkowski V, Bevilacqua S, Charmillon A, Jankowski R, Gallet P, Rumeau C, et al. Evolution of olfactory disorders in COVID-19 patients. Laryngoscope. 2020; 02:02. https://doi.org/10.1002/lary.28957 PMID: 32617990\n\n41. Sakalli E, Temirbekov D, Bayri E, Alis EE, Erdurak SC, Bayraktaroglu M. Ear nose throat-related symptoms with a focus on loss of smell and/or taste in COVID-19 patients. American Journal of Otolaryngology. 2020; 41(6):102622. https://doi.org/10.1016/j.amjoto.2020.102622 PMID: 32629147\n\n42. Yan CH, Prajapati DP, Ritter ML, DeConde AS. Persistent Smell Loss Following Undetectable SARS-CoV-2. Otolaryngology—Head & Neck Surgery. 2020:194599820934769. https://doi.org/10.1177/ 0194599820934769 PMID: 32513065\n\n43. Riestra-Ayora J, Yanes-Diaz J, Esteban-Sanchez J, Vaduva C, Molina-Quiros C, Larran-Jimenez A, et al. Long-term follow-up of olfactory and gustatory dysfunction in COVID-19: 6 months case-control study of health workers. European archives of oto-rhino-laryngology: official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS): affiliated with the German Society for Oto-Rhino-Laryngology—Head and Neck Surgery. 2021. https://doi.org/10.1007/s00405-021-06764-y PMID: 33774737\n\n44. Eliezer M, Hamel AL, Houdart E, Herman P, Housset J, Jourdaine C, et al. Loss of smell in patients with COVID-19: MRI data reveal a transient edema of the olfactory clefts. Neurology. 2020; 95(23):e3145– e52. https://doi.org/10.1212/WNL.0000000000010806 PMID: 32917809\n\n45. Martin-Sanz E, Riestra J, Yebra L, Larran A, Mancino F, Yanes-Diaz J, et al. Prospective Study in 355 Patients With Suspected COVID-19 Infection: Value of Cough, Subjective Hyposmia, and Hypogeusia. Laryngoscope. 2020; 130(11):2674–9. https://doi.org/10.1002/lary.28999 PMID: 32686164\n\n46. Chary E, Carsuzaa F, Trijolet JP, Capitaine AL, Roncato-Saberan M, Fouet K, et al. Prevalence and Recovery From Olfactory and Gustatory Dysfunctions in Covid-19 Infection: A Prospective Multicenter Study. American Journal of Rhinology & Allergy. 2020:1945892420930954. https://doi.org/10.1177/ 1945892420930954 PMID: 32527141\n\n47. Freni F, Meduri A, Gazia F, Nicastro V, Galletti C, Aragona P, et al. Symptomatology in head and neck district in coronavirus disease (COVID-19): A possible neuroinvasive action of SARS-CoV-2. American Journal of Otolaryngology. 2020; 41(5):102612. https://doi.org/10.1016/j.amjoto.2020.102612 PMID: 32574896\n\n48. Janowitz T, Gablenz E, Pattinson D, Wang TC, Conigliaro J, Tracey K, et al. Famotidine use and quantitative symptom tracking for COVID-19 in non-hospitalised patients: a case series. Gut. 2020; 04:04. https://doi.org/10.1136/gutjnl-2020-321852 PMID: 32499303\n\n49. Abdelalim AA, Mohamady AA, Elsayed RA, Elawady MA, Ghallab AF. Corticosteroid nasal spray for recovery of smell sensation in COVID-19 patients: A randomized controlled trial. American journal of otolaryngology. 2021; 42(2):102884. https://doi.org/10.1016/j.amjoto.2020.102884 PMID: 33429174\n\n50. Kavaz E, Tahir E, Bilek HC, Kemal O, Deveci A, Aksakal Tanyel E. Clinical significance of smell and taste dysfunction and other related factors in COVID-19. European archives of oto-rhino-laryngology: official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS): affiliated with the German Society for Oto-Rhino-Laryngology—Head and Neck Surgery. 2021. https://doi.org/ 10.1007/s00405-020-06503-9 PMID: 33386439\n\n51. Raad RA, Ganti A, Goshtasbi K, Lehrich BM, Papagiannopoulos P, LoSavio P, et al. Temporal patterns of nasal symptoms in patients with mild severity SARS-CoV-2 infection. American journal of otolaryngology. 2021; 42(6):103076. https://doi.org/10.1016/j.amjoto.2021.103076 PMID: 33915513\n\n52. Yadav V, Bhagat S, Sharma DK, Sibia RPS, Pandav R, Sandhu VP. Olfactory and Gustatory Dysfunction in COVID-19 Patients: A Tertiary Care Institute Experience in India. Indian journal of otolaryngology and head and neck surgery: official publication of the Association of Otolaryngologists of India. 2021:1– 8. https://doi.org/10.1007/s12070-020-02295-w PMID: 33425695\n\n53. Brandao Neto D, Fornazieri MA, Dib C, Di Francesco RC, Doty RL, Voegels RL, et al. Chemosensory Dysfunction in COVID-19: Prevalences, Recovery Rates, and Clinical Associations on a Large Brazilian Sample. Otolaryngology—Head & Neck Surgery. 2020:194599820954825.\n\n54. Chiesa-Estomba CM, Lechien JR, Radulesco T, Michel J, Sowerby LJ, Hopkins C, et al. Patterns of smell recovery in 751 patients affected by the COVID-19 outbreak. European Journal of Neurology. 2020; 16:16. https://doi.org/10.1111/ene.14440 PMID: 32677329\n\n55. Jalessi M, Barati M, Rohani M, Amini E, Ourang A, Azad Z, et al. Frequency and outcome of olfactory impairment and sinonasal involvement in hospitalized patients with COVID-19. Neurological Sciences. 2020; 12:12. https://doi.org/10.1007/s10072-020-04590-4 PMID: 32656713\n\n56. Renaud M, Leon A, Trau G, Fath L, Ciftci S, Bensimon Y, et al. Acute smell and taste loss in outpatients: all infected with SARS-CoV-2? Rhinology. 2020; 15:15. https://doi.org/10.4193/Rhin20.199 PMID: 32542238\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 19 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p2",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nCompeting interests: The authors have declared that no competing interests exist.\n\nmillion confirmed cases of COVID-19 worldwide were reported as of June 22nd 2021 [2]. Amongst the most common symptoms of COVID-19 were fever, cough, shortness of breath, and myalgia [3, 4]. Anosmia (absence of olfaction) represents another common symptom, and may sometimes be the primary presenting symptom or the sole manifestation of disease in patients with COVID-19 [5, 6]. Several cross-sectional studies have been performed to assess otolaryngologic symptomatology prevalence rates amongst patients with COVID-19 infection [7]. A high prevalence rate of olfactory dysfunction and gustatory dysfunction was found to be reported in the literature [6]. Post-viral olfactory loss has been reported with Severe Acute Respiratory Syndrome (SARS), Middle East Respiratory Syndrome (MERS), influenza, parain-fluenza, Respiratory Syncytial Virus (RSV), and adenovirus, however, the prevalence of olfactory loss is lower compared to COVID-19 [7]. The pathophysiology of olfactory loss following COVID-19 is not well understood, but a speculative mechanism is due to direct injury by the virus to olfactory receptor neurons located in the olfactory epithelium [8]. Smell and taste are essential sensory functions, and thus recovery of olfactory function has an important impact on patients’ quality of life [9]. A previous qualitative review found that most studies on olfactory recovery were performed in cohorts of patients with olfactory loss following COVID-19 using subjective assessments in the forms of online questionnaires or telephone calls, however more recent studies have utilized objective testing tools of olfactory loss with measurement at uniform follow-up intervals [10]. To our knowledge, no recent review has sought to systemati-cally compile this literature. To address this knowledge gap, we planned a systematic review to evaluate the extent and timing of olfactory recovery following loss due to COVID-19 infection.\n\nReview methods\n\nThe methods for the review were established a priori. This systematic review has been reported according to guidance from the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) [11] The protocol was registered in PROSPERO on August 17th 2020, under Registration number CRD42020204354.\n\nSearch strategy\n\nSearches to identify relevant studies for this review were conducted by an experienced medical information specialist (RS) in consultation with the study authors. Literature searching was conducted in the following databases: Ovid MEDLINE, Embase, the Cochrane Central Register of Controlled Trials (CENTRAL) and LitCovid. The MEDLINE search strategies were peer reviewed by a senior information specialist (BS) using the PRESS checklist prior to extraction [12]. Systematic reviews on this topic were also retrieved from MEDLINE and their reference lists were scanned for additional potentially eligible studies to be screened. The searches were initially conducted on July 21st, 2020, were last updated in May 2021. A copy of the search strategies is provided in the Review Supplement (S1 Text).\n\nStudy eligibility criteria\n\nStudy selection criteria were established according to considerations pertaining to population, study design and outcomes. The details of these criteria are described next. Population. Studies were of interest if they enrolled individuals diagnosed with COVID- 19 infection by positive PCR test, and who reported olfactory dysfunction (anosmia or hyposmia). Studies with data available for only a subgroup of patients with olfactory dysfunction were also included. All non-human studies were also excluded.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 2 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 20
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p20",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\n57. Bertlich M, Stihl C, Lu¨sebrink E, Hellmuth JC, Scherer C, Freytag S, et al. The course of subjective and objective chemosensory dysfunction in hospitalized patients with COVID-19: a 6-month follow-up. European Archives of Oto-Rhino-Laryngology. 2021. https://doi.org/10.1007/s00405-021-06796-4 PMID: 33837835\n\n58. Lechien JR, Chiesa-Estomba CM, Beckers E, Mustin V, Ducarme M, Journe F, et al. Prevalence and 6- month recovery of olfactory dysfunction: a multicentre study of 1363 COVID-19 patients. Journal of Internal Medicine. 2021; n/a(n/a). https://doi.org/10.1111/joim.13209 PMID: 33403772\n\n59. Iannuzzi L, Salzo AE, Angarano G, Palmieri VO, Portincasa P, Saracino A, et al. Gaining Back What Is Lost: Recovering the Sense of Smell in Mild to Moderate Patients After COVID-19. Chemical Senses. 2020; 45(9):875–81. https://doi.org/10.1093/chemse/bjaa066 PMID: 33033827\n\n60. Lechien JR, Journe F, Hans S, Chiesa-Estomba CM, Mustin V, Beckers E, et al. Severity of Anosmia as an Early Symptom of COVID-19 Infection May Predict Lasting Loss of Smell. Frontiers in Medicine. 2020; 7:582802. https://doi.org/10.3389/fmed.2020.582802 PMID: 33330539\n\n61. Hura N, Xie DX, Choby GW, Schlosser RJ, Orlov CP, Seal SM, et al. Treatment of post-viral olfactory dysfunction: an evidence-based review with recommendations. Int Forum Allergy Rhinol. 2020; 10 (9):1065–86. https://doi.org/10.1002/alr.22624 PMID: 32567798\n\n62. Kattar N, Do TM, Unis GD, Migneron MR, Thomas AJ, McCoul ED. Olfactory Training for Postviral Olfactory Dysfunction: Systematic Review and Meta-analysis. Otolaryngol Head Neck Surg. 2021; 164 (2):244–54. https://doi.org/10.1177/0194599820943550 PMID: 32660334\n\n63. Genetzaki S, Tsakiropoulou E, Nikolaidis V, Markou K, Konstantinidis I. Postinfectious Olfactory Dysfunction: Oral Steroids and Olfactory Training versus Olfactory Training Alone: Is There any Benefit from Steroids? ORL. 2021. https://doi.org/10.1159/000516316 PMID: 34107478\n\n64. Addison AB, Wong B, Ahmed T, Macchi A, Konstantinidis I, Huart C, et al. Clinical Olfactory Working Group consensus statement on the treatment of postinfectious olfactory dysfunction. Journal of Allergy and Clinical Immunology. 2021; 147(5):1704–19.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 20 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p3",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nStudy design. Studies involving either an observational or interventional design were of interest. No restrictions related to follow-up duration were employed. We excluded all review articles, case reports, letters, editorials, commentaries, and abstracts. Outcomes. The primary outcome of interest was the extent of olfaction recovery following COVID-19 infection, using objective or subjective measures. Therefore, a baseline measurement of olfactory loss at time of infection or at study intake was compared to subsequent mea-surements at follow up intervals. Olfactory loss could be reported as a continuous or categorical measurement (anosmia, hyposmia, normosmia). Our secondary outcomes of interest included time to olfactory recovery, patient prognostic factors (for occurrence and resolution of olfactory dysfunction), and interventional therapies used for olfactory recovery. Inclusion was limited to studies published in either the English, French, or Spanish languages.\n\nProcess of study selection\n\nThe search yield from the literature search was imported into COVIDENCE software (Veritas Health Innovation, Version v2632 03f7ed40) [13]. Duplicate citations were removed prior to the start of screening. Selection of papers was conducted in two phases involving two indepen-dent reviewers (AJ and AL). During the first phase, each reviewer screened all titles/abstracts to make judgements as to relevance to the objectives and any conflict in the decision to include for further assessment was resolved by consensus discussion or consultation of a third party (SK). If the content of the abstract was unclear, the article was selected for full text review. In phase 2, full text articles of the citations from phase 1 deemed potentially eligible were screened using our predetermined inclusion and exclusion criteria. Any conflicts in the final decision to include a study were again resolved through consensus discussion or consultation of a third party (SK). The final process of study selection has been summarized using a PRISMA flow diagram (Fig 1).\n\nProcess of data extraction\n\nAnalogous to our study selection process, two reviewers (AJ, AL) extracted data independently from the set of included studies using standardized data extraction form implemented in COVIDENCE software [13]. Discrepancies were settled by consensus discussion amongst the two reviewers. The data were then exported to Microsoft Excel (Version 16.49; Microsoft Cor-poration, Seattle, Washington, USA) for further preparation and to allow for inspection by team members to consider between study heterogeneity and study findings. The following data were extracted from each study:\n\n1. Identification: study ID (if available), citation, contact author details, country (or countries) of conduct of research origin\n\n2. Methods: study design, total study duration, sample size, stated study objective, approach to data analysis, outcome definitions and measurement tools\n\n3. Participant traits: mean (SD) patient age (or median/range if mean unavailable), race/ethnicity, diagnostic method for COVID-19, patient setting (non-hospitalized, hospitalized, medical care requiring intubation), severity of clinical manifestation of COVID-19 infection (as reported in the study), baseline measures of olfactory function\n\n4. Outcomes: objective measures of olfactory dysfunction and recovery, timing for evaluation of olfactory dysfunction, scoring and interpretation of the instrument, therapies used for treatment of COVID-19 or the olfactory loss specifically, risk/protective factors associated\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 3 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p4",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nFig 1. PRISMA 2020 flow diagram describing the study selection process.\n\nhttps://doi.org/10.1371/journal.pone.0259321.g001\n\nwith development of olfactory dysfunction associated with COVID-19, and/or its resolution.\n\n5. Results: measures of olfaction dysfunction according to each instrument at available time points, length of time to recovery, listings of treatments administered to treat olfactory dysfunction, association measures for risk/protective factors for the development and/or resolution of olfactory dysfunction\n\n6. Key conclusions of the study authors\n\n7. Funding and declaration of conflict of interest.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 4 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p5",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nRisk of bias assessment\n\nThe risk of bias of the included studies was evaluated using relevant tools developed by the Joanna Briggs Institute (JBI) critical appraisal checklist [14]. The JBI assessment tool has sepa-rate assessments for each study design included in our systemic review. Case series as well as cross-sectional, cohort, and case-control studies were evaluated using the appropriate domains as set per the JBI assessment tools. Two reviewers (AJ, AL) independently evaluated the risk of bias of eligible studies and any disagreements were resolved by consensus discussion. Results from the risk of bias assessments were summarized descriptively to present key strengths and weaknesses of the included studies. The detailed findings from risk of bias assessments are presented in the supplemental files to this review.\n\nApproach to data synthesis\n\nDue to considerable heterogeneity in study/patient characteristics and endpoints, no meta-analyses of outcomes were performed. A descriptive approach to summary of outcomes of interest was instead prepared. Grouping of studies has been based upon the type of olfactory assessment tool used, looking separately at studies that examined objective versus subjective measures. Study data have been organized and presented in table format which maps the outcomes reported by individual studies. The aggregate data of each study characteristic were reported, as well as testing instrument, initial olfaction scores, follow up time points, and prognostic factors as well as any therapeutics implemented. Combination of graphical and numerical displays of findings are presented for outcomes where appropriate.\n\nResults\n\nStudy selection process\n\nOur search identified a total of 2,788 citations for review following removal of duplicates. Amongst them, 2,546 were found to be irrelevant, and the remaining 241 were assessed for eligibility in full text. Overall, 46 publications describing 44 unique studies met our inclusion criteria, and 200 were excluded for reasons detailed in the flow diagram in Fig 1.\n\nStudy characteristics\n\nDetails of the included studies are summarized in Table 1 (studies involving objective olfactory measures) and Table 2 (studies involving subjective olfactory measures), respectively. Table 3 presents the details of the studies that used objective and subjective olfactory measures. We identified variability amongst studies on type of measurement instrument adopted to assess olfactory function, the initial timing of assessment for olfactory dysfunction, the follow-up evaluation tools and intervals. All studies were published since the start of the 2020 pandemic, and sample sizes ranged between 7 and 1363 participants. Most of the studies (n = 26, 59%) were conducted in Europe, including Italy (n = 11, 25%) [19, 20, 23, 28, 35, 36, 39, 47, 59], France (n = 3) [40, 44, 56], Germany (n = 3) [16, 17, 57], Belgium (n = 3) [25, 58, 60], Spain (n = 2) [43, 45], Greece (n = 1) (30) and Switzerland (n = 1) [31]; 3 European studies did not specify a country of origin [24, 46, 54]. The remaining 18 studies were conducted in other regions (a pie chart showing distribution is included in the supplementary data provided—S1 Fig). 10 studies were conducted in Asia: Turkey (n = 5) [18, 27, 38, 41, 50], Iran (n = 2) [22, 55], India (n = 2) [33, 52], Israel (n = 1) [32]. Four studies were conducted in North America: United States (n = 4), [21, 42, 48, 51]. Two studies were conducted in Africa: Egypt (n = 2) [34, 49], and two in South America: Brazil (n = 1) [53], Chile (n = 1) [15, 53]. Of the 44 studies, twenty-five (56.8%) reported no\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 5 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p6",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nTable 1. Characteristics of studies that used objective olfactory measures.\n\nFirst Author, Year Country Sample Size Age (years) (mean/ median\u0003 (SD)and/or range)\n\nCohort Studies\n\nCOVID-19 Disease Severity Olfactory Assessment Tool Initial Smell Function\n\nAnosmia Hyposmia Normosmia\n\n% % %\n\nGonzalez, 2021 [15] Chile 100 42.1 (15.6) Mild-Moderate UPSIT 12% 63% 25%\n\nNiklassen, 2021 [16] EU (Italy, Germany) 111 44.5 (15) Mild-Moderate Sniffin’ Sticks 21% 49% 30%\n\nOtte, 2021 [17] EU(Germany) 26 45 SE (2.06) Mild-Moderate Sniffin’ Sticks 0% 100% 0%\n\nUgurlu, 2021 [18] Turkey 42 41.2 (14.6) Mild-Moderate BSIT 16.70% 83.4% 0%\n\nVaira, 2020 [19] EU (Italy) 345 48.5 (12.8) Asymptomatic-Mild-Moderate CCCRC test NR NR NR\n\nVaira, 2020–3 [20] EU (Italy) 138 51.2 (8.8) Mild-Moderate CCCRC test 40% 27% 33%\n\nCross-sectional Studies\n\nAsad, 2021 [21] United States 14 NR Mild-Moderate UPSIT NR NR NR\n\nCase-Control Studies\n\nMoein, 2020 [22] Iran 100 45.40 (11.80) Mild-Moderate UPSIT (Persian version) 18% 78% 4%\n\nVaira, 2020–2 [23] EU (Italy) 18 42.1 (NR) Mild-Moderate CCCRC test NR NR NR\n\nCase Series\n\nKlimek, 2020 [24] EU 7 NR (24–32) Mild Sniffin’ Sticks 14.30% 85.7% 0%\n\nLe Bon, 2021 [25] Europe (Belgium) 27 Steroid + OT group = 42 (14) Mild-Moderate Sniffin’ Sticks 22.22% 77.77% 0%\n\nOT only group = 44 (14)\n\nPetrocelli, 2021 [26] Europe (Italy) 300 43.6 (12.2) Mild-Moderate Self administered psychophysical evaluation (ethyl alcohol olfactory thresholds)\n\n47% 16.30% 36.70%\n\nSalcan, 2021 [27] Turkey 94 53 (19.6) Mild-Moderate Sniffin’ Sticks NR 71.2% 28.8%\n\nVaira, 2020–1 [28] EU (Italy) 106 49.6 (8.5) Mild-Moderate CCCRC test 41.50% 25.4% 33%\n\nSD = Standard Deviation; SE = Standard Error; NR = Not Reported; RT-PCR = Reverse Transcription–Polymerase Chain Reaction; UPSIT = The University of\n\nPennsylvania Smell Identification Test; BSIT = The Brief Smell Identification Test; CCCRC = Connecticut Chemosensory Clinical Research Center Test; OT = Olfactory Training.\n\nhttps://doi.org/10.1371/journal.pone.0259321.t001\n\nfunding requirements for the project [16, 18, 19, 22, 27–30, 32, 33, 39, 40, 42–47, 49–51, 53, 58]; six (13.6%) studies reported funding for the project (sources included academic institu-tions, government and not-for-profit organizations) [15, 24, 25, 31, 48, 57], and thirteen (29.5%) did not report whether funding was provided [17, 21, 23, 26, 37, 38, 52, 54–56, 58, 59].\n\nStudy population\n\nAll studies consisted of a patient population of asymptomatic or mild to moderate COVID-19 symptoms. Not all studies reported the scale used to classify the severity of COVID-19 but, in general, asymptomatic patients and those with mild symptoms did not require medical intervention or hospitalization (other than for isolation reasons). Patients with moderate symptoms required medical intervention but not admission to an Intensive Care Unit. The hospitalized patients included in all studies were of mild to moderate symptoms, none of which required invasive ventilation in ICU. COVID-19 was confirmed by RT-PCR test in all but six studies that either used RT-PCR or serology as a diagnostic tool of COVID-19 [25, 48, 51, 54, 58, 60]. Although most of the patients recruited within studies were not hospitalized due to COVID- 19 infection [17, 21–26, 28, 30–32, 35, 36, 41–43, 45, 47–49, 51, 54, 56, 60], some did include patients hospitalized either for monitoring purposes or quarantine [18, 19, 33, 52, 55, 57–59]. Twelve studies included a mixture of hospitalized and non hospitalized patients [15, 19, 20, 27,\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 6 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p7",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nTable 2. Characteristics of studies that used subjective olfactory measures.\n\nFirst Author, Year Country Sample Size Age (years) (mean/ median\u0003 (SD)and/or range) or [IQR]\n\nCohort Studies\n\nCOVID-19 Disease Severity Olfactory Assessment Tool Initial Smell Function\n\nAnosmia Hyposmia Normosmia\n\n% % %\n\nLocatello, 2021 [29] Europe (Italy) 43 57.8 (NR) Mild-Moderate Chemosensory Complaint Score (CCS)\n\nNR NR NR\n\nKonstantinidis, 2020 [30] EU (Greece) 79 30.7 (5.3) Mild-Moderate VAS NR 36.70% 63.30%\n\nSpeth, 2020 [31] EU (Switzerland) 112 46.8 (15.9) Mild Adapted Categorical Score System 81.50% 18.40% 41%\n\nCross-sectional Studies\n\nBiadsee, 2021 [32] Israel 97 37.5 (19–74) Mild-Moderate VAS NR 67% 33%\n\nSahoo, 2021 [33] India 77 31.6 (9.6) Mild-Moderate Likeart scale (0–5) 3% 10.70% 89.30%\n\nAmer, 2020 [34] Egypt 96 34.26 (11.91) Mild-Moderate Adapted DyNaCHRON NR NR NR\n\nBoscolo-Rizzo, 2020 [35–37] EU (Italy) 183 56\u0003 [20–89] Mild SNOT-22 22.40% 37.70% 39.90%\n\nBulgurcu, 2020 [38] Turkey 46.50 (15.20) Mild-Moderate VAS 26.30% 11.76% NR\n\nDell’Era, 2020 [39] EU (Italy) 355 50\u0003 [49–59.5] Asymptomatic or mild/moderate Numerical Rating Scale NR NR NR\n\nGorzkowski, 2020 [40] EU (France) 140 39.9 (13.7) Mild-Moderate Subjective Olfaction Numerical score 64.29% 35.71% 0%\n\nSakalli, 2020 [41] Turkey 172 37.8 (12.5) Mild-Moderate Severity Scale (none, mild, moderate, severe)\n\n36% 15.2% 48.8%\n\nYan, 2020 [42] USA 23 NR Mild VAS NR NR NR\n\nCase-Control Studies\n\nRiestra-Ayora, 2021 [43] Europe (Spain) 320 (195 cases, 125 controls)\n\nCases = 41.62 (18–65) Control = 46.5 (20–64) Mild-Moderate VAS NR 64.1% 35.9%\n\nEliezer, 2020 [44] EU (France) 40 34.6 (8.8) Mild-Moderate VOS NR NR 0%\n\nMartin-Sanz, 2020 [45] EU (Spain) 355 42.9 (0.67) Mild-Moderate VAS 38.3% 5.1% NR\n\nCase Series\n\nChary,2020 [46] EU 115 47\u0003 [20–83] Mild DyNACHRON NR NR NR\n\nFreni, 2020 [47] EU (Italy) 50 37.7 (17.9) Mild-Moderate sQOD-NS NR NR NR\n\nJanowitz, 2020 [48] USA 9 NR (20–70) Mild 4-point adapted ECOG scale 55.50% 22.20% 22.20%\n\nMiscellaneous Study Designs\n\nAbdelalim, 2021 [49] Egypt 100 29.0\u0003 [21.75–38.0] Mild-Moderate VAS NR NR NR\n\nKavaz, 2021 [50] Turkey 53 42.7 (14.19) Mild-Moderate VAS NR 60.40% 39.60%\n\nRaad, 2021 [51] USA 343 43.5 (13) Mild SNOT–22 Rhinologic domain NR NR NR\n\nYadav, 2021 [52] India 28 43.03 (16.10) Mild-Moderate sQOD-NS 6.58% 11.84% 81.58%\n\nBrandaoNeto, 2020 [53] Brazil 655 37.7 (10.4) Mild-Moderate VAS 60.90% 19.80% NR\n\nChiesa-Estomba, 2020 [54] EU 751 41 SD +/- 13 Mild DyNaCHRON 83% 17% 0%\n\nJalessi, 2020 [55] Iran 92 52.94 (13.25) Mild-Moderate Likeart scale (0–5) 9.80% 14.10% 76.10%\n\n(Continued)\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 7 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p8",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\nTable 2. (Continued)\n\nFirst Author, Year Country Sample Size Age (years) (mean/ median\u0003 (SD)and/or range) or [IQR]\n\nCOVID-19 Disease Severity Olfactory Assessment Tool Initial Smell Function\n\nAnosmia Hyposmia Normosmia\n\n% % %\n\nRenaud, 2020 [56] EU (France) 97 35\u0003 [20–73] Mild 5-point severity scale 60% 40% 0%\n\nSD = Standard Deviation; IQR = Interquartile Range; NR = Not Reported; RT-PCR = Reverse Transcription–Polymerase Chain Reaction; VAS = Visual Analogue Scale; VOS = Visual Olfactive Score; SNOT-22 = Sino-nasal Outcome Test-22; DyNaCHRON = Dysfonctionnement Nasal Chronique; sQOD-NS = short version of the\n\nQuestionnaire of Olfactory Disorders-Negative Statements.\n\nhttps://doi.org/10.1371/journal.pone.0259321.t002\n\n29, 34, 38–40, 46, 50, 53]. The majority of studies did not report data on ethnicity. In 29 studies the proportion of patients with anosmia, hyposmia and normosmia was available [15–18, 20, 22, 24–26, 28, 30–36, 40, 41, 43, 45, 48, 50, 52, 55–60]. In eight studies, all patients had olfactory dysfunction at study baseline [17, 18, 24, 25, 34, 40, 56, 57].\n\nStudy designs\n\nAmongst the 44 included studies, as shown in the Tables 1–3, we identified the following study designs: cohort (n = 12) [15–18, 20, 28–31, 57–59], cross-sectional (n = 11) [21, 32–36, 38–42], case-controls (n = 5) [22, 23, 43–45], case series (n = 4) [24, 46–48], and other miscellaneous study designs (n = 12) [49–52, 54–56]. Nine of the 44 studies were retrospective and evaluated patients at only one time point [19, 32, 38–40, 42, 48, 50, 56]. In studies that prospectively evaluated olfactory dysfunction, the timing of such evaluations varied greatly. The initial evaluations of olfaction were measured from the onset of either olfactory or general symptoms [15, 20, 25, 26, 28, 31, 43–45, 53, 60], from the time of positive COVID-19 test [16, 21, 23, 33, 34, 38, 45, 46, 57, 59], from time of infection [24, 51], during active phases of symptomatology [47], from the time of the swab [35, 36], at initial home/clinic visit [27, 30], at the time of admission to hospital [29, 52], during the recovery period [17, 22], after recovery/discharge\n\nTable 3. Study characteristics of studies that used objective and subjective olfactory measures.\n\nFirst Author, Year Country Sample Size Age (years) (mean/ median\u0003 (SD) COVID-19 Disease Severity Olfactory Assessment Tool Initial Smell Function\n\nAnosmia Hyposmia Normosmia\n\nCohort Studies\n\n% % %\n\nBertlich, 2021 [57] Europe (Germany) 23 59.0 (16.6) Mild-Moderate BSIT 72.70% 27.3% 0%\n\nSNOT-22\n\nVAS\n\nLechien, 2021 [58] Europe 233(Objective). 1363 (Subjective). 44.5 (16.4) Mild-Moderate Sniffin’ Sticks 32.20% 18.40% 49.40%\n\nSNOT-22\n\nIannuzzi, 2020 [59] EU (Italy) 34 47.47 (13) Mild-Moderate Sniffin’ Sticks, VAS 10% 53.30% 36.70%\n\nHRS\n\nLechien, 2020 [60] EU (Belgium) 88 42.6 (11.2) Mild-Moderate Sniffin’ Sticks SNOT-22, 40% 35% 25%\n\nsQOD-NS, NHANES (smell/ taste components), tests\n\nSD = Standard Deviation; RT-PCR = Reverse Transcription–Polymerase Chain Reaction; BSIT = The Brief Smell Identification Test; VAS = Visual Analogue Score;\n\nSNOT-22 = Sino-nasal Outcome Test-22; HRS = Hyposmia Rating Scale; sQOD-NS = short version of the Questionnaire of Olfactory Disorders-Negative Statements; NHANES = National Health and Nutrition Examination Survey.\n\nhttps://doi.org/10.1371/journal.pone.0259321.t003\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 8 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0259321",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_sha256": "9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123",
+          "source_url": "https://doi.org/10.1371/journal.pone.0259321"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123:p9",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Olfactory recovery following infection with COVID-19\n\n[49], or at other specified times [41, 54, 55]. The timing and number of follow-up evaluations also varied amongst studies. The majority of studies performed one follow-up olfactory re-test following their first initial testing, and thirteen studies performed more than one follow-up evaluation [20, 23, 24, 26, 28, 34–36, 43, 51, 52, 57, 60].\n\nStudy outcomes\n\nObjective outcome measures. Objective methods were used to assess olfactory loss in 18 studies (40.9%) of studies (Table 1). The Sniffin’ Sticks test was used in eight studies (n = 8) [16, 17, 24, 25, 27, 58–60], the Connecticut Chemosensory Clinical Research Center (CCCRC) test was used in four studies (n = 4) [19, 20, 23, 28], and the University of Pennsylvania Smell Identification Test (UPSIT) was performed in three studies (n = 3) [15, 21, 22]. Other objective testing included the Brief Smell Identification Test (BSIT) (n = 2) [18, 57], and one study measured the ethyl alcohol olfactory threshold by administering a self psychophysical test [26]. The timing of the assessments varied. Twelve studies performed their initial assessment \u0014 15 days after symptom onset or COVID-19 diagnosis [15, 16, 18, 20–22, 24, 26–28, 57, 60] while 4 studies performed the initial assessment 25 or more days after symptom onset or COVID-19 diagnosis [17, 23, 25, 59]. Timing of follow-up evaluations ranged from 10 days [27] to 6 months [17, 57, 60]. Subjective outcome measures. Subjective methods of smell evaluation using objective scoring methods were used in 68% (n = 30) studies, as can be seen in Table 2. The most common subjective method to evaluate smell dysfunction was use of a Visual Analogue Scale (VAS) [19, 30, 32, 38–40, 42–44, 49, 50, 53, 57, 59]. Other methods included Likert scales [31, 33, 41, 48, 55, 56, 59], the Questionnaire of olfactory disorders–negative statements (sQOD-NS) [40, 47, 52, 54, 55, 58, 60], the DyNACHRON questionnaire (only the smell related questions) [34, 46, 54], and the Sinonasal outcome test– 22 (SNOT-22) [35, 36, 51, 57, 58, 60]. Table 3 shows the studies that used both objective and subjective methods to evaluate smell dysfunction [19, 20, 28, 29, 44].\n\nFindings from risk of bias appraisals\n\nThe evaluations using the JBI critical appraisal checklists showed several limitations in the available evidence. Risk of bias was considered high for the studies that performed the evaluation of olfactory function at a single point in time given the risk for recall bias [19, 38–40, 42, 48, 50, 56]. The only randomized controlled trial included in this review did not blind participants or clinicians to the assignment of participants to the use of therapy, nasal steroids, therefore the risk of bias for this study was considered high [49]. In one pilot study, participants were not randomly assigned to the study arm, which has the potential to introduce selection bias [25]. S1 Table shows the results of the evaluations for each study.\n\nExtent and time to recovery\n\nReporting of initial baseline anosmia and hyposmia was inconsistent amongst included studies. In those studies that performed objective testing, less than 40% of the population reported normosmia at initial evaluation compared to those who performed subjective testing, where normosmia could range from 0% to 90% at initial evaluation. Studies with follow up data regarding the extent of recovery of olfactory function and the time to recovery were analysed. A total of 4 studies that used objective olfactory measures completed follow-up data at 1 month [15, 24, 27, 28]; rates of full olfactory recovery in these studies ranged from 44.3% to 94.6% (median 72.6%). Seven studies completed follow-up data for up to 60 days [16, 20–23, 59, 60], and rates of full recovery in these studies ranged from 0% to 79.5% (median 73.3%).\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0259321 November 9, 2021 9 / 20",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:9d9b28a48f358d41004ca8822031cbcea243cb5480c80ea891a0204d17e38123"
+}

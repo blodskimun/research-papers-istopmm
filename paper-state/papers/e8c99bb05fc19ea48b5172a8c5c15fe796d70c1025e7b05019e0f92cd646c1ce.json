@@ -1,0 +1,152 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:08:08.300923+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "A novel mass spectrometry method to identify the serum monoclonal light chain component in systemic light chain amyloidosis",
+        "year": null
+      },
+      "doi": "10.1038/s41408-019-0180-1",
+      "format": "pdf",
+      "id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+      "url": "https://doi.org/10.1038/s41408-019-0180-1"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0180-1",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+          "source_sha256": "e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+          "source_url": "https://doi.org/10.1038/s41408-019-0180-1"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4:p1",
+        "source_issue_ids": [],
+        "text": "1234567890():,; 1234567890():,;\n\n1234567890():,; 1234567890():,;\n\nSharpley et al. Blood Cancer Journal (2019) 9:16 https://doi.org/10.1038/s41408-019-0180-1 Blood Cancer Journal\n\nC O R R E S P O N D E N C E O p e n A c c e s s\n\nA novel mass spectrometry method to identify the serum monoclonal light chain component in systemic light chain amyloidosis\n\nFaye A. Sharpley1, Richa Manwani1, Shameem Mahmood1, Sajitha Sachchithanantham1, Helen J. Lachmann1, Julian D. Gillmore1, Carol J. Whelan1, Marianna Fontana1, Philip N. Hawkins1 and Ashutosh D. Wechalekar1\n\nAL amyloidosis is characterised by an underlying plasma cell clone producing structurally abnormal monoclonal free light chains (FLCs) which mis-fold and deposit as amyloid ﬁbrils leading to progressive tissue damage. Detection and serial measurements of serum FLCs are critical in determining prognosis and in asses-sing response to treatment. All current immunoassays for quantifying amyloidgenic monoclonal FLCs also measure the normal polyclonal FLC background—a major limita-tion for a disease where even low-level monoclonal FLCs are crucially important. We describe a novel mass spectrometry (MS) method for accurate detection of monoclonal free light chains in patients with systemic AL amyloidosis. MS is a technique used to sort a sample based on the ratio of mass to charge. MS has recently been explored in the assessment of FLCs both in the setting of AL amyloidosis and other plasma cell dyscrasias;1 the theory being that each monoclonal FLC is made of a unique amino acid sequence, with a unique molecular mass. Various different MS techniques exist. The clonotypic peptide MS approach relies on the digestion of serum immunoglobulins with trypsin prior to analysis by MS2. Although this approach is sensitive3, the technique relies on the initial identiﬁcation of a peptide from the patient’s monoclonal protein (M protein)/FLC, which can then be serially monitored over time. An alternative approach is the monoclonal immunoglobulin rapid accurate molecular mass (miRAMM) technique which, rather than\n\nCorrespondence: Ashutosh D. Wechalekar (a.wechalekar@ucl.ac.uk) 1National Amyloidosis Centre, University College London, London, UK\n\nanalysing tryptic peptides, utilises a reducing agent to dissociate the heavy and light chains allowing MS analysis of intact proteins. This allows both post-translational modiﬁcation change to be observed1 and minor FLC sub-clones to be monitored1. The matrix-assisted laser desorption ionization time of ﬂight mass spectrometry (MALDI-TOF or MASS-FIX) is a high throughput version of miRAMM4 which has been explored in a group of patients with plasma cell dyscrasia and has demonstrated comparable sensitivity to existing protein electrophoresis and serum FLC methods1. Here we report on a novel and simple to use MALDI-TOF-MS method for monoclonal FLC detection (FLC-MS) in a small series of patients with systemic AL amyloidosis. We included 17 serial patients with systemic AL amyloidosis, one patient with amyloid of uncertain type, and two MGUS (monoclonal gammopathy of undetermined signiﬁcance) patients, all referred to the UK National Amyloidosis Centre (UK-NAC) (Table 1). Two of the 17 patients with AL amyloidosis were selected with samples at diagnosis and post-treatment when in complete remission (CR), but with known presence of minimal residual disease (MRD) on bone marrow. Sera samples from healthy donors (n = 17), with normal kappa and lambda ratios, were also analysed using sheep polyclonal antisera (Binding-Site, Birmingham, UK) with equivalent speciﬁcity for comparison (data not shown). A diagnosis of AL amyloidosis was conﬁrmed by demonstration of characteristic birefringence under cross-polarized light with Congo-red staining on a tissue biopsy, and AL typing was conﬁrmed by immunohistochemistry or by laser\n\n© The Author(s) 2019\n\nOpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,whichpermitsuse,sharing,adaptation,distributionandreproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0180-1",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+          "source_sha256": "e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+          "source_url": "https://doi.org/10.1038/s41408-019-0180-1"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4:p2",
+        "source_issue_ids": [],
+        "text": "Sharpley et al. Blood Cancer Journal (2019) 9:16 Page 2 of 4 16\n\nTable 1 Baseline characteristics of amyloidosis patients, n = 18*\n\nn (%) Median (range)\n\nOrgans involved: 2 (1–4)\n\nCardiac 14 (77)\n\nRenal 8 (44)\n\nAutonomic and soft tissue 3 (17)\n\nPeripheral nerve 1 (6)\n\nLiver 0 (0)\n\nNT-proBNP, ng/L 3761 (245–25348)\n\nTroponin T, ng/L 35 (8–170)\n\nSerum albumin, g/L 37 (19–45)\n\neGFR, mL/min 62 (10–100)\n\nAmyloid type:\n\nAL kappa 3 (17)\n\nAL lambda 14 (78)\n\nUncertain 1 (6)\n\niFLC kappa, mg/L 78 (73–440)\n\niFLC lambda, mg/L 185 (44–1023)\n\ndFLC, mg/L 118 (33–1015)\n\nMonoclonal Intact Ig 14(77)\n\n*two MGUS patients not included in the table NT-proBNP indicates N-terminal pro b-type natriuretic peptide, eGFR estimated glomerular ﬁltration rate, AL light chain amyloidosis, iFLC involved free light chain, dFLC difference between involved and uninvolved free light chain, Ig immunoglobulin\n\ncapture mass spectrometry. All patients had detailed baseline assessments of organ function including serum FLC measurements and imaging. Organ involvement and organ response was deﬁned according to the international amyloidosis consensus criteria5. Commercially available paramagnetic microparticles were covalently coated with polyclonal sheep antibodies monospeciﬁc for human kappa FLCs (anti-free κ) and lambda FLCs (anti-free λ) (Binding-Site, Birmingham, UK). The microparticles were incubated with patient sera, washed and treated with acetic acid (5% v/v), containing tris(2-carboxyethyl)phosphine (TCEP) (20 mM), in order to elute FLCs in monomeric form. Mass spectra were acquired on a Microﬂex LT/SH smart matrix-assisted laser desorption ionization time-of-ﬂight mass spectro-meter (MALDI-TOF-MS; Bruker, GmbH). Approval for analysis and publication was obtained from the NHS institutional review board, and written consent was obtained from all patients in accordance with the Declaration of Helsinki. The baseline characteristics of patients are presented in Table 1. The FLC-MS assay conﬁrmed normal polyclonal\n\nBlood Cancer Journal\n\nkappa and lambda FLC expression in the 17 controls. The FLC-MS assay correctly identiﬁed the presence and type of monoclonal FLC in 3/3 (100%) kappa and 14/14 (100%) lambda AL amyloidosis patients (Fig. 1a–c). The FLC-MS assay did not detect any monoclonal FLC in one patient with amyloid of uncertain type, where amyloid ﬁbril type remained unclear by both immunohistochemistry and laser capture mass spectrometry, suggesting against a diagnosis of AL amyloidosis. In two patients, FLC-MS identiﬁed presence of monoclonal lambda FLC with the same molecular mass (respectively) with paired samples at diagnosis and fol-lowing achieving a serological CR post-treatment (Fig. 1d) (in both cases with normal FLC (lambda light chains < 20 mg/L in each case), and no monoclonal band in immunoﬁxation in serum and urine). Both patients achieved an organ response to treatment. The ﬁrst patient had renal involvement alone and achieved a renal response with a 61% reduction in proteinuria, but with persistent proteinuria of 2.1 g/day. The second patient had cardiac involvement and achieved a cardiac response with an 88% reduction, and normalisation, of NT-proBNP levels. Both patients had had a bone marrow examination with next generation sequencing (NGS) and next generation ﬂow cytometry (NGF), respectively, showing persistent MRD in the bone marrow to the level of < 40 cells/ 106. In lambda AL amyloidosis patients with renal involvement, the monoclonal lambda FLC tended to display a “heavy” molecular mass (m/z[2+] = 11646.2 ± 23.6) compared to normal polyclonal lambda (m/z[2+] = 11428.1 ± 4.9). Conversely, patients with cardiac involvement exhibited a monoclonal lambda FLC with a “light” mass (m/z[2+] = 11312.8 ± 16.1) relative to the normal control (Fig. 1e). This result must be interpreted with caution given the small sample size of this study, but we hope to conﬁrm and explore the signiﬁcance of this ﬁnding in a larger cohort of patients. In patients with kappa AL amyloidosis, whilst a monoclonal peak was apparent, no substantial difference in FLC molecular mass was observed when compared to normal sera (Fig. 1e). This proof of concept study demonstrates the utility of a novel MALDI-TOF-MS technique to detect and char-acterise monoclonal FLC in AL amyloidosis. The Mayo group has led the way in MASS-FIX for detection of serum monoclonal immunoglobulins and FLCs, with sensitivities similar to current electrophoretic and nephelometric/turbidimetric methods1. The FLC-MS method described here substantially extends on previous ﬁndings by demonstrating i) high diagnostic sensitivity and speciﬁcity, in this small sample; 2) 100% concordance with immunohistochemistry results; and iii) crucially identifying monoclonal light chains in patients in serological CR but with persistent MRD.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0180-1",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+          "source_sha256": "e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+          "source_url": "https://doi.org/10.1038/s41408-019-0180-1"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4:p3",
+        "source_issue_ids": [],
+        "text": "Sharpley et al. Blood Cancer Journal (2019) 9:16 Page 3 of 4 16\n\nFig. 1 Mass spectra and m/z values for FLC in patients with AL amyloidosis. Examples of kappa and lambda FLC molecular mass of a a normal control; b a patient with lambda amyloidosis and renal involvement demonstrating a “heavy mass” monoclonal FLC; c a patient with lambda amyloidosis and cardiac involvement demonstrating a “light mass” monoclonal FLC; d a patient with lambda amyloidosis and renal involvement in haematological complete response (CR) after treatment, demonstrating a “heavy mass” monoclonal FLC; e comparative median m/z FLC values from control, kappa and lambda AL amyloidosis patients; lambda FLC values for patients with cardiac and renal involvement are presented. Statistical differences relative to controls were assessed by Mann-Whitney U-test: p < 0.05 indicates signiﬁcance. Values for m/z represent the 2+ charged ions. Mass spectra for kappa FLCs are shown in green; for lambda FLC in purple\n\nIn conclusion, the unique molecular location of FLC on MS can facilitate the detection of monoclonal amyloido-genic FLCs which may allow more accurate monitoring and more informed treatment decisions based on the detection of monoclonal pathogenic FLC component. The simplicity of this MALDI-TOF assay may allow for make it easier to implement in routine laboratories (if the ﬁndings are conﬁrmed in larger studies) and the ability of MALDI-TOF MS to analyse intact FLCs may help in capturing crucial post-translational modiﬁcations, which may be key in the pathogenicity of FLC in AL amyloidosis. A study of a large cohort of uniformly treated patients with AL amyloidosis is in progress to conﬁrm our ﬁndings\n\nBlood Cancer Journal\n\nand to assess the impact of FLC-MS on survival and organ response outcomes.\n\nAcknowledgements We would like to thank the Binding Site group particularly Oscar Berlanga, Jamie Ashby for their help with this collaborative project. We would also like to thank all the clinical and nursing staff at the National Amyloidosis Centre.\n\nAuthor contributions F.S. and A.W., conceived the study, analysed the data and wrote the manuscript. R.M., S.M., S.S., P.N.H., J.G., C.W., M.F. and H.L. all contributed to the manuscript and provided critical input. All authors reviewed the ﬁnal version of the manuscript.\n\nConﬂict of interest The authors declare that they have no conﬂict of interest.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-019-0180-1",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+          "source_sha256": "e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4",
+          "source_url": "https://doi.org/10.1038/s41408-019-0180-1"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4:p4",
+        "source_issue_ids": [],
+        "text": "Sharpley et al. Blood Cancer Journal (2019) 9:16 Page 4 of 4 16\n\nPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afﬁliations.\n\nReceived: 27 November 2018 Revised: 14 January 2019 Accepted: 21 January 2019\n\nReferences 1. Milani, P. et al. The utility of MASS-FIX to detect and monitor monoclonal proteins in the clinic. Am. J. Hematol. 92, 772–779 (2017).\n\n2. Barnidge, D. R. et al. Monitoring M-proteins in patients with multiple myeloma using heavy-chain variable region clonotypic peptides and LC-MS/MS. J. Pro-teome Res. 13, 1905–1910 (2014). 3. Bergen, H. R. 3rd et al. Clonotypic light chain peptides identiﬁed for monitoring minimal residual disease in multiple myeloma without bone marrow aspiration. Clin. Chem. 62, 243–251 (2016). 4. Mills, J. R. et al. Comprehensive assessment of M-proteins using nanobody enrichment coupled to MALDI-TOF mass spectrometry. Clin. Chem. 62, 1334–1344 (2016). 5. Gertz, M. A. et al. Deﬁnition of organ involvement and treatment response in immunoglobulin light chain amyloidosis (AL): a consensus opinion from the 10th International Symposium on Amyloid and Amyloidosis, Tours, France, 18- 22 April 2004. Am. J. Hematol. 79, 319–328 (2005).\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:e9eae6dee4e5ca7675ab9d590e87d8a334f3de117137a2ff4d54fba6d64a39e4"
+}

@@ -1,0 +1,268 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:49:56.586569+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Analysis of racial and ethnic disparities in multiple myeloma US FDA drug approval trials",
+        "year": null
+      },
+      "doi": "10.1182/bloodadvances.2021005482",
+      "format": "pdf",
+      "id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+      "url": "https://doi.org/10.1182/bloodadvances.2021005482"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2021005482",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_sha256": "a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2021005482"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb:p1",
+        "source_issue_ids": [],
+        "text": "REGULAR ARTICLE\n\nAnalysis of racial and ethnic disparities in multiple myeloma US FDA drug approval trials\n\nBindu Kanapuru,1,* Laura L. Fernandes,2,*,† Lola A. Fashoyin-Aje,3 Andrea C. Baines,1 Vishal Bhatnagar,4 Rachel Ershler,1\n\nThomas Gwise,2 Paul Kluetz,4 Richard Pazdur,4 Elizabeth Pulte,5 Yuan-Li Shen,6 and Nicole Gormley1\n\n1Division of Hematologic Malignancies II, 2Division of Biometrics IX, Center for Drug Evaluation and Research, 3Division of Oncology III, Center for Drug Evaluation and Research and Oncology Center of Excellence, 4Oncology Center of Excellence, 5Division of Hematologic Malignancies I, and 6Division of Biometrics V, Center for Drug Evaluation and Research, US Food and Drug Administration, Silver Spring, MD\n\nKey Points\n\n\u0001 Black and Hispanic patients are underrepresented in global MM clinical trials.\n\n\u0001 Black patients enrolled in the United States had better survival outcomes compared with those enrolled in the RoW.\n\nAfrican Americans (AAs) have a higher incidence of multiple myeloma (MM) than White\n\npatients. Mortality is also higher in AAs compared with White patients. AAs more\n\ncommonly have immunoglobulin H translocations t(11;14) and t(14;16) compared with\n\nWhite patients. We sought to characterize the demographic representation in MM\n\nclinical trials and evaluate outcomes based on race and ethnicity. We conducted a pooled\n\nanalysis of all trials submitted to the US Food and Drug Administration (FDA) to support\n\napproval of a MM therapeutic between 2006 and 2019. Demographic characteristics were\n\nanalyzed descriptively. An age-adjusted stratiﬁed Cox regression model was used to\n\nevaluate the relationship between time-to-event outcomes and race and ethnicity.\n\nNineteen global trials comprising 10 157 patients were pooled. White, Asian, and Black\n\npatients comprised 84%, 7%, and 4% of the dataset, respectively; Hispanic patients\n\ncomprised 4%. The age-adjusted overall survival hazard ratio (HR) for Black compared\n\nwith White patients was 0.89 (95% conﬁdence interval [CI], 0.75-1.05). The age-adjusted\n\nHR for US Black vs US White patients was 0.82 (95% CI, 0.66-1.02). For rest-of-world\n\n(RoW) Black vs RoW White patients, the HR was 1.31 (95% CI, 0.97-1.77). Black and\n\nHispanic patients were underrepresented in the trials supporting FDA approval of MM\n\ndrugs. Black patients were primarily enrolled in the United States. Outcomes in US\n\npatients were more favorable compared with those in patients in the RoW. Given the\n\nhigher incidence of MM in AAs and the different disease characteristics, efforts should be\n\nmade to improve representation of AAs in MM clinical trials.\n\nIntroduction\n\nMultiple myeloma (MM) is a malignancy characterized by clonal expansion of plasma cells in the bone marrow and overproduction of monoclonal immunoglobulins, leading to impaired hematopoiesis, bone destruction, and renal failure. MM is the second most common hematologic malignancy in the United States, with an estimated 32 110 new cases of MM in 2019 and 12960 deaths resulting from the disease.1\n\nSubmitted 8 June 2021; accepted 15 January 2022; prepublished online on Blood Advances First Edition 3 February 2022; ﬁnal version published online 14 March 2022. DOI 10.1182/bloodadvances.2021005482.\n\n*B.K. and L.L.F. are joint ﬁrst authors.\n\n†Laura L. Fernandes was employed at the FDA throughout the manuscript preparation and submission process.\n\nThe full-text version of this article contains a data supplement.\n\nLicensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), permitting only noncommercial, nonderivative use with attribution. All other rights reserved.\n\n1684 22 MARCH 2022 • VOLUME 6, NUMBER 6",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2021005482",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_sha256": "a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2021005482"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb:p2",
+        "source_issue_ids": [],
+        "text": "African Americans (AAs) are disproportionately affected by MM. Data from the National Cancer Institute Statistics, Epidemiology, and End Results Program have consistently shown a higher incidence of MM among AAs. Most recently, in 2019, it was estimated that per 100 000 individuals, there would be 15.8 new cases of MM among AAs, compared with 6.9 cases among White patients.1\n\nAlthough patient outcomes in MM have improved in the early 21st century,2-4 disparities exist among different racial and ethnic groups, both in the United States and worldwide.5-8 The underlying reason for the disparity is likely multifactorial. Differences in incidence, disease biology, comorbid conditions, access to care, and access to novel treatments or clinical trials may all inﬂuence outcomes and contribute to the observed disparities.\n\nAAs have a higher risk of MM and the precursor condition monoclonal gammopathy of undetermined signiﬁcance compared with White individuals.9,10 A study in Ghana found a rate of monoclonal gammopathy of undetermined signiﬁcance comparable to that seen in AAs, suggesting a possible genetic susceptibility.11 Age at onset affects prognosis for patients with MM, with younger patients generally having better outcomes compared with older patients. MM occurs at a younger median age in AA patients compared with White patients.7,12,13 There is also evidence to suggest that there are differences in disease biology between people of different races, including an increase in the rate of immunoglobulin A disease among Africans and people of African descent,9 and differences in cytogenetics and molecular alterations between AAs and White individuals.14-16 Notably, translocations involving chromosome 14 (ie, t[11;14], t[14;16], and t[14;20]) occur more frequently in individuals of African ancestry, and higher rates of TP53 mutation have been observed among White individuals.14,15\n\nDifferences in access to care and novel treatments have the potential to lead to differences in survival. A number of publications have documented differences in the rate of use of autologous stem cell transplantation (ASCT) and novel therapies among ethnic and racial minorities,12,17 generally showing that Black and Hispanic patients are less likely to undergo ASCT and, when they undergo ASCT, more likely to do so later in their disease course.12,18-20 Studies have demonstrated that AA and Hispanic patients have a longer time from diagnosis to initiation of novel therapy compared with White patients.7,21\n\nWhen considering outcomes, several studies examining survival in patients of African descent vs White patients have found no difference in or superior survival among the former.22-24 One study of patients treated in the Veterans Affairs system, which closely exam-ined the treatment administered, determined that with equal access to treatment, AAs had improved overall survival (OS) compared with White individuals among patients age ,65 years; however, this was not observed in older patients (ie, age $65 years).22 The same study found that there was a slight but statistically signiﬁcant difference in the type of novel agent used for induction, with White patients more likely to receive thalidomide and AA patients more likely to receive a combination of lenalidomide and bortezomib during the induction period.\n\nAlthough fewer studies are available documenting survival for other racial or ethnic populations, a Statistics, Epidemiology, and End Results Program–based analysis demonstrated that Hispanics had\n\na younger age at diagnosis and worse median OS compared with White patients.25\n\nBased on these differences observed in disease biology and previous observations of underrepresentation of racial and ethnic minorities in clinical trials of MM,26 we sought to evaluate representation and outcomes in MM clinical trials used to support drug approvals in the United States. Given the greater incidence of MM in AAs compared with White patients, and previous disparities highlighted between these groups, this study primarily focuses on a comparison of MM outcomes between these 2 groups and, to a lesser extent, characterization of outcomes in patients with Hispanic ethnicity.\n\nMethods\n\nSelection criteria\n\nThis study was conducted with clinical trial data submitted to the US Food and Drug Administration (FDA) between 2006 and 2019. FDA internal databases were queried for all pivotal clinical trials submitted during this timeframe that were submitted in support of approval of a MM drug. Trials that did not collect racial data were excluded from the analysis.\n\nStudy measures\n\nBaseline demographic characteristics (ie, age, sex, race, ethnicity, and country) and baseline patient and disease characteristics (ie, prior ASCT, prior lines of therapy, and Eastern Cooperative Oncology Group performance status) were collected and standardized in the pooled data set. Missing demographic and patient parameters were coded as unknown.\n\nOutcome measures of overall response rate (ORR), progression-free survival (PFS), and OS, as deﬁned within the individual trials, were also collected. Data cutoffs for these outcome measures matched the information included in the US prescribing information.\n\nOf note, in this article, the term AAs is used to refer to Black patients enrolled in US trials. Other terminology may be used when referring to other source material.\n\nStatistical methods\n\nAssociation of demographic characteristics, race (Black or Asian vs White as reference), ethnicity (Hispanic or unknown vs not Hispanic as reference), and region (United States vs rest of world [RoW]) with the time-to-event outcomes PFS and OS was assessed using individual Cox proportional hazards models adjusting for age as a covariate. Separate models were used to study the subgroup analysis of race and ethnicity by region (United States and RoW). The models were stratiﬁed by individual study identiﬁers to account for within-trial heterogeneity. Similarly, the association between ORR and demographic characteristics was explored using binary outcome logistic regression models, stratiﬁed by study and adjusted for age as a covariate. Kaplan-Meier plots were used to provide estimates of the median survival times. Because of the small number of patients in the other race categories, the efﬁcacy analysis is presented for White, Black, and Asian patients only. All analyses were exploratory and did not adjust for multiplicity. Therefore, p values are not presented for any of the comparisons.\n\n22 MARCH 2022 • VOLUME 6, NUMBER 6 RACIAL AND ETHNIC DISPARITIES IN MM TRIALS 1685",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2021005482",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_sha256": "a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2021005482"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb:p3",
+        "source_issue_ids": [],
+        "text": "Table 1. Demographics by region\n\nTotal (N 5 10 157) United States (n 5 1719) RoW (n 5 8438)\n\nAge, y\n\nMedian (IQR) 68 (60-73) 64 (57-71) 68 (61-74)\n\n,65 3771 (37) 896 (52) 2875 (34)\n\n65-84 5646 (56) 711 (41) 4935 (58)\n\n$85 739 (7) 112 (7) 627 (7)\n\nRace\n\nAmerican Indian or Alaska Native 4 (,1) 1 (,1) 3 (,1)\n\nAsian 693 (7) 19 (1) 674 (8)\n\nBlack 405 (4) 311 (18) 94 (1)\n\nNative Hawaiian or other Paciﬁc Islander 10 (,1) 3 (,1) 7 (,1)\n\nOther 180 (2) 47 (3) 133 (2)\n\nUnknown 330 (3) 38 (2) 292 (3)\n\nWhite 8535 (84) 1300 (76) 7235 (86)\n\nEthnicity\n\nHispanic or Latino 420 (4) 95 (6) 325 (4)\n\nNot Hispanic or Latino 7705 (76) 1275 (74) 6430 (76)\n\nUnknown 2032 (20) 349 (20) 1683 (20)\n\nSex\n\nFemale 4619 (45) 748 (44) 3871 (46)\n\nMale 5538 (55) 971 (56) 4567 (54)\n\nData are presented as n (%) unless otherwise indicated. IQR, interquartile range.\n\nResults\n\nDemographics\n\nRace. In total, there were 10157 patients enrolled in 19 clinical trials (4 single arm trials and 15 randomized controlled trials) that contributed to the pooled analysis data set. Three trials included patients with newly diagnosed MM, and the remainder enrolled patients with relapsed or refractory MM (Table 1; data supplement). The pooled analysis included 8535 White (84%), 693 Asian (7%), and 405 Black patients (4%; Table 1). Race was not reported in 3% of patients in the pooled set. Four patients (0.04%) were American Indian or Alaska Natives, and 10 patients were Native Hawaiian or other Paciﬁc Islander. The median age was 68 years (IQR, 61-74) among White, 61 years (IQR, 55-69) among Black, and 66 years (IQR, 61-73) among Asian patients (Table 2).\n\nEthnicity. A total of 420 patients (4%) reported Hispanic ethnicity in the pooled data set. Information regarding ethnicity was not reported for 2032 patients (20%). The median age for Hispanic patients was 68 years (IQR, 63-73; Table 2).\n\nGeographic representation. Among the 10 157 patients included in the pooled data set, 1719 patients (17%) were enrolled in the United States, compared with 8438 patients (85%) in the RoW (Table 1). Individual countries represented in the RoW and enrollment by trial and region are shown in Table 2 and supplemen-tal Table 3. The median age of patients enrolled in the United States was 64 years (IQR, 57-71), compared with 68 years (IQR, 61-74)\n\nTable 2. Demographics and baseline characteristics by race and ethnicity\n\nWhite (n 5 8535) Black (n 5 405) Asian (n 5 693) Hispanic (n 5 420)\n\nAge, y\n\nMedian (IQR) 68 (61-74) 61 (55-69) 66 (61-73) 68 (63-73)\n\n,65 3025 (35) 249 (61) 281 (41) 135 (32)\n\n65-84 4841 (57) 145 (36) 382 (55) 253 (60)\n\n.85 668 (8) 11 (3) 30 (4) 32 (8)\n\nEthnicity\n\nHispanic or Latino 358 (4) 15 (4) 2 (0) 420 (100)\n\nNot Hispanic or Latino 6694 (78) 288 (71) 603 (87) 0\n\nUnknown 1483 (17) 102 (25) 88 (13) 0\n\nSex\n\nFemale 3864 (45) 211 (52) 311 (45) 191 (45)\n\nMale 4671 (55) 194 (48) 382 (55) 229 (55)\n\nRegion\n\nRoW 7235 (85) 94 (23) 674 (97) 325 (77)\n\nUnited States 1300 (15) 311 (77) 19 (3) 95 (23)\n\nASCT\n\nYes 4771 (56) 123 (30) 424 (61) 231 (55)\n\nNo 3660 (43) 278 (69) 268 (39) 175 (42)\n\nMissing 104 (1) 4 (1) 1 (0) 14 (3)\n\nPrior lines\n\nNo* 2721 (32) 34 (8) 224 (32) 169 (40)\n\nYes 5814 (68) 371 (92) 469 (68) 251 (60)\n\nECOG†\n\n0 3100 (36) 138 (34) 277 (40) 174 (41)\n\n1 4409 (52) 234 (58) 334 (48) 184 (44)\n\n$2 939 (11) 32 (7) 66 (10) 59 (14)\n\nMissing 38 (,1) 0 (0) 2 (,1) 3 (1)\n\nData are presented as n (%) unless otherwise indicated. ASCT, Receipt of autologous stem cell transplantation; ECOG, Eastern Cooperative Oncology Group. *No prior lines represents patients with newly diagnosed MM. †64 patients were reported as having an ECOG of 1 or 2.\n\nfor patients enrolled in the RoW. The proportion of Black patients enrolled in the United States was higher than that in the RoW (18% vs 1%).\n\nObserved outcomes\n\nOS. Through an age-adjusted survival analysis, we observed that survival in Black and Asian patients was numerically longer compared with that in White patients (Figure 1A; Table 3) in this data set. In White patients (reference population), the estimated median OS was 47.8 months (95% CI, 46.2-49.3). In Black patients, the estimated median OS was 63.4 months (95% CI, 47.8-94.4), with an HR of 0.89 (95% CI, 0.75-1.05), compared with White patients. The estimated median OS in Asian patients was 46.0 months (95% CI, 42.3 to NE), with a HR of 0.87 (95% CI, 0.74-1.01), compared with White patients. No differences in OS were noted in Hispanic patients compared with non-Hispanic patients (HR, 0.9; 95% CI, 0.75-1.06).\n\n1686 KANAPURU et al 22 MARCH 2022 • VOLUME 6, NUMBER 6",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2021005482",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_sha256": "a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2021005482"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb:p4",
+        "source_issue_ids": [],
+        "text": "1.00 A B\n\nOverall survival by race\n\nOverall survival by region\n\n1.00\n\nRoW race Survival probability Survival probability\n\nSurvival probability\n\n0.75\n\n0.75\n\n0.50\n\n0.50\n\n0.25\n\n0.25\n\n0.00\n\n0.00\n\n0\n\n30 60 Time (in months)\n\n90 120\n\n0 30 60 Time (in months)\n\n90 120\n\nNumber at risk (number censored)\n\nNumber at risk (number censored)\n\nUS 1719 (0) 786 (514) 384 (743) 88 (977) 0 (1056) 8438 (0) 2980 (3094) 452 (4896) 82 (5168) 0 (5242) RoW\n\nWhite 8535 (0) 3199 (2941) 711 (4639) 138 (5068) 0 (5194) 405 (0) 157 (146) 75 (195) 18 (244) 0 (259) 0 (516) 4 (513) 5 (513) 202 (349) 693 (0) Black Asian\n\n0 30 60 Time (in months)\n\n90 120\n\n0 30 60 Time (in months)\n\n90 120\n\nUS RoW White Black Asian\n\nC D\n\nOverall survival by race in the RoW\n\nOverall survival by race in the United States\n\n1.00\n\n1.00\n\nSurvival probability\n\n0.75\n\n0.75\n\n0.50\n\n0.50\n\n0.25\n\n0.25\n\n0.00\n\n0.00\n\n90 120\n\n0 30 60 Time (in months)\n\n30 60\n\n90 120\n\n0\n\nTime (in months)\n\nNumber at risk (number censored)\n\nNumber at risk (number censored)\n\nWhite 1300 (0) 603 (369) 286 (545) 60 (721) 0 (775) 311 (0) 132 (111) 73 (147) 17 (195) 0 (210)\n\nUS race\n\nWhite 7235 (0) 2596 (2572) 425 (4094) 78 (4347) 0 (4419) 94 (0) 25 (35) 2 (48) 1 (49) 0 (49) 0 (502) 2 (501) 2 (501) 193 (341) 674 (0) Black Asian\n\n0 (14) 2 (12) 3 (12) 9 (8) 19 (0) Black Asian\n\n0 30 60 Time (in months)\n\n90 120\n\n0 30 60 Time (in months)\n\n90 120\n\nWhite US race Black Asian White RoW race Black Asian\n\nFigure 1. Kaplan-Meier curves for OS. (A-D) OS between White, Black, and Asian racial subgroups enrolled in MM clinical trials (A), patients (all races) with MM\n\nenrolled in the United States and RoW (B), US White, Black, and Asian racial subgroups (C), and RoW White, Black, and Asian racial subgroups (D).\n\nA regional analysis of OS showed that patients in the United States had longer survival compared with patients in the RoW, with an estimated median OS of 64.7 months (95% CI, 58.4-71.9) and 45.8 months (95% CI, 44.1-47.7), respectively (HR, 0.78; 95% CI, 0.69- 0.89; Figure 1B). Among US patients, OS in Black patients was longer than in White patients, with an estimated median OS of 81.6 months (95% CI, 63.4 to NE) and 60.4 months (95% CI, 54.7- 67.7), respectively (HR, 0.82; 95% CI, 0.66-1.02; Figure 1C). However, among patients in the RoW, Black patients had shorter survival compared with White patients, with an estimated median OS of 34.4 months (95% CI, 23.8-54.1) and 45.7 months (95% CI, 44- 47.7), respectively (HR, 1.31; 95% CI, 0.97-1.77; Figure 1D). In the RoW, Asian patients seemed to do better, with an estimated median OS of 47.5 months (95% CI, 41 to NE), compared with White patients (HR, 0.87; 95% CI, 0.74-1.02). Hispanic patients had similar survival outcomes in comparison with non-Hispanic patients in the United States and the RoW.\n\nPFS. The analysis of PFS revealed no differences based on race or ethnicity (Table 3).\n\nORR. The results of the analysis of ORR revealed numeric differences in response rates based on race (Table 4). The observed ORR was 66% (95% CI, 65-67) for White, 57% (95% CI, 52-61) for Black, and 75% (95% CI, 71-78) for Asian patients. There was also a numeric difference in ORR for the United States vs the RoW; ORR was 59% (95% CI, 57-62) in the United States and 67% (95% CI, 66-68) in the RoW.\n\nBased on estimates from a study-stratiﬁed logistic regression model, Black patients had 8% lower odds of having a response compared with White patients (study-stratiﬁed OR, 0.92; 95% CI, 0.80-1.06). Conversely, Asian patients had 11% higher odds of having a response compared with White patients (OR, 1.11; 95% CI, 1.01-1.21). The 95% CIs spanned 1 for Black patients compared with White patients, indicating no statistically signiﬁcant difference in the OR.\n\nPatients in the United States had 11% lower odds of having a response compared with patients in the RoW (OR, 0.89; 95% CI, 0.81-0.98).\n\nHispanic patients had an ORR of 67% (95% CI, 68-71) overall, 73% (95% CI, 63-81) in the United States, and 65% (95% CI,\n\n22 MARCH 2022 • VOLUME 6, NUMBER 6 RACIAL AND ETHNIC DISPARITIES IN MM TRIALS 1687",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2021005482",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_sha256": "a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2021005482"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb:p5",
+        "source_issue_ids": [],
+        "text": "Table 3. Summary of OS and PFS by race, region, and ethnicity\n\nOverall United States RoW\n\nn (events) Median* (95% CI) HR* (95% CI) n (events) Median* (95% CI) HR* (95% CI) n (events) Median* (95% CI) HR* (95% CI)\n\nOS\n\nRace\n\nWhite 8535 (3341) 47.8 (46.2-49.3) Ref 1300 (525) 60.4 (54.7-67.7) Ref 7235 (2816) 45.7 (44-47.7) Ref\n\nBlack 405 (146) 63.4 (47.8-94.4) 0.89 (0.75-1.05) 311 (101) 81.6 (63.4 to NE) 0.82 (0.66-1.02) 94 (45) 34.4 (23.8-54.1) 1.31 (0.97-1.77)\n\nAsian 693 (177) 46 (42.3 to NE) 0.87 (0.74-1.01) 19 (5) 77 (43.1 to NE) 0.69 (0.28-1.68) 674 (172) 47.5 (41 to NE) 0.87 (0.74-1.02)\n\nRegion\n\nUnited States 1719 (663) 64.7 (58.4-71.9) 0.78 (0.69-0.89)\n\nRoW 8438 (3196) 45.8 (44.1-47.7) Ref\n\nEthnicity\n\nNot Hispanic 7705 (2616) 53.1 (50.1-55.6) Ref 1275 (467) 71 (64.9-85.6) Ref 6430 (2149) 49 (47-51.2) Ref\n\nHispanic 420 (137) 58.7 (49.4-78.3) 0.9 (0.75-1.06) 95 (31) 78.3 (49.4 to NE) 0.88 (0.61-1.27) 325 (106) 58.3 (47.5 to NE) 0.9 (0.74-1.1)\n\nUnknown 2032 (1106) 36.2 (33.9-39.2) 1.03 (0.89-1.19) 349 (165) 27.1 (20.7-46.4) 1.18 (0.82-1.7) 1683 (941) 37 (34.9-40.3) 0.91 (0.76-1.09)\n\nPFS\n\nRace\n\nWhite 8535 (4214) 19.1 (18.4-19.6) Ref 1300 (726) 24.9 (21.2-28.1) Ref 7235 (3488) 18.7 (18.2-19.4) Ref\n\nBlack 405 (227) 16.6 (12.3-20.1) 1 (0.87-1.16) 311 (182) 17.8 (12.9-21.2) 1.02 (0.86-1.21) 94 (45) 12.3 (9.3-23.1) 1.15 (0.86-1.55)\n\nAsian 693 (299) 18.1 (16.6-20) 1 (0.89-1.13) 19 (15) 8.9 (5.4 to NE) 1.75 (1.02-2.99) 674 (284) 18.4 (16.6-20.3) 0.97 (0.86-1.1)\n\nRegion\n\nUnited States 1719 (978) 19.4 (17.3-20.5) 0.88 (0.78-0.98)\n\nRoW 8438 (4040) 18.5 (18-19.4) Ref\n\nEthnicity\n\nNot Hispanic 7705 (3712) 20.4 (19.6-21.2) Ref 1275 (694) 24.1 (20.5-27.4) Ref 6430 (3018) 20 (19.3-20.8) Ref\n\nHispanic 420 (206) 20.1 (17.6-23.6) 0.98 (0.85-1.13) 95 (51) 22.8 (16.4-31) 1.07 (0.81-1.43) 325 (155) 19.6 (15.7-23.7) 0.96 (0.82-1.13)\n\nUnknown 2032 (1100) 11.9 (10.8-13.1) 1.02 (0.9-1.16) 118 (57) 22.5 (18.6-42.7) 0.94 (0.68-1.3) 1914 (1043) 11.2 (10.3-12.5) 1.02 (0.88-1.19)\n\nCI, conﬁdence interval; HR, hazard ratio; NE, not estimable; Ref, reference group. *HR was based on study-stratiﬁed Cox regression analyses, adjusted for age as a covariate, whereas the median was not age adjusted.\n\n60-70) in the RoW. Among Hispanics, there was no statistically signiﬁcant difference in the OR estimated from the study-stratiﬁed logistic regression model in the overall population or in the regions (Table 4).\n\nDiscussion\n\nThis pooled analysis constitutes the largest analysis to date to characterize the demographics and outcomes of patients enrolled in trials supporting drug approvals for MM therapeutics in the United States. Eighteen of the 19 trials included in the analysis were global trials. Overall, US patients represented 17% of the total population in these trials. Despite the greater incidence of MM in Black compared with White patients, Black patients represented a mere 4% of the patients in these trials. Hispanic ethnicity was reported in only 4% of patients. Although the overall percentage of Black patients enrolled in the United States was 18%, in terms of absolute numbers, Black patients comprised #6% of the population enrolled in the United States in 17 of the 19 individual trials and #10 patients in the RoW in 18 of the 19 trials.\n\nIn general, there were no differences in the results of PFS or ORR by race, although there was a trend toward lower ORR in Black\n\ncompared with White patients. When evaluating these results in the context of the improvement in OS that was observed in Black patients, there are several important considerations that may explain this apparent discrepancy. First, it is important to consider that although OS is an extremely important endpoint, it may be affected by subsequent and previous therapies, given that patients with MM are likely to receive many courses of therapy during their disease course. Conversely, ORR is more closely tied to an assessment of beneﬁt from a speciﬁc therapy administered. Therefore, when com-paring outcomes among different populations over time, there may be discrepant results between an assessment of ORR after a speciﬁc therapy and an assessment of OS that encapsulates multiple therapies. Additionally, OS is affected by underlying disease biology. As has been previously reported, there are signiﬁcant differences in the underlying disease biology of MM among Black compared with White patients. Black patients have a younger age at diagnosis (which in itself may portend better outcome), greater incidence of disease, and a different and more favorable cytogenetic proﬁle. These underlying differences may favorably affect OS, but may not favorably affect the likelihood of response to a speciﬁc therapy. Previous studies27 have suggested this, in that 10-year relative survival rates improved among non-Hispanic White but not in non-Hispanic Black patients, suggesting that Black patients may not be beneﬁting\n\n1688 KANAPURU et al 22 MARCH 2022 • VOLUME 6, NUMBER 6",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2021005482",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_sha256": "a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2021005482"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb:p6",
+        "source_issue_ids": [],
+        "text": "Table 4. Summary of ORR by race, region, and ethnicity\n\nOverall United States RoW\n\nn/N ORR (95% CI) OR* (95% CI) n/N ORR (95% CI) OR* (95% CI) n/N ORR (95% CI) OR* (95% CI)\n\nRace\n\nWhite 5660/8535 66 (65-67) Ref 784/ 1300 60 (58-63) Ref 4876/7235 67 (66-68) Ref\n\nBlack 229/405 57 (52-61) 0.92 (0.80-1.06) 177/311 57 (51-62) 0.97 (0.82-1.14) 52/94 55 (45-66) 0.91 (0.69-1.20)\n\nAsian 518/693 75 (71-78) 1.11 (1.01-1.21) 12/19 63 (38-84) 1.30 (0.73-2.31) 506 /674 75 (72-78) 1.1 (1.00-1.21)\n\nRegion\n\nUnited States 1021/1719 59 (57-62) 0.89 (0.81-0.98)\n\nRoW 5692/8438 67 (66-68) Ref\n\nEthnicity\n\nNot Hispanic 5354/7705 69 (68-71) Ref 825/1275 65 (62-67) Ref 4529/6430 70 (69-72) Ref\n\nHispanic 281/420 67 (68-71) 1.01 (0.89-1.14) 69/95 73 (63-81) 1.12 (0.88-1.44) 212/325 65 (60-70) 0.98 (0.86-1.13)\n\nUnknown 1078/2032 53 (51-55) 1.01 (0.91-1.13) 127/349 36 (31-42) 0.84 (0.64-1.11) 951/1683 57 (54-59) 1.01 (0.88-1.5)\n\nOR, odds ratio. *OR was based on study-stratiﬁed logistic regression adjusted for age as a covariate.\n\nfrom the use of novel therapies to the same degree as White patients.\n\nThese are conjectures to explain the observed discrepancies between OS and ORR, but if the observed ﬁndings are correct and the possible etiologies are also correct, this only further underscores the importance of obtaining adequate information on the safety and efﬁcacy of anti-myeloma therapies in a representative and diverse patient population. There may be differences in response to a speciﬁc therapy based on race and ethnicity, but if there is inadequate representation, we will not know.\n\nThe underrepresentation observed may also limit a robust assessment of the estimated differences in outcomes by race and ethnicity undertaken in this analysis. Despite pooling, Black patients comprised only 4% of the total patients in this analysis. Results in this subgroup have wide CIs and preclude robust comparisons because of the limited size in the data set. Another limitation is incomplete information for potentially prognostic baseline characteristics, such as cytogenetics or line of therapy. This information was not consistently available for patients in the pooled data set, precluding adjustment for these baseline prognostic variables in the analysis.\n\nFrom a statistical perspective, there are several limitations. First, this analysis did not adjust for multiplicity. Second, it is important to emphasize that this was a pooled analysis of trials designed to evaluate a treatment effect of a speciﬁc drug or regimen. We were unable to assess the potential impact of treatment on these race-and ethnicity-based outcomes because of small numbers, treatment heterogeneity, and combination regimens, which limits attribution to a speciﬁc class of therapy. Treatment effect heterogeneity across trials and aggregation of the constituent data sets used in these analyses implies that caution should be used in generalization based on these results.\n\nTo address treatment heterogeneity, we conducted several analyses to investigate this issue, and the results were consistent. A stratiﬁed age-adjusted Cox regression model with treatment and study arm as strata, and additional baseline covariates (sex,\n\nEastern Cooperative Oncology Group, and prior ASCT), was ﬁt-ted to the data and yielded results consistent with those in the primary analysis. However, because of the aforementioned limitations, the conclusions should be considered hypothesis generat-ing, and the results should be viewed in that context.\n\nNotwithstanding these limitations, the analysis suggests better outcomes in US patients compared with patients in the RoW and better survival outcomes in Black compared with White and Asian patients. Factors that were not evaluable in the context of this analysis may include medical practice pattern differences, differences in the biology of the disease, and cytogenetic differences, among other factors. The observed favorable survival in Black patients enrolled in the United States but not in Black patients enrolled in the RoW may reﬂect differences in the stan-dard of care, although the current analysis did not evaluate this. Future trials of anti-myeloma therapies should be sufﬁciently representative of the US patient population to support robust assessments of outcomes by clinically important demographic factors such as race.\n\nThis pooled analysis underscores the signiﬁcant underrepresentation of Black and Hispanic patients in MM clinical trials submitted to the FDA for registrational intent. Although AAs represent 13% of the US population and \u000320% of patients with MM in the United States, they represented only 4% of patients included in the trials used to support drug approval. A larger proportion of patients who were reported to be Black were enrolled in the United States compared with the RoW (17.5% vs 4%). However, because 85% of the population in the 19 trials were enrolled in the RoW, the 17.5% enrollment rate of Black patients in the United States, while encouraging, is not sufﬁcient to assess racial differences in outcome by race in individual clinical trials supporting drug approval trials. Additionally, our analysis suggested differential outcomes among Black patients in the RoW compared with AAs, suggesting that efforts to enroll a more diverse population that is reﬂective of the US population of patients with MM should be directed toward increasing accrual of underrepresented demographic subsets in the United States. Such efforts may include increasing accrual of AAs across individual\n\n22 MARCH 2022 • VOLUME 6, NUMBER 6 RACIAL AND ETHNIC DISPARITIES IN MM TRIALS 1689",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2021005482",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_sha256": "a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2021005482"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb:p7",
+        "source_issue_ids": [],
+        "text": "clinical sites, as well as increasing the number of sites with high potential to enroll a diverse population. The FDA has encouraged the broadening of eligibility criteria and adoption of more inclusive enrollment practices to open clinical trials to a diverse participant population reﬂective of the population that will use a drug if it is approved.28 Obtaining information about the safety and efﬁcacy of anti-myeloma therapeutics in trials that are reﬂective of the US patient population affected is paramount and should be imple-mented expeditiously.\n\nAcknowledgments\n\nThe authors thank and acknowledge the contribution of the patients who participated in the clinical trials and the physicians who cared for these patients; Jacquelyn Sanchez at Palantir for helping in the data collation efforts; and Kirsten Goldberg for editorial assistance.\n\nReferences\n\nAuthorship\n\nContribution: All authors contributed to the design of the research, data collection, analysis, and writing of the manuscript.\n\nConﬂict-of-interest disclosure: L.L.F. completed this work while an employee of the US Food and Drug Administration and has since left the FDA. The remaining authors are employees of the US Food and Drug Administration, a federal entity. The authors declare no other competing ﬁnancial interests.\n\nORCID proﬁles: L.A.F-A., 0000-0001-7328-7813; A.C.B., 0000-0002-9372-415X.\n\nCorrespondence: Bindu Kanapuru, Center for Drug Evaluation and Research, US Food and Drug Administration, 10903 New Hampshire Ave, Silver Spring, MD 20993; e-mail: bindu. kanapuru@fda.hhs.gov.\n\n1. Howlader N, Noone AM, Krapcho M, et al, eds. SEER Cancer Statistics Review, 1975-2016. https://seer.cancer.gov/csr/1975_2016/. Accessed 16 May 2020.\n\n2. Brenner H, Gondos A, Pulte D. Recent major improvement in long-term survival of younger patients with multiple myeloma. Blood. 2008;111(5): 2521-2526.\n\n3. Thorsteinsdottir S, Dickman PW, Landgren O, et al. Dramatically improved survival in multiple myeloma patients in the recent decade: results from a Swedish population-based study. Haematologica. 2018;103(9):e412-e415.\n\n4. Paquin AR, Kumar SK, Buadi FK, et al. Overall survival of transplant eligible patients with newly diagnosed multiple myeloma: comparative effectiveness analysis of modern induction regimens on outcome. Blood Cancer J. 2018;8(12):125.\n\n5. Waxman AJ, Mink PJ, Devesa SS, et al. Racial disparities in incidence and outcome in multiple myeloma: a population-based study. Blood. 2010; 116(25):5501-5506.\n\n6. Pulte D, Redaniel MT, Brenner H, Jansen L, Jeffreys M. Recent improvement in survival of patients with multiple myeloma: variation by ethnicity. Leuk Lymphoma. 2014;55(5):1083-1089.\n\n7. Ailawadhi S, Azzouqa AG, Hodge D, et al. Survival trends in young patients with multiple myeloma: a focus on racial-ethnic minorities. Clin Lymphoma Myeloma Leuk. 2019;19(10):619-623.\n\n8. Chan HSH, Milne RJ. Impact of age, sex, ethnicity, socio-economic deprivation and novel pharmaceuticals on the overall survival of patients with multiple myeloma in New Zealand. Br J Haematol. 2020;188(5):692-700.\n\n9. Greenberg AJ, Vachon CM, Rajkumar SV. Disparities in the prevalence, pathogenesis and progression of monoclonal gammopathy of undetermined signiﬁcance and multiple myeloma between blacks and whites. Leukemia. 2012;26(4):609-614.\n\n10. Landgren O, Gridley G, Turesson I, et al. Risk of monoclonal gammopathy of undetermined signiﬁcance (MGUS) and subsequent multiple myeloma among African American and white veterans in the United States. Blood. 2006;107(3):904-906.\n\n11. Landgren O, Katzmann JA, Hsing AW, et al. Prevalence of monoclonal gammopathy of undetermined signiﬁcance among men in Ghana. Mayo Clin Proc. 2007;82(12):1468-1473.\n\n12. Fiala MA, Wildes TM. Racial disparities in treatment use for multiple myeloma. Cancer. 2017;123(9):1590-1596.\n\n13. Ailawadhi S, Jacobus S, Sexton R, et al. Disease and outcome disparities in multiple myeloma: exploring the role of race/ethnicity in the cooperative group clinical trials. Blood Cancer J. 2018;8(7):67.\n\n14. Kazandjian D, Hill E, Hultcrantz M, et al. Molecular underpinnings of clinical disparity patterns in African American vs. Caucasian American multiple myeloma patients. Blood Cancer J. 2019;9(2):15.\n\n15. Manojlovic Z, Christofferson A, Liang WS, et al. Comprehensive molecular proﬁling of 718 multiple myelomas reveals signiﬁcant differences in mutation frequencies between African and European descent cases. PLoS Genet. 2017;13(11):e1007087.\n\n16. Baughn LB, Pearce K, Larson D, et al. Differences in genomic abnormalities among African individuals with monoclonal gammopathies using calculated ancestry. Blood Cancer J. 2018;8(10):96.\n\n17. Ailawadhi S, Frank RD, Advani P, et al. Racial disparity in utilization of therapeutic modalities among multiple myeloma patients: a SEER-medicare analysis. Cancer Med. 2017;6(12):2876-2885.\n\n18. Bhatnagar V, Wu Y, Goloubeva OG, et al. Disparities in black and white patients with multiple myeloma referred for autologous hematopoietic transplantation: a single center study. Cancer. 2015;121(7):1064-1070.\n\n19. Costa LJ, Huang JX, Hari PN. Disparities in utilization of autologous hematopoietic cell transplantation for treatment of multiple myeloma. Biol Blood Marrow Transplant. 2015;21(4):701-706.\n\n1690 KANAPURU et al 22 MARCH 2022 • VOLUME 6, NUMBER 6",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1182/bloodadvances.2021005482",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_sha256": "a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb",
+          "source_url": "https://doi.org/10.1182/bloodadvances.2021005482"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb:p8",
+        "source_issue_ids": [],
+        "text": "20. Schriber JR, Hari PN, Ahn KW, et al. Hispanics have the lowest stem cell transplant utilization rate for autologous hematopoietic cell transplantation for multiple myeloma in the United States: a CIBMTR report. Cancer. 2017;123(16):3141-3149.\n\n21. Kumar V, Alhaj-Moustafa M, Bojanini L, et al. Timeliness of initial therapy in multiple myeloma: trends and factors affecting patient care. JCO Oncol Pract. 2020;16(4):e341-e349.\n\n22. Fillmore NR, Yellapragada SV, Ifeorah C, et al. With equal access, African American patients have superior survival compared to white patients with multiple myeloma: a VA study. Blood. 2019;133(24):2615-2618.\n\n23. Pulte ED, Nie L, Gormley N, et al. Survival of ethnic and racial minority patients with multiple myeloma treated with newer medications. Blood Adv. 2018;2(2):116-119.\n\n24. Sweiss K, Oh A, Calip GS, Rondelli D, Patel P. Superior survival in African American patients who underwent autologous stem cell transplantation for multiple myeloma. Clin Lymphoma Myeloma Leuk. 2019;19(8):e506-e511.\n\n25. Ailawadhi S, Aldoss IT, Yang D, et al. Outcome disparities in multiple myeloma: a SEER-based comparative analysis of ethnic subgroups. Br J Haematol. 2012;158(1):91-98.\n\n26. Bhatnagar V, Gormley N, Kazandjian D, et al. FDA analysis of racial demographics in multiple myeloma trials [abstract]. Blood. 2017;130(suppl 1): 4352. Abstract 4352.\n\n27. Costa LJ, Brill IK, Omel J, Godby K, Kumar SK, Brown EE. Recent trends in multiple myeloma incidence and survival by age, race, and ethnicity in the United States. Blood Adv. 2017;1(4):282-287.\n\n28. US Food and Drug Administration. Enhancing the diversity of clinical trial populations – eligibility criteria, enrollment practices, and trial designs: guidance for industry. https://www.fda.gov/media/127712/download. Accessed 30 May 2020.\n\n22 MARCH 2022 • VOLUME 6, NUMBER 6 RACIAL AND ETHNIC DISPARITIES IN MM TRIALS 1691",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:a37b8a0d76e371f4a52d4d28cb769b29049374402f848e48ed9002411643b5bb"
+}

@@ -1,0 +1,181 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:07:55.297715+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Local radiotherapy for palliation in multiple myeloma patients with symptomatic bone lesions",
+        "year": null
+      },
+      "doi": "10.3857/roj.2016.34.1.59",
+      "format": "pdf",
+      "id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+      "url": "https://doi.org/10.3857/roj.2016.34.1.59"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3857/roj.2016.34.1.59",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_sha256": "bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_url": "https://doi.org/10.3857/roj.2016.34.1.59"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651:p1",
+        "source_issue_ids": [],
+        "text": "Original Article\n\nRadiat Oncol J 2016;34(1):59-63 http://dx.doi.org/10.3857/roj.2016.34.1.59 pISSN 2234-1900 · eISSN 2234-3156\n\nLocal radiotherapy for palliation in multiple myeloma patients with symptomatic bone lesions\n\nJeong Won Lee, MD, Jeong Eun Lee, MD\n\nDepartment of Radiation Oncology, Kyungpook National University Hospital, Kyungpook National University School of Medicine, Daegu, Korea\n\nPurpose: To evaluate the clinical outcomes of symptomatic bone lesions in patients with multiple myeloma (MM) who received local radiotherapy (LRT). Materials and Methods: Fifty-one patients with 87 symptomatic bone lesions treated via LRT were analyzed. LRT was delivered at a median total dose of 21 Gy (range, 12 to 40 Gy) in a median of 7 fractions (range, 4 to 20 fractions). The clinical outcomes of LRT and the factors affecting treatment response were assessed. Results: After a median follow-up time of 66.7 weeks, symptom relief was achieved for 85 of 87 lesions (97.7%). The median time to symptom relief was 7 days from the start of LRT (range, 1 to 67 days). The duration of in-field failure-free survival ranged from 1.1 to 450.9 weeks (median, 66.7 weeks). The radiation dose or use of previous and concurrent chemotherapy was not significantly associated with in-field failure for LRT (p = 0.354, 0.758, and 0.758, respectively). Conclusion: Symptomatic bone lesions in patients with MM can be successfully treated with LRT. A higher radiation dose or the use of concurrent chemotherapy may not influence the in-field disease control. A relatively low radiation dose could achieve remission of symptoms in patients with MM.\n\nKeywords: Multiple myeloma, Bone, Radiotherapy, Palliative therapy\n\nIntroduction\n\nMultiple myeloma (MM) is the most common malignant neoplasm of plasma cells, and it primarily involves bone and bone marrow [1,2]. Systemic chemotherapy is the primary treatment modality for myeloma, and novel agents have improved survival outcomes for patients with MM in recent years [3]. When a MM lesion progresses and involves a considerable portion of bone, patients often complain of severe bone pain [4], impending or pathologic bone fractures, or large mass-forming lesions with/without nerve compression\n\n[5]. Therefore, they may occasionally experience neurologic impairments such as spinal cord compression [6]. These patients usually require immediate treatment to relieve these painful symptoms. However, systemic chemotherapy does not provide prompt symptom relief; thus, local treatment is necessary. Local radiotherapy (LRT) is a readily available modality that can be useful for the treatment of symptomatic lesions. Few studies have assessed the role of LRT in the palliation of MM [7-12], and none has been reported in recent years. The aim of this study was to assess the efficacy of LRT for alleviating\n\nReceived 14 September 2015, Revised 14 December 2015, Accepted 5 January 2016.\n\nCorrespondence: Jeong Eun Lee, MD, Department of Radiation Oncology, Kyungpook National University Hospital,\n\nKyungpook National University School of Medicine, 130 Dongdeok-ro, Jung-gu, Daegu 41944, Korea. Tel: +82-53-420-5353,\n\nFax: +82-53-426-3303, E-mail: jelee@knu.ac.kr\n\nCC This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/ licenses/by-nc/4.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.\n\nwww.e-roj.org\n\n59 Copyright © 2016. The Korean Society for Radiation Oncology",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3857/roj.2016.34.1.59",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_sha256": "bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_url": "https://doi.org/10.3857/roj.2016.34.1.59"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651:p2",
+        "source_issue_ids": [],
+        "text": "Jeong Won Lee and Jeong Eun Lee\n\nsymptoms caused by MM.\n\nMaterials and Methods\n\nWe retrospectively analyzed all patients who treated with LRT for MM at Kyungpook National University Hospital in Daegu, Korea between January 2006 and July 2014. This study was approved by the Institutional Review Board of Kyungpook National University Hospital (KNUH 2015-05-026). Eligibility criteria included histopathologically confirmed MM with subjective symptoms related to the radiographic findings (from computed tomography or magnetic resonance imaging [MRI]) of an osteolytic lesion, pathologic fracture, and/or a soft tissue-like mass involving the bone and bone marrow, as well as no prior radiotherapy. Patients who received radiation treatment to an extraskeletal site, those with remnant lesions after tumor resection, and those with a history of other malignancies were excluded. Fifty-one patients with 87 symptomatic bone lesions who received LRT for palliation were finally included in this study. There were 24 men and 27 women with a median age of 65 years (range, 30 to 83 years). Leading to LRT, pain was reported for 64 lesions (73.6%), and neurologic impairment such as sensory and/or motor weakness was noted in 7 lesions (8.0%). Additionally, both symptoms were reported for 16 lesions (18.4%). The irradiated sites were as follows: spine for 46 lesions (52.9%), pelvic bone for 14 lesions (16.1%, LRT was delivered to the pelvic bone and both femurs for 2 of the lesions), extremities for 10 lesions (11.5%), skull for 7 lesions (8.0%), ribs for 7 lesions (8.0%), and other parts of the bone for 3 lesions (3.5%) (Fig. 1). The radiation field included the osteolytic lesion and the soft tissue-like\n\nNumber\n\n50\n\n40\n\n30\n\n20\n\n10\n\n0\n\nSpine\n\nPelvic bone\n\nExtremities\n\nSkull\n\nIrradiated site\n\nRibs\n\nOther bones\n\nFig. 1. The irradiated sites by anatomical location.\n\nmass that surrounded the bone and caused pain. Radiation was delivered to two- or three-dimensional conformal fields with 6- or 10-MV photons. LRT was delivered at a median total dose of 21 Gy (range, 12 to 40 Gy) in a median of 7 fractions (range, 4 to 20 fractions). All radiation treatment courses included 5 irradiation doses per week. The response to LRT was assessed on the basis of changes in the subjective symptoms of the patients, radiographic findings, and/or reduction in the dose of analgesics. A change in symptoms was defined as any reduction in pain or any improvement in neurologic manifestations. We defined in-field failure as recurrence or progression of symptoms inside the regions treated with LRT. Chemotherapeutic agents such as vincristine, cyclophosphamide, doxorubicin, melphalan, dexamethasone, prednisone, bortezomib, and thalidomide were used. The clinical outcomes were assessed starting from the initiation of LRT. The Kaplan-Meier method with a log-rank test was used to analyze overall survival and in-field failure-free survival. The chi-square test or Fisher exact test was performed to evaluate the significance of the correlations between categorical variables and the response to LRT. Multivariate analyses were not performed because of the small number of patients for each variable. The radiation dose for different fractionation schedules was computed using the equivalent dose in 2-Gy fractions (EQD2) via a linear-quadratic model. For statistical analyses, SPSS ver. 18.0 (SPSS Inc., Chicago, IL, USA) was used. A p-value of less than 0.05 was considered statistically significant.\n\nResults\n\nThe median follow-up duration was 66.7 weeks (range, 1.1 to 450.9 weeks). Symptom relief was achieved for 85 of the 87 lesions (97.7%). The median time to symptom relief was 7 days (range, 1 to 67 days). Two lesions (2.3%) did not respond to LRT. One of these lesions was located at the thoracic spine. The planned radiation dose was not delivered because the performance status of the patient decreased during treatment. The patient died 2 weeks after LRT interruption. The other lesion was located in a region spanning the lower thoracic spine to the upper lumbar spine, and it was a site of recurrence after surgical treatment. The planned radiation dose was delivered, but the lesion progressed rapidly within 4 days despite LRT, as determined by spine MRI. The response rates according to symptoms are shown in Fig. 2. The administered radiation dose was converted to the EQD2; on this basis, radiotherapy was administered at a dose of 13–40 Gyα/β = 10\n\n60 www.e-roj.org http://dx.doi.org/10.3857/roj.2016.34.1.59",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3857/roj.2016.34.1.59",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_sha256": "bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_url": "https://doi.org/10.3857/roj.2016.34.1.59"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651:p3",
+        "source_issue_ids": [],
+        "text": "Radiotherapy for multiple myeloma\n\n(median, 23.33 Gyα/β = 10). Regarding chemotherapy, 36 lesions (41.4%) were irradiated prior to chemotherapy, whereas 51 lesions (58.6%) were irradiated after chemotherapy (high-dose chemotherapy followed by stem cell transplantation was used for 12 lesions); meanwhile, concurrent chemotherapy was delivered during LRT for 52 lesions. Among the 85 lesions for which remission was achieved after LRT, 11 lesions exhibited in-field failure. The duration of in-field failure-free survival after LRT ranged from 1.1 to 450.9 weeks (median, 66.7 weeks) (Fig. 3). The factors associated with in-field failure are shown in Table 1. The radiation dose and receipt of previous and concurrent chemotherapy were not significantly associated with in-field failure for LRT (p = 0.354, 0.758, and 0.758, respectively). Particularly, the EQD2 of 23.33 Gy was used for 11 lesions and EQD2 less than 23.33 Gy were used for the other 32 lesions in the lower dose group. Most cases were treated with the planned protocol of irradiation. However, one patient required a treatment modification because of rapid deterioration of general\n\nPain Responsive/total sites: 64/64\n\nPain & neurologic impairment 14/16\n\nNeurologic impairment 7/7\n\nFig. 2. The response rates according to symptoms.\n\nThe in-field failure-free survival\n\n1.0\n\n0.8\n\n0.6\n\n0.4\n\n0.2\n\n0.0\n\n0 100 200 300\n\nTime (wk)\n\n400\n\nFig. 3. The in-field failure-free survival duration after radiotherapy ranged from 1.1 to 450.9 weeks (median, 66.7 weeks).\n\ncondition. The patient was died 50 days after termination of treatment. We have classified the response outcomes by the lesion size at the time of applying LRT in 52 patients using the Response Evaluation Criteria in Solid Tumors (RECIST version 1.1) [13]. In cases of the lesion size <5 cm, partial response (PR) accounted for 65.2% (n = 15) and complete response (CR) was 34.8% (n = 8). In cases of the lesion size ≥5 cm, the ratios of PR and CR were 82.8% (n = 24) and 17.2% (n = 5). Although the ratio of CR was higher in the small lesion group than the large lesion group, the effect of lesion size on response was not statistically significant (p = 0.147). Additionally, lesion size did not affect the duration of in-field disease control (p = 0.564). Re-irradiation was performed for 6 lesions, 4 of which exhibited symptom relief. For all patients, most acute and chronic toxicities were mild to moderate. There were no cases of grade 3 or higher complications caused by LRT.\n\nDiscussion and Conclusion\n\nWe examined 87 bone lesions in patients with MM who received radiotherapy. The response rate of the lesions was 97.7%. Several studies [8,10,12,14] defined the response to radiotherapy as an improvement in subjective symptoms or performance status or a decrease in the use of analgesics. These studies considered both complete and partial remission of symptoms when evaluating response. In those studies, symptom relief was reported in more than 80% of patients, and the radiation dose had no influence on in-field failure-free survival. The published studies express the radiation dose\n\nTable 1. Factors associated with in-field failure\n\nVariable No. of recurrent lesions (%) p-value No (n = 74) Yes (n = 11)\n\nRadiotherapy dose (EQD2) Lower dose (≤23.33 Gyα/β = 10) Upper dose (>23.33 Gyα/β = 10) Previous chemotherapy No Yes a)\n\nConcurrent chemotherapy No Yes\n\n36 (83.7) 38 (90.5) 32 (88.9) 42 (85.7) 31 (88.6) 43 (86.0)\n\n7 (16.3) 4 (9.5) 4 (11.1) 7 (14.3) 4 (11.4) 7 (14.0)\n\n0.354 0.758 0.758\n\nEQD2, the equivalent dose in 2-Gy fractions. a)Twelve lesions were previously treated using high-dose chemotherapy followed by stem cell transplantation.\n\nwww.e-roj.org http://dx.doi.org/10.3857/roj.2016.34.1.59\n\n61",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3857/roj.2016.34.1.59",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_sha256": "bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_url": "https://doi.org/10.3857/roj.2016.34.1.59"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651:p4",
+        "source_issue_ids": [],
+        "text": "Jeong Won Lee and Jeong Eun Lee\n\nwithout regard to fractionation [7,10,12,14]. In the current study, a bias of fractionation might have existed because the radiotherapy schedule was determined on the basis of the condition of the patient. Treatments were individualized to alleviate radiation complication by reducing the fraction size in large radiation field size and shortening the radiotherapy period for the patients with poor condition. To account for different fractionation schedules, we determined the radiation dose that influences in-field failure using the EQD2 via a linear-quadratic model, calculating an α/β ratio of 10 Gy for killing myeloma cells [15]. The radiation dose expressed as the EQD2 did not affect in-field disease control (p = 0.354) in the present study. Thus, our findings were similar to those of other studies [8,10,12,14]. On the contrary, Adamietz et al. [7] regarded only complete resolution as a response to radiotherapy. They demonstrated that a higher radiation dose increases the duration of in-field disease control. However, because myeloma is a radiosensitive malignant neoplasm [11,14], previous studies [8-10,12] and the National Comprehensive Cancer Network guidelines [16] recommend low-dose radiotherapy (10–30 Gy) for palliation. The EQD2s were approximately 10–32.5 Gyα/β = 10 when converted using a linear-quadratic model. At a median EQD2 of 23.33 Gyα/β = 10, excellent responses without severe toxicities were detected in our study. Thus, a relatively low radiation dose can result in symptom relief in patients with MM. Moreover, re-irradiation was successfully conducted for recurrent lesions (6 of 11 sites). The symptom-free rate after re-irradiation was 66.7%. The impact of concurrent chemotherapy on the response to radiotherapy remains controversial. Adamietz et al. [7] reported that additional chemotherapy during radiotherapy improved the response, whereas Leigh et al. [10] failed to determine the effect of concurrent chemoradiotherapy (CRT). The reason for this discrepancy was considered that most patients (97%) received chemotherapy prior to radiotherapy and that extensive chemotherapy might conceal the benefits of CRT. In the present study, 51 lesions (58.6%) were treated with chemotherapy before radiotherapy, and thus, the masking effect of CRT can be excluded. We found that concurrent chemotherapy did not improve the response rate significantly (41.2% vs. 58.8%, p = 0.513) or reduce in-field failure (11.4% vs. 14.0%, p = 0.758). In addition, we analyzed the ratio of the duration of palliation to survival according to lesion site. This ratio ranged from 18.2% to 99.9% (median, 97.7%). This ratio was generally high in the present study, implying early symptom relief (median, 7 days) after LRT and in-field disease control during\n\nfollow-up. Consequently, LRT with low-dose radiation may be a good treatment option for symptom relief associated with local bony lesions considering the length of survival for patients with MM, and this treatment may be repeated at previously irradiated sites following recurrence. In conclusion, LRT is effective in relieving symptoms such as severe pain or neurologic impairment caused by bone lesions in patients with MM. In-field disease control may not be affected by the radiation dose or the use of concurrent chemotherapy. In addition, good outcomes for in-field disease control may be expected with a low total dose of radiotherapy (EQD2 = 23.33 Gyα/β = 10).\n\nConflict of Interest\n\nNo potential conflict of interest relevant to this article was reported.\n\nAcknowledgments\n\nThis research was supported by Kyungpook National University Research Fund in 2012.\n\nReferences\n\n1. International Myeloma Working Group. Criteria for the classification of monoclonal gammopathies, multiple myeloma and related disorders: a report of the International Myeloma Working Group. Br J Haematol 2003;121:749-57. 2. Kyle RA, Gertz MA, Witzig TE, et al. Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc 2003;78:21-33. 3. Blade J, Rosinol L. Changing paradigms in the treatment of multiple myeloma. Haematologica 2009;94:163-6. 4. Dispenzieri A, Kyle RA. Multiple myeloma: clinical features and indications for therapy. Best Pract Res Clin Haematol 2005;18:553-68. 5. Talamo G, Farooq U, Zangari M, et al. Beyond the CRAB symptoms: a study of presenting clinical manifestations of multiple myeloma. Clin Lymphoma Myeloma Leuk 2010;10:464- 8. 6. Dispenzieri A, Kyle RA. Neurological aspects of multiple myeloma and related disorders. Best Pract Res Clin Haematol 2005;18:673-88. 7. Adamietz IA, Schober C, Schulte RW, Peest D, Renner K. Palliative radiotherapy in plasma cell myeloma. Radiother Oncol 1991;20:111-6. 8. Bosch A, Frias Z. Radiotherapy in the treatment of multiple myeloma. Int J Radiat Oncol Biol Phys 1988;15:1363-9.\n\n62 www.e-roj.org http://dx.doi.org/10.3857/roj.2016.34.1.59",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3857/roj.2016.34.1.59",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_sha256": "bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651",
+          "source_url": "https://doi.org/10.3857/roj.2016.34.1.59"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651:p5",
+        "source_issue_ids": [],
+        "text": "9. Lecouvet F, Richard F, Vande Berg B, et al. Long-term effects of localized spinal radiation therapy on vertebral fractures and focal lesions appearance in patients with multiple myeloma. Br J Haematol 1997;96:743-5. 10. Leigh BR, Kurtts TA, Mack CF, Matzner MB, Shimm DS. Radiation therapy for the palliation of multiple myeloma. Int J Radiat Oncol Biol Phys 1993;25:801-4. 11. Rowell NP, Tobias JS. The role of radiotherapy in the management of multiple myeloma. Blood Rev 1991;5:84-9. 12. Talamo G, Dimaio C, Abbi KK, et al. Current role of radiation therapy for multiple myeloma. Front Oncol 2015;5:40. 13. Eisenhauer EA, Therasse P, Bogaerts J, et al. New response\n\nRadiotherapy for multiple myeloma\n\nevaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer 2009;45:228-47. 14. Mill WB, Griffith R. The role of radiation therapy in the management of plasma cell tumors. Cancer 1980;45:647-52. 15. Rades D, Hoskin PJ, Stalpers LJ, et al. Short-course radiotherapy is not optimal for spinal cord compression due to myeloma. Int J Radiat Oncol Biol Phys 2006;64:1452-7. 16. National Comprehensive Cancer Network. NCCN clinical practice guidelines in oncology [Internet]. Fort Washington, PA: National Comprehensive Cancer Network; c2016 [cited 2016 Feb 24]. Available from: http://www.nccn.org/professionals/ physician_gls/pdf/myeloma.pdf.\n\nwww.e-roj.org http://dx.doi.org/10.3857/roj.2016.34.1.59\n\n63",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:bc6cb9de0c32154629620756a02b0a747b6ed3e45e3923e5bf0723af89e26651"
+}

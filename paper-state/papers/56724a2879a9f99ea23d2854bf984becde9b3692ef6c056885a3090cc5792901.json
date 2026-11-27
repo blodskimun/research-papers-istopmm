@@ -1,0 +1,935 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:01:52.487467+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Changes in access to health services during the COVID-19 pandemic: a scoping review",
+        "year": null
+      },
+      "doi": "10.3390/ijerph19031749",
+      "format": "pdf",
+      "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+      "url": "https://doi.org/10.3390/ijerph19031749"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p1",
+        "source_issue_ids": [],
+        "text": "International Journal of Environmental Research and Public Health\n\nReview Changes in Access to Health Services during the COVID-19 Pandemic: A Scoping Review\n\nGeorgina Pujolar * , Aida Oliver-Anglès , Ingrid Vargas and María-Luisa Vázquez\n\n\u0001\u0002\u0003\u0001\u0004\u0005\u0006\u0007\b \u0001\u0002\u0003\u0004\u0005\u0006\u0007\n\nCitation: Pujolar, G.; Oliver-Anglès,\n\nA.; Vargas, I.; Vázquez, M.-L.\n\nChanges in Access to Health Services\n\nduring the COVID-19 Pandemic: A\n\nScoping Review. Int. J. Environ. Res.\n\nPublic Health 2022, 19, 1749. https://\n\ndoi.org/10.3390/ijerph19031749\n\nAcademic Editors:\n\nRosa Urbanos-Garrido and\n\nAlexandrina Stoyanova\n\nReceived: 29 November 2021\n\nAccepted: 30 January 2022\n\nPublished: 3 February 2022\n\nPublisher’s Note: MDPI stays neutral\n\nwith regard to jurisdictional claims in\n\npublished maps and institutional afﬁl-\n\niations.\n\nCopyright: © 2022 by the authors.\n\nLicensee MDPI, Basel, Switzerland.\n\nThis article is an open access article\n\ndistributed under the terms and\n\nconditions of the Creative Commons\n\nAttribution (CC BY) license (https://\n\ncreativecommons.org/licenses/by/\n\n4.0/).\n\nHealth Policy Research Unit (SEPPS), Consorci de Salut i Social de Catalunya, 08022 Barcelona, Spain; aoliver@consorci.org (A.O.-A.); ivargas@consorci.org (I.V.); mlvazquez@consorci.org (M.-L.V.) * Correspondence: ggpujolar@gmail.com\n\nAbstract: The COVID-19 pandemic and the measures adopted are having a profound impact on a major goal of public healthcare systems: universal access to health services. The objective is to synthesize the available knowledge on access to health care for non-COVID-19 conditions and to identify knowledge gaps. A scoping review was conducted searching different databases (Medline, Google Scholar, etc.) for original articles published between December 2019 and September 2021. A total of 53 articles were selected and analyzed using the Aday and Andersen framework as a guide. Of these, 37 analyzed changes in levels of use of health services, 15 focused on the inﬂuencing factors and barriers to access, and 1 studied both aspects. Most focused on speciﬁc diseases and the early stages of the pandemic, based on a review of records. Analyses of the impact on primary care services’ use, unmet needs or inequalities in access were scarce. A generalized reduction in the use of health services was described. The most frequent access barrier described for non-COVID-19 conditions related to the services was a lack of resources, while barriers related to the population were predisposing (fear of contagion, stigma, or anticipating barriers) and enabling characteristics (worse socioeconomic status and an increase in technological barriers). In conclusion, our results show a general reduction in services’ use in the early stages of the pandemic, as well as new barriers to access and the exacerbation of existing ones. In view of these results, more studies are required on the subsequent stages of the pandemic, to shed more light on the factors that have inﬂuenced access and the pandemic’s impact on equity of access.\n\nKeywords: COVID-19; health services’ accessibility; delivery of health care; health care inequalities\n\n1. Introduction\n\nThe pandemic due to coronavirus SARS-CoV-2 (COVID-19), a novel virus initially reported in December 2019 [1], was declared by the World Health Organization (WHO) on 11 March 2020. It has had an adverse effect worldwide on many different spheres of society, including the economy and public health. The current COVID-19 pandemic and the diverse strategies that have been adopted to tackle it are forcing changes in access to health services for other conditions, potentially producing an impact on the health of the population above and beyond that caused by COVID-19 itself [2–6]. In this regard, some strategies taken to combat soaring COVID-19 infection rates may have negatively affected access to health services for other conditions. Firstly, at the health services level, one of the most inﬂuential measures was the classiﬁcation of services as essential or non-essential, following WHO guidelines, which allowed resources to be redirected to the pandemic response. However, this has also caused cancellations or delays in elective and non-urgent procedures [3,5–7], despite many countries implementing strategies to mitigate the impact of these disruptions (e.g., online healthcare visits) [4,5], Another signiﬁcant measure was social distancing to reduce interaction between people, including nationwide partial or complete lockdowns, schools and non-essential business\n\nInt. J. Environ. Res. Public Health 2022, 19, 1749. https://doi.org/10.3390/ijerph19031749 https://www.mdpi.com/journal/ijerph",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p10",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 10 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nPareek, 2021 Medical records from the Gujarat Cancer Research Institute Gujarat, India\n\nShi, 2021 Medical records from 13 pediatric tertiary cardiac centers China\n\nAmbrosetti, 2021 Medical records from the University Hospital of Geneva Geneva, Switzerland\n\nAragona, 2020\n\nMedical records from the National Institute for Health, Migration and Poverty\n\nItaly\n\nCancer patients visits to the oncology department between January–March (n = 4363) and March–May (n = 895) 2020\n\nPatients who underwent cardiac surgery in 2018 (n = 19,398), 2019 (n = 19,620) and 2020 (n = 4740)\n\nAdmissions to the psychiatric ED from April to May 2016 (n = 702) and 2020 (n = 579)\n\nPatients in a vulnerable situation who received at least one psychiatric intervention from February (n = 286) or March (n = 269) from 2017 to 2020 2\n\nJanuary–March vs. March–May 2020 SC: oncology\n\nJanuary–April 2018 vs. 2019 vs. 2020 SC: pediatric surgery\n\nApril–May 2016 vs. 2020 SC: psychiatry\n\nFebruary–March 2017 vs. 2018. vs. 2019 vs. 2020 SC: psychiatry\n\nReduction in visits from lockdown (different values according to the type of cancer) in March 2020, compared to the previous months. 3\n\nReduction in the total surgical volume median (25 cases) compared to 2018 (148 cases) and 2019 (158 cases). Increase in the proportion of emergency operations (6.3%) during 2020, compared to previous years. Increase in patients followed-up via the internet or phone (26.4% in 2020 vs 9.5% and 8.9% in 2019 and 2018).\n\nReduction in admissions (17.5%) in psychiatric ED in 2020 compared to 2016. AF: the probability to be admitted was more associated with severe psychopathologies and single patients, who arrived by ambulance, with suicidal behaviors, behavioral disorders, and psychomotor agitation, and were more likely to be involuntarily hospitalized after consultation in ED.\n\nReduction in visits (46.6%) to mental health in March 2020. Follow-up visits of patients from February to March decreased more (17.5% patients), compared to previous years (30% patients).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p11",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 11 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nJesenšek, 2021\n\nMedical records from the Institute of Physical Medicine and Rehabilitation\n\nSlovenia\n\nFarrugia, 2021 Medical records from Mater Dei Hospital Malta\n\nBurt, 2021 Medical records from Kawempe National Referral Hospital Kawempe, Uganda\n\nPatients referred to rehabilitation in 2019 (n = 4132) and 2020 (n = 2317)\n\nAdmissions for acute exacerbations of chronic obstructive pulmonary disease in 2019 (n = 259) and 2020 (n = 119)\n\nVisits to antenatal (n = 14,401), maternal health (n = 33,499), childcare (n = 111,658) and SRH (n = 57,174) services 2\n\nMarch–August 2019 vs. 2020 SC: rehabilitation\n\nMarch–May 2019 vs. 2020 SC: respiratory diseases\n\nJuly 2019–December 2020\n\nSC: sexual and reproductive health (SRH) (antenatal, maternal, pediatrics, and family planning)\n\nDas Neves, 2021\n\nMedical records from Marrere Health Center and monthly ofﬁcial statistics from the Ministry of Health\n\nNampula, Mozambique Visits to SRH services (n = aggregated data) 2 March–May 2019 and 2020 SC: SRH (maternal and child health)\n\nReduction in the global volume of patients (44%), ﬁrst visits (42%), and follow-ups (60.9%), as well as number of sessions (71.1%), from lockdown in March 2020, compared to 2019.\n\nReduction in admissions (54.2%) in 2020 compared to 2019. Increase in the mortality of admitted patients (19.3% vs. 8.4%).\n\nReduction in antenatal, childcare, and family planning visits, as well as hospital deliveries (different values according to the type of service or procedure), during the lockdown months (March–June 2020), compared to previous months, without clear subsequent recovery. Increase in pregnancy complications and fetal and infant outcomes.\n\nReduction in family planning visits (28%), elective C-sections (28%), ﬁrst antenatal visits (26%), hospital deliveries (4%) (increase in out-of-hospital deliveries by 74%), and child vaccination (20%). Only hospital deliveries drops were statistically signiﬁcant.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p12",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 12 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nJensen and McKerrow, 2020\n\nMedical records from the KwaZulu-Natal District Health Information System\n\nKwaZulu-Natal district, South Africa Visits to child health services (aggregated data) 2 January 2018–June 2020 SC: SRH (maternal and child health)\n\nJustman, 2020 Medical records from a tertiary referral center Haifa, Israel Pregnant women (n = aggregated data) 2 March–April 2019–2020 SC: SRH (maternal and child health)\n\nKC, 2020\n\nData collected from a prospective observational study in 9 hospitals (SUSTAIN and REFINE studies)\n\nNepal Pregnant women (n = 21,763) January–March vs. March–May 2020 SC: SRH (maternal and child health)\n\nReduction in clinical visits (36%), hospital admissions (50%), delivery of services (from 6% to 54% depending on the service) in children under 5 years of age from March 2020. Modest increase in clinic visits as of May 2020, without reaching levels of preceding years. Among delivery of services, immunization coverage increased almost to pre-pandemic levels.\n\nReduction in visits (from 18.1% to 36.4% according to the type of visit), deliveries (17.1%) and admissions (22.3%) to the obstetrics and gynecology department in 2020 compared to 2019. No signiﬁcant changes were observed in the rate of C-sections, although a greater number of vaginal births during the outbreak (16.7% in 2020 vs. 6.8% in 2019), between the two periods.\n\nReduction in hospital deliveries (52.4%), especially vaginal births, from lockdown in March 2020. Increase in preterm births (24.5% before lockdown vs. 26.2% during lockdown), neonatal deaths (13 per 1000 livebirths vs. 40 per 1000 livebirths) and women admitted with complications during labor (6.7% vs. 8.7%, not statistically signiﬁcant). AF: lower utilization of SRH services was less likely among users of disadvantaged ethnic groups and poor perceived quality of care.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p13",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 13 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nMarqués, 2021\n\nMedical records from the Cambridge University Hospitals NHS Foundation Trust\n\nCambridge, UK\n\nWomen complaining of a 1st episode of reduced fetal movements in 2019 (n = 810) and 2020 (n = 803)\n\nMarch–April 2019 vs. 2020 SC: SRH (maternal and child health)\n\nShakespeare, 2021 Medical records from Mpilo Central Hospital Zimbabwe Women who gave birth from January to June 2020 (n = aggregated data) 2 January–March vs. April–June 2020 SC: SRH (maternal and child health)\n\nSpurlin, 2020\n\nMedical records from the New York Presbyterian— Columbia University Irving Medical Center\n\nNew York, USA\n\nPatients who attended OB-GYN (obstetrics–gynecology) services from February to March 2020 for emergency visits (n = 275), GYN surgeries (n = 212), OB surgeries (n = 237), and from March to April 2020 for emergency visits (n = 79), GYN surgeries (n = 79), OB surgeries (n = 181)\n\nFebruary–March vs. March–April 2020 SC: SRH (obstetrics and gynecology)\n\nReduction in 1st visits for reduced fetal movements (RFM) during 2020, compared to the same period in 2019 (18% vs. 22%). AF: primiparous women were more likely to attend with RFM.\n\nReduction in visits (5.8%) for hospital deliveries from April 2020, compared to previous months. No signiﬁcant changes were observed in maternal or perinatal mortality and morbidity, nor in workload, although the number of deliveries and C-sections fell. Neonatal deaths increased, not signiﬁcantly.\n\nReduction in the average weekly OB-GYN ED consults (60.3%) and GYN surgeries (79.3%), whereas OB surgeries remained stable, from March 2020 compared to the previous period. No signiﬁcant differences in the proportion of OB-GYN ED consults and GYN surgeries were observed, although the proportion of OB surgeries increased signiﬁcantly (54.6% before March vs. 79.7% from March 2020).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p14",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 14 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nChiba, 2021\n\nMedical records from the Medical Center of the University of Southern California and Los Angeles County\n\nLos Angeles, USA Patients admitted to trauma in 2019 (n = 1143) and 2020 (n = 1202)\n\nMarch–June 2019 vs. 2020 SC: traumatology\n\nHoran, 2021\n\nMedical records from the National Neurosurgical Center at Beaumont Hospital\n\nDublin, Ireland Referrals to the trauma department in 2019 (n = 527) and 2020 (n = 437)\n\nMarch–May 2019 vs. 2020 SC: traumatology\n\nAlexander, 2020 IQVIA National Disease and Therapeutic Index USA Visits to primary care (n = 875.6 million) 2 January 2018–June 2020 PC\n\nIncrease in the number admissions (different values according to the type of trauma) during the analyzed period of 2020, compared to 2019. Increase in admissions due to falls (32.4%) (especially elderly), injuries from the use of weapons (39.3%), suicides (38.5%, not statistically signiﬁcant), and positivity in the use of substances (52.1% in 2020 vs. 40.2% in 2019). Reduction in severe trauma (38.7% vs. 46.7%), mortality (4.1% vs. 5.9%), and ICU admission rates (26.3% vs. 31.5%). There were non-signiﬁcant reductions in admissions due to trafﬁc accidents (pedestrian or motor).\n\nReduction in trauma referrals (17.1%) in 2020 compared to 2019. No signiﬁcant changes were observed between the proﬁles most associated with shunts between the two years, although there were changes in the type of diagnosis (fewer brain and spinal injuries and cranial fractures). AF: referrals were more likely among men, people over 60, alcohol consumers.\n\nReduction in PC health services (21.4%) in 2020 compared to 2018 and 2019. Decreases in in-person visits (50.2%) and increases in telemedicine visits (1.1%) were observed. Evaluations and medication prescriptions were less frequent.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 15
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p15",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 15 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nSato, 2021 Administrative claims from the DeSC database (health insurance claims) Japan Patients with chronic neurological diseases 2 March–November 2020 PC\n\nReduction in visits for different chronic neurological diseases (RR 0.9), except one that increased (migraines, RR 1.15), from April 2020. Telephone appointments were most frequently used in April–May (representing 5% of the visits), especially in the case of migraines (OR 2.08). The changes yielded different effects depending on the disease.\n\nSong, 2021 Medical records from the Independence Blue Cross USA\n\nWomen who had mammograms from January 2018 to March 2020 for screening (n = 213,168) and diagnosis (n = 55,879), and from March to July 2020 for screening (n = 27,970) and diagnosis (n = 10,233)\n\nJanuary 2018–March 2020 vs. March–July 2020 Preventive services\n\nReduction in the volume of screening (58%) and diagnostic (38%) mammograms from March 2020, compared to the preceding months and to the previous years. Increase in activity from May 2020, remaining 14% below previous months levels. AF: greater use was associated with women with a previous diagnosis.\n\n1: General health services include different levels of care or type of service; 2: aggregated data and/or no speciﬁcation of the different periods of analysis; 3: studies that did not analyze whether the changes were statistically signiﬁcant (the rest of articles presented results statistically signiﬁcant); AF: associated factors; ED: emergency department; ICU: intensive care unit; IRR: incidence rate ratio; OB-GYN: obstetrics–gynecology; OR: odds ratio; PC: primary care; RR: relative risk; SC: secondary care; SRH: sexual and reproductive health.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 16
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p16",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 16 of 31\n\nTable 2. Quantitative studies on potential access related to the characteristics of the services and the population during the COVID-19 pandemic in 2020.\n\nFirst Author, Year Data Collection Method Study Area Study Population and Sample Study Period Health Service Main Results\n\nKahraman et al., 2021 Online survey Turkey Patients with lysosomal storage disease in enzyme replacement therapy (n = 75) July–October 2020 SC: endocrinology\n\nNicholson et al., 2020 Online survey Ireland Parents of children under 16 (n = 1044) June 2020 SC: pediatrics\n\nBenjamen et al., 2021\n\nOnline survey (n = 77, of which 11 were interviewed in depth) Ottawa, Canada Doctors with experience caring for refugee populations (n = 77) May–August 2020 SC: psychiatry\n\nHalley et al., 2021 Online surve USA\n\nRelatives (n = 139) and patients affected by undiagnosed rare diseases (n = 275)\n\nApril–June 2020 SC: undiagnosed rare diseases care\n\nCharacteristics of the services: lack of resources (hospital beds) Characteristics of the population: fear of contagion, difﬁculties in obtaining medication, transport difﬁculties\n\nCharacteristics of the population: fear of contagion, perception of overuse of services or lack of need, fear of being judged for seeking care, poor understanding of government messages, concern regarding travel (avoiding public transport).\n\nCharacteristics of the services: limited availability of providers and community resources, slight increase in the offer of virtual care psychotherapy. Characteristics of the population: fear of contagion, perceived lack of services, technological barriers\n\nCharacteristics of the services: barriers to access essential services (difﬁculties in contacting services, procedures re-scheduled, lack of medical supplies, insufﬁcient telemedicine care offered), restrictions on companions. Characteristics of the population: fear of COVID-19 contagion; impact on physical and mental health (stress due to not being able to receive treatment or as an aggravating factor of the disease).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 17
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p17",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 17 of 31\n\nTable 2. Cont.\n\nFirst Author, Year Data Collection Method Study Area Study Population and Sample Study Period Health Service Main Results\n\nAdelekan et al., 2021\n\nSemi-structured interviewer-administered questionnaire\n\nNigeria Head nurses and midwives in primary health centers (n = 307)\n\nMarch–September 2020 SC: SRH (maternal and child health)\n\nCharacteristics of the services: difﬁculties regarding out-of-stock drugs and contraceptives. Characteristics of the population: economic difﬁculties (not being able to afford cost of transportation).\n\nKaravadra et al., 2020 Online survey UK\n\nKhan et al., 2021 Online survey\n\n64 middle- and low-income countries of Africa, Asia, and Latin America\n\nWomen who were pregnant or gave birth during the COVID-19 pandemic (n = 1451)\n\nHealth professionals from tuberculosis treatment (n = 567) and HIV (n = 346) services\n\nMay 2020 SC: SRH (maternal and child health)\n\nMay–August 2020 SC: tuberculosis and HIV care\n\nCharacteristics of the services: reduced frequency of scans, redistribution of services in different “zoned areas” based on “COVID wards” and “non-COVID” wards, lack of information, ban on presence of partner. Characteristics of the population: fear of contagion, perception of “impersonal care” from virtual consultations.\n\nCharacteristics of the services: lack of material and medical supplies, difﬁculties in obtaining medical treatment, lack of alternatives for non-face-to-face care (e.g., telemedicine), postponement of visits for diagnoses and treatments. Characteristics of the population: fear of contagion, stigma, difﬁculties in accessing health services (alterations in transportation, restrictions), worsening economic situation.\n\nGarcía-Rojo et al., 2021 Medical records (Hospital 12 de Octubre) Spain Patients on the waiting list for urological surgery (n = 350) May 2020 SC: urology Characteristics of the services: increased waiting times for urological surgeries (designated as elective).\n\nSC: secondary care; SRH: sexual and reproductive health.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 18
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p18",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 18 of 31\n\nTable 3. Qualitative studies on potential access related to the characteristics of the services and the population during the COVID-19 pandemic in 2020.\n\nFirst Author, Year Data Collection Method Study Area Study Population and Sample Study Period Health Service Main Results\n\nZambrano et al., 2021\n\nDas Neves et al., 2021\n\nGichuna et al., 2020\n\nHailemariam et al., 2021\n\nMizrak Sahin, and Nur Kabakci, 2020\n\nOnline semi-structured interviews and life histories Colombia and Peru\n\nVenezuelan migrant populations living in large cities in Colombia (n = 96) and Peru (n = 34)\n\nSemi-structured interviews by phone (12) and in-person (9)\n\nNampula, Mozambique\n\nHealth professionals (n = 9), traditional birth attendants (n = 6) and patients (n = 6)\n\nSemi-structured interviews via mobile phone (phone call or videocall)\n\nKariobangi, Roysambu, and Jogoo Road areas (Nairobi, Kenya)\n\nSex workers from the study areas (n = 117), and health professionals from the Bar Hostess Empowerment and Support Program Centers (n = 15)\n\nOnline focal groups (6) and semi-structured interviews (9) Kebeles, Ethiopia Pregnant women who did not attend SHR services and health workers\n\nJuly–September 2020 General\n\nMarch–May 2019 and 2020 SC: SRH (maternal and child health)\n\nApril–May 2020 SC: SRH (family planning) and HIV care\n\nSeptember– November 2020\n\nSC: SRH (maternal and child health)\n\nSemi-structured interviews by phone Turkey Pregnant women During 2020, months not speciﬁed SC: SRH (maternal and child health)\n\nCharacteristics of the services: access to health services linked to legal immigration status. Characteristics of the population: severe economic difﬁculties, perceived discrimination of healthcare services on the basis of nationality\n\nCharacteristics of the services: limited resources (workforce), increase in waiting times Characteristics of the population: fear of contagion, avoiding healthcare except in emergencies\n\nCharacteristics of the services: reduced activity, lack of medical supplies Characteristics of the population: economic difﬁculties, stigma\n\nCharacteristics of the population: perceived low quality of services, fear of contagion, stigma, playing down care needs, refusal to attend antenatal services.\n\nCharacteristics of the services: elective visits were cancelled or postponed, difﬁculties in getting ﬁrst visits. Characteristics of the population: fear of contagion, difﬁculties in contacting services for ﬁrst visits.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 19
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p19",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 19 of 31\n\nTable 3. Cont.\n\nFirst Author, Year Data Collection Method Study Area Study Population and Sample Study Period Health Service Main Results\n\nDos Santos et al., 2021 7 semi-structured interviews by phone Ribeirão Preto, Brazil Patients over 18 years old undergoing treatment for tuberculosis June–August 2020 SC: tuberculosis care Characteristics of the population: economic difﬁculties, fear of contagion\n\nAhmed et al., 2020\n\nWorkshops and in-person meetings in three pre-pandemic phases (semi-structured interviews, group and individual meetings), and a fourth phase via mobile phone\n\nBangladesh, Kenya, Nigeria, Pakistan\n\nHealth professionals (medical doctors, nurses, community health workers and assistants, pharmacists, and patent medicine vendors), pregnant women and women with children, health service managers\n\nDanhieux et al., 2020 Online semi-structured interviews Belgium\n\nGeneral practitioners, nurses, and dieticians (n = 21) in primary care who work individually, monodisciplinary or in multidisciplinary groups\n\nPC: primary care; SC: secondary care; SRH: sexual and reproductive health.\n\nMarch 2018–May 2020 PC\n\nApril–June 2020 PC\n\nCharacteristics of the services: worse access to services that were difﬁcult to access before the pandemic (mental health, gender-based violence services), and preventive services, increase in cost of healthcare, lack of drugs and medical supplies. Characteristics of the population: fear of contagion, economic difﬁculties.\n\nCharacteristics of the services: limited resources to treat, identify, and contact non-COVID-19 patients because of the redistribution of resources, especially among high-risk and vulnerable patients.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p2",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 2 of 31\n\nclosures, and instructions to stay at home, which in some cases has erected a barrier in terms of mobility to entry the health services [8]. Another indirect effect of the pandemic, the economic crisis stemming from the sub-stantial curtailment of economic activity, and the ensuing rise in unemployment and loss of household income, have aggravated associated access barriers (loss of health coverage, difﬁculties in making copayments or obtaining transport to services), thereby accentuating existing inequalities in access, as studies on previous economic crises have shown [9]. Although it is necessary to evaluate which population groups have been particularly affected in terms of access to care and how the determining factors interact with each other, there are some signs—including early evidence and experiences from previous crises—to indicate that vulnerable population groups (populations with low socioeconomic status, the elderly, chronic patients or those with severe conditions, migrants from low-income countries) suffer a greater impact [9–14]. In short, as in other epidemics and previous outbreaks, the health repercussions of the current pandemic are not conﬁned solely to COVID-19 infection and mortality. They also include indirect negative effects on healthcare access and on the quality of curative and preventive care provided for other conditions, and the exacerbation of difﬁculties and barriers related to socioeconomic factors [15–17]. The scientiﬁc evidence accumulated from previous experiences, such as severe acute respiratory syndrome or SARS (2002–2003), Middle East respiratory syndrome or MERS (2012), Ebola (2014–2016; 2018–present), and the Zika virus (2015–2016) [18–20], shows a decrease in the utilization of health services (e.g. outpatient care, hospital admissions, elective surgeries [20–23]) that is attributed to changes made to the health services in response to public health emergencies, as well as to fear of contagion among the population [21,24]. This may in turn have had an impact on increasing the burden of disease and mortality in the months following an epidemic outbreak [6,20,25–27]. While a plethora of scientiﬁc papers have been published on COVID-19 since the start of the pandemic, studies on its impact on access to health services have not been so plentiful. A few literature reviews have been found that summarize changes in health services due to the pandemic, focusing mainly on the adoption of telemedicine [28–32] and the impact of the pandemic on different aspects, among others, the use of certain speciﬁc services, such as maternal and child health care [33], child vaccination [34], or chronic diseases [35,36], in the initial stages of the pandemic. Although we are still at the pandemic management stage, a synthesis of the scientiﬁc evidence accumulated to date on the impact on access to health care in different contexts, in addition to detailed monitoring of the performance of services, may help decision makers to make healthcare systems more resilient in current and future emergencies and protect public health and access to health care. Access to care involves many highly interdependent factors and stakeholders at play [37]. This study takes as its framework of reference one of the most frequently used models for the analysis of access to health services [38], that of Aday and Andersen [39]. This model distinguishes between realized access (effective utilization of the services) and potential access (determinants of access), differentiating between factors related to the services and to the population. The realized access analysis takes into account the type, place, motive of the visit (preventive or curative), and care outcomes, while potential access analysis takes into account the characteristics of the services (availability of resources and organization) and those of the population (predisposing factors: sociodemographic factors, beliefs, attitudes, and knowledge of the health system; enabling factors: income and type of insurance; health needs). Health policies, programs, or interventions can in turn affect access barriers related to the health services or changing (mutable) characteristics of the population [39,40]. Aday and Andersen’s framework is more comprehensive and exhaustive than other analytical models [41–43], which focus either on the entry to health services or on the characteristics of services and how they adjust to the characteristics of the population. Thus, it offers an appropriate approach for identifying existing knowledge",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 20
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p20",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 20 of 31\n\nWith regard to the type of service, of the studies on realized access, 5 focused on health services in general [46–50]; 12 on emergencies [51–62] (of which 5 were related to pediatric emergencies [56–58,60,61]); 15 on secondary care (SC) (outpatient visits, hospital admissions, etc., for nephrology [63], oncology [64,65], pediatrics [66], psychiatry [67,68], rehabilitation [69], respiratory diseases [70], sexual and reproductive health (SRH) [71, 73–75], and traumatology [78,79]); two on primary care (PC) [80,81]; one on preventive services [82]. Of the studies on potential access, 1 focused on health services in general [91], 13 on SC (endocrinology [83], rare diseases [86], pediatrics [84], psychiatry [85], SRH [87,88, 93–95], tuberculosis [89,96] and urology [90]); and 2 on PC [92,97]. The study that analyzed changes in both realized and potential access focused on SC relating to SRH [98]. In terms of geographical area, 19 studies were conducted in European countries [47, 51,53,55,57,62,64,67–70,75,79,83,84,88,90,92,95], 9 in North American countries [49,58,59, 77,78,80,82,85,86], 9 in Sub-Saharan Africa [46,48,71,72,76,87,93,94,98], 3 in Latin America [60,91,96], 5 in the East Asia–Paciﬁc region [50,56,61,66,81], 3 in South Asia [63,65,74], 2 in the North Africa–Middle East region [52], and, lastly, 3 studies covered various re-gions [54,89,97]. With regard to the period of analysis, 38 of the selected studies were conducted over the ﬁrst months of the pandemic (February to June 2020) [46–55,57–60,62,65–70,72– 80,82,84,86,88,90,92,93,98]; 4 during the second stage of the pandemic (June to September 2020) [85,89,91,96]; 1 at a later stage (September to November 2020) [94]; ﬁnally, 8 analyzed the whole period (February to December 2020) [56,61,63,64,71,81,83,87]. No studies were found that analyzed periods after December 2020. All studies that analyzed realized access presented their results in comparison with a previous period: 32 of the ﬁrst-stage studies compared the changes to pre-pandemic periods of reference [46–55,57–60,62,65– 70,72–80,82,98], as did 6 of those that analyzed the whole period [56,61,63,64,71,83]. One study did not specify the exact period of 2020 analyzed [95]. Below is a summary of results found regarding changes in realized access and potential access, following the Aday and Andersen theoretical framework [39,40].\n\n3.1. Changes in the Utilization of Health Services and Inﬂuencing Factors\n\nOf the 38 studies that analyzed changes in realized access [46–82,98], 33 indicated a statistically signiﬁcant descent in the use of services and only one reported an increase [78], and 4 descriptive studies also found a reduction in the use of services [47,61,63,65] (Table 1). After the ﬁrst few months of the pandemic, some studies described an increase in the utilization, without reaching levels previous to the COVID-19 pandemic [48,61,63,71,72,82]. However, among the studies that extended their analysis to the end of 2020, there are reports of new drops in the utilization of services, coinciding with the onset of new waves of COVID-19 [61,63,71]. By type of service analyzed, studies focusing on the health services in general [46,47, 49,50] described an overall drop in use, which varied in terms of magnitude. Among those that analyzed changes in emergency care [51–62,66,77], it was reported that, although the volume of consultations fell, there was an increase in the number of cases with additional complications [53,58,66,74,77] and cases requiring admission to hospital [51,55,57,59,60,67, 70]. Likewise, the studies on changes in SC services also reported a reduction in the use of services, while in some cases detecting an increase in the proportion of visits or hospital admissions in concrete healthcare areas (e.g., severe mental health cases [47] or trauma injuries [56,58,78]). With respect to PC, both studies described a drop in the number of in-person visits and an increase in remote care consultations (via various mechanisms, such as consultation by telephone or videocall) [66,80]. Lastly, the study that analyzed changes in the use of preventive services [82], along with others that also assessed procedures classiﬁed as elective [49,53,63,64,77], reported a drop in use but with less pronounced changes in urgent cases [57,62,82].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 21
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p21",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 21 of 31\n\nIn the studies that analyzed inﬂuencing factors in the use of services in the context of the pandemic, the probability of lower utilization levels was associated with different factors. With regard to predisposing characteristics of the population, women [56,79] and ethnic minorities [49,74] were less likely to access health services, with inconsistent results regarding the elderly [52,79]. As for individual enabling characteristics, the likelihood of a lower use of services was associated with people with a low income and limited healthcare coverage [49,74], and for those enabling characteristics related to the type of area, a higher incidence of COVID-19 [50]. In terms of need, the probability of using health services was lower among patients who lacked a previous diagnosis [82], had less severe conditions (without complications or adverse outcomes) [67], and did not require hospitalization [52,57,67].\n\n3.2. Potential Access: Barriers Related to Characteristics of the Services and Population\n\nThe 16 studies that analyzed potential access [83–98] described changes in the factors that inﬂuenced access before the COVID-19 pandemic and the emergence of new barriers, in terms of both the characteristics of the services and those of the population (Tables 2 and 3). Twelve studies described changes related to characteristics of the services [83,85– 90,92,93,95,97,98]. The most signiﬁcant of these was a reported decrease in available resources, both in terms of materials and medical supplies [83,86,89,93,97], and of staff to care for non-COVID patients [83,85,88,89,92,95], which in certain cases forced some health centers to close [93,97]. Two studies pointed out increases in waiting times [90,98] and one a rise in the cost of services [97]. Fourteen studies identiﬁed barriers related to population characteristics [83–89,91,93– 98]. Among the predisposing factors identiﬁed, fear of contagion was one of the main reasons for not going to the health services [83–86,88,89,94–98], as well as the stigma that receiving a COVID-19 diagnosis would create [89,94,97]. Other factors found included people misinterpreting government recommendations to avoid going to the health services [84], perceiving that the services were of poor quality [94], or believing they would have difﬁculties in gaining access [85,86,91,93] during the pandemic. With respect to enabling factors, authors highlighted the worsening socioeconomic situation of the population [87,89,91,93,94,96,97], a lack of support networks [93,94], and an increase in technological barriers [85,88] as some of the main factors that hindered access to the health services. Lastly, they also underlined tendencies to play down the risk of health complications and the perceived need for medical attention [94,98] as barriers that had the effect of reducing the use of services and delaying the decision to seek care during the pandemic.\n\n4. Discussion\n\nThe impact of the COVID-19 pandemic has been felt worldwide in many different spheres of society, but especially in access to health services for unrelated conditions. There is now a pressing need to evaluate the changes that have arisen in this regard, and their implications for equity of access and the resilience of national health systems to future pandemics. This is, to the best of our knowledge, the ﬁrst scoping review to offer a general overview of the subject, taking in the current evidence and highlighting the areas that will require further research in future studies. Most of the studies included in the analysis describe a lower level of health services’ utilization and changes in potential access, as preexisting barriers have intensiﬁed and new ones have arisen. However, while investigations into the impact of the COVID-19 pandemic are still ongoing, the results of this review show that the studies conducted to date are limited in terms of scope and methodology, and that they are mainly centered on analyzing the impact on the use of services for speciﬁc diseases or population groups during the ﬁrst stages of the pandemic, with a particular focus on secondary care. Studies on the use of health services in general are very scarce, as are those on access to primary care, which in many countries has been the most overwhelmed care level",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 22
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p22",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 22 of 31\n\ndue to having to take on more pandemic-related care duties (vaccination, case tracking, etc.). Likewise, there is a considerable lack of evidence so far on how changes have taken place over the course of the different waves of COVID-19, and according to geographical context. Although some studies with longer timeframes—to the end of 2020—have already described new drops in health services’ activity following brief periods of recovery [61,63, 71], further evidence is required to conﬁrm this trend. Moreover, we have yet to look into how the pandemic has affected unmet care needs, as some studies showed that one of the most commonly reported impact was that patients delayed seeking care due to factors such as fear of contagion, disinformation, etc. [83–86,88,89,94,95,97,98]. It is important to bear in mind that access to care involves multiple interdependent factors and numerous actors. However, the results of this review show that, so far, there are almost no published studies with a wide scope using mixed methods, and that the qualitative studies available to date are still limited in both number and perspective. In regard to the latter, few studies include, in addition to that of users, other viewpoints such as that of the health professionals or managers involved in the process of taking measures or adopting practices that inﬂuenced access to care. Furthermore, the population groups selected for study were generally sufferers of a speciﬁc condition or of vulnerable status. The number of qualitative studies is probably limited due to the complexity of their development in the pandemic context, in terms of time, resources, and restrictions imposed by the mitigation measures. Approaches that combine multiple sources of evidence and different perspectives are needed to shed more light on the factors and actors that have inﬂuenced access. With regard to our main ﬁndings on the reduction in the use of services, this may be related to health systems prioritizing their response to the public health emergency, which differed according to context [4,25,99,100]. Initial measures were generally centered on containing the spread of COVID-19 and providing the health services with the resources needed to meet the soaring demand for medical attention, which led to the classiﬁcation of some services and procedures as non-essential, and a consequent reduction in the resources allocated to cover those health needs [3,4,7,8]. There is a lack of evidence on how the measures were modiﬁed and adapted according to context as the pandemic progressed, and the patterns of utilization that they generated, although some studies have already revealed changes in use with recoveries and relapses, in the more advanced stages of the pandemic [61,63,71]. Going into more detail, the reductions in access to services described appear to have brought with them an increase in medical complications and emergencies, especially in elective procedures [48,49,52,53,58,59,67,71,74,77,101], and/or care delays (time passed between onset of symptoms and intervention) [53,98], although it is generally not speciﬁed whether the delays were due to patients putting off seeking medical attention or rather to an increase in barriers to access the services. Some studies also observed higher mortality rates [52,70,74,76] and burden of disease [62]. However, while emergency care was one of the greatest causes for concern [51–62], according to our results the downturns recorded for this type of service appear to be less pronounced or of lower impact than those reported in other ﬁelds. In this regard, some studies highlight the difﬁculties involved in maintaining normal levels of activity in certain services, even in some classed as essential, such as maternal health, oncology, or mental health [71,76,85,89,93,94,97,98]. The impact appears to have been felt worldwide but especially in middle- and low-income countries, a point that has also been stressed in various opinion articles [101–107]. Differences between health systems, and between geographical contexts, may both have acted as determining factors in the changes seen. Sexual and reproductive health services analyzed in African and South Asian countries, for example, have seen a signiﬁcant downturn in access, not only to maternal and child health services but also other non-essential areas of health care (family planning, sexually transmitted diseases, etc.) [71,74,76,93,98], despite the warnings given in various reports and opinion articles based on previous epidemic experience [2,26,101,108]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 23
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p23",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 23 of 31\n\nof the risk this poses in terms of burden of disease and mortality [2,25,26,103–106,109–114]. Another example can be found in the lack of care for patients at risk of a cancer diagnosis due to delays in screening and diagnostic programs caused by certain procedures being classiﬁed as elective [64,65,82], which could also lead to an increase in the burden of disease and mortality due to the late detection of new cancer cases, as several studies pointed out [35,115–118]. As regards mental health, various studies mention anxiety and other disorders related to fear of contagion and the uncertainty that the pandemic generated in its ﬁrst few months [35,55,77,83–86,88,91,94–96], as well as difﬁculties in access to mental health services [68,85,97] and an increase in acute cases of severe disorders [67]. These issues may have caused the burden of disease to increase, which could inﬂuence service utilization patterns in the years to follow, an aspect that was observed previously with the SARS epidemic in 2003 [119] and that should be taken into consideration in future studies on the impact of COVID-19. The few studies that analyze the inﬂuencing factors on the lower utilization of services mainly highlight a greater downturn in use among low-income users, those with limited healthcare coverage, and ethnic minorities [49,74], as well as the female population [56,79], all of which signals greater inequalities with regard to more vulnerable populations. As regards the changes in potential access detected in this review, the results indicate both the exacerbation of existing barriers, related above all to structural difﬁculties and situations of vulnerability, and the creation of new ones. In terms of existing barriers accentuated by the pandemic, some studies reported a shortage of resources in the services to meet all the incoming healthcare requests [83,85,86,88,89,92,93,95,97,98], which varied according to service and geographical context. One of the most serious problems was the lack of or alterations to the distribution of materials and medical supplies in low-income countries [83,87,89,93,94,97], an aspect corroborated in other publications, both reports and opinion articles [4,34,104,120–122]. The lack of materials and medical supplies may have contributed to increasing negative perceptions of the quality of the health services, especially in disadvantaged settings or situations with structural difﬁculties, another barrier to access found by some studies [93,94,97]. Lastly, several studies in this review [83,85,87,89,91,93,97] and some reports [12,123] focusing on vulnerable population groups (such as migrants or refugees, sex workers, people at a severe socioeconomic disadvantage) highlight the worsening economic situation and the intensiﬁcation of other barriers (legal, information-related, or discriminatory), as has also occurred in previous epidemics [19]. All this points to situations in which the ability of these groups to access the health services and receive care may have diminished yet further. In addition, new barriers may have been created as a result of adopting alternatives to face-to-face visits (online consultation, telephone, video call, telemedicine, etc.) and changes in attitudes and beliefs developed as a result of the pandemic. In this regard, the use of online consultation has grown as a way to mitigate difﬁculties in access [4], but not in the same way across all contexts [3,124]. Several articles included in the review described inequalities in access, reporting access problems related to digital literacy (lack of understanding of digital devices) or a lack of material resources (Internet connection, mobile devices) [49,85,89], a point also highlighted in other publications [125,126], alongside the perception that the care received in virtual consultation is impersonal [88]. These results are in keeping with numerous publications that have focused on the changes from face-to-face consultations to remote care and user satisfaction with the latter [29,80,127–136]. However, most studies are centered mainly on high-income countries, thus, further evidence in different contexts is required on the impact of remote care on access to the health services. Likewise, one of the individual characteristics that has been most inﬂuential in terms of new barriers created by the pandemic is fear of contagion [83–86,88,89,94,95,97], an aspect that has been discussed in many publications, including opinion articles [113,137–142], and also played a highly signiﬁcant role in previous epidemics as a factor causing problems or delays in seeking medical care [2,21,24,26,72,76,101,108,143,144]. Other factors reported include the stigma associated with seeking care [84,89,93,94,97], also described in other",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 24
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p24",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 24 of 31\n\npublications [109,145], and users playing down the need for medical treatment [84,94,98] and perceiving a lack of response on the part of the health services [85,88]. While it is true that various studies have identiﬁed both new barriers and the exacerbation of existing ones, the behavior of individuals in this type of public health emergency requires more in-depth analysis in order to steer the design of interventions to help counter these barriers, such as public health information campaigns or speciﬁc measures for vulnerable populations. On a ﬁnal note, this review has several limitations. In the ﬁrst place the nature of the studies covered varies greatly, in terms of methodology (ways of measuring use of services, information sources, sample size, etc.), and of geographical areas and health systems analyzed; thus, it is not possible to draw comparisons between them. Secondly, articles that analyzed access to services due to COVID-19 in addition to other illnesses were excluded from the study. This decision was made in order to rule out bias towards activity and resources destined to the treatment of other diseases. Third, no studies focusing on the impact of the pandemic control measures on access to health services were found, probably due to the limited terms used in our search to capture this area. Moreover, it is also possibly due to the difﬁculties involved in distinguishing the impact of the measures from other effects of the pandemic. Finally, some articles may not have been considered on being published in other languages (Chinese, Arabic, etc.), so this analysis may have excluded relevant information and failed to consider certain contexts. In spite of these limitations, this is the ﬁrst study to address changes in access from a global perspective, with a view to shedding light on gaps in knowledge that will require further research in the future.\n\n5. Conclusions\n\nThis review analyzed studies that reported changes in health services’ utilization, and the factors that inﬂuenced the use of services for non-COVID-19 conditions, during the COVID-19 pandemic. Results vary according to the context analyzed, although, in general terms, they reﬂect the same trend, describing a general reduction in the use of health services, the exacerbation of preexisting barriers, and the emergence of new ones. This scoping review has shown that most studies conducted to date are limited in terms of scope and methodology and are centered mainly on the impact on speciﬁc conditions or population groups during the early stages of the pandemic, focusing mostly on secondary care. Furthermore, a signiﬁcant gap in knowledge was detected on whether the services have recovered to pre-pandemic levels of care use and, if not, in which areas and for what reasons. Future studies should go into greater depth on the pandemic-related changes that have inﬂuenced access to health services (e.g., fear and socioeconomic difﬁculties), according to context and over the course of the different stages of the pandemic. In any case, as an ongoing phenomenon, the real impact of the COVID-19 pandemic is yet to be determined.\n\nAuthor Contributions: G.P. designed the research protocol, under the supervision of A.O.-A., I.V. and M.-L.V. In collaboration with her three supervisors, she carried out the bibliographic search and wrote the ﬁrst version of the manuscript. They all participated in decisions on which studies to include in the analysis, and in the interpretation of results and the writing of the ﬁnal version of the manuscript. All authors have read and agreed to the published version of the manuscript.\n\nFunding: This research received no external funding. G.P. received the CSC grant to conduct this study as her thesis for the Master in Public Health (Universitat Pompeu Fabra).\n\nInstitutional Review Board Statement: Not applicable.\n\nInformed Consent Statement: Not applicable.\n\nConﬂicts of Interest: The authors declare no conﬂict of interest.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 25
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p25",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 25 of 31\n\nAppendix A\n\nSearch Strategy in Medline\n\n1. Access to health care services: (((((((((((((((health services accessibility[MeSH Terms]) OR (health services accessibility)) OR (accessing)) OR (accessibility)) OR (access)) OR (utilization)) OR (delivery of health care)) OR (healthcare services)) OR (Health Services Needs and Demand[MeSH Terms])) OR (Healthcare Disparities[MeSH Terms])) OR (Needs Assessment[MeSH Terms])) OR (Health Policy[MeSH Terms])) OR (Equipment and Supplies Utilization[MeSH Terms])) OR (Facilities and Services Utilization[MeSH Terms])) 2. AND 3. COVID-19: ((((((((coronavirus disease) OR (COVID-19)) OR (coronavirus)) OR (SARS-CoV-2)) OR (Coronavirus Infections[MeSH Terms])) OR (COVID-19[MeSH Terms])) OR (SARS-CoV-2[MeSH Terms])) OR (coronavirus[MeSH Terms])) 4. Filters: December 2019–March 2021/March–September 2021.\n\nReferences\n\n1. Organización Mundial de la Salud Cronología de la Respuesta de la OMS a la COVID-19. Available online: https://www.who. int/es/news/item/29-06-2020-covidtimeline (accessed on 6 November 2020). 2. Hussein, J. COVID-19: What implications for sexual and reproductive health and rights globally? Sex. Reprod. Health Matters 2020, 28, 1746065. [CrossRef] [PubMed] 3. Linn, L.; Oliel, S.; Baldwin, A. La COVID-19 afectó el Funcionamiento de los Servicios de Salud para Enfermedades no Transmisibles en las Américas—OPS/OMS|Organización Panamericana de la Salud. Available online: https://www.paho.org/ es/noticias/17-6-2020-covid-19-afecto-funcionamiento-servicios-salud-para-enfermedades-no (accessed on 12 October 2020). 4. World Health Organization. Pulse Survey on Continuity of Essential Health Services during the COVID-19 Pandemic: Interim Report, 27 August 2020; World Health Organization: Geneva, Switzerland, 2020. 5. World Health Organization. Second Round of the National Pulse Survey on Continuity of Essential Health Services during the COVID-19 Pandemic: January–March 2021; World Health Organization: Geneva, Switzerland, 2021. 6. Global Health Cluster COVID-19 Task Team. Essential Health Services: A guidance Note. How to Prioritize and Plan Essential Health Services during COVID-19 Response in Humanitarian Settings; Health Cluster: Geneva, Switzerland, 2020. 7. Ma, X.; Vervoort, D.; Reddy, C.L.; Park, K.B.; Makasa, E. Emergency and essential surgical healthcare services during COVID-19 in low- and middle-income countries: A perspective. Int. J. Surg. 2020, 79, 43–46. [CrossRef] 8. Teslya, A.; Pham, T.M.; Godijk, N.G.; Kretzschmar, M.E.; Bootsma, M.C.J.J.; Rozhnova, G. Impact of self-imposed prevention measures and short-term government-imposed social distancing on mitigating and delaying a COVID-19 epidemic: A modelling study. PLoS Med. 2020, 17, e1003499. [CrossRef] 9. Porthé, V.; Vargas, I.; Sanz-Barbero, B.; Plaza-Espuña, I.; Bosch, L.; Vázquez, M.L. Changes in access to health care for immigrants in Catalonia during the economic crisis: Opinions of health professionals and immigrant users. Health Policy 2016, 120, 1293–1303. [CrossRef] [PubMed] 10. Krishnan, L.; Ogunwole, S.M.; Cooper, L.A. Historical Insights on Coronavirus Disease 2019 (COVID-19), the 1918 Inﬂuenza Pandemic, and Racial Disparities: Illuminating a Path Forward. Ann. Intern. Med. 2020, 173, 474–481. [CrossRef] [PubMed] 11. Dasgupta, J.; Schaaf, M.; Contractor, S.Q.; Banda, A.; Viana, M.; Kashyntseva, O.; Ruano, A.L. Axes of alienation: Applying an intersectional lens on the social contract during the pandemic response to protect sexual and reproductive rights and health. Int. J. Equity Health 2020, 19, 130. [CrossRef] 12. Skogberg, N.; Koponen, P.; Lilja, E.; Austero, S.; Prinkey, T.; Castaneda, A.E. Impact of COVID-19 on the Health and Wellbeing of Persons Who Migrated to Finland: The MigCOVID Survey 2020–2021; Finnish Institute of Health and Welfare’s: Helsinki, Finland, 2021. 13. Frohlich, K.L.; Potvin, L. Transcending the known in public health practice: The inequality paradox: The population approach and vulnerable populations. Am. J. Public Health 2008, 98, 216–221. [CrossRef] 14. Suhrcke, M.; Stuckler, D.; Suk, J.E.; Desai, M.; Senek, M.; McKee, M.; Tsolova, S.; Basu, S.; Abubakar, I.; Hunter, P.; et al. The impact of economic crises on communicable disease transmission and control: A systematic review of the evidence. PLoS ONE 2011, 6, e20724. [CrossRef] [PubMed] 15. Nagai, M.; Oikawa, M.; Tamura, T.; Egami, Y.; Fujita, N. Can we apply lessons learned from Ebola experience in West Africa for COVID-19 in lower income countries? Glob. Health Med. 2020, 2, 140–141. [CrossRef] [PubMed] 16. Nuzzo, J.B.; Meyer, D.; Snyder, M.; Ravi, S.J.; Lapascu, A.; Souleles, J.; Andrada, C.I.; Bishai, D. What makes health systems resilient against infectious disease outbreaks and natural hazards? Results from a scoping review. BMC Public Health 2019, 19, 1310. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 26
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p26",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 26 of 31\n\n17. Phillips, D.E.; Bhutta, Z.A.; Binagwaho, A.; Boerma, T.; Freeman, M.C.; Hirschhorn, L.R.; Panjabi, R. Learning from Exemplars in Global Health: A road map for mitigating indirect effects of COVID-19 on maternal and child health. BMJ Glob. Health 2020, 5, e003430. [CrossRef] 18. Wilhelm, J.A.; Helleringer, S. Utilization of non-Ebola health care services during Ebola outbreaks: A systematic review and meta-analysis. J. Glob. Health 2019, 9, 010406. [CrossRef] 19. UNDG. Socio-Economic Impact of Ebola Virus Disease in West African Countries; United Nations Depelopment Group Western and Central Africa: Dakar, Senegal, 2015. 20. Elston, J.W.T.; Cartwright, C.; Ndumbi, P.; Wright, J. The health impact of the 2014–15 Ebola outbreak. Public Health 2017, 143, 60–70. [CrossRef] [PubMed] 21. Chang, H.J.; Huang, N.; Lee, C.H.; Hsu, Y.J.; Hsieh, C.J.; Chou, Y.J. The Impact of the SARS Epidemic on the Utilization of Medical Services: SARS and the Fear of SARS. Am. J. Public Health 2004, 94, 562–564. [CrossRef] [PubMed] 22. Schull, M.J.; Stukel, T.A.; Vermeulen, M.J.; Zwarenstein, M.; Alter, D.A.; Manuel, D.G.; Guttmann, A.; Laupacis, A.; Schwartz, B. Effect of widespread restrictions on the use of hospital services during an outbreak of severe acute respiratory syndrome. Cmaj 2007, 176, 1827–1832. [CrossRef] 23. Vazquez, J.; Islam, T.; Gursky, J.; Beller, J.; Correa, D.J. Access to Care Matters: Remote Health Care Needs During COVID-19. Telemed. e-Health 2020, 27, 468–471. [CrossRef] [PubMed] 24. Ly, J.; Sathananthan, V.; Grifﬁths, T.; Kanjee, Z.; Kenny, A.; Gordon, N.; Basu, G.; Battistoli, D.; Dorr, L.; Lorenzen, B.; et al. Facility-Based Delivery during the Ebola Virus Disease Epidemic in Rural Liberia: Analysis from a Cross-Sectional, Population-Based Household Survey. PLoS Med. 2016, 13, e1002096. [CrossRef] 25. UNFPA. Coronavirus (2019-nCoV) Guidance Document 2020; UNFPA Asia-Paciﬁc Regional Ofﬁce: Bangkok, Thailand, 2020. 26. Correa, M. Impacto del COVID-19 en la salud sexual y reproductiva. Rev. Int. Salud Matern. Fetal 2020, 5, 5–8. 27. Masresha, B.G.; Luce, R.; Weldegebriel, G.; Katsande, R.; Gasasira, A.; Mihigo, R. The impact of a prolonged ebola outbreak on measles elimination activities in Guinea, Liberia and Sierra Leone, 2014–2015. Pan Afr. Med. J. 2020, 35, 8. [CrossRef] 28. Monaghesh, E.; Hajizadeh, A. The role of telehealth during COVID-19 outbreak: A systematic review based on current evidence. BMC Public Health 2020, 20, 1193. [CrossRef] 29. Andrews, E.; Berghofer, K.; Long, J.; Prescott, A.; Caboral-Stevens, M. Satisfaction with the use of telehealth during COVID-19: An integrative review. Int. J. Nurs. Stud. Adv. 2020, 2, 100008. [CrossRef] 30. Parker, R.; Figures, E.; Paddison, C.; Matheson, J.; Blane, D.; Ford, J. Inequalities in General Practice Remote Consultations: A Systematic Review. BJGP Open 2021, 5, 1–7. [CrossRef] [PubMed] 31. Garfan, S.; Alamoodi, A.H.; Zaidan, B.B.; Al-Zobbi, M.; Hamid, R.A.; Alwan, J.K.; Ahmaro, I.Y.Y.; Khalid, E.T.; Jumaah, F.M.; Albahri, O.S.; et al. Telehealth utilization during the COVID-19 pandemic: A systematic review. Comput. Biol. Med. 2021, 138, 104878. [CrossRef] 32. Khoshrounejad, F.; Hamednia, M.; Mehrjerd, A.; Pichaghsaz, S.; Jamalirad, H.; Sargolzaei, M.; Hoseini, B.; Aalaei, S. Telehealth-Based Services During the COVID-19 Pandemic: A Systematic Review of Features and Challenges. Front. Public Health 2021, 9, 977. [CrossRef] 33. Montagnoli, C.; Zanconato, G.; Ruggeri, S.; Cinelli, G.; Tozzi, A.E. Restructuring maternal services during the COVID-19 pandemic: Early results of a scoping review for non-infected women. Midwifery 2021, 94, 102916. [CrossRef] [PubMed] 34. Olorunsaiye, C.Z.; Yusuf, K.K.; Reinhart, K.; Salihu, H.M. COVID-19 and Child Vaccination: A Systematic Approach to Closing the Immunization Gap. Int. J. Matern. Child Health AIDS 2020, 9, 381–385. [CrossRef] 35. Dhada, S.; Stewart, D.; Cheema, E.; Hadi, M.A.; Paudyal, V. Cancer services during the COVID-19 pandemic: Systematic review of patient’s and caregiver’s experiences. Cancer Manag. Res. 2021, 13, 5875–5887. [CrossRef] [PubMed] 36. Alqahtani, J.S.; Oyelade, T.; Aldhahir, A.M.; Mendes, R.G.; Alghamdi, S.M.; Miravitlles, M.; Mandal, S.; Hurst, J.R. Reduction in hospitalised COPD exacerbations during COVID-19: A systematic review and meta-analysis. PLoS ONE 2021, 16, e0255659. [CrossRef] [PubMed] 37. Gulliford, M.; Figueroa-Munoz, J.; Morgan, M.; Hughes, D.; Gibson, B.; Beech, R.; Hudson, M. What does “access to health care” mean? J. Health Serv. Res. Policy 2002, 7, 186–188. [CrossRef] 38. Babitsch, B.; Gohl, D.; von Lengerke, T. Re-revisiting Andersen’s Behavioral Model of Health Services Use: A systematic review of studies from 1998–2011. GMS Psycho-Soc.-Med. 2012, 9, 1–15. [CrossRef] 39. Aday, L.A.; Andersen, R. A framework for the study of access to medical care. Health Serv. Res. 1974, 9, 208–220. 40. Andersen, R.M.; Davidson, P.L. Improving Access to Care in America: Individual and Contextual Indicators. In Changing the US Health Care System: Key Issues in Health Services Policy and Management; Andersen, R., Rice, T.S., Kominski, J., Eds.; Jossey-Bass: San Francisco, CA, USA, 2001; pp. 3–31. ISBN 978-0787954048. 41. Donabedian, A. Aspects of Medical Care Administration: Specifying Requirements for Health Care; Harvard University Press: Cambridge, UK, 1973. 42. Pechansky, R.; Thomas, W. The concept of access. Deﬁnition and relationship to costumer satisfaction. Med. Care 1981, XIX, 127–140. 43. Frenk, J. El concepto y la medición de la accesibilidad. Salud Pública Mex 1985, 27, 438–453. 44. Arksey, H.; O’Malley, L. Scoping studies: Towards a methodological framework. Int. J. Soc. Res. Methodol. Theory Pract. 2005, 8, 19–32. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 27
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p27",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 27 of 31\n\n45. Tricco, A.C.; Lillie, E.; Zarin, W.; O’Brien, K.K.; Colquhoun, H.; Levac, D.; Moher, D.; Peters, M.D.J.; Horsley, T.; Weeks, L.; et al. PRISMA extension for scoping reviews (PRISMA-ScR): Checklist and explanation. Ann. Intern. Med. 2018, 169, 467–473. [CrossRef] [PubMed] 46. Abebe, W.; Worku, A.; Moges, T.; Tekle, N.; Amogne, W.; Haile, T.; Mekonen, D.; Habtamu, A.; Deressa, W. Trends of follow-up clinic visits and admissions three-months before and during COVID-19 pandemic at Tikur Anbessa specialized hospital, Addis Ababa, Ethiopia: An interrupted time series analysis. BMC Health Serv. Res. 2021, 21, 731. [CrossRef] 47. Howarth, A.; Munro, M.; Theodorou, A.; Mills, P.R. Trends in healthcare utilisation during COVID-19: A longitudinal study from the UK. BMJ Open 2021, 11, e048151. [CrossRef] [PubMed] 48. Siedner, M.J.; Kraemer, J.D.; Meyer, M.J.; Harling, G.; Mngomezulu, T.; Gabela, P.; Dlamini, S.; Gareta, D.; Majozi, N.; Ngwenya, N.; et al. Access to primary healthcare during lockdown measures for COVID-19 in rural South Africa: An interrupted time series analysis. BMJ Open 2020, 10, e043763. [CrossRef] 49. Whaley, C.M.; Pera, M.F.; Cantor, J.; Chang, J.; Velasco, J.; Hagg, H.K.; Sood, N.; Bravata, D.M. Changes in Health Services Use Among Commercially Insured US Populations During the COVID-19 Pandemic. JAMA Netw. Open 2020, 3, e2024984. [CrossRef] 50. Zhang, Y.N.; Chen, Y.; Wang, Y.; Li, F.; Pender, M.; Wang, N.; Yan, F.; Ying, X.H.; Tang, S.L.; Fu, C.W. Reduction in healthcare services during the COVID-19 pandemic in China. BMJ Glob. Health 2020, 5, e003421. [CrossRef] 51. Ojetti, V.; Covino, M.; Brigida, M.; Petruzziello, C.; Saviano, A.; Migneco, A.; Candelli, M.; Franceschi, F. Non-COVID diseases during the pandemic: Where have all other emergencies gone? Medicina 2020, 56, 512. [CrossRef] [PubMed] 52. Mahmassani, D.; Tamim, H.; Makki, M.; Hitti, E. The impact of COVID-19 lockdown measures on ED visits in Lebanon. Am. J. Emerg. Med. 2021, 46, 634–639. [CrossRef] [PubMed] 53. Cano-Valderrama, O.; Morales, X.; Ferrigni, C.J.; Martín-Antona, E.; Turrado, V.; García, A.; Cuñarro-López, Y.; Zarain-Obrador, L.; Duran-Poveda, M.; Balibrea, J.M.; et al. Acute Care Surgery during the COVID-19 pandemic in Spain: Changes in volume, causes and complications. A multicentre retrospective cohort study. Int. J. Surg. 2020, 80, 157–161. [CrossRef] [PubMed] 54. Sokolski, M.; Gajewski, P.; Zymli´nski, R.; Biegus, J.; Berg, J.M.T.; Bor, W.; Braunschweig, F.; Caldeira, D.; Cuculi, F.; D’Elia, E.; et al. Impact of Coronavirus Disease 2019 (COVID-19) Outbreak on Acute Admissions at the Emergency and Cardiology Departments Across Europe. Am. J. Med. 2021, 134, 482–489. [CrossRef] 55. Tsiouﬁs, K.; Chrysohoou, C.; Kariori, M.; Leontsinis, I.; Dalakouras, I.; Papanikolaou, A.; Charalambus, G.; Sambatakou, H.; Siasos, G.; Panagiotakos, D.; et al. The mystery of “missing” visits in an emergency cardiology department, in the era of COVID-19.; a time-series analysis in a tertiary Greek General Hospital. Clin. Res. Cardiol. 2020, 109, 1483–1489. [CrossRef] 56. Choi, A.; Bae, W.; Kim, K.; Kim, S. Impact of COVID-19 on the visit of pediatric patients with injuries to the emergency department in korea. Children 2021, 8, 568. [CrossRef] [PubMed] 57. Dopfer, C.; Wetzke, M.; Zychlinsky Scharff, A.; Mueller, F.; Dressler, F.; Baumann, U.; Sasse, M.; Hansen, G.; Jablonka, A.; Happle, C. COVID-19 related reduction in pediatric emergency healthcare utilization—A concerning trend. BMC Pediatr. 2020, 20, 427. [CrossRef] 58. Finkelstein, Y.; Maguire, B.; Zemek, R.; Osmanlliu, E.; Kam, A.J.; Dixon, A.; Desai, N.; Sawyer, S.; Emsley, J.; Lynch, T.; et al. Effect of the COVID-19 Pandemic on Patient Volumes, Acuity, and Outcomes in Pediatric Emergency Departments: A Nationwide Study. Pediatr. Emerg. Care 2021, 37, 427–434. [CrossRef] 59. Goldman, R.D.; Grafstein, E.; Barclay, N.; Irvine, M.A.; Portales-Casamar, E. Paediatric patients seen in 18 emergency departments during the COVID-19 pandemic. Emerg. Med. J. 2020, 37, 773–777. [CrossRef] 60. Percul, C.; Cruz, M.; Meza, A.C.; González, G.; Lerendegui, L.; Malzone, M.C.; Liberto, D.; Lobos, P.; Imach, B.E.; Moldes, J.M.; et al. Impact of the COVID-19 pandemic on the pediatric population with acute appendicitis: Experience at a general, tertiary care hospital. Arch. Argent. Pediatr. 2021, 119, 224–229. [CrossRef] 61. Yamamoto, H.; Morikawa, Y.; Hagiwara, Y.; Hataya, H. Pediatric emergency healthcare utilization during the COVID-19 pandemic in Tokyo. Pediatr. Int. 2021. [CrossRef] 62. Ball, S.; Banerjee, A.; Berry, C.; Boyle, J.R.; Bray, B.; Bradlow, W.; Chaudhry, A.; Crawley, R.; Danesh, J.; Denniston, A.; et al. Monitoring indirect impact of COVID-19 pandemic on services for cardiovascular diseases in the UK. Heart 2020, 106, 1890–1897. [CrossRef] [PubMed] 63. Kute, V.B.; Gupta, A.; Patel, H.V.; Engineer, D.P.; Banerjee, S.; Rizvi, S.J.; Mishra, V.V.; Patel, A.H.; Navadiya, V.V. The impact of COVID-19 pandemic on nephrology and transplant services and clinical training in India. Exp. Clin. Transplant. 2021, 19, 651–658. [CrossRef] 64. Morris, E.J.A.; Goldacre, R.; Spata, E.; Mafham, M.; Finan, P.J.; Shelton, J.; Richards, M.; Spencer, K.; Emberson, J.; Hollings, S.; et al. Impact of the COVID-19 pandemic on the detection and management of colorectal cancer in England: A population-based study. Lancet Gastroenterol. Hepatol. 2021, 6, 199–208. [CrossRef] 65. Pareek, A.; Patel, A.A.; Harshavardhan, A.; Kuttikat, P.G.; Pendse, S.; Dhyani, A.; Sharma, S.; Agarwal, N.; Maji, D.; Reddy, R.G.; et al. Impact of nationwide lockdown on cancer care during COVID-19 pandemic: A retrospective analysis from western India. Diabetes Metab. Syndr. Clin. Res. Rev. 2021, 15, 102131. [CrossRef] [PubMed] 66. Shi, G.; Huang, J.; Pi, M.; Chen, X.; Li, X.; Ding, Y.; Zhang, H.; Xiao, D.; Huang, G.; Ming, T.; et al. Impact of early Coronavirus Disease 2019 pandemic on pediatric cardiac surgery in China. J. Thorac. Cardiovasc. Surg. 2021, 161, 1605–1614.e4. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 28
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p28",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 28 of 31\n\n67. Ambrosetti, J.; Macheret, L.; Folliet, A.; Wullschleger, A.; Amerio, A.; Aguglia, A.; Seraﬁni, G.; Prada, P.; Kaiser, S.; Bondolﬁ, G.; et al. Impact of the COVID-19 pandemic on psychiatric admissions to a large swiss emergency department: An observational study. Int. J. Environ. Res. Public Health 2021, 18, 1174. [CrossRef] 68. Aragona, M.; Barbato, A.; Cavani, A.; Costanzo, G.; Mirisola, C. Negative impacts of COVID-19 lockdown on mental health service access and follow-up adherence for immigrants and individuals in socio-economic difﬁculties. Public Health 2020, 186, 52–56. [CrossRef] [PubMed] 69. Jesenšek Papež, B.; Šoši´c, L.; Bojnec, V. The consequences of COVID-19 outbreak on outpatient rehabilitation services: A single-center experience in Slovenia. Eur. J. Phys. Rehabil. Med. 2021, 57, 451–457. [CrossRef] 70. Farrugia, Y.; Spiteri Meilak, B.P.; Grech, N.; Asciak, R.; Camilleri, L.; Montefort, S.; Zammit, C. The Impact of COVID-19 on Hospitalised COPD Exacerbations in Malta. Pulm. Med. 2021, 2021, 5533123. [CrossRef] 71. Burt, J.F.; Ouma, J.; Lubyayi, L.; Amone, A.; Aol, L.; Sekikubo, M.; Nakimuli, A.; Nakabembe, E.; Mboizi, R.; Musoke, P.; et al. Indirect effects of COVID-19 on maternal, neonatal, child, sexual and reproductive health services in Kampala, Uganda. BMJ Glob. Health 2021, 6, e006102. [CrossRef] [PubMed] 72. Jensen, C.; McKerrow, N.H. Child health services during a COVID-19 outbreak in KwaZulu-Natal Province, South Africa. S. Afr. Med. J. 2020, 111, 114–119. [CrossRef] [PubMed] 73. Justman, N.; Shahak, G.; Gutzeit, O.; Ben Zvi, D.; Ginsberg, Y.; Solt, I.; Vitner, D.; Beloosesky, R.; Weiner, Z.; Zipori, Y. Lockdown with a Price: The impact of the COVID-19 Pandemic on Prenatal Care and Perinatal Outcomes in a Tertiary Care Center. Isr. Med. Assoc. J. 2020, 22, 533–537. [PubMed] 74. KC, A.; Gurung, R.; Kinney, M.V.; Sunny, A.K.; Moinuddin, M.; Basnet, O.; Paudel, P.; Bhattarai, P.; Subedi, K.; Shrestha, M.P.; et al. Effect of the COVID-19 pandemic response on intrapartum care, stillbirth, and neonatal mortality outcomes in Nepal: A prospective observational study. Lancet Glob. Health 2020, 8, e1273–e1281. [CrossRef] 75. Marques-Fernandez, L.; Sharma, S.; Mannu, U.; Chong, H.P. Impact of COVID-19 on attendances for a 1stepisode of reduced fetal movements: A retrospective observational study. PLoS ONE 2021, 16, e0253796. [CrossRef] 76. Shakespeare, C.; Dube, H.; Moyo, S.; Ngwenya, S. Resilience and vulnerability of maternity services in Zimbabwe: A comparative analysis of the effect of COVID-19 and lockdown control measures on maternal and perinatal outcomes, a single-centre cross-sectional study at Mpilo Central Hospital. BMC Pregnancy Childbirth 2021, 21, 416. [CrossRef] 77. Spurlin, E.E.; Han, E.S.; Silver, E.R.; May, B.L.; Tatonetti, N.P.; Ingram, M.A.; Jin, Z.; Hur, C.; Advincula, A.P.; Hur, H.C. Where Have All the Emergencies Gone? The Impact of the COVID-19 Pandemic on Obstetric and Gynecologic Procedures and Consults at a New York City Hospital. J. Minim. Invasive Gynecol. 2020, 28, 1411–1419.e1. [CrossRef] 78. Chiba, H.; Lewis, M.; Benjamin, E.R.; Jakob, D.A.; Liasidis, P.; Wong, M.D.; Navarrete, S.; Carreon, R.; Demetriades, D. “Safer at home”: The effect of the COVID-19 lockdown on epidemiology, resource utilization, and outcomes at a large urban trauma center. J. Trauma Acute Care Surg. 2021, 90, 708–713. [CrossRef] 79. Horan, J.; Duddy, J.C.; Gilmartin, B.; Amoo, M.; Nolan, D.; Corr, P.; Husien, M.B.; Bolger, C. The impact of COVID-19 on trauma referrals to a National Neurosurgical Centre. Ir. J. Med. Sci. 2021, 190, 1281–1293. [CrossRef] 80. Alexander, G.C.; Tajanlangit, M.; Heyward, J.; Mansour, O.; Qato, D.M.; Stafford, R.S. Use and Content of Primary Care Ofﬁce-Based vs Telemedicine Care Visits During the COVID-19 Pandemic in the US. JAMA Netw. Open 2020, 3, e2021476. [CrossRef] 81. Sato, K.; Mano, T.; Niimi, Y.; Iwata, A.; Toda, T.; Iwatsubo, T. The impact of COVID-19 pandemic on the utilization of ambulatory care for patients with chronic neurological diseases in Japan: Evaluation of an administrative claims database. Biosci. Trends 2021, 15, 219–230. [CrossRef] [PubMed] 82. Song, H.; Bergman, A.; Chen, A.T.; Ellis, D.; David, G.; Friedman, A.B.; Bond, A.M.; Bailey, J.M.; Brooks, R.; Smith-McLallen, A. Disruptions in preventive care: Mammograms during the COVID-19 pandemic. Health Serv. Res. 2021, 56, 95–101. [CrossRef] [PubMed] 83. Kahraman, A.B.; Yildiz, Y.; Çiki, K.; Akar, H.T.; Erdal, I.; Dursun, A.; Tokatli, A.; Sivri, H.S. Invisible burden of COVID-19: Enzyme replacement therapy disruptions. J. Pediatr. Endocrinol. Metab. 2021, 34, 539–545. [CrossRef] [PubMed] 84. Nicholson, E.; McDonnell, T.; Conlon, C.; Barrett, M.; Cummins, F.; Hensey, C.; McAuliffe, E. Parental Hesitancy and Concerns around Accessing Paediatric Unscheduled Healthcare during COVID-19: A Cross-Sectional Survey. Int. J. Environ. Res. Public Health 2020, 17, 9264. [CrossRef] 85. Benjamen, J.; Girard, V.; Jamani, S.; Magwood, O.; Holland, T.; Sharfuddin, N.; Pottie, K. Access to refugee and migrant mental health care services during the ﬁrst six months of the COVID-19 pandemic: A canadian refugee clinician survey. Int. J. Environ. Res. Public Health 2021, 18, 5266. [CrossRef] 86. Halley, M.C.; Stanley, T.; Maturi, J.; Goldenberg, A.J.; Bernstein, J.A.; Wheeler, M.T.; Tabor, H.K. “It seems like COVID-19 now is the only disease present on Earth”: Living with a rare or undiagnosed disease during the COVID-19 pandemic. Genet. Med. 2021, 23, 837–844. [CrossRef] 87. Adelekan, B.; Goldson, E.; Abubakar, Z.; Mueller, U.; Alayande, A.; Ojogun, T.; Ntoimo, L.; Williams, B.; Muhammed, I.; Okonofua, F. Effect of COVID-19 pandemic on provision of sexual and reproductive health services in primary health facilities in Nigeria: A cross-sectional study. Reprod. Health 2021, 18, 166. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 29
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p29",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 29 of 31\n\n88. Karavadra, B.; Stockl, A.; Prosser-Snelling, E.; Simpson, P.; Morris, E. Women’s perceptions of COVID-19 and their healthcare experiences: A qualitative thematic analysis of a national survey of pregnant women in the United Kingdom. BMC Pregnancy Childbirth 2020, 20, 600. [CrossRef] 89. Khan, M.S.; Rego, S.; Rajal, J.B.; Bond, V.; Fatima, R.K.; Isani, A.K.; Sutherland, J.; Kranzer, K. Mitigating the impact of COVID-19 on tuberculosis and HIV services: A cross-sectional survey of 669 health professionals in 64 low and middle-income countries. PLoS ONE 2021, 16, e0244936. [CrossRef] 90. García-Rojo, E.; Manfredi, C.; Santos-Pérez-de-la-Blanca, R.; Tejido-Sánchez, A.; García-Gómez, B.; Aliaga-Benítez, M.; Romero-Otero, J.; Rodriguez-Antolín, A. Impact of COVID-19 outbreak on urology surgical waiting lists and waiting lists prioritization strategies in the Post-COVID-19 era. Actas Urol. Esp. 2021, 45, 207–214. [CrossRef] 91. Zambrano-Barragán, P.; Ramírez Hernández, S.; Freier, L.F.; Luzes, M.; Sobczyk, R.; Rodríguez, A.; Beach, C. The impact of COVID-19 on Venezuelan migrants’ access to health: A qualitative study in Colombian and Peruvian cities. J. Migr. Health 2021, 3, 100029. [CrossRef] [PubMed] 92. Danhieux, K.; Buffel, V.; Pairon, A.; Benkheil, A.; Remmen, R.; Wouters, E.; van Olmen, J. The impact of COVID-19 on chronic care according to providers: A qualitative study among primary care practices in Belgium. BMC Fam. Pract. 2020, 21, 255. [CrossRef] [PubMed] 93. Gichuna, S.; Hassan, R.; Sanders, T.; Campbell, R.; Mutonyi, M.; Mwangi, P. Access to Healthcare in a time of COVID-19: Sex Workers in Crisis in Nairobi, Kenya. Glob. Public Health 2020, 15, 1430–1442. [CrossRef] [PubMed] 94. Hailemariam, S.; Agegnehu, W.; Derese, M. Exploring COVID-19 Related Factors Inﬂuencing Antenatal Care Services Uptake: A Qualitative Study among Women in a Rural Community in Southwest Ethiopia. J. Prim. Care Community Health 2021, 12, 2150132721996892. [CrossRef] 95. Mizrak Sahin, B.; Kabakci, E.N. The experiences of pregnant women during the COVID-19 pandemic in Turkey: A qualitative study. Women Birth 2020, 34, 162–169. [CrossRef] 96. Dos Santos, F.L.; Souza, L.L.L.; Bruce, A.T.I.; De Almeida Crispim, J.; Arroyo, L.H.; Ramos, A.C.V.; Berra, T.Z.; Alves, Y.M.; Scholze, A.R.; Da Costa, F.B.P.; et al. Patients’ perceptions regarding multidrugresistant tuberculosis and barriers to seeking care in a priority city in Brazil during COVID-19 pandemic: A qualitative study. PLoS ONE 2021, 16, e0249822. [CrossRef] 97. Ahmed, S.A.K.S.; Ajisola, M.; Azeem, K.; Bakibinga, P.; Chen, Y.-F.; Choudhury, N.N.; Fayehun, O.; Grifﬁths, F.; Harris, B.; Kibe, P.; et al. Impact of the societal response to COVID-19 on access to healthcare for non-COVID-19 health issues in slum communities of Bangladesh, Kenya, Nigeria and Pakistan: Results of pre-COVID and COVID-19 lockdown stakeholder engagements. BMJ Glob. Health 2020, 5, e003042. [CrossRef] 98. das Neves Martins Pires, P.H.; Macaringue, C.; Abdirazak, A.; Mucufo, J.R.; Mupueleque, M.A.; Zakus, D.; Siemens, R.; Belo, C.F. COVID-19 pandemic impact on maternal and child health services access in Nampula, Mozambique: A mixed methods research. BMC Health Serv. Res. 2021, 21, 860. [CrossRef] 99. UNFPA. COVID-19: Un Enfoque de Género. Proteger la Salud y los Derechos Sexuales y Reproductivos y Promover la Igualdad de Género; United Nations Population Fund: New York, NY, USA, 2020. 100. World Health Organization. COVID-19 Pandemic Leads to Major Backsliding on Childhood Vaccinations, New WHO, UNICEF Data Shows. Available online: https://www.who.int/news/item/15-07-2021-covid-19-pandemic-leads-to-major-backsliding-on-childhood-vaccinations-new-who-unicef-data-shows (accessed on 18 July 2021). 101. Abdelbadee, A.Y.; Abbas, A.M. Impact of COVID-19 on reproductive health and maternity services in low resource countries. Eur. J. Contracept. Reprod. Health Care 2020, 25, 402–404. [CrossRef] [PubMed] 102. Kimani, R.W.; Maina, R.; Shumba, C.; Shaibu, S. Maternal and newborn care during the COVID-19 pandemic in Kenya: Re-contextualising the community midwifery model. Hum. Resour. Health 2020, 18, 75. [CrossRef] 103. Chattu, V.K.; Yaya, S. Emerging infectious diseases and outbreaks: Implications for women’s reproductive health and rights in resource-poor settings. Reprod. Health 2020, 17, 43. [CrossRef] 104. Murewanhema, G.; Makurumidze, R. Essential health services delivery in Zimbabwe during the COVID-19 pandemic: Perspectives and recommendations. Pan Afr. Med. J. 2020, 35, 143. [CrossRef] [PubMed] 105. Chandrasekaran, S.; Diamond-Smith, N.; Srinivasan, K.; Dalvie, S. Preparing for an Increased Need for Abortion Access in India during and after COVID-19: Challenges and Strategies. Stud. Fam. Plann. 2020, 51, 377–383. [CrossRef] [PubMed] 106. Dasgupta, A.; Kantorová, V.; Uefﬁng, P. The impact of the COVID-19 crisis on meeting needs for family planning: A global scenario by contraceptive methods used. Gates Open Res. 2020, 4, 102. [CrossRef] 107. Kumar, N. COVID 19 era: A beginning of upsurge in unwanted pregnancies, unmet need for contraception and other women related issues. Eur. J. Contracept. Reprod. Health Care 2020, 25, 323–325. [CrossRef] 108. Tang, K.; Gaoshan, J.; Ahonsi, B. Sexual and reproductive health (SRH): A key issue in the emergency response to the coronavirus disease (COVID-19) outbreak. Reprod. Health 2020, 17, 59. [CrossRef] [PubMed] 109. Nandagiri, R.; Coast, E.; Strong, J. COVID-19 and abortion: Making structural violence visible. Int. Perspect. Sex. Reprod. Health 2020, 46, 83–89. [CrossRef] [PubMed] 110. Onwuzurike, C.; Meadows, A.R.; Nour, N.M. Examining Inequities Associated With Changes in Obstetric and Gynecologic Care Delivery During the Coronavirus Disease 2019 (COVID-19) Pandemic. Obstet. Gynecol. 2020, 136, 37–41. [CrossRef] 111. Suh-Burgmann, E.J.; Alavi, M.; Schmittdiel, J. Endometrial Cancer Detection During the Coronavirus Disease 2019 (COVID-19) Pandemic. Obstet. Gynecol. 2020, 136, 842–843. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p3",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 3 of 31\n\ngaps in the literature on access and to analyzing different types of barriers and factors that inﬂuence the use of health services. The aim of this article is to synthesize the knowledge accrued from the onset of the pandemic in March 2020 through to September 2021 on the impact of the COVID-19 pandemic on access to health services (including primary care, outpatient secondary care, and inpatient care) for non-COVID-related conditions, and to identify knowledge gaps on these subjects.\n\n2. Materials and Methods\n\nA scoping review of the scientiﬁc literature [44] was carried out, following the PRISMA guide [45], to identify original articles on the impact of the COVID-19 pandemic on access to health services for non-COVID-related conditions. In our bibliographic search, several digital databases were consulted to minimize the risk of overlooking any relevant studies: Medline, Google Scholar, SCiELO, and Web of Science. The search was performed over two separate periods: 22 January 2021–31 March 2021 and 22 September 2021–10 October 2021. In the Medline database, using a thesaurus, MeSH terms were employed for: (a) COVID-19: “Coronavirus Infections”, “Coronavirus”, “COVID-19”, “SARS-CoV-2”; (b) access to health services: “Health services availability”, “Health services needs and demand”, “Healthcare disparities”, “Needs assessment, healthcare”, “Health policy”, “Equipment and Supplies Utilization”, “Facilities and Services Utilization” (see Appendix A for more detail). In the other databases free text terms were used: (a) COVID-19: “coronavirus disease”, “COVID-19”; (b) access to health services: “health services accessibility”, “accessibility”, “accessing”, “access”, “utilization”, “delivery of health care”, “healthcare services”, among others. Word groups were combined using Boolean operators “AND” and “OR” in order to identify the literature in the databases consulted and select those studies referring to the impact of COVID-19 on access to health services. The search was complemented with a manual review of references cited within the selected articles. We selected original articles published in Spanish or English from December 2019 to September 2021—with no ﬁlters for geographical area or motive for access (apart from being unrelated to COVID-19)—that used qualitative and/or quantitative methods and analyzed or described changes in access to health services in the context of the COVID- 19 pandemic. The initial selection of studies to review was performed through title and abstract screening. Where there was any doubt about whether to include a study, this was discussed with another researcher in the team. Following Aday and Andersen’s framework [39,40], the selected studies were classiﬁed into two groups: those that analyzed utilization of services (realized access) and those that explored factors that inﬂuence access (potential access). Any studies on realized access that did not use medical records, administrative/institutional databases, or patient surveys as their data source were excluded. A data extraction protocol was produced to include information related to methodological aspects (methods, period of analysis, study area, population, sample, type of health service) and study results (according to the variables or dimensions of analysis). This information was extracted from the articles and presented in tables, grouped according to type of access, and ordered by type of health service. The results were summarized according to the analytical framework, which was also used to identify any gaps in knowledge related to the aspects studied.\n\n3. Results\n\nFrom the search results, 242 articles were identiﬁed for title and abstract screening, and 95 for full-text review. A total of 53 articles met the inclusion criteria for analysis (Figure 1).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 30
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p30",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 30 of 31\n\n112. Sharma, K.A.; Zangmo, R.; Kumari, A.; Roy, K.K.; Bharti, J. Family planning and abortion services in COVID 19 pandemic. Taiwan. J. Obstet. Gynecol. 2020, 59, 808–811. [CrossRef] 113. Goyal, M.; Singh, P.; Singh, K.; Shekhar, S.; Agrawal, N.; Misra, S. The effect of the COVID-19 pandemic on maternal health due to delay in seeking health care: Experience from a tertiary center. Int. J. Gynecol. Obstet. 2021, 152, 231–235. [CrossRef] 114. Tirado, V.; Chu, J.; Hanson, C.; Ekström, A.M.; Kågesten, A. Barriers and facilitators for the sexual and reproductive health and rights of young people in refugee contexts globally: A scoping review. PLoS ONE 2020, 15, e0236316. [CrossRef] 115. Maringe, C.; Spicer, J.; Morris, M.; Purushotham, A.; Nolte, E.; Sullivan, R.; Rachet, B.; Aggarwal, A. The impact of the COVID-19 pandemic on cancer deaths due to delays in diagnosis in England, UK: A national, population-based, modelling study. Lancet Oncol. 2020, 21, 1023–1034. [CrossRef] 116. Shinan-Altman, S.; Levkovich, I.; Tavori, G. Healthcare utilization among breast cancer patients during the COVID-19 outbreak. Palliat. Support. Care 2020, 18, 385–391. [CrossRef] 117. Marzo-Castillejo, M.; Guiriguet Capdevila, C.; Coma Redon, E. The impact of COVID-19 on cancer diagnosis delay: Possible consequences. Aten. Primaria 2021, 53, 102142. [CrossRef] 118. Arolas, H.P.i.; Vidal-Alaball, J.; Gil, J.; López, F.; Nicodemo, C.; Saez, M. Missing diagnoses during the COVID-19 pandemic: A year in review. Int. J. Environ. Res. Public Health 2021, 18, 5335. [CrossRef] 119. Chau, S.W.H.; Wong, O.W.H.; Ramakrishnan, R.; Chan, S.S.M.; Wong, E.K.Y.; Li, P.Y.T.; Raymont, V.; Elliot, K.; Rathod, S.; Delanerolle, G.; et al. History for some or lesson for all? A systematic review and meta-analysis on the immediate and long-term mental health impact of the 2002–2003 Severe Acute Respiratory Syndrome (SARS) outbreak. BMC Public Health 2021, 21, 670. [CrossRef] 120. Weinberger, M.; Hayes, B.; White, J.; Skibiak, J. Doing things differently: What it would take to ensure continued access to contraception during COVID-19. Glob. Health Sci. Pract. 2020, 8, 169–175. [CrossRef] [PubMed] 121. McLean, M.; Abuelaish, I. Access to reproductive health care services in countries of conﬂict: The double impact of conﬂict and COVID-19. Med. Conﬂ. Surviv. 2020, 36, 283–291. [CrossRef] [PubMed] 122. Abdela, S.G.; Van Griensven, J.; Seife, F.; Enbiale, W. Neglecting the effect of COVID-19 on neglected tropical diseases: The Ethiopian perspective. Trans. R. Soc. Trop. Med. Hyg. 2020, 114, 730–732. [CrossRef] [PubMed] 123. UNFPA; Avenir Health; John Hopkins University; Victoria University. Impact of the COVID-19 Pandemic on Family Planning and Ending Gender-Based Violence, Female Genital Mutilation and Child Marriage; United Nations Population Fund: New York, NY, USA, 2020. 124. Organización Mundial de la Salud Los Servicios de Salud Mental se Están Viendo Perturbados por la COVID-19 en la Mayoría de los Países, Según un Estudio de la OMS. Available online: https://www.who.int/es/news/item/05-10-2020-covid-19-disrupting-mental-health-services-in-most-countries-who-survey (accessed on 12 July 2021). 125. Karos, K.; McParland, J.L.; Bunzli, S.; Devan, H.; Hirsh, A.; Kapos, F.P.; Keogh, E.; Moore, D.; Tracy, L.M.; Ashton-James, C.E. The social threats of COVID-19 for people with chronic pain. Pain 2020, 161, 2229–2235. [CrossRef] 126. Diamond, L.C.; Jacobs, E.A.; Karliner, L. Providing equitable care to patients with limited dominant language proﬁciency amid the COVID-19 pandemic. Patient Educ. Couns. 2020, 103, 1451–1452. [CrossRef] [PubMed] 127. Betancourt, J.A.; Rosenberg, M.A.; Zevallos, A.; Brown, J.R.; Mileski, M. The Impact of COVID-19 on Telemedicine Utilization Across Multiple Service Lines in the United States. Healthcare 2020, 8, 380. [CrossRef] 128. Fryer, K.; Delgado, A.; Foti, T.; Reid, C.N.; Marshall, J. Implementation of Obstetric Telehealth During COVID-19 and Beyond. Matern. Child Health J. 2020, 24, 1104–1110. [CrossRef] [PubMed] 129. Contreras, C.M.; Metzger, G.A.; Beane, J.D.; Dedhia, P.H.; Ejaz, A.; Pawlik, T.M. Telemedicine: Patient-Provider Clinical Engagement During the COVID-19 Pandemic and Beyond. J. Gastrointest. Surg. 2020, 24, 1692–1697. [CrossRef] [PubMed] 130. Ramaswamy, A.; Yu, M.; Drangsholt, S.; Ng, E.; Culligan, P.J.; Schlegel, P.N.; Hu, J.C. Patient satisfaction with telemedicine during the COVID-19 pandemic: Retrospective cohort study. J. Med. Internet Res. 2020, 22, e20786. [CrossRef] 131. Aiken, A.R.A.; Starling, J.E.; Gomperts, R.; Tec, M.; Scott, J.G.; Aiken, C.E. Demand for Self-Managed Online Telemedicine Abortion in the United States During the Coronavirus Disease 2019 (COVID-19) Pandemic. Obstet. Gynecol. 2020, 136, 835–837. [CrossRef] 132. Eberly, L.A.; Kallan, M.J.; Julien, H.M.; Haynes, N.; Khatana, S.A.M.; Nathan, A.S.; Snider, C.; Chokshi, N.P.; Eneanya, N.D.; Takvorian, S.U.; et al. Patient Characteristics Associated With Telemedicine Access for Primary and Specialty Ambulatory Care During the COVID-19 Pandemic. JAMA Netw. Open 2020, 3, e2031640. [CrossRef] 133. Mann, D.M.; Chen, J.; Chunara, R.; Testa, P.A.; Nov, O. COVID-19 transforms health care through telemedicine: Evidence from the ﬁeld. J. Am. Med. Inform. Assoc. 2020, 27, 1132–1135. [CrossRef] 134. Limaye, M.A.; Lantigua-Martinez, M.; Trostle, M.E.; Penﬁeld, C.A.; Conroy, E.M.; Roman, A.S.; Mehta-Lee, S.S. Differential Uptake of Telehealth for Prenatal Care in a Large New York City Academic Obstetrical Practice during the COVID-19 Pandemic. Am. J. Perinatol. 2020, 1, 18–20. [CrossRef] 135. Futterman, I.; Rosenfeld, E.; Toaff, M.; Boucher, T.; Golden-Espinal, S.; Evans, K.; Clare, C.A. Addressing Disparities in Prenatal Care via Telehealth during COVID-19: Prenatal Satisfaction Survey in East Harlem. Am. J. Perinatol. 2021, 38, 88–92. [CrossRef] 136. Schweiberger, K.; Hoberman, A.; Iagnemma, J.; Schoemer, P.; Squire, J.; Taormina, J.; Wolfson, D.; Ray, K.N. Practice-level variation in telemedicine use in a pediatric primary care network during the COVID-19 pandemic: Retrospective analysis and survey study. J. Med. Internet Res. 2020, 22, e24345. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 31
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p31",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 31 of 31\n\n137. Riley, T.; Sully, E.; Ahmed, Z.; Biddlecom, A. Estimates of the Potential Impact of the COVID-19 Pandemic on Sexual and Reproductive Health in Low- and Middle-Income Countries. Int. Perspect. Sex. Reprod. Health 2020, 46, 73–76. [CrossRef] [PubMed] 138. Lazzerini, M.; Barbi, E.; Apicella, A.; Marchetti, F.; Cardinale, F.; Trobia, G. Delayed access or provision of care in Italy resulting from fear of COVID-19. Lancet Child Adolesc. Health 2020, 4, 10–11. [CrossRef] 139. Shayganfard, M.; Mahdavi, F.; Haghighi, M.; Bahmani, D.S.; Brand, S. Health anxiety predicts postponing or cancelling routine medical health care appointments among women in perinatal stage during the COVID-19 lockdown. Int. J. Environ. Res. Public Health 2020, 17, 8272. [CrossRef] [PubMed] 140. Mauro, V.; Lorenzo, M.; Paolo, C.; Sergio, H. Treat all COVID 19-positive patients, but do not forget those negative with chronic diseases. Intern. Emerg. Med. 2020, 15, 787–790. [CrossRef] [PubMed] 141. Pant, S.; Koirala, S.; Subedi, M. Access to Maternal Health Services during COVID-19. Eur. J. Med. Sci. 2020, 2, 48–52. [CrossRef] 142. Nab, M.; van Vehmendahl, R.; Somers, I.; Schoon, Y.; Hesselink, G. Delayed emergency healthcare seeking behaviour by Dutch emergency department visitors during the ﬁrst COVID-19 wave: A mixed methods retrospective observational study. BMC Emerg. Med. 2021, 21, 56. [CrossRef] 143. Jones, S.A.; Gopalakrishnan, S.; Ameh, C.A.; White, S.; Van Den Broek, N.R.; Van Den Broek, N.R. ‘Women and babies are dying but not of Ebola’: The effect of the Ebola virus epidemic on the availability, uptake and outcomes of maternal and newborn health services in Sierra Leone. BMJ Glob. Health 2016, 1, 65. [CrossRef] 144. Townsend, R.; Chmielewska, B.; Barratt, I.; Kalafat, E.; van der Meulen, J.; Gurol-Urganci, I.; O’Brien, P.; Morris, E.; Draycott, T.; Thangaratinam, S.; et al. Global changes in maternity care provision during the COVID-19 pandemic: A systematic review and meta-analysis. EClinicalMedicine 2021, 37, 100947. [CrossRef] 145. Germain, S.; Yong, A. COVID-19 Highlighting Inequalities in Access to Healthcare in England: A Case Study of Ethnic Minority and Migrant Women. Fem. Leg. Stud. 2020, 28, 301–310. [CrossRef] [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p4",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 4 of 31\n\nFigure 1. Flow chart of study selection process.\n\nOf the 53 articles selected, 37 analyzed changes in realized access applying quantitative methods [46–82], through the analysis of medical records (Table 1), 8 analyzed changes in potential access [83–90] via surveys of different population groups, except for one that did the same via analysis of medical records [90] (Table 2), 7 used qualitative methods to analyze the impact on potential access [91–97] (Table 3), and, ﬁnally, 1 study analyzed changes in both realized and potential access [98] using mixed methods (analysis of medical records and semi-structured interviews). Only six of the studies that explored changes in potential access included professionals from the health centers analyzed as a study population, [87,89,92,93,97,98], while the rest focused on patients or the general population.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p5",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 5 of 31\n\nTable 1. Changes in the utilization of health services and inﬂuencing factors during the COVID-19 pandemic in 2020.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nAbebe, 2021 Medical records from Tikur Anbessa Specialized Hospital Ethiopia\n\nHowarth, 2021 Private health insurer claims records United Kingdom (UK)\n\nFollow-up visits (n = 7717) and admissions (n = 3310) between December 2018–June 2019 and follow-up visits (n = 4597) and admissions (n = 2383) between December 2019–June 2020\n\nClaims to private health centers in the United Kingdom (n = aggregated data) 2\n\nSiedner, 2020\n\nAfrica Health Research Institute Demographic Health Surveillance System\n\nKwaZulu Natal, South Africa Visit to rural clinics (n = 46,523) 2\n\nDecember–June 2018–2019 vs. 2019–2020 General 1\n\nJanuary 2018–August 2020 General\n\nJanuary–March vs. March–April vs. May–June 2018 vs. 2019 vs. 2020\n\nGeneral\n\nReduction in follow-up visits (40%) and admissions (28%) from March 2020, compared with the same period in 2019. Visits reduced especially among patients receiving renal, neurological, cardiac, and antiretroviral treatment (68–51.4%). No signiﬁcant changes were observed among pediatric and adult admissions.\n\nReduction in healthcare claims in general (70%) from March 2020 (lockdown), undergoing an increase over the following months without reaching the pre-pandemic levels. Visits in mental health differed from the general pattern, with increased utilization (20%) compared to previous years. 3\n\nReduction in the number of childcare visits (50%), including preventive procedures, and sustained utilization of HIV services and adult outpatient clinics during the national lockdown (March–June 2020), compared to the previous periods. No signiﬁcant changes were observed at a general level in the use of services. Childcare visits recovered over the following three months to pre-lockdown levels.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p6",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 6 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nWhaley, 2020 Aggregate data on health insurance claims United States of America (USA)\n\nPopulation with health insurance in 2018 (n = 5.6 million), 2019 (n = 6.4 million), and 2020 (n = 6.8 million)\n\nZhang, 2020 Aggregate data on China UnionPay Healthcare bank transactions China Health care transactions (n = 300 million) 2\n\nOjetti, 2020 Medical records from an urban tertiary teaching hospital Italy Admissions to the emergency department (ED) (n = 16,281)\n\nJanuary–February and March–April 2018 vs. 2019 vs. 2020\n\nGeneral\n\nJanuary–March 2019 vs. December 2019–February 2020 vs. November 2019–April 2020\n\nGeneral\n\nFebruary–March 2019 vs. 2020 ED\n\nReduction in the utilization of a number of preventive services, elective procedures, and in-person ofﬁce visits (different values according to the type of service or procedure) in March and April 2020. No signiﬁcant changes in emergency care, maternal health, or medication prescription were observed. Utilization of telemedicine visits increased. Associated factors (AF): patients living in poor areas and most ethnic/racialized minorities were less likely to experience a reduction in in-person visits but also to have fewer visits of telemedicine.\n\nReduction in daily expenditure on health (37.8%) and in number of visits to health services (40.8%) from January 2020. AF: higher probability of utilization of health services was associated with cities with lower rates of COVID-19 cases, less strict measures, and not located in the western region of the country.\n\nReduction in ED admissions (37.6%) for several diseases in 2020 compared to 2019. There was an increase in triage emergency levels for ED admissions and in hospitalization rates (different values according to the type of admission).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p7",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 7 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nMahmassani, 2021\n\nAdministrative records of the emergency department of the American University of Beirut Medical Center\n\nBeirut, Lebanon\n\nED visits, between November 2019–February 2020 (n = 16,271) and February–May 2020 (n = 8587)\n\nNovember 2019–February 2020 vs. February–May 2020\n\nED\n\nCano-Valderrama, 2020\n\nMedical records from 3 hospitals Spain Patients who underwent emergency surgery in 2019 (n = 285) and 2020 (n = 117)\n\nMay–April 2019 vs. 2020 ED (Acute Surgery Care)\n\nSokolski, 2021\n\nMedical records from cardiology departments of 15 health centers in 12 countries\n\n15 centers in 12 European countries and USA\n\nTsiouﬁs, 2020 Medical records from a tertiary General Hospital Athens, Greece\n\nBall, 2020 Aggregate data on hospital activity from 9 NHS hospitals UK\n\nPatients admitted to the emergency and cardiology departments (n = 54,331) 2 March–April 2019 vs. 2020 ED (cardiology)\n\nVisits to the Emergency Cardiology Department and admissions to Cardiology Wards and Intensive Care Unit (n = aggregated data) 2\n\nAdmissions and visits to ED for cardiovascular disease October 2018–May 2019: admissions (n = 599,372) and ED visits (n = 506,516); October 2019–May 2020: admissions (n = 513,703) and ED visits (n = 435,653)\n\nJanuary–April 2018 vs. 2019 vs. 2020 ED (cardiology)\n\nOctober–May 2018–2019 vs. 2019–2020\n\nED (cardiovascular diseases)\n\nReduction in general (47.2%) and pediatric (66.6%) ED visits from February 2020, compared to previous months.AF: higher probability of utilization was associated with elderly patients and those who required hospital admission and/or critical care, with a higher mortality rate, and with non-communicable diseases and bacterial infections.\n\nReduction in surgeries (58.9%) during lockdown (March–May 2020). Longer waiting time between the onset of symptoms and arrival at the emergency room and a greater number of complications (especially in elective procedures) were observed.\n\nReduction in patient admissions (IRR 0.68) in 2020, compared to 2019, across the various pathologies treated (different levels of reduction that vary from IRR 0.66–0.68).\n\nReduction in visits to the emergency cardiology department during March (41.1%) and April (32.7%) 2020, compared to previous periods.\n\nReduction in admissions (57.9%) and ED visits (52.9%) from March 2020, compared to the previous period.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p8",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 8 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nChoi, 2021 Medical records from 6 hospitals South Korea Patients under 18 years of age seen in pediatric ED (n = aggregated data) 2 January 2017–November 2020 ED (pediatrics)\n\nDopfer, 2020 Medical records from the University Hospital of Hannover Hanover, Germany Pediatric ED visits (n = 5424) 2 January–April 2019 vs. 2020 ED (pediatrics)\n\nFinkelstein, 2021 Medical records from the Pediatric Emergency Research Network Canada\n\nGoldman, 2020 Medical records from 18 pediatric emergency departments\n\nBritish Columbia, Canada\n\nPatients under 18 years of age who attended the ED in 2018 (n = 211,085), 2019 (n = 207,673), and 2020 (n = 159,049)\n\nPediatric ED visits (0–16 years): March–April 2019 (n = 22,654); December 2019–January 2020 (n = 31,525); January–March 2020 (n = 26,654); March–April 2020 (n = 7535)\n\nJanuary 2018–January 2020 vs. January–March 2020 vs. March–April 2020\n\nMarch–April 2019 vs. December 2019–January 2020 vs. January–March 2020 vs. March–April 2020\n\nED (pediatrics)\n\nED (pediatrics)\n\nReduction in pediatric ED visits (43.6%) in 2020 compared to previous years, although a signiﬁcantly increased proportion of visits for injuries (9.4%) during the COVID-19 outbreak. AF: higher probability of use was associated with male patients.\n\nReduction in pediatric ED visits (63.8%) from lockdown in 2020. AF: higher probability of using services was associated with patients under one year of age and cases requiring hospitalization, although not with intensive care admissions.\n\nReduction in weekly pediatric ED visits (58%), in re-visits (55%), in visits to trauma (increase in proportion of total visits), and to mental health (56 to 60% depending on the age group) from March 2020, compared to previous years. Increase in the proportion of ward (OR 1.39) and ICU (OR 1.2) admissions.\n\nReduction in visits to pediatric emergencies (57 to 70%), especially during the peak of the pandemic (March–April 2020), compared to previous periods. Admission proportion almost doubled (4% pre-pandemic to 7% during the peak pandemic period). Average acuity of illness was higher during the pandemic period.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph19031749",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_sha256": "473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670",
+          "source_url": "https://doi.org/10.3390/ijerph19031749"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670:p9",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2022, 19, 1749 9 of 31\n\nTable 1. Cont.\n\nFirst Author, Year Data Source Study Area Study Population and Sample Study Period Health Service Main Results\n\nPercul, 2021 Medical records from the Italian Hospital of Buenos Aires\n\nYamamoto, 2021\n\nMedical records from the Tokyo Metropolitan Children’s Medical Center\n\nBuenos Aires, Argentina\n\nTokyo, Japan\n\nKute, 2021 Medical records from the Kidney Disease Institute and Research Center India\n\nMorris, 2021 NHS population-based datasets UK\n\nPatients under 18 years of age treated for appendicitis in 2019 (n = 117) and 2020 (n = 50)\n\nPatients under 18 years of age seen in pediatric ED between January–September 2017–2019 (mean n = 26,948 *) and January–September 2020 (n = 15,998)\n\nPatients treated in kidney disease services in 2019 (n = 109,572) and 2020 (n = 87,714)\n\nPatients referred for suspected or diagnosed colorectal cancer (n = monthly average mean) 2\n\nMarch–August 2019 vs. 2020 ED (pediatrics)\n\nJanuary–September 2017–2019 vs. 2020 ED (pediatrics)\n\nJanuary 2019–December 2020 SC: nephrology\n\nJanuary–December 2019 vs. January–October 2020\n\nSC: oncology\n\nReduction in appendicitis admissions (25%) in 2020 compared to 2019, with no signiﬁcant differences in the mean time to consultation. An increase in peritonitis cases was observed, although the incidence of complications decreased (not signiﬁcant in both cases).\n\nReduction in pediatric ED visits (40.6%) in 2020 compared to previous periods, with an increase in the proportion of visits for exogenous causes (6.6% vs 3%). Visits increased slightly as of May until September2020, without reaching levels of previous years. 3\n\nReduction in visits and admissions, transplants, and other elective procedures (different values according to the type of service or procedure) in 2020, compared to 2019. Slight increase in activity between July and October, without reaching previous levels, with a further reduction starting in November 2020. 3\n\nReduction in the monthly number of referrals for suspected cancer (63%) and for treatment (22%), colonoscopies (92%), and surgeries (31%) from April 2020, compared to 2019 and the preceding months. Relative increase in radiotherapy use (44%) due to increased use of short-course regimens. Monthly rate of referrals and other procedures returned to 2019 levels by October 2020.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:473f975c9d66840dac8bf10e84d28f726c285ef3acda301196bbcbcf93280670"
+}

@@ -37,11 +37,27 @@ DESCRIPTIONS = {
                         "Legacy single-release endpoints return an empty list.",
     "corpus_status": "Release identity, coverage, rights and lexical retrieval limitations; not participant data.",
     "search_evidence": "Bounded lexical source search. Plain text is safe by default, including LC-MGUS. "
-                       "All words must match in one source unit; start with a few distinctive terms "
-                       "and shorten if no results. Use mode='fts5' for explicit advanced syntax. "
+                       "All search terms must match in source text or in a private editorial label. "
+                       "Private plain search recognizes frequency questions like 'How common was ...?' "
+                       "'What proportion had ...?', and 'How often did ... persist?'. "
+                       "Use mode='fts5' for explicit advanced syntax without editorial ranking. "
+                       "Private PDF hits can include passage_context with the paper title, section paths "
+                       "and figure/table labels. An editorial_label is search metadata, not author text. "
+                       "Explicit table-row, figure or figure-panel searches can return "
+                       "exact_evidence with the relevant printed context. Cite all source_spans when present. "
                        "No match is not global scientific absence.",
     "get_claim": "Complete claim, numerical context, adjustment, citations and linked source issues.",
-    "get_source_context": "Short source passage with original PDF or Office locator; permissions apply.",
+    "get_source_context": "Short source passage with original PDF or Office locator; permissions apply. "
+                          "Optional passage_context describes the unit separately from the source text; "
+                          "source_spans lists every contributing PDF page for document chunks. "
+                          "Follow next_offset, or use reading_parts offsets to read a table row (with its header "
+                          "and notes), figure panel, or reference entry. Offsets are in the same pinned unit.",
+    "get_source_document": "Read one retained PDF as continuous text in original page order. Get source_id from "
+                           "list_sources or a passage citation. Keep one collection and snapshot_id pinned; "
+                           "follow next_offset with the same source_id until null. Offsets count characters, "
+                           "including two newlines between pages. segments map each returned passage to its "
+                           "original unit, PDF page, checksum and extraction/OCR warnings. Pages are joined, "
+                           "not repaired: missing text and split words are not guessed. Not the original PDF.",
     "get_table": "Page through source table records with headers, units, footnotes and caveats repeated.",
     "get_source_issue": "Source discrepancy, ambiguity, clarification or resolved acquisition note with anchors.",
     "get_related_evidence": "Qualified relationships, including reuse/overlap; no edge does not imply independence.",
@@ -70,7 +86,7 @@ class EvidenceServer(Server):
 
 
 def create_server(snapshot: releases.Snapshot | None,
-                  store: releases.ReleaseStore | collections.CollectionStore | None) -> Server:
+                  store: releases.ReleaseStore | collections.CollectionEndpoint | None) -> Server:
     server = EvidenceServer("research-library", version=__version__, instructions=(
         "Read-only published evidence, not participant data or clinical advice. Preserve citations, "
         "denominators, uncertainty and source issues. Shared cohorts are not independent replication. "
@@ -83,6 +99,9 @@ def create_server(snapshot: releases.Snapshot | None,
         "A publication_id in an evidence reference is a publication identity, not a catalog record in that "
         "evidence collection. For get_publication select a kind='catalog' collection from list_collections "
         "and keep the same snapshot_id. Do not silently widen scope or guess missing identifiers."
+        " Use get_source_document to read a retained PDF beyond short source-context slices. Follow every "
+        "next_offset with the same source, collection and snapshot. Cite segment page/unit provenance; "
+        "a slice is not the whole document and joined pages do not repair missing extraction."
     ))
 
     @server.list_tools()
@@ -126,7 +145,7 @@ def create_server(snapshot: releases.Snapshot | None,
         except (ValidationError, ValueError, TypeError):
             return failure("invalid_input", "Arguments do not satisfy the advertised tool schema or bounds.")
         try:
-            if isinstance(store, collections.CollectionStore):
+            if isinstance(store, collections.CollectionEndpoint):
                 response = await anyio.to_thread.run_sync(
                     lambda: store.call(tool, arguments), abandon_on_cancel=True)
                 return types.CallToolResult(
@@ -195,6 +214,10 @@ def main():
     roots.add_argument("--release", type=Path, help="Pin one validated release for this process")
     roots.add_argument("--store", type=Path, help="Pin the active validated release separately per tool call")
     roots.add_argument("--registry", type=Path, help="Serve independent authorized evidence collections")
+    roots.add_argument("--current-state", type=Path,
+                       help="Experimental read-only per-paper store")
+    parser.add_argument("--allow-current-metadata", action="store_true",
+                        help="Authorize the current-store metadata catalog in addition to core evidence")
     parser.add_argument("--allow-collection", action="append")
     parser.add_argument("--default-collection", action="append")
     parser.add_argument("--allow-profile", action="append", required=True, choices=sorted(releases.PROFILES))
@@ -206,11 +229,18 @@ def main():
     try:
         if bool(args.registry) != bool(args.allow_collection) or (args.default_collection and not args.registry):
             raise ValueError("--registry requires --allow-collection; collection flags require a registry")
-        store = (collections.CollectionStore(args.registry, allowed_profiles=args.allow_profile,
-                                            allowed_collections=args.allow_collection,
-                                            defaults=args.default_collection) if args.registry else
-                 releases.ReleaseStore(args.store, allowed_profiles=set(args.allow_profile))
-                 if args.store else None)
+        if args.allow_current_metadata and not args.current_state:
+            raise ValueError("--allow-current-metadata requires --current-state")
+        if args.current_state:
+            from .build.project_current_store import CurrentCollectionStore
+            store = CurrentCollectionStore(args.current_state, allowed_profiles=args.allow_profile,
+                                           allow_metadata=args.allow_current_metadata)
+        else:
+            store = (collections.CollectionStore(args.registry, allowed_profiles=args.allow_profile,
+                                                allowed_collections=args.allow_collection,
+                                                defaults=args.default_collection) if args.registry else
+                     releases.ReleaseStore(args.store, allowed_profiles=set(args.allow_profile))
+                     if args.store else None)
         snapshot = (store.current() if store else
                     releases.validate(args.release, allowed_profiles=set(args.allow_profile)))
     except (OSError, ValueError, sqlite3.Error, ValidationError) as error:

@@ -1,0 +1,326 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:42:09.009035+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Quantifying intervals to diagnosis in myeloma: a systematic review and meta-analysis",
+        "year": null
+      },
+      "doi": "10.1136/bmjopen-2017-019758",
+      "format": "pdf",
+      "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+      "url": "https://doi.org/10.1136/bmjopen-2017-019758"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p1",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\nTo cite: Koshiaris C, Oke J, Abel L, et al. Quantifying intervals to diagnosis in myeloma: a systematic review and meta-analysis. BMJ Open 2018;8:e019758. doi:10.1136/ bmjopen-2017-019758\n\n► ►Prepublication history and additional material for this paper are available online. To view these files, please visit the journal online (http://​dx.​doi.​ org/​10.​1136/​bmjopen-​2017-​ 019758).\n\nThis study has been presented as an oral presentation at the SAPC Conference, Dublin, July 2016.\n\nReceived 25 September 2017 Revised 12 April 2018 Accepted 16 April 2018\n\n1Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK 2Department of Haematology, Oxford University Hospitals NHS Trust, Oxford, UK 3National Institute for Health Research (NIHR) Biomedical Research Center Blood Theme, Oxford, UK\n\nCorrespondence to Mr Constantinos Koshiaris; ​constantinos.​koshiaris@​phc.​ ox.​ac.​uk\n\nResearch\n\nQuantifying intervals to diagnosis in myeloma: a systematic review and meta-analysis\n\nConstantinos Koshiaris,1 Jason Oke,1 Lucy Abel,1 Brian D Nicholson,1 Karthik Ramasamy,2,3 Ann Van den Bruel1\n\nAbstract Objectives To quantify the duration of each step of the diagnostic pathway for patients with multiple myeloma from symptom onset to confirmation of diagnosis. Design Systematic review and meta-analysis. Data sources and selection criteria The MEDLINE and Embase databases were searched up until January 2018 to identify articles that reported time intervals from onset of symptoms to diagnosis. Articles focusing on children or adolescents and on the asymptomatic form of the disease (monoclonal gammopathies and smouldering myeloma) were excluded. Data collection and data analysis Data were extracted independently by two reviewers. Weighted estimates of the median and IQR were calculated. Risk of bias was assessed using the Aarhus checklist. Main results Nine studies were included. The patient interval (first symptom to first presentation) had a median of 26.3 days (IQR: 1–98, n=465, two studies). Subsequently, the primary care interval (first presentation to first referral) was 21.6 days (IQR: 4.6–55.8, n=326, two studies), the diagnostic interval (first presentation to diagnosis) was 108.6 days (IQR: 33.3–241.7, n=5395, seven studies) and the time to diagnosis (first symptom to diagnosis) interval was 163 days (IQR: 84–306, n=341, one study). No studies reported data for the referral to diagnosis interval. Conclusion The review demonstrates that there is scope for significant reductions in the time to myeloma diagnosis. At present, many patients experience a diagnostic interval longer than 3 months until diagnosis is confirmed. Review registration Not available. Protocol available in the appendix.\n\nIntroduction Myeloma is a haematological malignancy characterised by uncontrolled plasma cell production in the bone marrow. It was the 17th most common cancer in the UK in 2013 accounting for 2% of all new cancer cases. Currently, there are more than 17 500 patients with myeloma in the UK with approximately 5500 cases being diagnosed every year.1 2 It is a cancer that mainly affects the elderly population with 59% of the patients being diagnosed over the age of 70 years2 and with a 5-year survival of 47%.3\n\nStrengths and limitations of this study\n\n► ►First systematic review to quantify the whole diagnostic pathway for patients with multiple myeloma including the different intervals in each step of the pathway. ► ► Use of all available information including the IQR rather than focusing on measures of central tendency like the mean and the median. ► ►No universally accepted methods for formal me-ta-analysis of median and IQR. ► ► Limited number of studies reporting the patient and primary care intervals, and no studies reported the referral to diagnosis interval, so any inferences regarding the referral to diagnosis interval should be interpreted with caution.\n\nIt is considered one of the hardest cancers to suspect in primary care. Symptoms of myeloma are very common and non-specific, such as back pain, bone pain, fatigue and repeated infections.4 This in combination with the fact that myeloma is a very rare condition in primary care results in very low predictive values for individual symptoms. For example, primary care patients with back pain, one of the most common myeloma symptoms, only have a 0.1% risk of myeloma.5 By comparison, patients with rectal bleeding have a 2.4% risk of colorectal cancer.6\n\nAs a result, half of patients with symptomatic myeloma have three or more consultations in primary care before they are referred to specialist care, which is more than in any other cancer.7 Attributing symptoms to comorbidities further prolongs the diagnostic process, which is particularly relevant in this older age group.8 9\n\nDelays in diagnosing myeloma allow complications to develop (end organ damage), such as pathological fractures, irre-versible renal failure and in some cases spinal cord compression.10–12 These are considered medical emergencies in their own right and limit the opportunity for initiating effective\n\n1 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p10",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\n25. Neal RD, Din NU, Hamilton W, et al. Comparison of cancer diagnostic intervals before and after implementation of NICE guidelines: analysis of data from the UK General Practice Research Database. Br J Cancer 2014;110:584–92. 26. Lyratzopoulos G, Abel GA, McPhail S, et al. Measures of promptness of cancer diagnosis in primary care: secondary analysis of national audit data on patients with 18 common and rarer cancers. Br J Cancer 2013;108:686–90. 27. Lyratzopoulos G, Saunders CL, Abel GA, et al. The relative length of the patient and the primary care interval in patients with 28 common and rarer cancers. Br J Cancer 2015;40:S35–S40. 28. Swann R, McPhail S, Witt J, et al. Diagnosing cancer in primary care: results from the National Cancer Diagnosis Audit. Br J Gen Pract 2018;68:e63–72. 29. Varga G, Mikala G, Andrikovics H, et al. [How long does a myeloma patient currently wait for the diagnosis in Hungary?]. Orv Hetil 2014;155:1538–43. 30. Goldschmidt N, Zamir L, Poperno A, et al. Presenting Signs of Multiple Myeloma and the Effect of Diagnostic Delay on the Prognosis. J Am Board Fam Med 2016;29:702–9. 31. Howell DA, Smith AG, Jack A, et al. Time-to-diagnosis and symptoms of myeloma, lymphomas and leukaemias: a report from the Haematological Malignancy Research Network. BMC Hematol 2013;13:9.\n\n32. RCGP. National Audit of Cancer Diagnosis in Primary Care. London: Royal College of General Practitioners, 2011. 33. Corner J, Hopkinson J, Fitzsimmons D, et al. Is late diagnosis of lung cancer inevitable? Interview study of patients' recollections of symptoms before diagnosis. Thorax 2005;60:314–9. 34. Rubin GP, Saunders CL, Abel GA, et al. Impact of investigations in general practice on timeliness of referral for patients subsequently diagnosed with cancer: analysis of national primary care audit data. Br J Cancer 2015;112:676–87. 35. Howell D, Smith A, Appleton S, et al. Multiple myeloma: routes to diagnosis, clinical characteristics and survival - findings from a UK population-based study. Br J Haematol 2017;177:67–71. 36. Redaniel MT, Martin RM, Ridd MJ, et al. Diagnostic intervals and its association with breast, prostate, lung and colorectal cancer survival in England: historical cohort study using the Clinical Practice Research Datalink. PLoS One 2015;10:e0126608–17. 37. Barrett J, Hamilton W. Pathways to the diagnosis of lung cancer in the UK: a cohort study. BMC Fam Pract 2008;9:31. 38. Jensen H, Tørring ML, Olesen F, et al. Cancer suspicion in general practice, urgent referral and time to diagnosis: a population-based GP survey and registry study. BMC Cancer 2014;14:636. 39. Ades AE, Biswas M, Welton NJ, et al. Symptom lead time distribution in lung cancer: Natural history and prospects for early diagnosis. Int J Epidemiol 2014;43:1865–73.\n\n10 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p2",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\nFigure 1 Outcome definition.\n\ntreatment.13 A delayed diagnosis is also linked with higher cancer stage,14 15 which is in turn associated with poorer survival.16 Patients with longer diagnostic intervals also experience shorter disease free survival and more complications from treatment.14\n\nQuantifying the time intervals leading up to diagnosis is important as it will inform future interventions that aim to shorten the diagnostic process. The aim of this systematic review was to quantify each step of the diagnostic pathway to myeloma diagnosis and identify where to focus efforts to reduce diagnostic delay.\n\nMethods A protocol is available in the online supplementary appendix A1. A copy of the search strategy can be seen in the online supplementary appendix A2. We searched Embase and MEDLINE until January 2018 for studies that quantified any or all of the following five intervals17: the patient interval (from symptom onset to first consultation); the primary care interval (from first consultation for that symptom to referral to secondary care); the diagnostic interval (from first consultation with a myeloma-related symptom to diagnosis) and the time to diagnosis (from symptom onset to diagnosis). In addition, we looked for studies that estimated the referral to diagnosis interval (figure 1). Citation searching of key references like the Aarhus statement was conducted, and we also searched the reference list of systematic reviews with similar research questions.18 19 We included any study designs that quantified at least one of the intervals mentioned above in days or months. Studies reporting the length of an interval only in number of consultations or referrals were excluded as were studies focusing on children or adolescents (<18 years) and on the asymptomatic forms of the disease (monoclonal gammopathies\n\nand smouldering myeloma). We included papers with an abstract in English but did not exclude full-text articles based on language (as long as there was an English abstract). Conference abstracts were excluded. Two reviewers (CK/LA) selected papers for inclusion using the criteria listed above, on title and abstracts first and on full text second. Disagreements were resolved through discussion with a third reviewer (JO/AVdB).\n\nData extraction Two reviewers (CK/LA) independently extracted data from the included studies into a predefined spreadsheet. Study characteristics including author, year of publica-tion, country of data collection, type of study, myeloma-related symptoms and sample size were extracted, as well as descriptive statistics including median, IQR, range, mean and the SD for each interval. Authors were contacted if data were not available or not in the appropriate format for extraction (ie, categorical rather than continuous).\n\nRisk of bias assessment The risk of bias was assessed by two independent researchers (CK/LA) using the Aarhus checklist.18 The Aarhus checklist is a 20-item tool designed to help researchers design and evaluate studies on early diagnosis of cancer. It examines studies in terms of acknowl-edgement of the different biases influencing time point measurement and interval definition.\n\nAnalysis In the context of illness duration, intervals are usually not normally distributed; therefore, we used the median and IQR to summarise the data. We present the 25th, 50th and 75th percentiles for all intervals. For intervals reported by more than one study, the pooled estimate was calculated by taking a weighted mean for each percentile. The\n\n2 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p3",
+        "source_issue_ids": [],
+        "text": "Open access\n\nTable 1 Study characteristics\n\nStudy design Study period\n\nPopulation characteristics (age and gender) Patients with myeloma (total) Outcome measure (interval)\n\nFriese et al (USA)8\n\n\u0007Retrospective analysis 1992–2002 Mean age 76.3 years 46% males 3831 Diagnostic\n\nHowell et al (UK)31\n\n\u0007Survey 2004–2011 Median age 69.9 years 66.9% males 341 Patient diagnostic Time to diagnosis\n\nLyratzopoulos et al (UK)26\n\n\u0007Audit data 2009–2010 Not reported 176 Primary care\n\nVarga et al (Hungary)29\n\n\u0007Retrospective analysis Not reported Median age 60 years 50% males 193 Diagnostic\n\nNeal et al (UK)25\n\n\u0007Retrospective analysis 2001–2002 Mean age 72 years 53% males 221 Diagnostic\n\nDin et al (UK)24\n\n\u0007Retrospective analysis 2007–2010 Median age 72 years 56% males 500 Diagnostic\n\nLyratzopoulos et al (UK)27\n\n\u0007Audit data 2009–2010 Not reported 124 Patient\n\nGoldschmidt et al (Israel)30\n\n\u0007Retrospective analysis 2002–2011 Median age 63 years 53% males 107* Diagnostic\n\nSwann et al (UK)28\n\n\u0007Audit data 2014 Not reported 202 Primary diagnostic\n\n*The total sample size for this study was 110 patients out of which seven were diagnosed with plasmacytoma. The analysis was conducted on 107 patients that had complete data.\n\nweight was obtained by dividing the sample size in each study with the total numbers of patients. We also fitted a distribution through the three weighted percentile estimates where appropriate in order to generate the shape of the distribution of the interval under investigation. We chose the lognormal distribution as time intervals are usually skewed to the right.4 A prespecified sensitivity analysis was conducted by excluding the study with the higher risk of bias. The sensitivity analysis was conducted only for the diagnostic interval as the rest of the outcomes were reported by only one or two papers, which can be seen in table 1.\n\nPatient and public involvement No patients or public were involved in this study.\n\nResults We identified 3343 citations from the Embase and MEDLINE searches. After removal of conference abstracts and duplicates, we screened 1271 titles and abstracts, and\n\n16 studies were candidate for inclusion. Nine studies were included in the final analysis (figure 2). Seven papers in total were excluded for the following reasons: reported the duration in numbers of consultations (n=2)5 7; none of the prespecified outcomes were reported (n=1)20; reported the same outcome based on the same database as one of the other included papers, so inclusion of this paper in the data synthesis would result in double counting the same patients (n=1)21; data were not in an appropriate format (n=2)14 22; and because the interval under investigation was reported only for patients that were referred to very specific departments making it a very selective population compared with the other studies (n=1).23\n\nStudy characteristics A summary of all the included papers is provided in table 1. Studies were published between 2009 and 2018, and the sample size ranged from 107 to 3831 patients. Five studies reported intervals in various cancers,24–28\n\n3 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p4",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\nFigure 2 Study selection flow chart.\n\nthree reported only myeloma8 29 30 and one for haematological malignancies.31\n\nSix studies were conducted in the UK,24–28 31 one in the USA,8 one in Hungary29 and one in Israel.30 Two UK studies used data from two separate Clinical Practice Research Datalink (CPRD) cohorts,24 25 a database of routinely collected electronic primary care records. Two other UK studies used data from the English National Audit of Cancer Diagnosis in Primary Care 2009–201032; we extracted primary care interval data from the larger study and the patient interval from the smaller study.26 27 Another UK study used data from the English National Audit of Cancer Diagnosis in Primary Care 2014, and the last UK study was a patient survey on patients diagnosed with haematological malignancies.28 31 The study conducted in Hungary analysed data collected from patients treated in a haematology centre, and the study\n\nconducted in the USA analysed a retrospective database collected from the Surveillance, Epidemiology, and End Results programme (SEER).8 29 The study conducted in Israel used data from the Israeli health maintenance organisation linked with the Israel National Cancer Registry.30\n\nDefinition of intervals to diagnosis There was substantial heterogeneity in the symptoms and time points used to define each interval (table 2). In total, 19 different symptoms were used to define the start of myeloma but studies varied greatly regarding which symptom (or symptoms) were used, ranging from 3 to 12 symptoms. Three studies did not report the starting symptoms.26–28 Some studies included multiple symptoms in more general categories.24 25 31 For example, Howell et al used a general pain category that included\n\n4 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p5",
+        "source_issue_ids": [],
+        "text": "Open access\n\nTable 2 Symptoms and date definitions\n\nSymptoms used Onset of first symptom\n\nDate of first presentation in healthcare services Date of first referral Date of diagnosis\n\nFriese et al8 (USA)\n\n\u0007Anaemia \u0007Packed red blood cell transfusion \u0007Back pain\n\nHowell et al31 (UK)\n\nNA 1 year before diagnosis NA SEER cancer diagnosis date\n\n\u0007Tiredness \u0007Pain \u0007Shortness of breath \u0007Infections \u0007Joint problems/fractures \u0007Stomach/bowel symptoms \u0007Other\n\nLyratzopoulos et al26 (UK)\n\nPatient reported Patient reported NA Date provided by the haematological malignancy Diagnostic service\n\n\u0007Not reported Estimated based on patient’s clinical records 2 years before diagnosis Date that the referral letter was sent Clinical records and hospital correspondence\n\nVarga et al29 (Hungary)\n\n\u0007Bone symptoms \u0007Anaemia \u0007Renal failure \u0007General symptoms \u0007Other \u0007Tumour presence \u0007Metastatic bone disease\n\nNeal et al25 (UK)\n\n\u0007Bleeding \u0007Bone pain \u0007Bruising \u0007Anaemia \u0007Fatigue \u0007Anorexia \u0007Weight loss\n\nDin et al24 (UK)\n\n\u0007Bleeding \u0007Bone pain \u0007Bruising \u0007Anaemia \u0007Fatigue \u0007Anorexia \u0007Weight loss\n\nLyratzopoulos et al27 (UK)\n\nNA 3 years before diagnosis NA Tertiary haematology centre\n\nNA 1 year before diagnosis NA First occurrence of a myeloma Read Code in the patient’s record in CPRD database\n\nNA 1 year before diagnosis NA First occurrence of a myeloma Read Code in the patient’s record in CPRD database\n\n\u0007Not reported NA 2 years before diagnosis Date that the referral letter was sent Clinical records and hospital correspondence\n\nGoldschmidt et al30 (Israel)*\n\n\u0007Pain (back, cervical spine, musculoskeletal, non-specific) \u0007Infection \u0007Weight loss \u0007Fatigue \u0007Peripheral oedema \u0007Constipation \u0007Presyncope \u0007Syncope \u0007Dizziness\n\nSwann et al28 (UK)\n\nNA 2 years before diagnosis NA Israel National Cancer Registry\n\n\u0007Not reported NA 2 years before diagnosis Date that the referral letter was sent Hospital Episode Statistics\n\nNA-Not applicable\n\n5 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p6",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\nmusculoskeletal, abdominal, chest and other type of pains, while the two CPRD studies included multiple musculoskeletal symptoms under a general bone pain category.24 25 In addition, studies using CPRD or SEER data were using predefined symptoms to identify the onset of disease, while other studies like Howell et al documented the full range of symptoms reported by the patients during this time. The start of the measuring period was defined as the date of onset of the first symptom or the date of first presentation for a myeloma-related symptom depending on whether the studies were investigating the patient interval, the diagnostic or both. Study authors used various prediagnostic time intervals to identify the first symptom (at 1, 2 or 3 years before diagnosis). Three identified the first symptom at 1 year before diagnosis, three at 2 years and one at 3 years. One study used patient-reported dates. Goldschmidt et al30 did not use the first symptom as the start of the measurement period, but they used the first combination of symptom and labora-tory result (ie, the earliest of blood test+pain complaint or two blood tests within a month or two pain complaints within 1–3 months).\n\nRisk of bias Most of the studies included in the analysis had a low risk of bias (online supplementary appendix A3 and A4). All studies clearly defined the start and end point of the intervals, and in most cases there was an adequate description of the databases along with the strengths, limitations and biases arising from the definitions of the different intervals and time point. Only one study did not mention the different limitations and biases arising from the study design and the choice of definitions for time points and intervals.29 Most common sources of bias that were described included recall bias for studies that were using patient reported data and misclassification bias for studies that were using databases like CPRD. Most studies used a theoretical framework to define each interval usually the one reported by Olesen et al17 or the Aarhus statement.18 The category with the higher risk of bias was the use of a hierarchical rationale to determine the date of diagnosis, that is, date of first histological confirmation of the malignancy or date of admission to the hospital, for example. Most studies mentioned how the date of diagnosis was obtained, but there was no adequate description on how the choice of a particular definition can affect the diagnostic pathway.\n\nQuantifying intervals Seven papers reported the diagnostic interval,8 24 25 28–31 two papers reported the patient interval,27 31 two papers reported the primary care interval26 28 and one paper reported the time to diagnosis interval.31 No studies reported the referral to diagnosis interval. The length of the different intervals can be seen in table 3, and the fitted log normal distributions are shown in figure 3 along with the parameters used to fit them.\n\nFor the diagnostic interval, the pooled weighted mean of the 50th percentile is 108.6 days (n=5398) and the IQR is from 33.3 to 241.7 (n=5288). Removing the study with the largest risk of bias29 based on the Aarhus statement checklist did not alter the results (107.9 days, IQR: 31.3– 242.2). An additional sensitivity analysis was conducted by excluding the Goldschmidt et al30 study as it was an outlier, but the results were not affected (pooled median of 103.8). While all the studies reported a median diagnostic interval less than 5 months, this study had an interval of 11.2 months. The IQR was not estimated for this sensitivity analysis as it was not reported by the authors. The pooled estimate of the 50th percentile of the patient interval is 26.3 days (IQR: 0.7–97.7, n=465). The primary care interval was reported by two studies26 28 with a median of 21.6 days (IQR: 4.6–55.8, n=326), and the time to diagnosis interval was also reported by one study31 with a median of 163 days (IQR: 84–306, n=341). No study reported the referral to diagnosis interval, but it can be inferred by subtracting the median length of the primary care and patient intervals from the diagnostic interval or the time to diagnosis interval. The median length of the referral to diagnosis interval can range from 60.7 to 115.1 days depending on whether we use the diagnostic or the time to diagnosis interval for the inference.\n\nTable 3 Length of intervals\n\nPercentile N 25th 50th 75th\n\nPatient interval\n\n\u0007Howell et al31 341 1 31 122\n\n\u0007Lyratzopoulos et al27 124 0 13.5 31\n\n\u0007Weighted estimate 465 0.7 26.3 97.7\n\nPrimary care interval\n\n\u0007Lyratzopoulos et al26 176 5 21 55\n\n\u0007Swann et al28 150 4.2 23.5 56.8\n\n\u0007Weighted estimate 326 4.6 21.6 55.8\n\nReferral to diagnosis interval\n\nNo papers reporting this interval\n\nDiagnostic interval\n\n\u0007Friese et al8 3831 27 99 252\n\n\u0007Howell et al31 341 34 83 167\n\n\u0007Varga et al29 193 88 125 230\n\n\u0007Neal et al25 221 56 144 264\n\n\u0007Din et al24 500 54 149 263\n\n\u0007Goldschmidt et al30 107 NR 341 NR\n\n\u0007Swann et al28 202 24 53.5 107.5\n\n\u0007Weighted estimate 5395 33.3 108.6 241.7\n\nTime to diagnosis\n\n\u0007Howell et al31 341 84 163 306\n\nNR, not reported.\n\n6 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p7",
+        "source_issue_ids": [],
+        "text": "Open access\n\nFigure 3 Distribution of the intervals. Legend: each circle corresponds to one study, and the size is proportional to the total sample size. The blue diamond corresponds to the weighted estimate. For intervals with only one study (time to diagnosis), no weighted estimates were calculated. Y-axis corresponds to 1−probability (interval>number of days), that is 0.25 corresponds to the 75th percentile and 0.75 to the 25th percentile. X-axis corresponds to number of days.\n\nDiscussion Our results show that patients with myeloma experience symptoms for a median of approximately 1 month before seeking help, and 25% of patients wait for more than 3 months (98 days). After attending primary care with symptoms, the median time to diagnosis is 108.6 days (IQR: 33.3– 241.7) with 25% of patients waiting longer than 8 months. No studies report the referral to diagnosis interval\n\nStrengths and weaknesses This is the first systematic review that quantified the patient pathway of myeloma from onset of first symptom to diagnosis. There were no restrictions in the search strategy in terms of study design or healthcare systems. We focused our search on two medical databases that are more likely to contain papers on diagnostic pathways, but we acknowledge that this might have affected the identification of all litera-ture. To counter this, we included additional strategies like citation searching of some key references and searching the reference lists of similar reviews. We excluded conference abstracts, although there were several that addressed the review question. The reason for this is that the length of the different intervals reported is affected by design decisions like the choice of when to start the measurement period, initial symptoms, data collection methods and so on. Conference abstracts do not report this level of detail in their methods and therefore could not be included.\n\nIn addition to measures of central tendency like the median, we included the 25th and 75th percentiles, which are particularly important since time interval data are skewed to the right. Examining all three can provide a more complete idea of the delays that the patients experience especially at the tails of the distribution. Measures of central tendency like the mean might not be the most appropriate to describe the distribution as they tend to be overestimated when used on positively skewed distributions which also makes comparison with other cancer intervals more difficult as they are usually quantified using the median and IQR. The main limitation of the analysis is that currently there are no universally accepted formal methods to perform meta-analysis of medians and IQRs. To overcome this, we combined estimates of the percentiles after weighting them based on the sample size: a method equivalent to a fixed effects meta-analysis. Our estimates of the diagnostic interval might therefore be an underestimation due to the fact that the biggest study reported one of the lowest diagnostic intervals.8 This however does not change the interpretation of the results as these estimates still suggest very long diagnostic intervals for patients with myeloma. We were not able to produce a CI around the median and IQR as these are not usually measures that are reported by the included studies; thus, we present only the point estimate of each percentile. In addition, there are no formal ways of\n\n7 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p8",
+        "source_issue_ids": [],
+        "text": "Open access\b\n\nestimating statistical heterogeneity when meta-analysing median and IQR. No studies reported the referral to diagnosis interval, and it was inferred based on the results of the other interval so our results regarding this interval should be interpreted with caution.\n\nSources of heterogeneity As mentioned in the strengths and limitations, no formal ways of estimating heterogeneity currently exist when performing meta-analysis of medians and IQR. In order to get an approximate measure of heterogeneity, we also performed a meta-analysis of the means for which we had CIs or we could approximate (online supplementary appendix A5), which resulted in an I2 statistics of 98.6% (diagnostic interval). Although we expect high heterogeneity due to various design decisions that are described below, this statistic should be interpreted with caution as it might be an overestimation. We believe that to be the case because of the very small uncertainty for each within-study estimate. This results in very narrow CIs around each study that do not overlap and thus arti-ficially inflate the I2 statistic. In addition for three out of seven studies, either the means or the CIs had to be approximated, which could potentially be introducing more bias on the effect and heterogeneity estimates. Heterogeneity estimates might have been different if we were able to obtain CIs around median and IQR. We believe that clinical heterogeneity is more important in this case. In order to compute intervals, the definition of the beginning and the end of the interval is crucial. There was variability in how studies defined starting points, especially for the first symptom and the first presentation to healthcare, using medical records or patient recall. Studies that use patient reported outcomes tend to suffer from recall bias, which might lead to overestimation or underestimation of the different intervals, while studies using medical records tend to suffer from loss to follow-up and misclassification. For studies that used electronic health records, there was no agreement on when exactly myeloma starts to manifest. The time used to detect related symptoms prior to diagnosis spanned from 1 to 3 years. Although most studies used 1 year before diagnosis, there is some evidence to suggest that symptoms might be present for more than 1 year,33 which may have led to an underestimation of intervals in these studies. However, the more you extend the symptom period, the more likely you are to detect symptoms that are unrelated to myeloma, which leads to the overestimation of the length of the intervals, especially with symptoms that are so non-specific such as back pain. In order to explore this, we conducted a sensitivity analysis where we estimated the length of the diagnostic interval by stratifying according to the time used to define the presenting symptoms with studies identifying the symptom at 1 year before diagnosis having a median of 105 days versus more than 1 year having a median of\n\n142.3 day, which might explain some of the observed variability. Even though there are various sources of heterogeneity, all the sensitivity analyses that were conducted did not change the result trend and their interpretation, as almost all studies reported diagnostic intervals longer than 3 months irrespectively of the way the study was conducted.\n\nFindings compared with existing research Our estimate for the patient interval is in-line with the findings of another study,22 which reported that 15% of patients with myeloma wait more than 3 months before they go to the doctor. This study explained this delay in terms of patients’ lack of understanding of the seriousness of their symptoms because of their non-specific nature. Patients with myeloma experience the longest primary care interval out of all cancers with a median of 21.6 days. Other cancers that have been shown to have long primary care intervals include renal and lung with a median of 14 days.28 The long primary care interval for patients with myeloma could be explained by the fact that symptoms on their own are not enough for referral, and multiple blood tests need to be conducted like a full blood count, calcium, creatinine and inflammatory markers. Conducting multiple tests has been shown to extend the primary care interval.34\n\nThe diagnostic interval, which takes place in healthcare and could potentially be amenable to improvement, is longer for myeloma than for many other cancers. It has been shown that only 17.2% of patients with myeloma are referred through the suspected cancer referral pathway (‘2 week’ wait), which is lower than other cancers such as breast cancer for example (43%).20 35 This could be due to the non-specific nature of the symptoms that make it hard for both the general practitioner (GP) and the patient to suspect the presence of myeloma. This might also explain the difference in the length of the diagnostic intervals between these two cancers as the median diagnostic interval for breast cancer is approximately 14 days.36 Other cancers with a similarly long median diagnostic interval also have non-specific clinical presenta-tions, such as lung cancer, which has a diagnostic interval of 88 days.36\n\nImplications for future research We were not able to estimate the referral to diagnosis care interval directly, although it is reasonable to believe that it might be longer than the primary care. As in other cancers, referrals to different specialties or with an insufficient level of urgency or multiple referrals can prolong the referral to diagnosis interval.37 The choice of referral route has also been shown to be a strong predictor of the length of the diagnostic interval, that is, patients that are diagnosed throught a referral pathway for cancer tend to have shorter intervals.38 Future studies should estimate the duration of primary and referral to diagnosis intervals and investigate the impact of one setting on the other as in most cases the\n\n8 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1136/bmjopen-2017-019758",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_sha256": "7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c",
+          "source_url": "https://doi.org/10.1136/bmjopen-2017-019758"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c:p9",
+        "source_issue_ids": [],
+        "text": "type and severity of symptoms will determine the specialty and urgency of referral. Also it is still not clear how long before diagnosis myeloma symptoms start to occur. In lung cancer, studies on symptom lead time (the time between symptoms attributable to cancer and diagnosis) show that symptom incidence increases considerably 6 months before diagnosis, but no such study has been conducted for myeloma.39\n\nConclusion Myeloma is a complex disease to diagnose due to a combination of different factors. First, myeloma symptoms (like back pain and fatigue) are common and mostly caused by benign conditions, resulting in patients not visiting their doctor. In addition the rarity of the disease, makes it hard for GPs to suspect this cancer. There is no effective screening programme for myeloma as this might result in people having a lot of unnecessary tests and potentially over diagnosing monoclonal gammopathy of undeter-mined significance (MGUS) thus any benefits from the screening programme cannot outweigh the cost. The reasons described above can explain why certain patients with myeloma tend to experience long diagnostic intervals. Our results indicate that in some cases the length of the diagnostic interval can be over 8 months. There is potential for meaningful reductions in the time to diagnosis especially for the diagnostic interval, which could improve patient outcomes, but more research is required in order to do that. Further and more in-depth explora-tion of the diagnostic pathway is required especially for the intervals we were not able to explore in this study like the referral to diagnosis interval and its link with the primary care interval. Development of interventions that aim to reduce the length of the diagnostic interval are now needed.\n\nContributors Six authors contributed to this study: CK, JO, LA, BDN, KR, AVdB. CK designed the study with input from AVdB and JO. All authors were involved in the conduct of the study, interpreting the results and in revising and correcting the manuscript. CK and LA reviewed and extracted the data from articles. CK and JO planned and conducted the analysis. The manuscript drafting was led by CK with the contribution of all authors. All authors read and approved the final version of the manuscript.\n\nFunding This manuscript presents work carried out as part of a DPhil scholarship awarded to CK funded by the Primary Care Research Trust, The University of Oxford and NIHR Oxford CLAHRC. AVdB is supported through the National Institute for Health Research (NIHR) Diagnostic Evidence Co-operative Oxford at Oxford Health Foundation Trust (IS_DEC_0812_100).\n\nDisclaimer This article presents independent research funded by the NIHR. The views expressed are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health.\n\nCompeting interests None declared.\n\nPatient consent Not required.\n\nProvenance and peer review Not commissioned; externally peer reviewed.\n\nData sharing statement The dataset is available on request from the corresponding author.\n\nOpen access This is an open access article distributed in accordance with the terms of the Creative Commons Attribution (CC BY 4.0) license, which permits others to distribute, remix, adapt and build upon this work, for commercial use,\n\nOpen access\n\nprovided the original work is properly cited. See: http://​creativecommons.​org/​ licenses/​by/​4.​0/\n\n© Article author(s) (or their employer(s) unless otherwise stated in the text of the article) 2018. All rights reserved. No commercial use is permitted unless otherwise expressly granted.\n\nReferences 1. England PH. National Cancer Intelligence Network Cancer statistics : availability and location About Public Health England. 2015. 2. Cancer Research UK. Myeloma statistics. http://www.​\n\ncancerresearchuk.​org/​health-​professional/​cancer-​statistics/​statistics-​ by-​cancer-​type/​myeloma#​heading-​Six (accessed 26 Aug 2016). 3. Quaresma M, Coleman MP, Rachet B. 40-year trends in an index of survival for all cancers combined and survival adjusted for age and sex for each cancer in England and Wales, 1971-2011: a population-based study. Lancet 2015;385:1206–18. 4. Lyratzopoulos G, Wardle J, Rubin G. Rethinking diagnostic delay in cancer: how difficult is the diagnosis? BMJ 2014;349:g7400. 5. Shephard EA, Neal RD, Rose P, et al. Quantifying the risk of multiple myeloma from symptoms reported in primary care patients: a large case-control study using electronic records. Br J Gen Pract 2015;65:e106–13. 6. Hamilton W, Round A, Sharp D, et al. Clinical features of colorectal cancer before diagnosis: a population-based case–control study. Br J Cancer 2005;93:399–405. 7. Lyratzopoulos G, Neal RD, Barbiere JM, et al. Variation in number of general practitioner consultations before hospital referral for cancer: findings from the 2010 National Cancer Patient Experience Survey in England. Lancet Oncol 2012;13:353–65. 8. Friese CR, Abel GA, Magazu LS, et al. Diagnostic delay and complications for older adults with multiple myeloma. Leuk Lymphoma 2009;50:392–400. 9. Macdonald S, Macleod U, Campbell NC, et al. Systematic review of factors influencing patient and practitioner delay in diagnosis of upper gastrointestinal cancer. Br J Cancer 2006;94:1272–80. 10. Tosi P. Diagnosis and treatment of bone disease in multiple myeloma: spotlight on spinal involvement. Scientifica 2013;2013:1–12. 11. Sonmez M, Akagun T, Topbas M, et al. Effect of pathologic fractures on survival in multiple myeloma patients: a case control study. J Exp Clin Cancer Res 2008;27:11–14. 12. Wirk B. Renal failure in multiple myeloma: a medical emergency.\n\nBone Marrow Transplant 2011;46:771–83. 13. Smith D, Yong K. Multiple myeloma. BMJ 2013;346:f3863. 14. Kariyawasan CC, Hughes DA, Jayatillake MM, et al. Multiple myeloma: causes and consequences of delay in diagnosis. QJM 2007;100:635–40. 15. Ong F, Hermans J, Noordijk EM, et al. Presenting signs and symptoms in multiple myeloma: high percentages of stage III among patients without apparent myeloma-associated symptoms. Ann Hematol 1995;70:149–52. 16. Greipp PR, San Miguel J, Durie BG, et al. International staging system for multiple myeloma. J Clin Oncol 2005;23:3412–20. 17. Olesen F, Hansen RP, Vedsted P. Delay in diagnosis: the experience in Denmark. Br J Cancer 2009;101:S5–8. 18. Weller D, Vedsted P, Rubin G, et al. The Aarhus statement: improving design and reporting of studies on early cancer diagnosis. Br J Cancer 2012;106:1262–7. 19. Neal RD, Tharmanathan P, France B, et al. Is increased time to diagnosis and treatment in symptomatic cancer associated with poorer outcomes? Systematic review. Br J Cancer 2015;112:S92–107. 20. Elliss-Brookes L, McPhail S, Ives A, et al. Routes to diagnosis for cancer - determining the patient journey using multiple routine data sets. Br J Cancer 2012;107:1220–6. 21. Keeble S, Abel GA, Saunders CL, et al. Variation in promptness of presentation among 10,297 patients subsequently diagnosed with one of 18 cancers: evidence from a National Audit of Cancer Diagnosis in Primary Care. Int J Cancer 2014;135:1220–8. 22. Howell DA, Warburton F, Ramirez AJ, et al. Risk factors and time to symptomatic presentation in leukaemia, lymphoma and myeloma. Br J Cancer 2015;113:1114–20. 23. Li N, Lv Y, Zeng H, et al. Renal impairment in multiple myeloma: presenting features in different departments. J Huazhong Univ Sci Technolog Med Sci 2012;32:65–8. 24. Din NU, Ukoumunne OC, Rubin G, et al. Age and Gender Variations in Cancer Diagnostic Intervals in 15 Cancers: Analysis of Data from the UK Clinical Practice Research Datalink. PLoS One 2015;10:e0127717.\n\n9 Koshiaris C, et al. BMJ Open 2018;8:e019758. doi:10.1136/bmjopen-2017-019758",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:7346bf7d77db31950df7d06e927c0831c64fcccddda747f303f228acd7a7865c"
+}

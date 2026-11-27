@@ -1,0 +1,442 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T18:00:13.120727+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Analysis of the Impact of the Confinement Resulting from COVID-19 on the Lifestyle and Psychological Wellbeing of Spanish Pregnant Women: An Internet-Based Cross-Sectional Survey",
+        "year": null
+      },
+      "doi": "10.3390/ijerph17165933",
+      "format": "pdf",
+      "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+      "url": "https://doi.org/10.3390/ijerph17165933"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p1",
+        "source_issue_ids": [],
+        "text": "International Journal of Environmental Research and Public Health\n\nArticle Analysis of the Impact of the Conﬁnement Resulting from COVID-19 on the Lifestyle and Psychological Wellbeing of Spanish Pregnant Women: An Internet-Based Cross-Sectional Survey\n\nGemma Biviá-Roig 1 , Valentina Lucia La Rosa 2 , María Gómez-Tébar 3, Lola Serrano-Raya 4, Juan José Amer-Cuenca 1, Salvatore Caruso 5 , Elena Commodari 2, Antonio Barrasa-Shaw 6,* and Juan Francisco Lisón 7,8\n\n1 Departamento de Fisioterapia, Facultad de Ciencias de la Salud, Universidad Cardenal Herrera-CEU, CEU Universities, C/Ramón y Cajal, 20, Alfara del Patriarca, 46115 Valencia, Spain; gemma.bivia@uchceu.es (G.B.-R.); juanjoamer@uchceu.es (J.J.A.-C.) 2 Department of Educational Sciences, University of Catania, 95124 Catania, Italy; valarosa@unict.it (V.L.L.R.); e.commodari@unict.it (E.C.) 3 Obstetrics and Gynecology Service, Hospital of Manises, 46940 Valencia, Spain; mllanos@hospitalmanises.es 4 Obstetrics and Gynecology Service, Hospital of Sagunto, 46500 Valencia, Spain; serrano_marray@gva.es 5 Obstetrics and Gynecology Unit, Department of General Surgery and Medical Surgical Specialties, University of Catania, 95123 Catania, Italy; scaruso@unict.it 6 Departamento de Cirugía, Facultad de Ciencias de la Salud, Universidad Cardenal Herrera-CEU, CEU Universities, C/Ramón y Cajal, 20, Alfara del Patriarca, 46115 Valencia, Spain 7 Departamento de Medicina, Facultad de Ciencias de la Salud, Universidad Cardenal Herrera-CEU, CEU Universities, C/Ramón y Cajal, 20, Alfara del Patriarca, 46115 Valencia, Spain; juanfran@uchceu.es 8 CIBER of Physiopathology of Obesity and Nutrition CIBERobn, CB06/03 Carlos III Health Institute, 28029 Madrid, Spain * Correspondence: antonio.barrasa@uchceu.es\n\nReceived: 21 July 2020; Accepted: 13 August 2020; Published: 15 August 2020\n\n\u0001\u0002\u0003\u0001\u0004\u0005\u0006\u0007\b \u0001\u0002\u0003\u0004\u0005\u0006\u0007\n\nAbstract: (1) Background: This study aimed to analyze the impact of the conﬁnement due to the COVID-19 pandemics on the eating, exercise, and quality-of-life habits of pregnant women. (2) Methods: This was an internet-based cross-sectional survey which collected information about adherence to the Mediterranean diet, physical exercise, health-related quality of life (HRQoL), and perceived obstacles (in terms of exercise, preparation for delivery, and medical appointments) of pregnant women before and after the conﬁnement. The survey was conducted in 18–31 May 2020. (3) Results: A total of 90 pregnant women participated in this study. There was a signiﬁcant decrease in the levels of physical activity (p < 0.01) as well as in HRQoL (p < 0.005). The number of hours spent sitting increased by 50% (p < 0.001), 52.2% were unable to attend delivery preparation sessions because these had been cancelled. However, there were no signiﬁcant diﬀerences in the eating pattern of these women (p = 0.672). Conclusions: These results suggest the need to implement speciﬁc online programs to promote exercise and reduce stress, thus improving the HRQoL in this population, should similar conﬁnements need to occur again for any reason in the future.\n\nKeywords: pregnancy; COVID-19; quarantine; lifestyle; quality of life\n\n1. Introduction\n\nAfter the ﬁrst outbreak of the disease caused by the SARS-CoV-2 virus in Wuhan (China) in December 2019, its rapid spread led the WHO to declare a global health emergency, and shortly after\n\nInt. J. Environ. Res. Public Health 2020, 17, 5933; doi:10.3390/ijerph17165933 www.mdpi.com/journal/ijerph",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p10",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 10 of 14\n\nWe must mention that this study has some limitations, including social desirability bias and recall bias. Some authors suggest that investigating lifestyles through questionnaires can condition the responses, thus producing a tendency among participants to exaggerate their healthy habits and minimize their harmful habits [75]. Recall bias (the fact that responses depend on the participants’ ability to remember past events) has also been observed in retrospective cohort studies that used questionnaires to measure dietary intake [76,77] and often causes participants to underestimate their food consumption and risk of disease [76]. Besides, our participants were recruited from a public hospital (rather than a private one), which may have inﬂuenced our results due to sociodemographic status. On the other hand, it should be bore in mind that the MEDAS questionnaire collects information on the quality of the diet but does not allow us to know the levels of caloric intake of the participants. Finally, the sample size included in this work—based on assumptions—was not remarkably high; however, we have also to consider that the survey was disseminated only for 15 days, before the relaxation of the restriction measures in Spain.\n\n5. Conclusions\n\nThe results of this study provide new data on the lifestyle changes made by pregnant women as a consequence of the conﬁnement imposed because of COVID-19. Conﬁnement decreased both the level of vigorous and moderate physical activity that these pregnant women had engaged in, as well as the time they spent walking, and doubled the number of hours they spent sitting. The main obstacles to engagement in physical activity reported by these women were a lack of space, fatigue due to pregnancy, and not considering exercise a priority. The conﬁnement also negatively aﬀected their HRQoL. Furthermore, 54.2% of the participants were unable to continue or start their preparation for delivery, while 24.4% of those surveyed participated in online perinatal preparation classes. Finally, this population group did not change their adherence to the MD due to social distancing and isolation resulting from the conﬁnement.\n\nAuthor Contributions: Conceptualization, G.B.-R. and J.F.L.; methodology, V.L.L.R. and M.G.-T.; formal analysis, L.S.-R.; investigation, J.J.A.-C.; data curation, A.B.-S.; writing—original draft preparation, G.B.-R. and J.F.L.; writing—review and editing, S.C. and E.C.; visualization, V.L.L.R.; supervision, J.F.L.; project administration, G.B.-R. and J.F.L. All authors have read and agreed to the published version of the manuscript.\n\nFunding: This work was supported by grants from the Generalitat Valenciana (Subvenciones para grupos de investigación consolidables-AICO/2019/331; Subvenciones para grupos de investigación emergentes-GV/2020/133) and from the University CEU Cardenal Herrera (INDI 19/27); CIBERobn is an ISCIII initiative.\n\nConﬂicts of Interest: The authors declare no conﬂict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.\n\nReferences\n\n1. World Health Organization. WHO Director-General/’s Opening Remarks at the Media Brieﬁng on COVID-19, 11 March 2020. Available online: https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-brieﬁng-on-covid-19---11-march-2020 (accessed on 23 June 2020). 2. Agencia Estatal Boletín Oﬁcial Del Estado Real Decreto 463/2020, de 14 de Marzo, Por el Que se Declara el Estado de Alarma Para la Gestión de la Situación de Crisis Sanitaria Ocasionada Por el COVID-19. Available online: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-3692 (accessed on 23 June 2020). 3. Mousa, A.; Naqash, A.; Lim, S. Macronutrient and Micronutrient Intake during Pregnancy: An Overview of Recent Evidence. Nutrients 2019, 11, 443. [CrossRef] [PubMed] 4. Vitale, S.G.; Laganà, A.S.; Muscatello, M.R.; La Rosa, V.L.; Curro, V.; Pandolfo, G.; Zoccali, R.A.; Bruno, A. Psychopharmacotherapy in Pregnancy and Breastfeeding. Obstet. Gynecol. Surv. 2016, 71, 721–733. [CrossRef] [PubMed] 5. Arija, V.; Cucó, G.; Vila, J.; Iranzo, R.; Fernández-Ballart, J. Consumo, hábitos alimentarios y estado nutricional de la población de Reus en la etapa preconcepcional, el embarazo y el posparto. Med. Clin. 2004, 123, 5–11. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p11",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 11 of 14\n\n6. Ferrer, C.; García-Esteban, R.; Mendez, M.; Romieu, I.; Torrent, M.; Sunyer, J. Determinantes sociales de los patrones dietéticos durante el embarazo. Gac. Sanit. 2009, 23, 38–43. [CrossRef] 7. Flores-Quijano, M.E.; Heller-Rouassant, S. Embarazo y lactancia. Gac. Med. De Mex. 2016, 152, 6–12. 8. Ragusa, R.; Giorgianni, G.; Marranzano, M.; Cacciola, S.; La Rosa, V.L.; Giarratana, A.; Altadonna, V.; Guardabasso, V. Breastfeeding in Hospitals: Factors Inﬂuencing Maternal Choice in Italy. Int. J. Environ. Res. Public Health 2020, 17, 3575. [CrossRef] 9. Soldati, L.; Di Renzo, L.; Jirillo, E.; Ascierto, P.A.; Marincola, F.M.; De Lorenzo, A. The inﬂuence of diet on anti-cancer immune responsiveness. J. Transl. Med. 2018, 16, 75. [CrossRef] 10. Cani, P.D.; Van Hul, M. Mediterranean diet, gut microbiota and health: When age and calories do not add up! Gut 2020, 69, 1167–1168. [CrossRef] 11. Sociedad Española de Nutrición Comunitaria (SENC), Alimentación, embarazo y lactancia. Guía de la Alimentación Saludable Para Atención Primaria y Colectivos Ciudadanos; Editorial Planeta: Barcelona, Spain, 2019; pp. 106–117. 12. Samaniego-Vaesken, M.L.; Ruiz, E.; Partearroyo, T.; Aranceta-Bartrina, J.; Gil, A.; Gonzalez-Gross, M.; Ortega, R.M.; Serra-Majem, L.; Varela-Moreiras, G. Added Sugars and Low- and No-Calorie Sweeteners in a Representative Sample of Food Products Consumed by the Spanish ANIBES Study Population. Nutrients 2018, 10, 1265. [CrossRef] 13. Nelson, S.M.; Matthews, P.; Poston, L. Maternal metabolism and obesity: Modiﬁable determinants of pregnancy outcome. Hum. Reprod. Update 2010, 16, 255–275. [CrossRef] 14. Budak, M.S.; Kahramanoglu, I.; Vitale, S.G.; Akgol, S.; Dilek, M.E.; Kartal, S.; Caruso, S.; Kahveci, B.; Obut, M.; Bademkiran, M.H.; et al. Maternal abdominal subcutaneous fat thickness as a simple predictor for gestational diabetes mellitus. J. Perinat. Med. 2019, 47, 605–610. [CrossRef] [PubMed] 15. Cnattingius, S.; Bergstrom, R.; Lipworth, L.; Kramer, M.S. Prepregnancy weight and the risk of adverse pregnancy outcomes. N. Engl. J. Med. 1998, 338, 147–152. [CrossRef] [PubMed] 16. Chiofalo, B.; Laganà, A.S.; Vaiarelli, A.; La Rosa, V.L.; Rossetti, D.; Palmara, V.; Valenti, G.; Rapisarda, A.M.C.; Granese, R.; Sapia, F.; et al. Do miRNAs Play a Role in Fetal Growth Restriction? A Fresh Look to a Busy Corner. Biomed. Res. Int. 2017, 2017, 6073167. [CrossRef] 17. Cedergren, M.I. Maternal morbid obesity and the risk of adverse pregnancy outcome. Obstet. Gynecol. 2004, 103, 219–224. [CrossRef] [PubMed] 18. Laganà, A.S.; Vitale, S.G.; Sapia, F.; Valenti, G.; Corrado, F.; Padula, F.; Rapisarda, A.M.C.; D’Anna, R. miRNA expression for early diagnosis of preeclampsia onset: Hope or hype? J. Matern. Fetal Neonatal Med. 2018, 31, 817–821. [CrossRef] 19. Weiss, J.L.; Malone, F.D.; Emig, D.; Ball, R.H.; Nyberg, D.A.; Comstock, C.H.; Saade, G.; Eddleman, K.; Carter, S.M.; Craigo, S.D.; et al. Obesity, obstetric complications and cesarean delivery rate–A population-based screening study. Am. J. Obstet. Gynecol. 2004, 190, 1091–1097. [CrossRef] 20. Vitale, S.G.; Marilli, I.; Rapisarda, A.M.; Rossetti, D.; Belluomo, G.; Iapichino, V.; Stancanelli, F.; Cianci, A. Cellular and biochemical mechanisms, risk factors and management of preterm birth: State of the art. Minerva Ginecol. 2014, 66, 589–595. 21. Salman, H.; Shah, M.; Ali, A.; Aziz, A.; Vitale, S.G. Assessment of Relationship of Serum Neurokinin-B Level in the Pathophysiology of Pre-eclampsia: A Case-Control Study. Adv. Ther. 2018, 35, 1114–1121. [CrossRef] 22. Rodriguez-Martin, B.C.; Meule, A. Food craving: New contributions on its assessment, moderators, and consequences. Front. Psychol. 2015, 6, 21. [CrossRef] 23. Yilmaz, C.; Gokmen, V. Neuroactive compounds in foods: Occurrence, mechanism and potential health eﬀects. Food Res. Int. 2020, 128, 108744. [CrossRef] 24. Wang, C.; Pan, R.; Wan, X.; Tan, Y.; Xu, L.; Ho, C.S.; Ho, R.C. Immediate Psychological Responses and Associated Factors during the Initial Stage of the 2019 Coronavirus Disease (COVID-19) Epidemic among the General Population in China. Int. J. Environ. Res. Public Health 2020, 17, 1729. [CrossRef] [PubMed] 25. Montemurro, N. The emotional impact of COVID-19: From medical staﬀto common people. Brain Behav. Immun. 2020, 87, 23–24. [CrossRef] [PubMed] 26. Havermans, R.C.; Vancleef, L.; Kalamatianos, A.; Nederkoorn, C. Eating and inﬂicting pain out of boredom. Appetite 2015, 85, 52–57. [CrossRef] [PubMed] 27. Crockett, A.C.; Myhre, S.K.; Rokke, P.D. Boredom proneness and emotion regulation predict emotional eating. J. Health Psychol. 2015, 20, 670–680. [CrossRef] [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p12",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 12 of 14\n\n28. Ma, Y.; Ratnasabapathy, R.; Gardiner, J. Carbohydrate craving: Not everything is sweet. Curr. Opin. Clin. Nutr. Metab. Care 2017, 20, 261–265. [CrossRef] [PubMed] 29. Silva, J.R.; Borges, P.S.N.; Afra, K.F.; Pontes, I.E.D.A.; Alves, J.G. Eﬀects of an aquatic physical exercise program on glycemic control and perinatal outcomes of gestational diabetes: Study protocol for a randomized controlled trial. Trials 2013, 14, 390. [CrossRef] 30. Leppanen, M.; Aittasalo, M.; Raitanen, J.; Kinnunen, T.I.; Kujala, U.M.; Luoto, R. Physical activity during pregnancy: Predictors of change, perceived support and barriers among women at increased risk of gestational diabetes. Matern. Child Health J. 2014, 18, 2158–2166. [CrossRef] 31. Bisson, M.; Rheaume, C.; Bujold, E.; Tremblay, A.; Marc, I. Modulation of blood pressure response to exercise by physical activity and relationship with resting blood pressure during pregnancy. Int. J. Hypertens. 2014, 32, 1450–1457, discussion 1457. [CrossRef] 32. Vargas-Terrones, M.; Nagpal, T.S.; Barakat, R. Impact of exercise during pregnancy on gestational weight gain and birth weight: An overview. Braz. J. Phys. Ther. 2019, 23, 164–169. [CrossRef] 33. Rudra, C.B.; Sorensen, T.K.; Luthy, D.A.; Williams, M.A. A prospective analysis of recreational physical activity and preeclampsia risk. Med. Sci. Sports Exerc. 2008, 40, 1581–1588. [CrossRef] 34. Mottola, M.F. Exercise prescription for overweight and obese women: Pregnancy and postpartum. Obstet. Gynecol. Clin. North Am. 2009, 36, 301–316. [CrossRef] [PubMed] 35. Artal, R.; Catanzaro, R.B.; Gavard, J.A.; Mostello, D.J.; Friganza, J.C. A lifestyle intervention of weight-gain restriction: Diet and exercise in obese women with gestational diabetes mellitus. Appl. Physiol. Nutr. Metab. 2007, 32, 596–601. [CrossRef] [PubMed] 36. Poudevigne, M.S.; O’Connor, P.J. Physical activity and mood during pregnancy. Med. Sci. Sports Exerc. 2005, 37, 1374–1380. [CrossRef] 37. Pritchett, R.V.; Daley, A.J.; Jolly, K. Does aerobic exercise reduce postpartum depressive symptoms? A systematic review and meta-analysis. Br. J. Gen. Pract. 2017, 67, e684–e691. [CrossRef] [PubMed] 38. Young, D.R.; Hivert, M.F.; Alhassan, S.; Camhi, S.M.; Ferguson, J.F.; Katzmarzyk, P.T.; Lewis, C.E.; Owen, N.; Perry, C.K.; Siddique, J.; et al. Sedentary Behavior and Cardiovascular Morbidity and Mortality: A Science Advisory From the American Heart Association. Circulation 2016, 134, 262–279. [CrossRef] [PubMed] 39. Badon, S.E.; Littman, A.J.; Chan, K.C.G.; Williams, M.A.; Enquobahrie, D.A. Maternal sedentary behavior during pre-pregnancy and early pregnancy and mean oﬀspring birth size: A cohort study. BMC Pregnancy Childbirth 2018, 18, 267. [CrossRef] 40. Fazzi, C.; Saunders, D.H.; Linton, K.; Norman, J.E.; Reynolds, R.M. Sedentary behaviours during pregnancy: A systematic review. Int. J. Behav. Nutr. Phys. Act. 2017, 14, 32. [CrossRef] 41. Evenson, K.R.; Mottola, M.F.; Artal, R. Review of Recent Physical Activity Guidelines During Pregnancy to Facilitate Advice by Health Care Providers. Obstet. Gynecol. Surv. 2019, 74, 481–489. [CrossRef] 42. Santos, P.C.; Abreu, S.; Moreira, C.; Lopes, D.; Santos, R.; Alves, O.; Silva, P.; Montenegro, N.; Mota, J. Impact of compliance with diﬀerent guidelines on physical activity during pregnancy and perceived barriers to leisure physical activity. J. Sports Sci. 2014, 32, 1398–1408. [CrossRef] 43. Evenson, K.R.; Wen, F. National trends in self-reported physical activity and sedentary behaviors among pregnant women: NHANES 1999–2006. Prev. Med. 2010, 50, 123–128. [CrossRef] 44. Evenson, K.R.; Savitz, D.A.; Huston, S.L. Leisure-time physical activity among pregnant women in the US. Paediatr. Perinat. Epidemiol. 2004, 18, 400–407. [CrossRef] [PubMed] 45. Rashidi Fakari, F.; Simbar, M. Coronavirus Pandemic and Worries during Pregnancy; a Letter to Editor. Arch. Acad. Emerg. Med. 2020, 8, e21. [PubMed] 46. World Health Organization. #HealthyAtHome—Physical Activity. Available online: https: //www.who.int/news-room/campaigns/connecting-the-world-to-combat-coronavirus/healthyathome/ healthyathome---physical-activity (accessed on 23 June 2020). 47. Buchanan, E.A.; Hvizdak, E.E. Online survey tools: Ethical and methodological concerns of human research ethics committees. J. Empir. Res. Hum. Res. Ethics 2009, 4, 37–48. [CrossRef] [PubMed] 48. Schroder, H.; Fito, M.; Estruch, R.; Martinez-Gonzalez, M.A.; Corella, D.; Salas-Salvado, J.; Lamuela-Raventos, R.; Ros, E.; Salaverria, I.; Fiol, M.; et al. A short screener is valid for assessing Mediterranean diet adherence among older Spanish men and women. J. Nutr. 2011, 141, 1140–1145. [CrossRef]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 13
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p13",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 13 of 14\n\n49. World Health Organization. Global Recommendations on Physical Activity for Health; World Health Organization: Geneva, Switzerland, 2010. 50. Szende, A.; Janssen, B.; Cabases, J. Self-Reported Population Health: An International Perspective Based on EQ-5D.; Springer: Dordrecht, The Netherlands, 2014. 51. Garcia-Gordillo, M.A.; Del Pozo-Cruz, B.; Adsuar, J.C.; Cordero-Ferrera, J.M.; Abellan-Perpinan, J.M.; Sanchez-Martinez, F.I. Validation and Comparison of Eq-5d-3l and Sf-6d Instruments in a Spanish Parkinson S Disease Population Sample. Nutr. Hosp. 2015, 32, 2808–2821. [CrossRef] 52. Pietrobelli, A.; Pecoraro, L.; Ferruzzi, A.; Heo, M.; Faith, M.; Zoller, T.; Antoniazzi, F.; Piacentini, G.; Fearnbach, S.N.; Heymsﬁeld, S.B. Eﬀects of COVID-19 Lockdown on Lifestyle Behaviors in Children with Obesity Living in Verona, Italy: A Longitudinal Study. Obesity 2020. [CrossRef] 53. Ghosh, A.; Arora, B.; Gupta, R.; Anoop, S.; Misra, A. Eﬀects of nationwide lockdown during COVID-19 epidemic on lifestyle and other medical issues of patients with type 2 diabetes in north India. Diabetes Metab. Syndr. 2020, 14, 917–920. [CrossRef] 54. Al Wattar, B.H.; Dodds, J.; Placzek, A.; Beresford, L.; Spyreli, E.; Moore, A.; Carreras, F.J.G.; Austin, F.; Murugesu, N.; Roseboom, T.J.; et al. Mediterranean-style diet in pregnant women with metabolic risk factors (ESTEEM): A pragmatic multicentre randomised trial. PLoS Med. 2019, 16, e1002857. [CrossRef] 55. Silva-del Valle, M.A.; Sanchez-Villegas, A.; Serra-Majem, L. Association between the adherence to the Mediterranean diet and overweight and obesity in pregnant women in Gran Canaria. Nutr. Hosp. 2013, 28, 654–659. [CrossRef] 56. Jardi, C.; Aparicio, E.; Bedmar, C.; Aranda, N.; Abajo, S.; March, G.; Basora, J.; Arija, V.; The ECLIPSES Study Group. Food Consumption during Pregnancy and Post-Partum. ECLIPSES Study. Nutrients 2019, 11, 2447. [CrossRef] 57. Cuervo, M.; Sayon-Orea, C.; Santiago, S.; Martinez, J.A. Dietary and health proﬁles of Spanish women in preconception, pregnancy and lactation. Nutrients 2014, 6, 4434–4451. [CrossRef] [PubMed] 58. Rodriguez-Bernal, C.L.; Ramon, R.; Quiles, J.; Murcia, M.; Navarrete-Munoz, E.M.; Vioque, J.; Ballester, F.; Rebagliato, M. Dietary intake in pregnant women in a Spanish Mediterranean area: As good as it is supposed to be? Public Health Nutr. 2013, 16, 1379–1389. [CrossRef] [PubMed] 59. Evenson, K.R.; Barakat, R.; Brown, W.J.; Dargent-Molina, P.; Haruna, M.; Mikkelsen, E.M.; Mottola, M.F.; Owe, K.M.; Rousham, E.K.; Yeo, S. Guidelines for Physical Activity during Pregnancy: Comparisons from Around the World. Am. J. Lifestyle Med. 2014, 8, 102–121. [CrossRef] [PubMed] 60. Amezcua-Prieto, C.; Olmedo-Requena, R.; Jimenez-Mejias, E.; Mozas-Moreno, J.; Lardelli-Claret, P.; Jimenez-Moleon, J.J. Factors associated with changes in leisure time physical activity during early pregnancy. Int. J. Gynaecol. Obstet. 2013, 121, 127–131. [CrossRef] 61. Gaston, A.; Vamos, C.A. Leisure-time physical activity patterns and correlates among pregnant women in Ontario, Canada. Matern. Child Health J. 2013, 17, 477–484. [CrossRef] 62. Juhl, M.; Madsen, M.; Andersen, A.M.; Andersen, P.K.; Olsen, J. Distribution and predictors of exercise habits among pregnant women in the Danish National Birth Cohort. Scand. J. Med. Sci. Sports 2012, 22, 128–138. [CrossRef] 63. Gjestland, K.; Bo, K.; Owe, K.M.; Eberhard-Gran, M. Do pregnant women follow exercise guidelines? Prevalence data among 3482 women, and prediction of low-back pain, pelvic girdle pain and depression. Br. J. Sports Med. 2013, 47, 515–520. [CrossRef] 64. Constandt, B.; Thibaut, E.; De Bosscher, V.; Scheerder, J.; Ricour, M.; Willem, A. Exercising in Times of Lockdown: An Analysis of the Impact of COVID-19 on Levels and Patterns of Exercise among Adults in Belgium. Int. J. Environ. Res. Public Health 2020, 17, 4144. [CrossRef] 65. Emmanuel, E.N.; Sun, J. Health related quality of life across the perinatal period among Australian women. J. Clin. Nurs. 2014, 23, 1611–1619. [CrossRef] 66. Mahumud, R.A.; Ali, N.; Sheikh, N.; Akram, R.; Alam, K.; Gow, J.; Sarker, A.R.; Sultana, M. Measuring perinatal and postpartum quality of life of women and associated factors in semi-urban Bangladesh. Qual. Life Res. 2019, 28, 2989–3004. [CrossRef] 67. Wu, Y.; Zhang, C.; Liu, H.; Duan, C.; Li, C.; Fan, J.; Li, H.; Chen, L.; Xu, H.; Li, X.; et al. Perinatal depressive and anxiety symptoms of pregnant women during the coronavirus disease 2019 outbreak in China. Am. J. Obstet. Gynecol. 2020, 223, 240.e1–240.e9. [CrossRef] [PubMed]",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 14
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p14",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 14 of 14\n\n68. Mappa, I.; Distefano, F.A.; Rizzo, G. Eﬀects of coronavirus 19 pandemic on maternal anxiety during pregnancy: A prospectic observational study. J. Perinat. Med. 2020, 48, 545–550. [CrossRef] [PubMed] 69. Zanardo, V.; Manghina, V.; Giliberti, L.; Vettore, M.; Severino, L.; Straface, G. Psychological impact of COVID-19 quarantine measures in northeastern Italy on mothers in the immediate postpartum period. Int. J. Gynaecol. Obstet. 2020, 150, 184–188. [CrossRef] [PubMed] 70. Firouzbakht, M.; Nikpour, M.; Salmalian, H.; Ledari, F.M.; Khafri, S. The eﬀect of perinatal education on Iranian mothers’ stress and labor pain. Glob. J. Health Sci. 2013, 6, 61–68. [CrossRef] [PubMed] 71. Lison, J.F.; Palomar, G.; Mensorio, M.S.; Banos, R.M.; Cebolla-Marti, A.; Botella, C.; Benavent-Caballer, V.; Rodilla, E. Impact of a Web-Based Exercise and Nutritional Education Intervention in Patients Who Are Obese With Hypertension: Randomized Wait-List Controlled Trial. J. Med. Internet Res. 2020, 22, e14196. [CrossRef] 72. Mensorio, M.S.; Cebolla-Marti, A.; Rodilla, E.; Palomar, G.; Lison, J.F.; Botella, C.; Fernandez-Aranda, F.; Jimenez-Murcia, S.; Banos, R.M. Analysis of the eﬃcacy of an internet-based self-administered intervention (“Living Better”) to promote healthy habits in a population with obesity and hypertension: An exploratory randomized controlled trial. Int. J. Med. Inform. 2019, 124, 13–23. [CrossRef] 73. Cavill, J.L.; Jancey, J.M.; Howat, P. Review and recommendations for online physical activity and nutrition programmes targeted at over 40s. Glob. Health Promot. 2012, 19, 44–53. [CrossRef] 74. Marcus, B.H.; Nigg, C.R.; Riebe, D.; Forsyth, L.H. Interactive communication strategies: Implications for population-based physical-activity promotion. Am. J. Prev. Med. 2000, 19, 121–126. [CrossRef] 75. Adams, S.A.; Matthews, C.E.; Ebbeling, C.B.; Moore, C.G.; Cunningham, J.E.; Fulton, J.; Hebert, J.R. The eﬀect of social desirability and social approval on self-reports of physical activity. Am. J. Epidemiol. 2005, 161, 389–398. [CrossRef] 76. Paeratakul, S.; Popkin, B.M.; Kohlmeier, L.; Hertz-Picciotto, I.; Guo, X.; Edwards, L.J. Measurement error in dietary data: Implications for the epidemiologic study of the diet-disease relationship. Eur. J. Clin. Nutr. 1998, 52, 722–727. [CrossRef] 77. Nusser, S.M.; Fuller, W.A.; Guenther, P.M. Estimating usual dietary intake distributions: Adjusting for measurement error and nonnormality in 24-hour food intake data. In Survey Measurement and Process Quality; Lyberg, L., Biemer, P., Collins, M., De Leeuw, E., Dippo, C., Schwarz, N., Trewin, D., Eds.; John Wiley and Sons Inc.: Hoboken, NJ, USA, 1997.\n\n© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p2",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 2 of 14\n\nthat, it came to be considered a pandemic [1]. The state of alarm was declared in Spain on 14 March 2020, with 5753 reported cases, resulting in the conﬁnement of every citizen during this period [2]. The strict measures of social distancing and isolation at home used to contain the disease’s spread meant that the usual routines of the population, including every pregnant woman, were drastically modiﬁed. The lifestyle of pregnant women has a fundamental impact on maternal health and fetal development [3,4]. During pregnancy, the development of maternal tissues, fetal growth, and milk production increase women’s nutritional requirements [5–8]. Thus, pregnant women are encouraged to adhere to healthy dietary patterns, such as the Mediterranean diet (MD), which is currently considered one of the world’s healthiest diets [9,10]. This diet is characterized by the consumption of high quantities of vegetables, legumes, fruits, and nuts, unreﬁned cereals, ﬁsh, and olive oil, a low to moderate intake of dairy products, and consumption of low amounts of red meat, poultry, and saturated fats [11]. However, the consumption of inadequate diets with excessive amounts of foods with added sugar and/or a deﬁcit of certain macronutrients and vitamins have also been described in developed countries, such as Spain and Italy [12]. On the one hand, an inadequate diet during pregnancy can predispose women to become overweight or obese and encourage the development of various complications and maternal-fetal pathologies. These include gestational diabetes, preeclampsia, instrumented vaginal deliveries, cesarean section, fetal macrosomia, or premature births [13–21]. Stressful situations, such as those produced by this new conﬁnement situation, can be the cause of overeating and uncontrolled anxiety towards food, especially foods rich in sugar [22,23]. Indeed, some studies suggest that psychological and emotional responses to the COVID-19 outbreak [24,25] may have also increased the risk of developing dysfunctional eating behaviors and overeating as a consequence of boredom [26,27]. In this sense, the consumption of foods rich in sugar can reduce stress by stimulating the production of serotonin, the \"feel-good” hormone [28]. However, uncontrolled food consumption is causally related to the development of cardiovascular disease and obesity. On the other hand, engaging in regular physical activity and exercise during pregnancy is positively related to an increase in the general state of health of both the mother and the fetus [29–31]. These beneﬁts include a lower risk of excessive gestational weight gain [32], gestational diabetes, preterm delivery, varicose veins, venous thrombosis, dyspnea [33–36], and postpartum depression [37]. On the contrary, there is also scientiﬁc evidence that supports the negative impact of physical inactivity and a sedentary lifestyle on general health [38], and in particular on the health of pregnant women [39,40]. For this reason, the clinical guidelines recommend that healthy women should engage in moderate physical activity during pregnancy, which combines aerobic exercise and muscular strength work for 150 min per week, or at least 20 to 30 min daily [41]. However, some researchers have observed that many pregnant women (between 32% and 96%) do not achieve these recommended levels and that these levels decrease as the pregnancy progresses [42]. Given the above, pregnant women could ﬁnd a situation of conﬁnement alarming, especially considering that the vast majority of them choose to walk as their primary physical activity [43,44]. Considering the signiﬁcant mobility restrictions imposed by the Spanish government regarding outdoor activities during the recent conﬁnement, we would expect there to have been a considerable reduction in the levels of physical activity in this population group with consequent repercussions on their state of health, as described above. Furthermore, in this new context, many pregnant women showed high levels of stress and concern during the COVID-19 pandemic, with one of the main reasons for this fear being that of possible contagion in medical and hospital centers [45]. This fact, together with a drastic change in these women’s usual routines, could result in a signiﬁcant decrease in their health-related quality of life (HRQoL). Given the importance of lifestyle on health, the WHO published a guide with several recommendations for coping with home conﬁnement. It highlighted the importance of maintaining healthy eating habits and staying physically active by following an exercise routine [46]. Thus, in light of these considerations, the main objective of this study was to collect and analyze data",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p3",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 3 of 14\n\nrelated to the impact of conﬁnement on adherence of pregnant women to the MD, physical exercise engagement, and HRQoL during the COVID-19 pandemic.\n\n2. Materials and Methods\n\nWe conducted an internet-based cross-sectional survey. The survey was disseminated among pregnant women through midwives and gynecologists attending patients in Valencia (Spain). The participants were provided with an internet link to the survey created with the Google Forms application (Google LLC, Mountain View, CA, USA). This tool allows the creation of online surveys and collects the data automatically in a spreadsheet. The completion of online questionnaires is an established method for use in healthcare research [47]. It was chosen for its practicality and the simplicity of its distribution method during this particular situation of conﬁnement that imposed signiﬁcant restrictions on individual mobility. The data were collected from 18 May to 31 May (the last fortnight of strict conﬁnement in Spain) after two months of prior conﬁnement. The participants ﬁlled out the survey only once. They were asked to answer questions about their habits both before and during the conﬁnement to analyze possible changes in the study variables.\n\n2.1. Recruitment\n\nThe inclusion criteria were pregnant women aged over 18 years who were in the second or third trimester of their pregnancy. Women with recent pregnancies in the ﬁrst trimester were excluded because it would have been impossible to obtain data related to these cases during pregnancy from before conﬁnement. The online questionnaire comprised 36 items and collected information about the following:\n\n• Anthropometric (age, height, and weight) and obstetric (week of gestation) data. • Perceived obstacles to physical exercise and care in preparing for childbirth. • Eating habits using the Mediterranean Diet Adherence Screener (MEDAS) questionnaire from the PREDIMED study. This questionnaire assesses adherence to the MD and has been validated for the Spanish population. The MEDAS comprises 14 items, 12 of them on the frequency of food consumption and 2 on the dietary habits characteristics of the Spanish MD; each item is assigned a value of 0 or 1. Based on the score obtained, the participants were classiﬁed as ‘low adherence’ (score between 0–5), ‘medium adherence’ (score between 6–9), or ‘high adherence’ (score ≥10) [48]. • Physical activity level: general information was collected on the level of physical activity these women were engaging in (according to their perception of the exercise they had performed), as well as speciﬁc information, such as the number of days per week and minutes per day they had performed vigorous or moderate exercise or had walked. Following the WHO’s guidelines [49], vigorous exercise was considered to require much eﬀort and to cause rapid breathing and a substantial increase in heart rate, such as lifting heavy weights, climbing stairs, swimming, or fast pedaling, running, sports such as soccer, individual tennis, HIIT or high-intensity exercise circuits, Zumba, and similar activities. Moderate exercise was considered to be that which perceptibly accelerated the heart rate, such as lifting light weights, swimming, pedaling at a regular speed, dance, or housework such as sweeping. • Their level of sedentary behavior, which included the number of hours they sat per day, including the time spent sitting at a desk, reading, or sitting or lying down watching television. • HRQoL was assessed using the three-level EuroQol-5D questionnaire (EQ-5D-3L). This tool has been widely used worldwide in various studies [50] and has been validated for use in the Spanish population [51]. The questionnaire has two parts: (1) The EQ-5D-3L tool. This is a descriptive system that includes ﬁve diﬀerent health dimensions: mobility, self-care, usual activities, pain or discomfort, and anxiety or depression. Each dimension has three levels of severity: level 1 (no problems), level 2 (some problems), and level 3 (extreme problems). The participant was asked to",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p4",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 4 of 14\n\nindicate her state by checking the box aligned with the most appropriate statement in each of ﬁve dimensions. (2) The EQ-VAS (primary outcome) is a vertical analogue visual scale that ranges from 0 (worst imaginable state of health) to 100 (best imaginable state of health). The participant was asked to mark the vertical line’s point that best reﬂected her assessment of her health.\n\n2.2. Ethical Considerations\n\nThis study was approved by the Ethics Committee at the CEU Cardenal-Herrera University (CEI20/069) and followed the fundamental principles established in the Declaration of Helsinki. All the participants were informed about the characteristics of the study before agreeing to participate. The anonymous response to the survey was completely voluntarily. The participants had to check a speciﬁc box to give their consent to participate in the study.\n\n2.3. Statistical Analysis\n\nThere are no prospective data on quality-of-life habits of pregnant women during conﬁnement. The following assumptions were made to test the hypothesis that the quality-of-life habits is lower during conﬁnement: the EQ-VAS levels are signiﬁcantly decreased during conﬁnement. We performed a power analysis using the G*Power (v3.1.9.2, Heinrich-Heine-Universität Düsseldorf, Germany) program and found that 90 participants would provide 80% statistical power at a 5% signiﬁcance level (two-sided test) for a small to medium eﬀect size (d = 0.3). After testing the normality of the data using the Shapiro–Wilk test, the nonparametric Wilcoxon tests were carried out to compare the pre- and during COVID-19 conﬁnement values of the level of physical activity (vigorous, moderate, walking activities, and the number of hours sitting per day) and the EQ-VAS. In addition, Chi-square tests were carried out to assess the association between categorical variables (adherence to the Mediterranean Diet, mobility, self-care, usual activities, pain or discomfort, and anxiety or depression). The data are represented as a number and percentage shown in parentheses for categorical variables, or medians and interquartile ranges in square brackets for continuous variables. The data analysis was performed with SPSS software (version 22.0, SPSS Inc., Chicago, IL, USA) for Windows (IBM Corp., Armonk, NY, USA). We used a signiﬁcance level of p < 0.05 for all of the statistical tests.\n\n3. Results\n\nThe web-survey was concluded on 31 May 2020; the questionnaire was sent to 133 pregnant women and a total of 97 participants (72.9%) completed it, and after validation of the data, 90 respondents were ﬁnally included in the study (seven questionnaires were excluded because the participants were in the ﬁrst trimester of their pregnancy). The general characteristics (mean ± standard deviation) of the participants are shown in Table 1.\n\nTable 1. Participants’ general characteristics.\n\nAge (years) 33.1 ± 4.6 Height (cm) 164.2 ± 5.7 Weight pre-conﬁnement (kg) 67.7 ± 17.5 Weight during conﬁnement (kg) 72.96 ± 17.0 BMI (kg/m2) pre-conﬁnement 25.0 ± 6.3 BMI (kg/m2) during conﬁnement 27.0 ± 5.7 Week of pregnancy (number) 29.9 ± 8.3 Parity Primiparous 60 (66.6) Multiparous 30 (33.3)\n\nValues are expressed as mean ± standard deviation and as number and percentage [n (%)] for parity.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p5",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 5 of 14\n\nTable 2 shows their self-perception and perceived obstacles to exercise, preparation for delivery, and medical monitoring of their pregnancy during the conﬁnement.\n\nTable 2. Self-perception and perceived obstacles to exercise, preparation for delivery, and medical monitoring of their pregnancy during the conﬁnement.\n\nSelf-Perception of Decreased Exercise During Conﬁnement 79 (87.7)\n\nReported obstacles to exercise None 29 (32.2) Lack of space 19 (21.2) Fatigue from pregnancy 19 (21.2) Not a priority 11 (12.2) Fear of harming the fetus 4 (4.4) Contraindication for risk of preterm birth 5 (5.5) Others (no speciﬁed) 3 (3.3)\n\nExtent to which preparation for delivery was considered important 81 (90)\n\nReported obstacles to preparation for delivery Cancellation of classes 47 (52.2) Performing online classes 22 (24.4) Too early to start classes 20 (22.2)\n\nReported obstacles to attending medical appointments Cancellation of medical appointments for fear of contagion 25 (22.5)\n\nValues are expressed as number and percentage in parenthesis [n (%)].\n\nOur results showed signiﬁcant decreases in physical activity (vigorous, moderate, and walking activities) and EQ-VAS scores, and signiﬁcant increases in the number of hours the participants sitting per day during COVID-19 conﬁnement compared to the pre-COVID-19 period (Table 3). Indeed, the results from the EQ-VAS test showed a large eﬀect size (d = 0.82).\n\nTable 3. Results of the Wilcoxon tests for continuous variables.\n\nPre-COVID-19 During-COVID-19 p Z\n\nVigorous activity (days per week) 2 (3) 0 (2) 0.001 −3.345 Vigorous activity (min per day) 60 (70) 0 (30) <0.001 −4.405 Moderate activity (days per week) 3 (3) 3 (3.5) 0.009 −2.581 Moderate activity (min per day) 60 (80) 60 (60) <0.001 −3.464 Walking activity (days per week) 7 (2) 3 (6) <0.001 −5.337 Walking activity (min per day) 90 (60) 30 (60) <0.001 −5.507 Number of hours spent sitting per day 4 (4) 8 (5) <0.001 −6.436 EQ VAS score 90 (1) 70 (2) <0.001 −5.987\n\nValues are expressed as medians and interquartile ranges in parenthesis.\n\nRegarding the EQ-5D, the results showed a signiﬁcant decline in the ﬁve dimensions during the conﬁnement compared to the pre-COVID-19 period (mobility, p < 0.001; self-care, p = 0.003; usual activities, p < 0.001; pain or discomfort, p < 0.001; and anxiety or depression, p < 0.001; Table 4). In terms of adherence to the MD (low, medium, or high), there were no signiﬁcant diﬀerences between the pre- and during COVID-19 conﬁnement values (p = 0.672; Table 5).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p6",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 6 of 14\n\nTable 4. Number and proportion of reporting levels within EQ-5D dimensions: pre- and during COVID-19 conﬁnement.\n\nMobility Self-Care Usual Activities Pain/Discomfort Anxiety/Depression\n\nPre- COVID-19 During-COVID-19 Pre- COVID-19 During-COVID-19 Pre- COVID-19 During-COVID-19 Pre- COVID-19 During-COVID-19 Pre- COVID-19 During-COVID-19\n\nLEVEL 1 90 (100) 70 (77.8) 89 (98.9) 81 (90) 84 (93.3) 50 (55.6) 75 (83.3) 36 (40) 83 (92.2) 53 (58.9) LEVEL 2 0 (0) 19 (21.1) 0 (0) 9 (10) 6 (6.7) 36 (40) 14 (15.6) 49 (54.4) 6 (6.7) 36 (40) LEVEL 3 0 (0) 1 (1.1) 1 (1.1) 0 (0) 0 (0) 4 (4.4) 1 (1.1) 5 (5.6) 1 (1.1) 1 (1.1) TOTAL 90 (100) 90 (100) 90 (100) 90 (100) 90 (100) 90 (100) 90 (100) 90 (100) 90 (100) 90 (100)\n\nValues are expressed as number and percentage in parenthesis [n (%)].",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p7",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 7 of 14\n\nTable 5 also shows the answers to the 14-items on the MEDAS questionnaire.\n\nTable 5. Adherence to the MD and positive answers to the MEDAS questionnaire.\n\nAdherence to the MD Pre-COVID-19 During-COVID-19\n\nLow 3 (3.3) 6 (6.7) Medium 53 (58.8) 52 (57.8) High 34 (37.8) 32 (35.6)\n\nOlive oil, main dressing 87 (96.7) 86 (95.6) Olive oil, ≥4 tsp./day 61 (67.8) 62 (68.9) Vegetables, ≥2 s/day 59 (65.6) 62 (68.9) Fruits, ≥3 s/day 36 (40) 45 (50) Read meat, < 1 s/day 79 (87.8) 76 (84.4) Butter, < 1 s/day 89 (98.9) 81 (90) Sweet beverage, < 1 s/day 85 (94.4) 84 (93.3) Wine, 7 s/week 0 (0) 0 (0) Legumes, ≥3 s/week 22 (24.4) 24 (26.7) Fish and seafood, ≥3 s/week 26 (28.9) 20 (22.3) Sweets, < 3 s/week 60 (66.7) 52 (57.8) Nuts, ≥3/week 57 (63.3) 63 (70) White or red meat 73 (81.1) 73 (81.1) Sofrito 56 (62.2) 60 (66.7)\n\nData are expressed as number and a percentage in parenthesis (n [%]). MD, Mediterranean diet; s, serving; tsp., tablespoon.\n\nA daily serving of vegetables is: 1 medium portion = 200 g. Fruit daily serving: 1 serving = 100–150 g portion. Red meat/hamburgers/other meat daily serving: 1 medium portion = 100–150 g. Butter, margarine, or cream daily serving: 1 medium portion = 12 g. Sweet or sugar-sweetened carbonated beverages daily serving: 1 medium portion = 200 mL. Wine daily serving: 1 medium portion = 125 mL. Legumes weekly serving: 1 portion = 150 g. Fish daily serving: 1 medium portion = 100–150 g. Seafood daily serving: 1 medium portion = 200 g. Nuts weekly serving: 1 portion of dairy products daily serving = 30 g\n\n4. Discussion\n\nThe objective of this study was to analyze the changes produced in the lifestyle of pregnant women instituted as a result of the COVID-19 pandemic compared to their situation before the conﬁnement. This study analyzed data obtained through an internet-based survey, and to the best of our knowledge, is the ﬁrst to analyze changes in lifestyle caused by the conﬁnement in this speciﬁc population group. The survey was disseminated among pregnant women in Valencia (Spain) after four weeks of government-imposed conﬁnement, from 18 May to 31 May 2020, when Spain’s strictest restrictions on individual mobility had started to be eased. There has been much speculation about the possible repercussions of the conﬁnement, especially on the population’s eating habits as a whole. These concerns were promoted by possible limitations in the availability of food and diﬃculties related to the daily purchase of fresh products, among other factors. In fact, some studies conducted during the COVID-19 outbreak have already shown that there were changes in diet quality among some population groups. For example, Pietrobelli et al. [52] observed an increase in the consumption of processed foods, such as potato chips and sugary drinks in obese Italian children. Other researchers reported an increase in the frequency and consumption of snacks and carbohydrate-rich foods in diabetic Indian patients [53]. However, despite the possibility that pregnant women might also change the type of diet they ate, we found that conﬁnement had not aﬀected their level of adherence to the MD. It is worth noting that high adherence to the MD is associated with beneﬁcial eﬀects during pregnancy in terms of preventing gestational diabetes, excess weight or obesity, and excess gestational weight [54,55]. Even though the results of this study",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p8",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 8 of 14\n\nshowed that pregnant women did not change their eating habits due to conﬁnement resulting from the COVID-19 pandemic, their adherence to the MD was lower than desirable. If we analyze the distribution of the participants according to their speciﬁc MD adhesion classiﬁcation, more than half of these pregnant women (57.8%) showed a moderate adherence, around a third (35.6%) had high adherence, and only a small percentage (6.6%) reported low adherence. These results showed that the diet of approximately two-thirds of the participants was poorer than the national recommendations (SENC), in which high adherence to the MD is considered optimal. These results concur with those obtained in previous studies carried out in Spain with pregnant women, in which adherence to the MD was lower than recommended [56–58]. Speciﬁcally, a longitudinal study in which 793 pregnant women participated showed that, on average, moderate adherence to the MD was maintained throughout pregnancy [56]. Moreover, Cuervo et al. [57] carried out a cross-sectional study that included 13,845 women and found that their consumption of foods rich in protein, dairy products, vegetables, and cereals was lower than recommended. Another cross-sectional study observed that around 50% of pregnant women did not meet the recommendations for the consumption of cereals, legumes, milk, and dairy products [58]. Regarding exercise, the results of this study showed that there was a signiﬁcant decrease in engagement in all three types of physical activity (vigorous, moderate, and walking) by these participants during the conﬁnement, compared to their lifestyle habits during pregnancy from before the conﬁnement. Indeed, when these women were asked if they thought the conﬁnement had decreased their levels of physical activity, 87.7% answered yes, compared to 12.3% who indicated that they had not changed their physical activity habits. In contrast, only a third of those surveyed indicated that they had continued with their physical exercise routine, compared to a large percentage that had encountered some obstacles to exercising during conﬁnement; among the most frequent obstacles reported were a lack of space (21.2%), fatigue due to the pregnancy (21.2%), and not considering exercise as a priority (12.2%). A small percentage of the participants did not engage in physical exercise out of fear to harm the fetus, a medical contraindication (risk of preterm birth), or another unspeciﬁed cause. This decrease in general physical activity was also associated with an increase in the number of hours spent sitting, which doubled. The WHO recommends that adults aged 18–64 years engage in at least 150 min of moderate exercise or at least 75 min of vigorous exercise, or a combination of the two, spread throughout the week [49]. The guidelines also highlight that pregnant women may need to take additional precautions when exercising. Thus, the speciﬁc clinical guidelines for pregnant women rule out sports that imply the risk of falling, trauma, or collisions, and limit vigorous activity [59]. For example, the Spanish guidelines state that pregnant women should limit vigorous physical activity to no more than 15 min per day [60]. Despite the diﬀerences between the clinical guidelines from diﬀerent countries regarding the frequency and optimal amount of exercise recommended during pregnancy, the general recommendations establish a minimum of 150 min of moderate exercise, preferably distributed throughout the week [59]. Moreover, the clinical guidelines in Spain also establish speciﬁc medical contraindications to engagement in exercise in pregnant women [59]. Among others, these include persistent bleeding, cardiovascular disease, cervical insuﬃciency, multiple pregnancies, preeclampsia or pregnancy-induced hypertension, and ruptured membranes. In this current study, 5.5% of the participants indicated having some medical contraindication for exercise, which would justify their reduced levels of reported physical activity. Studies carried out in several countries including Canada [61], Denmark [62], Norway [63], Japan [59], and Spain [42,60] have shown that pregnant women generally engage in less than the recommended minimum levels of exercise, even under normal conditions. In this current study, pregnant women spent an average of 68 min per week engaging in moderate physical activity during conﬁnement, compared to 94 min before the COVID-19 pandemic, thus representing a reduction of nearly 30% compared to their previous levels. On average, these women had reduced their engagement",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.3390/ijerph17165933",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_sha256": "092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4",
+          "source_url": "https://doi.org/10.3390/ijerph17165933"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4:p9",
+        "source_issue_ids": [],
+        "text": "Int. J. Environ. Res. Public Health 2020, 17, 5933 9 of 14\n\nin vigorous activity from twice a week to only once, completing an average of only 20 min per week. These results are below the recommended minimum levels of exercise. The frequency and time they spent walking also signiﬁcantly decreased. Speciﬁcally, they went from walking an average of 98 min per week to only 38 min per week, representing an almost 60% decrease. This data is especially important if we consider that many women choose to walk at a fast pace as their primary physical activity during pregnancy [43,44]. Although some countries, such as Belgium, established looser conﬁnement rules during the height of the COVID-19 pandemic, which allowed citizens to engage in physical exercise in the open air [64], the measures imposed in Spain were much more restrictive. The Spanish government banned all ‘non-essential’ outdoor activities for around a month, and citizens were encouraged to train indoors during this time. This fact justiﬁes the decrease in the general levels of physical activity and an increase in the number of hours spent sitting that we observed in this study during the period of conﬁnement. The pregnant women included in this work also showed a signiﬁcant decrease in HRQoL during the conﬁnement, both in the ﬁve dimensions of the EQ-5D (mobility, self-care, usual activities, pain or discomfort, and anxiety or depression) and in the perception of health evaluated by the EQ-VAS. However, it is essential to consider that the decrease in HRQoL could be related to the evolution of the pregnancy itself. In this sense, other previous studies have also observed that HRQoL decreased as the pregnancy progressed and that this metric improved postpartum [65,66]. However, the decrease in HRQoL reported in this study may have been aggravated by the stress and anxiety produced by the situation of conﬁnement itself [24,67–69]. In agreement with our results, some authors have also observed an increase in anxiety and depression levels during conﬁnement in pregnant women [67,68] and in the immediate postpartum period [69]. Wu et al. analyzed the anxiety and depression of 4124 Chinese women during the outbreak of coronavirus. Their results showed an increase of anxiety and depression symptoms during conﬁnement, especially in primiparous women, and a higher percentage of women with thoughts of self-harm [67]. Other studies carried out on Italian pregnant women have also observed a signiﬁcant negative impact on the mental health of pregnant women as a consequence of conﬁnement by COVID-19 [68]. On the one hand, Rashidi, Fakari and Simbar underlined anxiety and depression as worrying factors in this population group [45], and noted that fear of possible contagion was among the main concerns reported by pregnant women during this time. In this study, 22.5% of the women we surveyed reported having canceled an appointment for fear of contagion with SARS-CoV-2. On the other hand, some authors have observed that attending childbirth preparation classes helped decrease the levels of anxiety felt by expectant mothers [70]. In this regard, 90% of the respondents considered perinatal preparation important. However, during the conﬁnement, 50% of the participants could not participate in these classes because they had been canceled due to the pandemic, while another 25% indicated that they had been able to do these classes online. In the anxiety/depression dimension of the EQ-5D, 41.1% of the participants showed moderate to extreme problems during conﬁnement than a relatively small percentage (7.8%) who had experienced these symptoms during pregnancy before the conﬁnement. The results in this study regarding lifestyle, as well as the perceived obstacles to engaging in exercise and preparing for childbirth during the COVID-19 conﬁnement in Spain, suggest that speciﬁc online programs should be developed in order to promote healthy lifestyle habits and improve the HRQoL of pregnant women who may ﬁnd themselves in similar circumstances in the future. In other population groups, such as obese patients, it has already been shown that the eﬃcacy of these types of internet-based interventions is similar to that of traditional interventions [71–73]. The fact that online interventions can be self-administered and reach a broad audience because they are easy to access and have an excellent cost-beneﬁt ratio [74] makes them an attractive tool for development and use in future situations. In this regard, future randomized controlled trial studies should evaluate the impact of online interventions based on healthy lifestyles (physical activity and nutrition) in face of possible new situations of conﬁnement or restriction of individual mobility.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:092c493d2f64faba203cfda4657385e4e29d1645a07df07922ceaab38dbfa3f4"
+}

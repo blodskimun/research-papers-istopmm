@@ -1,0 +1,384 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T17:18:19.923063+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Changes in life satisfaction over six years in the general population: a longitudinal study with the Satisfaction With Life Scale (SWLS)",
+        "year": null
+      },
+      "doi": "10.1371/journal.pone.0316990",
+      "format": "pdf",
+      "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+      "url": "https://doi.org/10.1371/journal.pone.0316990"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p1",
+        "source_issue_ids": [],
+        "text": "PLOS ONE\n\na1111111111 a1111111111 a1111111111 a1111111111 a1111111111\n\nOPEN ACCESS\n\nCitation: Hinz A, Mehnert-Theuerkauf A, Glaesmer H, Schroeter ML, Tibubos AN, Petrowski K, et al. (2025) Changes in life satisfaction over six years in the general population: A longitudinal study with the Satisfaction With Life Scale (SWLS). PLoS ONE 20(1): e0316990. https://doi.org/10.1371/journal. pone.0316990\n\nEditor: Petri Bo¨ckerman, University of Jyvaskyla, FINLAND\n\nReceived: August 21, 2024\n\nAccepted: December 19, 2024\n\nPublished: January 13, 2025\n\nCopyright: © 2025 Hinz et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.\n\nData Availability Statement: The data (third-party data) cannot be shared publicly due to the rules set by the Leipziger Forschungszentrum fu¨r Zivilisationserkrankungen (LIFE) and the Datenschutz-Grundverordnung (General Data Protection Regulation). LIFE is committed to providing qualified scientific researchers access to anonymized data for the purpose of conducting legitimate scientific research. LIFE is also obligated to protect the rights and privacy of study participants and, as such, has a procedure in place\n\nRESEARCH ARTICLE Changes in life satisfaction over six years in the general population: A longitudinal study with the Satisfaction With Life Scale (SWLS)\n\nAndreas HinzID1*, Anja Mehnert-Theuerkauf1, Heide Glaesmer1, Matthias L. Schroeter2,3, Ana N. Tibubos4,5, Katja Petrowski6, Michael FriedrichID1\n\n1 Department of Medical Psychology and Medical Sociology, University of Leipzig, Leipzig, Germany, 2 Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, 3 Clinic for Cognitive Neurology, University Hospital Leipzig, Leipzig, Germany, 4 Department of Diagnostics in Healthcare and E-Health, University of Trier, Trier, Germany, 5 Department of Psychosomatic Medicine and Psychotherapy, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany, 6 Department of Medical Psychology and Medical Sociology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany\n\n* andreas.hinz@medizin.uni-leipzig.de\n\nAbstract\n\nBackground\n\nSatisfaction with life is a key concept for most individuals. The Satisfaction With Life Scale (SWLS) for measuring general life satisfaction has been widely analyzed in terms of cross-sectional associations. However, the knowledge about long-term changes in life satisfaction and the associations between such changes and changes in other variables of physical and mental health is limited.\n\nMethods\n\nA community-based representative sample of the general population has been examined twice with a time interval of six years (n = 4,999), using the SWLS and several other scales.\n\nResults\n\nOver the six years, the mean SWLS score of the total sample remained nearly unchanged (M = 27.0, SD = 5.2, both at t1 and at t2). The test-retest correlation was rtt = 0.66 for the total sample, and there were only marginal differences in temporal stability between male and female respondents. Changes in the SWLS over the six years were correlated with changes in optimism (r = 0.23), mental health (r = 0.26), social functioning (r = 0.22), perceived social support (r = 0.21), anxiety (r = -0.30), and physical complaints (r = -0.18). These change score correlations were lower than the corresponding coefficients under the cross-sectional perspective. Measurement invariance across sex, age, and time was established.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 1 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p10",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\nAuthor Contributions\n\nConceptualization: Andreas Hinz, Heide Glaesmer.\n\nFormal analysis: Michael Friedrich.\n\nInvestigation: Anja Mehnert-Theuerkauf, Matthias L. Schroeter.\n\nWriting – original draft: Andreas Hinz.\n\nWriting – review & editing: Anja Mehnert-Theuerkauf, Ana N. Tibubos, Katja Petrowski.\n\nReferences\n\n1. Diener E. New findings and future directions for subjective well-being research. Am Psychol. 2012; 67:590–7. https://doi.org/10.1037/a0029541 PMID: 23163434.\n\n2. Oehler-Şincai IM. Well-being, quality of governance, and employment policies: international perspec-tives. Forum Soc Econ. 2023; 52:354–72. https://doi.org/10.1080/07360932.2023.2189078\n\n3. Bertoni M, Corazzini L. Asymmetric affective forecasting errors and their correlation with subjective well-being. PLoS ONE. 2018; 13:e0192941. https://doi.org/10.1371/journal.pone.0192941 PMID: 29513685.\n\n4. Emerson SD, Guhn M, Gadermann AM. Measurement invariance of the Satisfaction with Life Scale: reviewing three decades of research. Qual Life Res. 2017; 26:2251–64. https://doi.org/10.1007/ s11136-017-1552-2 PMID: 28324322.\n\n5. Cloninger CR, Zohar AH. Personality and the perception of health and happiness. J Affect Disord. 2011; 128:24–32. https://doi.org/10.1016/j.jad.2010.06.012 PMID: 20580435.\n\n6. Wimmelmann CL, Mortensen EL, Hegelund ER, Folker AP, Strizzi JM, Dammeyer J, et al. Associations of personality traits with quality of life and satisfaction with life in a longitudinal study with up to 29 year follow-up. Pers Indiv Differ. 2020; 156:109725. https://doi.org/10.1016/j.paid.2019.109725\n\n7. Mitina M, Young S, Zhavoronkov A. Psychological aging, depression, and well-being. Aging (Albany NY). 2020; 12:18765–77. Epub 2020/09/18. https://doi.org/10.18632/aging.103880 PMID: 32950973.\n\n8. Hajek A, Ko¨nig H-H. Flexible goal adjustment moderates the link between self-rated health and subjective well-being. Findings from the general population. Aging Ment health. 2021; 27:1345–50. Epub 2020/05/18. https://doi.org/10.1080/13607863.2020.1765313 PMID: 32420761.\n\n9. Şahin DS, O¨ zer O¨ , Yanardağ MZ. Perceived social support, quality of life and satisfaction with life in elderly people. Educat Gerontol. 2019; 45:69–77. Epub Educational Gerontology. https://doi.org/10. 1080/03601277.2019.1585065\n\n10. Sengewald M-A, Erhardt TH, Gnambs T. The predictive validity of item effect variables in the Satisfaction With Life Scale for psychological and physical health. Assessment. 2023; 30:2461–75. Epub 2023/ 02/08. https://doi.org/10.1177/10731911221149949 PMID: 36752066.\n\n11. Va´zquez C, Rahona JJ, Go´mez D, Caballero FF, Herva´s G. A national representative study of the rela-tive impact of physical and psychological problems on life satisfaction. J Happiness Stud. 2015; 16:135–48. https://doi.org/10.1007/s10902-014-9501-z\n\n12. Buczak-Stec E, Ko¨nig H-H, Hajek A. How does the onset of incontinence affect satisfaction with life among older women and men? Findings from a nationally representative longitudinal study (German Ageing Survey). Health Qual Life Outcomes. 2020; 18:16. Epub 2020/01/28. https://doi.org/10.1186/ s12955-020-1274-y PMID: 31992311.\n\n13. Kowalewska B, Cybulski M, Jankowiak B, Krajewska-Kułak E. Acceptance of illness, satisfaction with life, sense of stigmatization, and quality of life among people with psoriasis: a cross-sectional study. Dermatol Therapy. 2020; 10:413–30. Epub 2020/03/19. https://doi.org/10.1007/s13555-020-00368-w PMID: 32193842.\n\n14. Zwar L, Ko¨nig H-H, Hajek A. Life satisfaction of informal care recipients: Findings from the German Ageing Survey. Brit J Health Psychol. 2019; 24:859–75. Epub 2019/07/30. https://doi.org/10.1111/bjhp. 12383 PMID: 31364242.\n\n15. Diener E, Chan MY. Happy people live longer. Subjective well-being contributes to health and longevity. Applied Psychology: Health and Well-Being. 2011; 3:1–43. https://doi.org/10.1111/j.1758-0854.2010. 01045.x\n\n16. Diener E, Emmons RA, Larsen RJ, Griffin S. The Satisfaction with Life Scale. J Personality Assess. 1985; 49:71–5. https://doi.org/10.1207/s15327752jpa4901_13 PMID: 16367493\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 10 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p11",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\n17. Clench-Aas J, Nes RB, Dalgard OS, Aarø LE. Dimensionality and measurement invariance in the Satisfaction with Life Scale in Norway. Qual Life Res. 2011; 20:1307–17. https://doi.org/10.1007/s11136- 011-9859-x PMID: 21308414\n\n18. Glaesmer H, Grande G, Braehler E, Roth M. The German version of the Satisfaction with Life Scale (SWLS): Psychometric properties, validity, and population-based norms. Eur J Psychol Assess. 2011; 27:127–32. https://doi.org/10.1027/1015-5759/a000058\n\n19. Silva AD, Taveira MdC, Marques C, Gouveia VV. Satisfaction with life scale among adolescents and young adults in Portugal: extending evidence of construct validity. Soc Indic Res. 2015; 120:309–18. https://doi.org/10.1007/s11205-014-0587-9\n\n20. Vazquez C, Duque A, Hervas G. Satisfaction with life scale in a representative sample of Spanish adults: validation and normative data. Span J Psychol. 2013; 16:E82. https://doi.org/10.1017/sjp.2013. 82 PMID: 24230945.\n\n21. Arikan C¸ A, Zorbaz S. Measurement invariance of the satisfaction with life scale across gender and time. Turk J Educ. 2020; 9:260–72. Epub Turkish Journal of Education. https://doi.org/10.19128/turje. 774452\n\n22. Glaesmer H, Rief W, Martin A, Mewes R, Bra¨hler E, Zenger M, et al. Psychometric properties and population-based norms of the Life Orientation Test Revised (LOT-R). Br J Health Psychol. 2012; 17:432– 45. https://doi.org/10.1111/j.2044-8287.2011.02046.x PMID: 22106985\n\n23. Lopez-Ortega M, Torres-Castro S, Rosas-Carrasco O. Psychometric properties of the Satisfaction with Life Scale (SWLS): secondary analysis of the Mexican Health and Aging Study. Health and Quality of Life Outcomes. 2016; 14:170. https://doi.org/10.1186/s12955-016-0573-9 PMID: 27938407.\n\n24. Yun YH, Rhee YE, Kang E, Sim J-A. The Satisfaction with Life Scale and the Subjective Well-Being Inventory in the general Korean population: Psychometric properties and normative data. Int J Environ Res Public Health. 2019; 16. Epub 2019/04/30. https://doi.org/10.3390/ijerph16091538 PMID: 31052276.\n\n25. Akyurek G, Efe A, Aki E. Psychometric properties of the Temporal Satisfaction with Life Scale among Turkish people. Psychiat Clin Psychopharmacol. 2019; 29:204–11. https://doi.org/10.1080/24750573. 2018.1445898\n\n26. Hinz A, Conrad I, Schroeter ML, Glaesmer H, Bra¨hler E, Zenger M, et al. Psychometric properties of the Satisfaction with Life Scale (SWLS), derived from a large German community sample. Qual Life Res. 2018; 27:1661–70. https://doi.org/10.1007/s11136-018-1844-1 PMID: 29589212.\n\n27. Loeffler M, Engel C, Ahnert P, Alfermann D, Arelin K, Baber R, et al. The LIFE-Adult-Study: objectives and design of a population-based cohort study with 10,000 deeply phenotyped adults in Germany. BMC Public Health. 2015; 15:691. https://doi.org/10.1186/s12889-015-1983-z PMID: 26197779.\n\n28. Engel C, Wirkner K, Zeynalova S, Baber R, Binder H, Ceglarek U, et al. Cohort profile: The LIFE-Adult-Study. Int J Epidemiol. 2023; 52:e66–e79. https://doi.org/10.1093/ije/dyac114 PMID: 35640047.\n\n29. Spitzer RL, Kroenke K, Williams JBW, Lowe B. A brief measure for assessing generalized anxiety disorder—The GAD-7. Arch Intern Med. 2006; 166:1092–7. https://doi.org/10.1001/archinte.166.10.1092 PMID: 16717171\n\n30. Ware JE, Kosinski M, Dewey JE, Gandek B. How to score and interpret single-item health status measures: A manual for users of the SF-8TM Health Survey. Lincoln (RI): QualityMetric Incorporated; 2001.\n\n31. Kroenke K, Spitzer RL, Williams JBW. The PHQ-15: Validity of a new measure for evaluating the sever-ity of somatic symptoms. Psychosom Med. 2002; 64:258–66. https://doi.org/10.1097/00006842- 200203000-00008 PMID: 11914441\n\n32. Scheier MF, Carver CS, Bridges MW. Distinguishing optimism from neuroticism (and trait anxiety, self-mastery, and self-esteem)—A reevaluation of the Life Orientation Test. J Pers Soc Psychol. 1994; 67:1063–78. https://doi.org/10.1037//0022-3514.67.6.1063 PMID: 7815302\n\n33. Berkman LF, Blumenthal J, Burg M, Carney RM, Catellier D, Cowan MJ, et al. Effects of treating depression and low perceived social support on clinical events after myocardial infarction: the Enhancing Recovery in Coronary Heart Disease Patients (ENRICHD) Randomized Trial. JAMA. 2003; 289:3106– 16. https://doi.org/10.1001/jama.289.23.3106 PMID: 12813116.\n\n34. R Core Team. R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing; 2021.\n\n35. Rosseel Y. lavaan: An R Package for Structural Equation Modeling. J Statist Soft. 2012; 48. Epub Journal of Statistical Software. https://doi.org/10.18637/jss.v048.i02\n\n36. Jorgensen TD, Pornprasertmanit S, Schoemann AM, Rosseel Y. semTools (R package version 0.5–5) [Computer software]. Retrieved from https://CRAN.R-project.org/package=semTools.; 2022.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 11 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 12
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p12",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\n37. Hu LT, Bentler PM. Cutoff criteria for fit indexes in covariance structure analysis: conventional criteria versus new alternatives. Struct Equat Modeling. 1999; 6:1–55. https://doi.org/10.1080/ 10705519909540118\n\n38. Meade AW, Johnson EC, Braddy PW. Power and sensitivity of alternative fit indices in tests of measurement invariance. J Appl Psychol. 2008; 93:568–92. https://doi.org/10.1037/0021-9010.93.3.568 PMID: 18457487.\n\n39. Hajek A, Ko¨nig H-H. Negative health comparisons decrease affective and cognitive well-being in older adults. Evidence from a population-based longitudinal study in Germany. Front Psychol. 2016; 7:999. Epub 2016/06/28. https://doi.org/10.3389/fpsyg.2016.00999 PMID: 27445953.\n\n40. Learmonth YC, Alwick EA, McAuley E, Motl RW. Quality of life and health-related quality of life over 1 year in older women. Monitoring stability and reliability of measurement. Soc Indic Res. 2015; 123:267–79. https://doi.org/10.1007/s11205-014-0729-0\n\n41. Jovanović V. Measurement invariance of the Serbian version of the Satisfaction With Life Scale across age, gender, and time. Eur J Psychol Assess. 2019; 35:555–63. https://doi.org/10.1027/1015-5759/ a000410\n\n42. Joshanloo M. Longitudinal associations between psychological and social well-being: Exploring within-person dynamics. Commun Appl Soc Psychol. 2024; 34. https://doi.org/10.1002/casp.2768\n\n43. Kuehner C. Subjective quality of life. Validity issues with depressed patients. Acta Psychiatr Scand. 2002; 106:62–70. https://doi.org/10.1034/j.1600-0447.2002.02204.x PMID: 12100349.\n\n44. Jovanović V. The validity of the Satisfaction with Life Scale in adolescents and a comparison with single-item life satisfaction measures. A preliminary study. Qual Life Res. 2016; 25:3173–80. https://doi. org/10.1007/s11136-016-1331-5 PMID: 27262574\n\n45. Cheung F, Lucas RE. Assessing the validity of single-item life satisfaction measures: results from three large samples. Qual Life Res. 2014; 23:2809–18. Epub 2014/06/03. https://doi.org/10.1007/s11136- 014-0726-4 PMID: 24890827.\n\n46. Hartung J, Spormann SS, Moshagen M, Wilhelm O. Structural differences in life satisfaction in a U.S. adult sample across age. J Pers. 2021; 89:1232–51. Epub 2021/07/02. https://doi.org/10.1111/jopy. 12654 PMID: 34091894.\n\n47. Enzenbach C, Wicklein B, Wirkner K, Loeffler M. Evaluating selection bias in a population-based cohort study with low baseline participation. The LIFE-Adult-Study. BMC Med Res Methodol. 2019; 19:135. https://doi.org/10.1186/s12874-019-0779-8 PMID: 31262266.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 12 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p2",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\nfor evaluating and fulfilling requests for sharing data with qualified external scientific researchers. The LIFE data sharing website (https://ldp.life.uni-leipzig.de; life-DM@lists.uni-leipzig.de) outlines the process and requirements for submitting a data request. Applications will be promptly assessed for completeness and policy compliance. Feasible requests will be reviewed by a committee of LIFE experts to assess the scientific validity of the request. In line with data privacy legislation, submitters of approved requests must enter into a standard data-sharing agreement with LIFE before data access is granted.\n\nFunding: The author(s) received no specific funding for this work.\n\nCompeting interests: The authors have declared that no competing interests exist.\n\nConclusion\n\nThe SWLS proved to be an appropriate tool for assessing changes in life satisfaction, and correlations between change scores of life satisfaction and health-related variables complement the knowledge about these associations from a cross-sectional perspective.\n\nIntroduction\n\nLife satisfaction is the cognitive evaluation of subjective well-being. It is a goal shared by most individuals, and results of life satisfaction research can be used by policy makers and stake-holders [1,2]. Sometimes, the terms life satisfaction and subjective well-being are regarded as interchangeable [3]. In recent decades, research on life satisfaction has increasingly gained importance [4]. Life satisfaction is correlated with personality traits [5,6], depression [7], flexible goal adjustment [8], and perceived social support [9]. For clinicians, the concept of life satisfaction is of special interest, since life satisfaction is associated with mental and physical health [10,11], quality of life [6], several specific disorders and chronic diseases [11], specific symptoms such as incontinence [12], illness acceptance and stigmatization [13], need of informal care [14], and even mortality [15]. The Satisfaction With Life Scale SWLS [16] is a frequently used instrument for assessing life satisfaction. Multiple studies have been performed to test the psychometric quality of the scale. Most studies found that the one-dimensional structure yields good fit indices, but that a modi-fied one-factor model allowing for correlated errors between items 4 and 5 performed even somewhat better [17,18]. Cronbach’s α coefficient generally reaches scores above 0.80 [8,19,20] or even above 0.90 [17,18]. Measurement invariance of the scale concerning age and sex has been established in several studies [4,20,21]. The SWLS has been applied to large and representative samples of the general population in several countries, e.g., Norway [17], Germany [22], Denmark [10], Spain [11], Mexico [23], and South Korea [24]. Despite the large body of knowledge on the factors affecting life satisfaction and the psychometric properties of the SWLS, the knowledge about long-term changes in life satisfaction and the factors accounting for such changes is limited. Test-retest correlations of the SWLS have been studied for time intervals of several weeks [16,19,25], but studies on long-term changes are rare. In particular, it has not been systemati-cally tested yet whether there are systematic age and sex differences in the temporal stability of life satisfaction, and to what degree changes in life satisfaction are associated with changes in other related constructs of mental health. Regarding measurement invariance, several studies tested measurement invariance across age and sex in cross-sectional studies [4,18]; however, the measurement invariance across time points, based on a large general population study, is missing until now. Multiple psychometric tests of the SWLS have been performed on the basis of cross-sectional studies. A longitudinal study, however, is necessary to test the psychometric properties of the items and the scale when considering the measurement of changes in life satisfaction, such as discrimination power of the items regarding change scores from baseline to follow-up measurement. For these reasons, we performed a longitudinal study with a large sample of the general population to address these issues. In 2017, we initially published results of a cross-sectional study on life satisfaction with 10,000 participants from the general population [26]. Six years after this first assessment, the participants were invited to take part in a follow-up study. Based on the data of this follow-up study, the objectives of this paper were (a) to analyze changes in life satisfaction in a six-year\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 2 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p3",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\ntime period, (b) to test psychometric properties of the SWLS including temporal stability, reliability of change, and measurement invariance across time, and (c) to examine the associations between life satisfaction and other variables (anxiety, social support, habitual optimism, bodily complaints, and quality of life) both from a cross-sectional and from a longitudinal perspective.\n\nMaterial and methods\n\nSample\n\nThe LIFE-Adult-Study, conducted by the Leipzig Center for Civilization Diseases (LIFE), is a population-based study with a representative sample of people living in the city of Leipzig, Germany. Between August 1st 2011 and November 30th 2014, the first wave of this study (n = 10,000) was conducted. From the local residents’ registration office, we obtained an age-and gender- stratified random selection of inhabitants, ranging in age from 18 to 80 years, with the focus on the age group 40–80 years. At the study center, the participants underwent several assessment batteries: several medical examinations, medical history, lifestyle factors, and a set of questionnaires regarding physical, mental and social factors, with an assessment duration of about six hours. Details of the study design [27] and basic results of the study [28] have been published elsewhere. Written informed consent was obtained from all participants. About six years after the t1 assessment, all reachable participants of the baseline examination were invited to attend a follow-up assessment (t2). This follow-up was conducted from October 1st 2017 to August 31st 2021. Those participants who were willing and able to participate in the follow-up examination were sent a letter with multiple questions and questionnaires (including the SWLS) by mail. Analyses of the SWLS based on the t1 assessment have already been published [26]. The present paper adds the results of the longitudinal analyses. The study was approved by the ethics committee of the Medical Faculty of the University of Leipzig, approval number 201/17-ek.\n\nInstruments\n\nThe SWLS [16] is a five-item instrument for measuring satisfaction with life. The scale com-prises five statements (e.g., “I am satisfied with my life”) with seven response options ranging from 1 (strongly disagree) to 7 (strongly agree). This results in a sum score range from 5 to 35. The following instruments were also included both at baseline and at follow-up: the Generalized Anxiety Disorder Screener GAD-7 [29] for measuring anxiety, the Short Form Health Survey–8 SF-8 [30] for measuring quality of life, the Patient Health Questionnaire PHQ-15 [31] for measuring bodily complaints, the Life Orientation Test-Revised LOT-R [32] for measuring dispositional optimism, and the ENRICHD Social Support Scale [33] for measuring social support. Sociodemographic and behavioral factors were obtained in a structured interview.\n\nStatistical analysis\n\nMean score differences between two groups of participants (e.g., men vs. women) were expressed with effect sizes (Cohen’s d) and tested with t-tests for independent samples. Cronbach’s α coefficient was used to quantify internal consistency. Coefficients of temporal stability were calculated with Pearson’s correlation coefficients. Though some researchers prefer to use intra-class-coefficients, most of the research on temporal stability in the literature uses Pearson correlation coefficients, and for reasons of comparability with these studies we also used these more common correlation coefficients.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 3 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p4",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\nTo test psychometric properties of the single items, we used discriminatory power coefficients. In addition, we calculated discriminatory power analyses with the change scores. These coefficients express to what degree the change from t1 to t2 in a single item corresponds with the change of the scale after removing the item of interest. These analyses were performed with IBM SPSS Statistics version 27. Analyses of measurement invariance were performed using R, Version 4.1.1 [34]. Model evaluations in R used the packages lavaan 0.6.9 [35] and semTools 0.5.5 [36]. All models were estimated using the diagonally weighted least squares (DWLS) method with mean- and variance-adjusted test statistic. Model fit was judged using a combinational rule of comparative fit index (CFI) and standardized root mean square residual (SRMR) [37]. Based on this rule, poor fit was indicated if both CFI and SRMR exceed their threshold for acceptability, i.e., CFI < 0.95 and SRMR > 0.06. In addition, we calculated the Tucker-Lewis Index (TLI) and the root mean square error of approximation (RMSEA). Differences in model fit were evaluated by the difference of CFI values (ΔCFI) between sequential models. A difference of at least 0.002 or above, respective -0.002 or below, was regarded as a substantial increase, respective decrease in model fit [38]. At the beginning, we tested the models at each occasion (t1 and t2) separately. An unconstrained model in which both occasions were combined served as the baseline model. Acceptable fit of this model shows configural invariance, that is, the factor patterns remain sta-ble over time (configural invariance). This model was the starting point for detecting any viola-tion of measurement invariance. The procedure followed a forward approach of releasing parameter constraints, i.e., parameters were constrained set by set, and released, if necessary, in the following order: thresholds and weights (metric or weak invariance), then additionally intercepts (scalar or strong invariance), and finally residuals (full or strict invariance).\n\nResults\n\nSample description\n\nThe baseline assessment included 10,000 individuals, 9,711 of which completed the SWLS at t1. The response rate of this baseline assessment was 33% since initially about 30.000 individuals were invited to participate. All available participants of the t1 assessment were asked to take part in the follow-up study, and 4,999 agreed to do so and provided valid SWLS data both for the t1 and the t2 assessment. Characteristics of these participants are displayed in Table 1.\n\nSWLS mean scores and item characteristics\n\nTable 2 presents item and scale mean scores, effect sizes for the differences between the t2 and t1 assessments, and coefficients of discriminative power. The t1 and t2 SWLS mean scores were nearly identical, with a negligible difference of 0.05 units. All items contributed positively to the total score with discrimination power coefficients between 0.63 and 0.79. Cronbach’s α was good with α = 0.88 at t1 and α = 0.89 at t2. Concerning the change scores (difference between the t2 and the t1 score), the α coefficient was 0.76, and the coefficients of discrimination power of these item change scores were about 0.20 lower than the corresponding coefficients of the raw scores. Item 5 showed the weakest contribution to the total score in all analyses: t1, t2, and change. The SWLS mean score of those participants of the t1 examination who did not take part in the follow-up (drop out; n = 4,812) was lower (25.9 ± 5.87) than the mean score of those who completed t2 as well (27.0 ± 5.17). The mean age of this subgroup of drop-outs was 56.3 years, and 52.1% were female, compared with a mean age of 57.1 years and a proportion of women of 52.8% in the group of the complete respondents. The effect size of the SWLS score at t1 between the completers and the drop-outs was d = 0.20.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 4 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p5",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\nTable 1. Sociodemographic characteristics of the sample at t1 (n = 4,999).\n\nSex\n\nn %\n\nMale 2,358 47.2\n\nFemale 2,641 52.8\n\nAge\n\nMean, SD (years) M = 57.1 SD = 12.3\n\nAge group\n\n\u0014 39 years 270 5.4\n\n40–49 years 1,265 25.3\n\n50–59 years 1,127 22.5\n\n60–69 years 1,358 27.2\n\n\u0015 70 years 979 19.6\n\nMarital status (a)\n\nMarried, living together 3,181 63.7\n\nMarried, living separately 101 2.0\n\nNever married 832 16.6\n\nDivorced 611 12.2\n\nWidowed 272 5.4\n\nEducation (a)\n\n< 10 years 331 6.7\n\n10–11 years 2,680 54.1\n\n\u0015 12 years 1,939 39.2\n\nOccupational status (a)\n\nWorking full time 2,252 45.4\n\nWorking part-time 465 9.4\n\nUnemployed 222 4.5\n\nRetired 1,914 38.6\n\nOther 108 2.2\n\nSocio-economic status (a)\n\nLow 755 15.1\n\nMedium 3,051 61.1\n\nHigh 1,186 23.8\n\n(a) Missing data not reported.\n\nhttps://doi.org/10.1371/journal.pone.0316990.t001\n\nAge and sex differences in the course of satisfaction with life\n\nTable 3 presents the SWLS mean scores and change scores for age and sex groups separately. While in the total sample there was no mean score change, the youngest (18–39 years) and the oldest (70 years and above) age group showed a certain decline in satisfaction with life. The temporal stability (rtt) was between 0.54 and 0.72, with the lowest stability (rtt < 0.60) in the youngest age group. The stability of the SWLS score in the oldest age group was only marginally lower (0.62 and 0.64 for men and women, respectively) than the stability of the total groups of men and women (0.66 for both sexes).\n\nMeasurement invariance\n\nThe results of the measurement invariance analyses are presented in Table 4. The (unidimen-sional) model of the SWLS showed acceptable fit since the conditions of CFI \u0015 0.95 and\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 5 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p6",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\nTable 2. SWLS item and sum score characteristics.\n\nItem t1 t2 Diff. t2-t1 ES t2-t1 discr. power t1\n\nM SD M SD M SD\n\ndiscr. power t2\n\ndiscr. power (Δitem, Δscale) r (t1, t2)\n\nI 1 5.31 1.16 5.25 1.20 -0.06 1.15 -0.05 .77 .79 .57 .52\n\nI 2 5.46 1.17 5.47 1.19 0.01 1.14 0.01 .74 .74 .56 .54\n\nI 3 5.70 1.09 5.65 1.12 -0.05 1.08 -0.05 .78 .79 .62 .52\n\nI 4 5.63 1.14 5.62 1.15 -0.01 1.10 -0.01 .76 .77 .56 .54\n\nI 5 4.90 1.62 4.97 1.16 0.06 1.49 0.05 .63 .64 .39 .56\n\nSum score 27.01 5.17 26.96 5.24 -0.05 4.29 -0.01 α = .88 α = .89 α = .76 .66\n\nNote: ES: Effect size of the difference t2 score—t1 score; discr. power at t1; discriminative power; discr. power (Δitem, Δscale): Discriminative power of the items regarding the change from t1 to t2; r (t1, t2): Test-retest correlation.\n\nhttps://doi.org/10.1371/journal.pone.0316990.t002\n\nSRMR \u0014 0.06 were fulfilled at each occasion and in the combination of both occasions (configural invariance). After restricting thresholds and weights to equality in both occasions, the model fit increased from CFI = 0.992 (configural invariance) to CFI = 0.994 (metric invariance) by a value of ΔCFI = 0.0025. Restricting intercepts (scalar invariance) and residuals (full invariance) did also not lead to a substantial decrease in model fit (ΔCFI < 0.002). In the full invariance model (latent mean at t1 fixed to 0, variance to 1), the latent mean at t2 changed by -0.01 standard deviations. This change can be considered negligible.\n\nCorrelations between the SWLS and other scales\n\nTable 5 presents the correlations between the SWLS scores and several other scales both from a cross-sectional and a longitudinal perspective. The highest cross-sectional correlations (coefficients above 0.40) were found for anxiety (inverted), social support, optimism, mental health, and the Mental Component Summary (MCS) score of the SF-8. The right column of Table 5 shows the correlations between changes in life satisfaction and changes in the other variables.\n\nTable 3. Mean scores, effect sizes, and test-retest correlations for the SWLS core.\n\nN t1 t2 Diff. (t2-t1) d p rtt M (SD) M (SD) M (SD)\n\nMen\n\n18–39 years 137 27.1 (4.43) 26.5 (5.24) -0.55 (4.70) -.11 .175 .54\n\n40–49 years 551 26.5 (5.50) 26.8 (5.54) 0.30 (4.11) .05 .090 .72\n\n50–59 years 506 25.9 (5.45) 26.5 (5.33) 0.58 (4.48) .11 .004 .65\n\n60–69 years 661 27.3 (5.03) 27.7 (4.77) 0.40 (4.15) .08 .013 .64\n\n\u0015 70 years 503 28.0 (4.12) 27.2 (4.72) -0.82 (3.88) -.19 < .001 .62\n\nAll men 2,358 27.0 (5.08) 27.0 (5.12) 0.09 (4.22) .02 .254 .66\n\nWomen\n\n18–39 years 133 27.2 (5.39) 26.8 (6.36) -0.41 (5.54) -.07 .400 .57\n\n40–49 years 714 26.9 (5.23) 26.8 (5.36) -0.15 (4.20) -.03 .340 .69\n\n50–59 years 621 27.1 (5.34) 27.2 (5.33) 0.07 (4.28) .01 .673 .68\n\n60–69 years 697 26.9 (5.26) 26.8 (5.20) -0.04 (4.30) -.01 .785 .66\n\n\u0015 70 years 476 27.4 (5.00) 26.7 (5.24) -0.69 (4.33) -.13 < .001 .64\n\nAll women 2,641 27.1 (5.25) 26.9 (5.34) -0.18 (4.35) -.03 .034 .66\n\nTotal 4,999 27.0 (5.17) 27.0 (5.24) -0.05 (4.29) -.01 .429 .66\n\nhttps://doi.org/10.1371/journal.pone.0316990.t003\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 6 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p7",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\nTable 4. Testing for measurement invariance across t1 and t2.\n\nNPar Chi2 (df) p-value Chi2/df CFI SRMR TLI RMSEA ΔCFI ΔSRMR ΔTLI ΔRMSEA\n\nt1 35 490.8 (5) <0.001 98.2 0.992 0.025 0.985 0.139 . . . .\n\nt2 35 484.9 (5) <0.001 97.0 0.993 0.024 0.986 0.139 . . . .\n\nt1 and t2 76 915.4 (29) <0.001 31.6 0.992 0.023 0.987 0.078 . . . .\n\nConfigural invariance 76 915.4 (29) <0.001 31.6 0.992 0.023 0.987 0.078 . . . .\n\nMetric invariance 52 664.3 (53) <0.001 12.5 0.994 0.024 0.995 0.048 0.0025 0.0006 0.0078 -0.0302\n\nScalar invariance 48 701.1 (57) <0.001 12.3 0.994 0.024 0.995 0.048 <0.002 <0.0001 0.0001 -0.0005\n\nFull invariance 43 733.8 (62) <0.001 11.8 0.994 0.024 0.996 0.047 <0.002 <0.0001 0.0002 -0.0010\n\nNote. NPar: Number of parameters; Chi2: Scaled chi-squared statistic; df: Degrees of freedom; p-value: Type-I error probability; CFI: Scaled comparative fit index, SRMR: Standardized root mean square residual; TLI: Scaled Tucker-Lewis index; RMSEA: Scaled root mean square error of approximation; Δ indicates the difference of\n\nfit indices between sequential (nested) models.\n\nhttps://doi.org/10.1371/journal.pone.0316990.t004\n\nThe coefficients were weaker than the cross-sectional correlations, but the sequence of the correlations was similar to that of the cross-sectional coefficients, with highest coefficients for anxiety (inverted) and the MCS score of the SF-8. This means that participants who become less anxious during the six-year period or who improved their mental health also gained in life satisfaction during that time period.\n\nDiscussion\n\nThe main aim of this study was to investigate changes in life satisfaction over a period of six years. The SWLS mean score remained nearly unchanged (M = 27.0 at both time points), though the participants became six years older. This lack of mean score change was also observed in other studies [39,40]. The test-retest correlation between the two measurements of the SWLS was rtt = 0.66, which means that 44% of the variance of the t2 assessment can be explained by the scores\n\nTable 5. Correlations between the SWLS and several other scales.\n\nr (SWLS, scale) at t1 r (SWLS, scale) at t2 r (Δ SWLS, Δ scale)\n\nGAD-7: Anxiety -.41 -.46 -.30\n\nENRICHD: Social Support .41 .44 .21\n\nLOT-R Optimism .44 .49 .23\n\nLOT-R Pessimism -.34 -.40 -.21\n\nPHQ-15: Complaints -.32 -.39 -.18\n\nSF-8: Physical functioning .24 .28 .13\n\nSF-8: Role-physical .29 .30 .13\n\nSF-8: Bodily pain .22 .26 .09\n\nSF-8: General health .37 .38 .17\n\nSF-8: Vitality .39 .37 .21\n\nSF-8: Social functioning .37 .39 .22\n\nSF-8: Role-emotional .36 .37 .21\n\nSF-8: Mental health .41 .42 .26\n\nSF-8: Physical Component Summary .26 .28 .11\n\nSF-8: Mental Component Summary .43 .44 .28\n\nNote. All correlations are statistically significant at p<0.001.\n\nhttps://doi.org/10.1371/journal.pone.0316990.t005\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 7 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p8",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\nobtained six years before. This correlation is lower than the coefficients reported from other studies, however, the time intervals were shorter in these studies: rtt = 0.82 [16] (2 weeks), rtt = 0.74 (15 days) [25], rtt = 0.81 [21] (four weeks), rtt = 0.70 [19] (10 weeks), and ICC = 0.73 [40] (one year). A longitudinal study with up to 29 years between t1 and t2 reported a correlation of only rtt = 0.25 between the measurement points. However, in that study the SWLS was only used at t2, while at t1 life satisfaction was assessed with a single question [6]. Therefore, it cannot be inferred to what degree the long temporal distance and the different assessment tools contributed to this low coefficient. The results underline that the temporal stability depends on the time interval between the measurement points, and that longer time intervals under-standably lead to lower temporal stability coefficients. One large general population study using the SWLS with time intervals of three years has been published [39]; however, this study did not report coefficients of temporal stability. The sample size of our study was large enough to calculate coefficients of temporal stability separately for sex and age groups. It is interesting to note that the oldest and the youngest age groups showed the lowest stability coefficients, and that the stability was highest in the age range 50–69 years. Possible explanations are that in the youngest group there are more changes in the objective life situation and the corresponding challenges (e.g., changes in the marital and professional situation), and in the oldest age group changes may occur with respect to los-ing a spouse or experiencing severe health problems. However, the sample size of the youngest age group was relatively low, and the difference between the stability scores of the oldest age group and the other groups were also small in magnitude, which limits the generalizability of these findings. Further research on the stability of life satisfaction is therefore needed, in particular in persons who experience severe diseases. The psychometric quality and the cross-sectional measurement invariance of the SWLS in general population samples have already been established in multiple cross-sectional studies [4]. The results of our study complement these findings by also proving the measurement invariance over time, which supports the findings from studies with Turkish [21] and Serbian [41] university students. Regarding the contribution of the five items to the overall score of the SWLS, we first confirmed previous findings that all items positively contributed to the total scale and that the contributions of items 4 and 5 were somewhat lower than those of items 1 to 3 [18,20]. This pattern could also be shown from the longitudinal perspective. Reliability of change quantifies to what degree the items are uniform not in constructing the (cross-sectional) total score but the total change score. All change score rit coefficients were positive and somewhat lower than the corresponding rit coefficients from the cross-sectional calculations. Moreover, the two items with the lowest cross-sectional rit scores (items 4 and 5) also showed the lowest reliability of change scores. The cross-sectional correlations between the SWLS and other constructs regarding mental and physical health confirmed the expected relationships, with higher associations with scales of mental health in comparison with those of physical health. Regarding the change scores, the correlations were weaker, but nevertheless existent, with a similar sequence as those of the cross-sectional associations. Until now, there are only few applications of such change score correlations, e.g., [39,42,43], and such coefficients complement the knowledge about the corre-lational structure of scales. An accidental finding was that most correlations between the SWLS scores and related relevant constructs (Table 5) were somewhat higher at t2 in comparison to the t1 measurement. Among the 15 comparisons, there was only one variable (SF-8: vitality) with a higher correlation at t1. One reason for the higher correlations at t2 may be that the participants filled in the questionnaire at their homes at t2. This might have contributed to a more consistent way of\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 8 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1371/journal.pone.0316990",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_sha256": "d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4",
+          "source_url": "https://doi.org/10.1371/journal.pone.0316990"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4:p9",
+        "source_issue_ids": [],
+        "text": "PLOS ONE Satisfaction with life over six years\n\nresponding to the questionnaires. Cronbach’s α, however, which is also an indicator for the consistency in responding, was only marginally higher at t2 (α = 0.89) in comparison to t1 (α = 0.88), and no difference between the 14 pairs of correlations in Table 5 exceeded the value of 0.05. Therefore, we cannot generalize the finding of higher correlations in a follow-up measurement compared to baseline measurements. However, the question whether the waves of a longitudinal study can always be considered as comparable with regard to the consistency of the respondents is a matter for future research. Attempts have been made to assess life satisfaction with a one-item instrument [44,45] and to compare the results with those of the 5-item SWLS. The correlations between that one-item scale and the SWLS were 0.73 and 0.67. Our results show that the temporal stability coefficients of all single items were lower than the stability coefficient of the total scale (r = 0.66), and that the corrected test-item correlations (coefficients of discriminative power) were markedly lower than the α coefficients at both time points. This argues in favor of using the 5-item scale for the sake of higher reliability and not switching to a one-item instrument. The SWLS was designed for measuring general life satisfaction. That broad concept consists of satisfaction components regarding multiple dimensions, e.g., physical and mental health, finances, occupation, and social relationships including partnership. These components are more or less correlated with general life satisfaction. Moreover, these specific components of satisfaction can be more or less correlated with objective scores. A general population study, for example, found that general life satisfaction as measured with the SWLS correlated more strongly with satisfaction with finances (r = 0.59) in comparison to satisfaction with health (r = 0.49), and that satisfaction with finances was more strongly correlated with the objective finance status (r = 0.36) than the correlation between satisfaction with health and objective health status (r = 0.26) [46]. The changes in general satisfaction that were analyzed in our study only refer to general satisfaction with life, and a separate analysis of such components of satisfaction is a matter for future research.\n\nLimitations\n\nOnly about half of the participants of the baseline assessment also took part in the t2 examination. The completers were more satisfied with life than the drop-outs, with a significant effect size of d = 0.20. Moreover, even the 10,000 participants of the t1 assessment were healthier than those who did not take part in the study at all [47]. This means that the total SWLS mean score obtained in our study may be affected by this bias. However, for the analyses regarding change, age and sex differences, and associations with other relevant constructs, we believe that this kind of bias does not substantially influence the results. While the t1 assessment was performed in the study center, the t2 assessment was done at home, which might also have contributed to differences in the assessments. Finally, the sample size of the age range 18–39 years was not large enough to derive generalizable conclusions.\n\nConclusions\n\nIn summary, the SWLS proved to be a reliable instrument for assessing life satisfaction in longitudinal studies. Sex was not a significant predictor of life satisfaction or changes in life satisfaction. The correlations of the change scores proved to be useful tools for understanding the (longitudinal) relationship between life satisfaction and other relevant psychosocial or health-related variables.\n\nAcknowledgments\n\nThe authors thank the participants of the study for participating in the study.\n\nPLOS ONE | https://doi.org/10.1371/journal.pone.0316990 January 13, 2025 9 / 12",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:d395a15ebc0771d1dbf8173956bd37421a83477019c2dfc843608a066162e6e4"
+}

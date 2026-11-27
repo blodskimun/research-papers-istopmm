@@ -72,7 +72,7 @@ def main():
              "assert importlib.util.find_spec('pymupdf') is None; "
              "assert importlib.util.find_spec('istopmm_evidence') is None; "
              "assert importlib.metadata.version('research-library') == __version__; "
-             "assert len(contracts.TOOLS)==12"], cwd=temporary)
+             "assert len(contracts.TOOLS)==13"], cwd=temporary)
         run([environment / "bin/research-library", "--help"], cwd=temporary)
         run([environment / "bin/research-build", "--help"], cwd=temporary)
         run([environment / "bin/research-release", "--help"], cwd=temporary)
@@ -168,7 +168,7 @@ def main():
                         ignore=shutil.ignore_patterns("__pycache__", "*.pyc"))
         shutil.copytree(ROOT / "examples", clean / "examples",
                         ignore=shutil.ignore_patterns("__pycache__", "*.pyc"))
-        run([sys.executable, "-m", "pip", "--python", python, "install", f"{wheel}[build]"], cwd=clean)
+        run([sys.executable, "-m", "pip", "--python", python, "install", f"{wheel}[build,dev]"], cwd=clean)
         run([environment / "bin/research-project", "--help"], cwd=clean)
         for tool in ("literature-ingest", "citation-neighborhood", "literature-update"):
             run([environment / "bin/research-build", "--data-root", clean, tool, "--help"], cwd=clean)

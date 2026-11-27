@@ -1,0 +1,268 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T15:40:12.154421+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Incidence and risk factors for suicide and attempted suicide following a diagnosis of hematological malignancy",
+        "year": null
+      },
+      "doi": "10.1002/cam4.316",
+      "format": "pdf",
+      "id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+      "url": "https://doi.org/10.1002/cam4.316"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1002/cam4.316",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_sha256": "36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_url": "https://doi.org/10.1002/cam4.316"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b:p1",
+        "source_issue_ids": [],
+        "text": "Cancer Medicine\n\nORIGINAL RESEARCH\n\nOpen Access\n\nIncidence and risk factors for suicide and attempted suicide following a diagnosis of hematological malignancy\n\nMalin Hultcrantz1, Tobias Svensson2, Åsa R. Derolf1, Sigurdur Y. Kristinsson1,3, Ebba K. Lindqvist1, Anders Ekbom2, Fredrik Granath2 & Magnus Bj€orkholm1\n\n1Division of Hematology, Department of Medicine, Karolinska University Hospital Solna and Karolinska Institutet, Stockholm, Sweden 2Clinical Epidemiology Unit, Department of Medicine, Karolinska University Hospital Solna and Karolinska Institutet, Stockholm, Sweden 3Faculty of Medicine, University of Iceland and Department of Hematology, Landspitali National University Hospital, Reykjavik, Iceland\n\nKeywords Multiple myeloma, population based, psychiatric disorder, suicide, suicide attempt\n\nCorrespondence Malin Hultcrantz, Division of Hematology, Department of Medicine, Karolinska University Hospital Solna, SE-171 76 Stockholm, Sweden. Tel: +46 8 51770000, +46 70 6804833; Fax: +46 8 318264; E-mail: malin.hultcrantz@ki.se\n\nFunding Information This work was supported by the Swedish Cancer Society (CAN 2012/483), the regional agreement on medical training and clinical research (ALF) between Stockholm County Council and Karolinska Institutet (20120004), Adolf H Lundin Charitable Foundation, and Blodcancerfonden.\n\nReceived: 10 June 2014; Revised: 25 June 2014; Accepted: 13 July 2014\n\nCancer Medicine 2015; 4(1):147–154\n\ndoi: 10.1002/cam4.316\n\nAbstract\n\nSolid tumors are associated with an increased risk of suicide, however, there is limited detailed information on the risk of suicide in patients with hematological malignancies. Therefore, we conducted a population-based study including 47,220 patients with hematological malignancies (diagnosed 1992–2006) and their 235,868 matched controls to deﬁne the incidence and risk factors for suicide and suicide attempt. Information on suicides, suicide attempts, and preexisting psychiatric disorders was obtained from Swedish registers and individual medical records. There was a twofold increased (hazard ratio [HR] = 1.9, 95% conﬁdence interval 1.5–2.3, P < 0.0001) risk of suicide/suicide attempt during the ﬁrst 3 years after diagnosis in patients with hematological malignancies compared to matched controls. Of all hematological malignancies, multiple myeloma was associated with the highest risk (HR = 3.4; 2.3–5.0, P < 0.0001). Patients with a pre-existing psychiatric disorder were at a very high risk of suicide and suicide attempt (HR = 23.3; 16.6–32.6, P < 0.0001), regardless of type of hematological malignancy. Among patients who committed suicide, 19% were in a palliative phase and 44% were in remission with no active treatment. In conclusion, the risk of suicide and suicide attempt is elevated in patients with hematological malignancies. Certain high-risk patients may beneﬁt from early detection and preventive measures.\n\nIntroduction\n\nSurvival and cure rates have increased in most hematological malignancies, mainly due to improved disease-speciﬁc treatment options and better supportive care [1–6]. Many hematological malignancies are, however, still associated with a dismal prognosis. In addition, the diseases themselves as well as their treatment can affect the mental health and quality of life of these patients [7–10]. An elevated risk of suicides has been observed in cancer patients compared to the general population [11, 12]. In patients with solid cancers, risk\n\nfactors such as male gender, respiratory, and upper GI-tract cancers, as well as advanced disease stage, have been associated with a high suicide risk [11–14]. A few studies where patients with hematological malignancies have been included in large subgroups have reported an increased risk of suicide [11, 13]. However, there is limited detailed information on the risk and risk factors for suicide and suicide attempt in patients with different hematological malignancies. Therefore, we conducted a large population-based study to assess the incidence and risk factors for suicide and suicide attempt in patients with a broad range of hematological malignancies.\n\nª 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd. This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.\n\n147",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1002/cam4.316",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_sha256": "36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_url": "https://doi.org/10.1002/cam4.316"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b:p2",
+        "source_issue_ids": [],
+        "text": "Suicides in Hematological Malignancies M. Hultcrantz et al.\n\nMaterials and Methods\n\nCentral registers, patients, and controls\n\nSweden, a country of 9.5 million people, provides univer-sal health care for its entire population. The Swedish Cancer Register was established in 1958 [15] and has a high level of coverage for hematological malignancies [16]. It is mandatory for every physician and pathologist/cytolo-gist to report all incident cases of malignant disease to the Cancer Register. In Sweden, all dates and causes of death are reported to the Cause of Death Register. Since 1964, the centralized Swedish Inpatient Register holds information on all somatic and psychiatric hospital dis-charge diagnoses with a high level of coverage [17]. The Swedish Cancer Register was used to identify all individuals diagnosed with a hematological malignancy between 1st January 1992 and 31st December 2006. Patients under the age of 18 years at diagnosis and patients with any other malignancy prior to the hematological malignancy were excluded. For each patient, ﬁve population-based controls, matched by gender, year of birth, and county of residence, were chosen randomly from the Swedish Register of Total Population. All controls had to be alive and free of hematologic or nonhema-tologic malignancy at the time of diagnosis for the corresponding patient. Controls were censored at time of death of the corresponding patient. Information on suicides was obtained from the Cause of Death Register and hospital admissions due to suicide attempts were identiﬁed through the Inpatient Register. Suicide and suicide attempt were deﬁned as Intentional self-harm X60-X84 from ICD10 and Suicide and self-inﬂicted injury E950-E959 from ICD9. Events of undetermined intent Y10-Y34 (ICD10) and Injury Undetermined whether accidental or purposely inﬂicted E980-E989 (ICD9) were also included since a substantial portion of these deaths are considered to be suicides [18, 19]. Information on admissions due to psychiatric disorders, deﬁned as at least one admission with any psychiatric diagnosis prior to the cancer diagnosis, was obtained from the Inpatient Register. For patients who committed suicide during the ﬁrst 3 years after diagnosis, detailed information on patient characteristics, disease type and stage, as well as treatment was collected from the patient medical records. The pres-ence of pain was deﬁned as pain complaints being noted in the medical record and/or treatment with continuous analgesics. The study was approved by the Stockholm Regional Eth-ics Review Board. Informed consent was waived, because we had no contact with study patients and the data used for analyses did not contain any personal identiﬁers.\n\nStatistical analysis\n\nPatients and controls were followed from the date of diagnosis or the corresponding time for the controls, until death, emigration, or end of follow-up. Suicide attempts were assessed until 31st December 2006 and suicides until 31st December 2005 due to delayed reporting to the Cause of Death Register. Cox regression was used to ana-lyze the risk of suicide and suicide attempt and results are presented at hazard ratios (HRs) with 95% conﬁdence intervals (CIs). The HRs for suicide and suicide attempt were analyzed in relation to follow-up time after diagnosis, age, and gender. Separate analyses were performed for the different types of hematological malignancies: non-Hodgkin lymphoma (NHL), Hodgkin lymphoma (HL), multiple myeloma (MM), acute leukemia, including acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL), and chronic lympho- and myeloproliferative disorders, including chronic lymphocytic leukemia (CLL), chronic myeloid leukemia (CML), and myeloproliferative neoplasms (MPNs). The HRs for suicide and suicide attempt were nearly identical in all separate and combined analysis and are therefore presented as a combined end point if not otherwise speciﬁed. In addition, incidence of suicide and suicide attempt per thousand person-years of follow-up were calculated in relation to preexisting psychiatric disorders in both patients and controls.\n\nResults\n\nA total of 47,220 cases and 235,868 controls were identiﬁed between 1st January 1992 and 31st December 2006. Of these, 54.6% were men and the median age at diagnosis was 70 years (range 18–102 years; Table 1). Median follow-up was 32 months. The number of patients alive at 3 years after diagnosis was 28,459 and 18,258 patients were alive at the end of follow-up. In total, there were 54 suicides and 158 suicide attempts among patients (Table 2), of which 36 and 100 occurred during the ﬁrst 3 years after diagnosis, respec-tively. The risk of suicide and suicide attempt was twice as high in patients with hematological malignancies compared to matched controls during the ﬁrst 3 years after diagnosis (HR = 1.9, 95% CI 1.5–2.3, P < 0.0001). The excess risk was modiﬁed by time after diagnosis and no remaining risk-increase was observed when more than 3 years had elapsed (HR = 1.1, 0.9–1.4, P = 0.3). In separate analysis including only consummated suicides, identical risks were observed (HR = 1.9, 1.3–2.8 P = 0.0005) during the ﬁrst 3 years after diagnosis, and HR 1.2 (0.8–1.8, P = 0.4) after four or more years of follow-up (Table 2). Due to the very similar HRs for\n\n148 ª 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1002/cam4.316",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_sha256": "36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_url": "https://doi.org/10.1002/cam4.316"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b:p3",
+        "source_issue_ids": [],
+        "text": "M. Hultcrantz et al. Suicides in Hematological Malignancies\n\nTable 1. Characteristic of patients with a hematological malignancy and their matched controls.\n\nPatients Controls\n\nN = 47,220 %\n\nNumber of suicides/suicide attempts N = 235 868 %\n\nNumber of suicides/suicide attempts\n\nGender Women 21,453 45.4 96 107,059 45.4 461 Men 25,767 54.6 116 128,809 54.6 651 Age at diagnosis 18–29 1394 3.0 21 6587 2.8 58 30–39 1602 3.4 13 8008 3.4 64 40–49 3056 6.5 24 15,278 6.5 115 50–59 6628 14.0 38 33,136 14.0 173 60–69 10,384 22.0 39 51,911 22.0 203 70–79 14,786 31.3 49 73,910 31.3 324 80–89 8619 18.3 27 43,073 18.3 168 90 and older 751 1.6 1 3965 1.7 7 Calendar year of diagnosis 1992–1994 8652 18.3 54 43,223 18.3 355 1995–1997 9153 19.4 62 45,688 19.4 314 1998–2000 9440 20.0 42 47,198 20.0 220 2001–2003 9963 21.1 37 49,714 21.1 173 2004–2006 10,012 21.2 17 50,045 21.2 50 Type of hematological malignancy Non-Hodgkin lymphoma 18,583 39.3 46 NA NA NA Hodgkin lymphoma 2248 4.8 11 NA NA NA Multiple myeloma 7778 16.5 37 NA NA NA Acute leukemia (AML/ALL) 3746 7.9 9 NA NA NA CLL/CML/MPN 14,865 31.5 33 NA NA NA Preexisting psychiatric disorder1\n\nYes 2042 4.3 57 11,027 4.7 262 No 45,178 95.7 155 224,841 95.3 850\n\nAML, acute myeloid leukemia; ALL, acute lymphoblastic leukemia; CLL, chronic lymphocytic leukemia; CML, chronic myeloid leukemia; MPN, myeloproliferative neoplasm; NA, not applicable. 1Preexisting psychiatric disorder was deﬁned as a hospital admission with a psychiatric diagnosis prior to the diagnosis of the hematological malignancy.\n\nTable 2. Suicides and suicides attempt in relation to time after diagnosis in patients compared to matched controls.\n\nNumber of events among patients HR 95% CI P-value\n\nSuicides/suicide attempts 212 1.5 1.3–1.8 <0.0001 Suicides 54 1.6 1.2–2.1 0.0018 Suicides/suicide attempts ≤3 years after diagnosis 136 1.9 1.5–2.3 <0.0001 Suicides ≤3 years after diagnosis 36 1.9 1.3–2.8 0.0005 Suicides/suicide attempts >3 years after diagnosis 76 1.1 0.9–1.5 0.29 Suicides >3 years after diagnosis 18 1.2 0.8–1.8 0.38\n\nHR, hazard ratio; CI, conﬁdence interval.\n\nsuicide, suicide attempt, and the combined end point suicide and suicide attempt, the following results repre-sent the combined end point suicide/suicide attempt occurring during the ﬁrst 3 years after diagnosis unless otherwise speciﬁed.\n\nMM was associated with the highest risk of suicide and suicide attempt (HR = 3.4; 2.3–5.0 P < 0.0001) during the ﬁrst 3 years after diagnosis. The risk was also signiﬁcantly elevated for patients with NHL (HR = 1.7; 1.2–2.3 P = 0.002). In patients with HL, acute leukemia, and\n\nª 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd. 149",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1002/cam4.316",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_sha256": "36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_url": "https://doi.org/10.1002/cam4.316"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b:p4",
+        "source_issue_ids": [],
+        "text": "Suicides in Hematological Malignancies M. Hultcrantz et al.\n\nCLL/CML/MPN there was a tendency toward an increased risk, however, this was not statistically signiﬁcant (Table 3). There was a multiplicative interaction regarding the risk of suicide/suicide attempt in patients with a preexisting psychiatric disorder and a hematological malignancy. Compared to controls without a preexisting psychiatric disorder, the HRs of suicide/suicide attempt in patients with a preexisting psychiatric disorder was 23.3 (16.6–32.6, P < 0.0001), patients without preexisting psychiatric disorder HR = 1.8 (1.4–2.3, P < 0.0001) and controls with a preexisting psychiatric disorder HR = 10.8\n\nTable 3. Risk of suicide/suicide attempt in relation to calendar period, gender, age, type of hematological malignancy, and history of psychiatric disorder during the ﬁrst 3 years after diagnosis.\n\nYear 0–3 of follow-up after diagnosis\n\nNumber of events among patients HR 95% CI P-value\n\nGender Male 72 1.7 1.3–2.2 Female 64 2.1 1.5–2.7 0.38 Age at diagnosis ≤69 63 1.9 1.5–2.5 ≥70 73 1.8 1.3–2.4 0.76 Calendar period of diagnosis 1992–1998 80 2.2 1.7–2.9 1999–2006 56 1.6 1.2–2.1 0.065 Type of hematological malignancy Non-Hodgkin lymphoma 46 1.7 1.2–2.3 Hodgkin lymphoma 11 1.8 0.9–3.6 Multiple myeloma 37 3.4 2.3–5.0 Acute leukemia (AML/ALL) 9 1.9 0.9–4.1\n\nCLL/CML/MPN 33 1.5 0.99–2.1 0.0011\n\nHR, hazard ratio; CI, conﬁdence interval; AML, acute myeloid leukemia; ALL, acute lymphoblastic leukemia; CLL, chronic lymphocytic leukemia; CML, chronic myeloid leukemia; MPN, myeloproliferative neoplasm. 1Test of homogeneity. This signiﬁcance is mainly attributed to a higher risk for multiple myeloma.\n\n(8.8–13.2, P < 0.0001) during the ﬁrst 3 years of follow-up (Table 4). A similar pattern was observed when the incidence of suicides/suicide attempts per 1000 person-years was calculated in patients and controls with and without a preexisting psychiatric disorder (Fig. 1). The excess risk of suicide/suicide attempt associated with hematological malignancy was not signiﬁcantly modiﬁed by age at diagnosis. The HR for patients ≤69 years at diagnosis was 1.9 (1.5–2.5) and for patients ≥70 years at diagnosis was 1.8 (1.3–2.4; Table 3). The absolute number of suicides/suicide attempts was higher in males, however, the relative risks were similar in the two gen-ders. The HRs were 1.7 (1.3–2.2) and 2.1 (1.5–2.7; P = 0.38 for difference), in males and females, respec-tively (Table 3). There was a trend toward a lower risk in patients diagnosed between 1999 and 2006 (HR = 1.6; 1.2–2.1) compared to patients diagnosed between 1992 and 1998 (HR = 2.2; 1.7–2.9) although this difference was not statistically signiﬁcant (P = 0.07; Table 3). Thirty-six patients committed suicide during the ﬁrst 3 years after diagnosis, of which 23 had NHL, nine had MM, two had AML, and two had polycythemia vera. Twelve patients (33%) were on active treatment which included corticosteroids in ten patients (28%). Sixteen patients (44%) were in remission with no ongoing treatment and seven patients (19%) were in a palliative phase. Pain was noted in the medical record of 14 patients (39%). Seventeen patients (47%) had a preexisting psychiatric disorder and nine patients (25%) had attempted to commit suicide prior to their cancer diagnosis (Table 5). The most commonly used methods of suicide were hanging and intoxication. Suicides including ﬁre-arms were only seen in men.\n\nDiscussion\n\nIn this large population-based study we found the risk of suicide and suicide attempt to be twice as high in patients with hematological malignancies compared to matched controls. The risk was elevated during the ﬁrst 3 years after diagnosis while no excess risk was observed when\n\nTable 4. Risk of suicide/suicide attempt in relation to history of psychiatric disorder during the ﬁrst 3 years after diagnosis of the hematological malignancy.\n\nYear 0–3 of follow-up after diagnosis\n\nNumber of events among patients HR 95% CI P-value\n\nPatients without a preexisting psychiatric disorder (n = 45,178) 92 1.8 1.4–2.3 <0.0001 Patients with a preexisting psychiatric disorder (n = 2042) 44 23.3 16.7–32.6 <0.0001 Controls without a preexisting psychiatric disorder (n = 224,841) 325 1.0 NA Reference Controls with a preexisting psychiatric disorder (n = 11,027) 147 10.8 8.3–13.2 <0.0001\n\nHR, hazard ratio; CI, conﬁdence interval; NA, not applicable.\n\n150 ª 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1002/cam4.316",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_sha256": "36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_url": "https://doi.org/10.1002/cam4.316"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b:p5",
+        "source_issue_ids": [],
+        "text": "M. Hultcrantz et al. Suicides in Hematological Malignancies\n\nIncidence per 1000 person-years\n\n16 Patients without a pre-existing psychiatric disorder\n\nControls without a pre-existing psychiatric disorder Patients with a pre-existing psychiatric disorder\n\nControls with a pre-existing psychiatric disorder 14\n\n12\n\n10\n\n8\n\n6\n\n4\n\n2\n\n00 1 2 3 Years from diagnosis of hematological malignancy 4 >5\n\nFigure 1. Suicide and suicide attempt among patients and controls with and without a preexisting psychiatric disorder per year, starting at diagnosis shown as incidence/1000 person-years.\n\nTable 5. Demography, disease characteristics, and suicide methods in patients who committed suicide during the ﬁrst 3 years after diagnosis\n\nPatients Number Median age at diagnosis 68.5 (years) Median age at suicide 69 (years) Men 23 Women 13 Type of hematological malignancy Multiple myeloma 9 Non-Hodgkin lymphoma 23 Acute myeloid leukemia 2 Polycythemia vera 2 Patient and disease characteristics Yes No Preexisting psychiatric disorder 17 18 Previous suicide attempt 9 26 Active treatment 12 23 Including corticosteroids 10 25 In remission with no ongoing treatment 16 19 Palliation 7 28 Substantial pain 14 21 Unknown n = 1 Method of suicide Men Women Hanging 6 4 Intoxication with sedatives/analgesics 5 3 Fall/jump 4 2 Drowning 1 4 Firearm 4 – Burn/ﬁre 3 – Total 23 13\n\nmore than 3 years had elapsed. The highest risks were observed in patients with MM and in patients with a preexisting psychiatric disorder irrespective of type of\n\nhematological malignancy. Even though the absolute number of suicides/suicide attempts was limited, there are patients at high risk of committing suicide who may beneﬁt from early detection and preventive measures. Patients with a hematological malignancy were at a higher risk of committing suicide/suicide attempt shortly after diagnosis. In a recent Swedish study, the risk of suicide and cardiovascular death was signiﬁcantly elevated during the ﬁrst year, even the ﬁrst weeks, after receiving a diagnosis of cancer emphasizing that a cancer diagnosis is a traumatic experience associated with both emotional and physical stress [20]. Similar temporal patterns have been observed in large studies on cancer patients where patients with hematological malignancies have been included [11–13]. After more than 3 years following diagnosis, patients who are still alive may either be cured or may have adapted emotionally to having a malignant disease. The awareness of suicidal ideation in patients should be higher among health care personnel shortly after the cancer diagnosis. MM was the hematological malignancy associated with the highest risk of suicide/suicide attempt. MM is in the majority of cases an incurable disease and often associated with debilitating bone lesions and pain [8, 21]. Also, the treatment can have a negative impact on quality of life; high doses of corticosteroids, included in most MM treatment regimen, can induce depression and psychosis and thus enhance the risk of suicide/suicide attempt [22, 23]. There are recent studies indicating that early treatment, before organ damage is evident, may improve survival in MM patients [24]. Optimizing MM management, possibly by more effective novel therapies earlier in the disease course, and better psychological care is of great impor-tance for improving survival and quality of life in MM patients. An elevated risk of suicide/suicide attempt was also observed in patients with NHL while HL, acute leukemias and CLL/CML/MPN were all associated with a nonsigniﬁ-cant increase in risk of suicide/suicide attempt. There was also a trend toward a lower risk of suicide/suicide attempt toward the second calendar period. In previous studies, patients with aggressive diseases and poor prognosis such as acute leukemias have been observed to have an elevated risk of suicide/suicide attempt [12, 25]. New treatment options have emerged for many of the hematological malignancies during the current study period [4, 5, 26]. The majority of the recently introduced treatments have a favorable effect on both survival and quality of life but their potential impact on risk of suicide and suicidal ideation needs to be elucidated. Patients with a preexisting psychiatric disorder had a substantially elevated risk of suicide/suicide attempt compared to controls regardless of type of hematological\n\nª 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd. 151",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1002/cam4.316",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_sha256": "36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_url": "https://doi.org/10.1002/cam4.316"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b:p6",
+        "source_issue_ids": [],
+        "text": "Suicides in Hematological Malignancies M. Hultcrantz et al.\n\nmalignancy. Psychiatric disorders including depression should be recognized as a major risk factor for suicide/ suicide attempt in patients with hematological malignancies. In addition, depression is more common in cancer patients and has been shown to correlate with more rapid cancer progression [27–31]. Interestingly, there are hypotheses of an immunological interaction between cancer and depression. Dysregulation of the hypothalamo– pituitary–adrenal axis and production of proinﬂammatory cytokines have been shown to correlate both with depression and cancer [32–34]. Especially interleukin-6 has been correlated to MM progression as well as to cancer-related depression and fatigue [35, 36]. This potential immunological relationship needs to be further clariﬁed and if the association is shown to be causative, it may have great implications for the treatment of various cancers and cancer-related depression. The ﬁrst step of suicide prevention is to identify patients at an increased risk, which in our study were patients who were recently diagnosed, patients with MM, and patients with a preexisting psychiatric disorder. In the detailed analysis of the 36 patients who committed suicide, preexisting psychiatric disorders and previous suicide attempts were common. Depression was the most common psychiatric disorder, followed by alcohol abuse. Additional risk factors observed in previous studies are male gender, poor social support, emotional distress, pain, and advanced disease stage [27, 33, 37]. The 14 of the 36 patients who were in remission with no preexisting psychiatric disorder would have been harder to identify at an earlier stage. Therefore, a high awareness of suicidal ideation in patients shortly after diagnosis but also during follow-up is important. Early identiﬁcation of high-risk patients is valuable since effective treatment in multidisciplinary teams, including psychological intervention and antidepressive treatment, can lead to a better quality of life and may reduce the risk of suicide and suicide attempt [29, 31, 37, 38]. Strengths of this study include the population-based design and a large number of patients during a period of 16 years. In addition, the study includes information from both high-quality Swedish registers as well as detailed information from individual medical records. One limitation is the possibility of underreporting of suicides in cancer patients. Suicides in cancer patients may go unnoticed and in addition, doctors may be reluctant to report suicides in terminally ill patients. The number of suicide attempts and the prevalence of preexisting psychiatric disorders may be underestimated since the Inpatient Register does not include patients treated in the outpatient setting. Thus, less severe suicide attempts and milder psychiatric disorders were not included and the study was instead focused on patients/controls with signiﬁcant suicide attempts and more pronounced psychiat-\n\nric disorders. Moreover, psychiatric complaints emerging after the cancer diagnosis are not analyzed in this study. In summary, in this large population-based study we found patients with hematological malignancies, especially MM, to have a higher risk of suicide and suicide attempt compared to matched controls during the ﬁrst 3 years following diagnosis. The risk elevation was strongly associated with a preexisting psychiatric disorder. Future studies are required to elucidate underlying neuropsychiatric and immunological causes, which may be shared in depression and cancer. Even though suicides/suicide attempts were rare events, awareness of risk factors such as short time since diagnosis, MM diagnosis, male gender, advanced disease stage, and a preexisting psychiatric disorder is important. Our results emphasize, in addition to optimal treatment of the malignant disease, the need for psychological assessment and early detection of cancer patients at high risk of committing suicide in order to enable effective prevention of suicides/suicide attempts.\n\nAcknowledgments\n\nThe authors would like to thank the registers included in this analysis. This work was supported by the Swedish Cancer Society (CAN 2012/483), the regional agreement on medical training and clinical research (ALF) between Stockholm County Council and Karolinska Institutet (20120004), Adolf H. Lundin Charitable Foundation, and Blodcancerfonden.\n\nConﬂict of Interest\n\nNone declared.\n\nReferences\n\n1. Derolf, A. R., S. Y. Kristinsson, T. M. Andersson, O. Landgren, P. W. Dickman, and M. Bjorkholm. 2009. Improved patient survival for acute myeloid leukemia: a population-based study of 9729 patients diagnosed in Sweden between 1973 and 2005. Blood 113:3666–3672. 2. Kristinsson, S. Y., O. Landgren, P. W. Dickman, A. R. Derolf, and M. Bjorkholm. 2007. Patterns of survival in multiple myeloma: a population-based study of patients diagnosed in Sweden from 1973 to 2003. J. Clin. Oncol. 25:1993–1999. 3. Hultcrantz, M., S. Y. Kristinsson, T. M. Andersson, O. Landgren, S. Eloranta, A. R. Derolf, et al. 2012. Patterns of survival among patients with myeloproliferative neoplasms diagnosed in Sweden from 1973 to 2008: a population-based study. J. Clin. Oncol. 30:2995–3001. 4. Coifﬁer, B., E. Lepage, J. Briere, R. Herbrecht, H. Tilly, R. Bouabdallah, et al. 2002. CHOP chemotherapy plus rituximab compared with CHOP alone in elderly patients\n\n152 ª 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1002/cam4.316",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_sha256": "36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_url": "https://doi.org/10.1002/cam4.316"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b:p7",
+        "source_issue_ids": [],
+        "text": "M. Hultcrantz et al. Suicides in Hematological Malignancies\n\nwith diffuse large-B-cell lymphoma. N. Engl. J. Med. 346:235–242. 5. Bjorkholm, M., A. R. Derolf, M. Hultcrantz, S. Y. Kristinsson, C. Ekstrand, L. R. Goldin, et al. 2011. Treatment-related risk factors for transformation to acute myeloid leukemia and myelodysplastic syndromes in myeloproliferative neoplasms. J. Clin. Oncol. 29: 2410–2415. 6. Kristinsson, S. Y., W. F. Anderson, and O. Landgren. 2014. Improved long-term survival in multiple myeloma up to the age of 80 years. Leukemia 28:1346–1348. 7. Mohamedali, H., H. Breunis, N. Timilshina, J. M. Brandwein, V. Gupta, M. D. Minden, et al. 2012. Older age is associated with similar quality of life and physical function compared to younger age during intensive chemotherapy for acute myeloid leukemia. Leuk. Res. 36:1241–1248. 8. Mols, F., S. Oerlemans, A. H. Vos, A. Koster, S. Verelst, P. Sonneveld, et al. 2012. Health-related quality of life and disease-speciﬁc complaints among multiple myeloma patients up to 10 yr after diagnosis: results from a population-based study using the PROFILES registry. Eur. J. Haematol. 89: 311–319. 9. Mesa, R. A., J. Niblack, M. Wadleigh, S. Verstovsek, J. Camoriano, S. Barnes, et al. 2007. The burden of fatigue and quality of life in myeloproliferative disorders (MPDs): an international Internet-based survey of 1179 MPD patients. Cancer 109:68–76. 10. Phillips, K. M., J. Pinilla-Ibarz, E. Sotomayor, M. R. Lee, H. S. Jim, B. J. Small, et al. 2013. Quality of life outcomes in patients with chronic myeloid leukemia treated with tyrosine kinase inhibitors: a controlled comparison. Support. Care Cancer 21:1097–1103. 11. Misono, S., N. S. Weiss, J. R. Fann, M. Redman, and B. Yueh. 2008. Incidence of suicide in persons with cancer. J. Clin. Oncol. 26:4731–4738. 12. Bjorkenstam, C., A. Edberg, S. Ayoubi, and M. Rosen. 2005. Are cancer patients at higher suicide risk than the general population? Scand. J. Public Health 33:208–214. 13. Hem, E., J. H. Loge, T. Haldorsen, and O. Ekeberg. 2004. Suicide risk in cancer patients from 1960 to 1999. J. Clin. Oncol. 22:4209–4216. 14. Innos, K., K. Rahu, M. Rahu, and A. Baburin. 2003. Suicides among cancer patients in Estonia: a population-based study. Eur. J. Cancer 39:2223–2228. 15. Sverige. Socialstyrelsen. 2012. Cancer incidence in Sweden 2011 = Cancerf€orekomst i Sverige 2011. Socialstyrelsen, Stockholm. 16. Turesson, I., M. S. Linet, M. Bjorkholm, S. Y. Kristinsson, L. R. Goldin, N. E. Caporaso, et al. 2007. Ascertainment and diagnostic accuracy for hematopoietic lymphoproliferative malignancies in Sweden 1964–2003. Int. J. Cancer 121:2260–2266.\n\n17. Ludvigsson, J. F., E. Andersson, A. Ekbom, M. Feychting, J. L. Kim, C. Reuterwall, et al. 2011. External review and validation of the Swedish national inpatient register. BMC Public Health 11:450. 18. Allebeck, P., and C. Bolund. 1991. Suicides and suicide attempts in cancer patients. Psychol. Med. 21:979–984. 19. Tanaka, H., H. Tsukuma, T. Masaoka, W. Ajiki, Y. Koyama, N. Kinoshita, et al. 1999. Suicide risk among cancer patients: experience at one medical center in Japan, 1978–1994. Jpn. J. Cancer Res. 90: 812–817. 20. Fang, F., K. Fall, M. A. Mittleman, P. Sparen, W. Ye, H. O. Adami, et al. 2012. Suicide and cardiovascular death after a cancer diagnosis. N. Engl. J. Med. 366:1310–1318. 21. Kendal, W. S. 2007. Suicide and cancer: a gender-comparative study. Ann. Oncol. 18:381–387. 22. Eshaghian, S., and J. R. Berenson. 2012. Multiple myeloma: improved outcomes with new therapeutic approaches. Curr. Opin. Support. Palliat. Care 6:330–336. 23. Fardet, L., I. Petersen, and I. Nazareth. 2012. Suicidal behavior and severe neuropsychiatric disorders following glucocorticoid therapy in primary care. Am. J. Psychiatry 169:491–497. 24. Mateos, M. V., M. T. Hernandez, P. Giraldo, J. de la Rubia, F. de Arriba, L. Lopez Corral, et al. 2013. Lenalidomide plus dexamethasone for high-risk smoldering multiple myeloma. N. Engl. J. Med. 369: 438–447. 25. Miccinesi, G., E. Crocetti, A. Benvenuti, and E. Paci. 2004. Suicide mortality is decreasing among cancer patients in Central Italy. Eur. J. Cancer 40:1053–1057. 26. Richardson, P. G., P. Sonneveld, M. W. Schuster, D. Irwin, E. A. Stadtmauer, T. Facon, et al. 2005. Bortezomib or high-dose dexamethasone for relapsed multiple myeloma. N. Engl. J. Med. 352: 2487–2498. 27. Breitbart, W., B. Rosenfeld, H. Pessin, M. Kaim, J. Funesti-Esch, M. Galietta, et al. 2000. Depression, hopelessness, and desire for hastened death in terminally ill patients with cancer. JAMA 284:2907–2911. 28. Henriksson, M. M., E. T. Isometsa, P. S. Hietanen, H. M. Aro, and J. K. Lonnqvist. 1995. Mental disorders in cancer suicides. J. Affect. Disord. 36:11–20. 29. Tiernan, E., P. Casey, C. O’Boyle, G. Birkbeck, M. Mangan, L. O’Siorain, et al. 2002. Relations between desire for early death, depressive symptoms and antidepressant prescribing in terminally ill patients with cancer. J. R. Soc. Med. 95:386–390. 30. Bolund, C. 1985. Suicide and cancer: II. Medical and care factors in suicides by cancer patients in Sweden, 1973–1976. J. Psychosoc. Oncol. 3:31–52. 31. Spiegel, D., and J. Giese-Davis. 2003. Depression and cancer: mechanisms and disease progression. Biol. Psychiatry 54:269–282.\n\nª 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd. 153",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1002/cam4.316",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_sha256": "36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b",
+          "source_url": "https://doi.org/10.1002/cam4.316"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b:p8",
+        "source_issue_ids": [],
+        "text": "Suicides in Hematological Malignancies M. Hultcrantz et al.\n\n32. Schiepers, O. J., M. C. Wichers, and M. Maes. 2005. Cytokines and major depression. Prog. Neuropsychopharmacol. Biol. Psychiatry 29:201–217. 33. Spoletini, I., W. Gianni, C. Caltagirone, R. Madaio, L. Repetto, and G. Spalletta. 2011. Suicide and cancer: where do we go from here? Crit. Rev. Oncol. Hematol. 78: 206–219. 34. O’Donovan, A., G. Rush, G. Hoatam, B. M. Hughes, A. McCrohan, C. Kelleher, et al. 2013. Suicidal ideation is associated with elevated inﬂammation in patients with major depressive disorder. Depress. Anxiety 30:307–314. 35. Klein, B., X. G. Zhang, Z. Y. Lu, and R. Bataille. 1995. Interleukin-6 in human multiple myeloma. Blood 85: 863–872.\n\n36. Boland, E., C. Eiser, Y. Ezaydi, D. M. Greenﬁeld, S. H. Ahmedzai, and J. A. Snowden. 2013. Living with advanced but stable multiple myeloma: a study of the symptom burden and cumulative effects of disease and intensive (hematopoietic stem cell transplant-based) treatment on health-related quality of life. J. Pain Symptom Manage. 46:671–680. 37. Filiberti, A., and C. Ripamonti. 2002. Suicide and suicidal thoughts in cancer patients. Tumori 88:193–199. 38. Rehse, B., and R. Pukrop. 2003. Effects of psychosocial interventions on quality of life in adult cancer patients: meta analysis of 37 published controlled outcome studies. Patient Educ. Couns. 50:179–186.\n\n154 ª 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:36ac1b3acdaf35e7317912e6c508686279726d7a229596cb5d1968b464d94c8b"
+}

@@ -1,0 +1,210 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-16T10:55:43.926224+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Validity of chronic disease diagnoses in Icelandic healthcare registries.",
+        "year": null
+      },
+      "doi": "10.1177/14034948211059974",
+      "format": "pdf",
+      "id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+      "url": "https://doi.org/10.1177/14034948211059974"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/14034948211059974",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_sha256": "e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_url": "https://doi.org/10.1177/14034948211059974"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7:p1",
+        "source_issue_ids": [],
+        "text": "1059974 SJP0010.1177/14034948211059974S. Rögnvaldsson et al.Chronic diseases in Icelandic healthcare registries research-article2021\n\nScandinavian Journal of Public Health, 2023; 51: 173–178\n\nOriginal Article\n\nValidity of chronic disease diagnoses in Icelandic healthcare registries\n\nSÆMUNDUR RÖGNVALDSSON1 , THORIR EINARSSON LONG1,2, SIGRUN THORSTEINSDOTTIR1,3 , THORVARDUR JON LOVE1,4 & SIGURÐUR YNGVI KRISTINSSON1,5\n\n1Faculty of Medicine, University of Iceland, Iceland, 2Department of Nephrology, Lund University Hospital, Sweden, 3Department of Haematology, Rigshospitalet, Denmark, 4Department of Science and Research, Landspitali University Hospital, Iceland, and 5Department of Haematology, Landspítali University Hospital, Iceland\n\nAbstract Aims: To evaluate the validity of recorded chronic disease diagnoses in Icelandic healthcare registries. Methods: Eight different chronic diseases from multiple sub-specialties of medicine were validated with respect to accuracy, but not to timeliness. For each disease, 30 patients with a recorded diagnosis and 30 patients without the same diagnosis were randomly selected from >80,000 participants in the iStopMM trial, which includes 54% of the Icelandic population born before 1976. Each case was validated by chart review by physicians using predefined criteria. Results: The overall accuracy of the chronic disease diagnoses was 96% (95% CI 94–97%), ranging from 92 to 98% for individual diseases. After weighting for disease prevalence, the accuracy was estimated to be 98.5%. The overall positive predictive value (PPV) of chronic disease diagnosis was 93% (95% CI 89–96%) and the overall negative predictive value (NPV) was 99% (95% CI 96–100%). There were disease-specific differences in validity, most notably multiple sclerosis, where the PPV was 83%. Other disorders had PPVs between 93 and 97%. The NPV of most disorders was 100%, except for hypertension and heart failure, where it was 97 and 93%, respectively. Those who had the registered chronic disease had objective findings of disease in 96% of cases. Conclusions: When determining the presence of chronic disease, diagnosis data from the Icelandic healthcare registries has a high PPV, NPV and accuracy. Furthermore, most diagnoses can be confirmed by objective findings such as imaging or blood testing. These findings can inform the interpretation of studies using diagnostic data from the Icelandic healthcare registries.\n\nKeywords: Chronic diseases, comorbidity, data accuracy, Iceland, registries, validation study\n\nIntroduction\n\nThe incidence of chronic disease has increased in the last few decades as a result of the ageing population and improvements in the management of chronic disorders. In particular, multimorbidity (i.e. the presence of multiple concomitant chronic diseases) has increased dramatically. In a 2011 meta-analysis, Marengoni et al. [1] estimated the prevalence of multimorbidity to be 55–98% in older people. Chronic diseases are a large burden on healthcare systems, leading to an increased need and complexity of care and therefore increased costs [2]. Multimorbidity poses a challenge for clinical and epidemiological\n\nresearch because concomitantly present chronic diseases, referred to as comorbidities to one another, have additive and synergistic effects on most healthcare outcomes, including survival, especially in older people [3]. For example, our group has shown that comorbidities affect outcomes in multiple myeloma, a cancer of the bone marrow [4]. Importantly, chronic diseases are often causally related and not randomly distributed, leading to confounding in epidemiological and clinical studies. For example, diabetes mellitus increases the likelihood of cardiovascular disease [5] and smoking increases the risk of both lung cancer [6] and cardiovascular disease [7].\n\nCorrespondence: Sæmundur Rögnvaldsson, Faculty of Medicine, University of Iceland, Sturlugata 8, 101 Reykjavík, Iceland. E-mail: saer2@hi.is\n\nDate received 5 July 2021; reviewed 28 September 2021; accepted 26 October 2021\n\n© Author(s) 2021 Article reuse guidelines: sagepub.com/journals-permissions DOI: 10.1177/14034948211059974 journals.sagepub.com/home/sjp\n\nhttps://doi.org/10.1177/14034948211059974",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/14034948211059974",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_sha256": "e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_url": "https://doi.org/10.1177/14034948211059974"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7:p2",
+        "source_issue_ids": [],
+        "text": "174 S. Rögnvaldsson et al.\n\nIn order to manage healthcare systems and public health policy, data on chronic diseases are needed to assess their prevalence and outcomes and to adjust for comorbidities in epidemiological and clinical studies. However, this requires that accurate and complete data are available because incorrect classification may introduce new and unpredictable information bias and insufficient data may lead to an underestimation of disease prevalence and residual confounding. To acquire data on chronic disease, many research-ers use questionnaires on self-reported previous medical history. However, such questionaries are time consuming, have been shown to be inaccurate [8] and may lead to recall bias [9]. An alternative and more convenient method is to use administrative databases or central healthcare registries where medical diagnoses are prospectively recorded. These registries are widely available, but their quality varies. In North America, large administrative databases are available that are usually coded by non-physician coders. The sensitivity in these databases can be as low as 12% for cirrhotic liver disease and around 50 and 56% for myocardial infarction and malignancy, respectively, both important and common chronic diseases [10]. By contrast, high-quality healthcare registries with diagnoses recorded by diagnosing physicians have been available in the Nordic countries for decades and have been used in large epidemiological studies [11]. This is especially true in Sweden and Denmark, where large, high-quality, population-based registries are available with overall positive predictive values (PPVs) of correct diagnosis of around 90% [12,13]. A cancer registry was established in Iceland in 1955 and has since included high-quality data on cancer diagnosis that have been shown to have high validity, completeness and timeliness[14]. Registries of other medical diagnoses have been available since 1999 with the establishment of the Hospital Discharge Registry, which includes diagnoses made during inpatient care in the universal Icelandic healthcare system as International Classification of Diseases version 10 (ICD-10) codes [15]. The registry also includes outpatient contacts in hospitals since 2010 [16]. The Icelandic Register of Primary Health Care Contacts was established in 2004 and has since included ICD-10 coded diagnoses made in primary healthcare centres around Iceland [17]. Both registries are kept by the Icelandic Directorate of Health. We are not aware of any studies evaluating the validity of diagnoses made in these two registries, hereafter referred to as the Icelandic healthcare registries (IHR). We were therefore motivated to evaluate the validity of chronic disease diagnoses that are often comorbidities in the IHR.\n\nTable I. International Classification of Diseases 10th Revision (ICD-10) codes used to define the chronic diseases assessed in this study.\n\nDisease ICD-10 codes\n\nChronic kidney disease I12, I13, N18, N19, T86.1, Z49.0, Z49.1, Z49.2 Chronic obstructive pulmonary disease J41, J42, J43, T44\n\nDiabetes mellitus E10, E11, E12, E13, E14 Heart failure I50, I11.0, I13.0, I13.2, I14.2 Hypertension I10, I11, E12, I13 Hypothyroidism E03, E01, E89.0 Ischaemic heart disease I25, I21, I22, I23, I24, Z95.5 Multiple sclerosis G35\n\nMethods\n\nWe are currently conducting the Iceland Screens, Treats or Prevents Multiple Myeloma study (iStopMM), a population-based screening study for multiple myeloma and its precursors. A total of 80,759 participants born in 1975 or earlier (54.4% of the population in that age group) provided informed consent for study participation. This includes cross-linking of study data to data in the IHR using a national identification number provided to all residents of Iceland by Registers Iceland. Participants in iStopMM with at least one diagnosis in the IHR on 1 April 2019 were included in the study. The iStopMM study and its recruitment has been described in greater detail elsewhere [18]. We evaluated the validity of eight chronic diseases from different medical specialties. The diseases cho-sen are long-term chronic disorders that are either very common and/or are associated with objective findings that are detectable in chart review. The diseases were defined by ICD-10 diagnostic codes as detailed in Table I and were chronic kidney disease (CKD), chronic obstructive pulmonary disease (COPD), diabetes mellitus, heart failure, hypertension, hypothyroidism, ischaemic heart disease (IHD) and multiple sclerosis. For each disease, 30 participants with registered codes for the disease (positive cases) and 30 participants without a registered code for the disease (negative cases) were randomly selected for review from among the 80,759 registered participants of the iStopMM study. To estimate the validity of the presence of these chronic diseases rather than the timeliness of the diagnosis registration, we evaluated whether participants had the disease in question on 1 April 2019 or at death, whichever occurred first. The medical records of each disease group were reviewed by one of three physicians (SR, ÞEL or ST), who were blinded to the disease status of the participants. The presence of the chronic disease in each case was determined using pre-specified criteria in steps ranging from the highest degree of certainty, (i.e.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/14034948211059974",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_sha256": "e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_url": "https://doi.org/10.1177/14034948211059974"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7:p3",
+        "source_issue_ids": [],
+        "text": "Chronic diseases in Icelandic healthcare registries 175\n\nTable II. Pre-specified criteria used to determine whether disease was present in the study participants. Cases were reviewed in a stepwise fashion with steps ranging from most certainty (step 1) to least certainty.\n\nStep 1 Step 2 Step 3 Step 4\n\nChronic kidney disease In care of nephrologist for CKD or on dialysis Baseline eGFR <60 mL/ min/1.73 m2 CKD noted in physician’s note\n\nCOPD noted in physician’s note\n\nChronic obstructive pulmonary disease Spirometry confirming COPD Recent prescription of inhalers, other than short-acting beta-agonists\n\nDocumented elevated HbA1c or abnormal glucose tolerance test Diabetes mellitus noted in physician’s note\n\nDiabetes mellitus Recent prescription of insulin or other diabetes mellitus medication\n\nBNP ⩾1000 recorded, not in the context of severe kidney failure Convincing history of acute heart failure exacerbation and recent prescription of loop diuretics\n\nHeart failure Echocardiogram showing ⩽50% ejection fraction or diastolic dysfunction\n\nHeart failure noted in physician’s note\n\nHypertension Recent prescription of hypertension medication Hypertension noted in physician’s note\n\nHypothyroidism Recent prescription of supplemental thyroid hormones Low free-T4 recorded Hypothyroidism noted in physician’s note\n\nIschaemic heart disease Coronary angiography showing coronary artery disease Recorded acute myocardial infarction in physician´s notes IHD noted in physician’s note\n\nMultiple sclerosis Demyelinating lesions on MRI Multiple sclerosis noted in neurologist’s note Multiple sclerosis noted in physician’s note\n\neGFR: estimated glomerular filtration rate; HbA1c: haemoglobin A1c; BNP: brain natriuretic peptide; free-T4: free thyroxine 4.\n\nobjective diagnostic testing available) to the lowest degree of certainty (i.e. diagnosis recorded in physician notes). The criteria are detailed in Table II. In cases of uncertainty by the reviewers, the case was brought up in a meeting of the medical record reviewers. False positive and false negative cases were re-reviewed in a meeting of the medical record reviewers in case there were factors not captured by the pre-specified criteria or if the pre-specified criteria captured participants who did not have the disease in question. Data were collected and managed using the REDCap electronic data capture tools hosted at the University of Iceland [19,20]. The PPVs and negative predictive values (NPVs) were calculated for each of the disease diagnoses before and after re-evaluation of false positives and false negatives. The total PPV and NPV for all the diseases were then calculated and combined into total accuracy. The 95% confidence intervals (95% CI) were calculated using the Wilson score interval. The average of the PPVs and NPVs, weighted by the disease prevalence in the IHR, were calculated to estimate the accuracy of the IHR. R statistical software [21], including the tidyverse [22] and Hmisc [23] packages, were used for data wrangling and statistical analysis.\n\nResults\n\nAfter medical chart review, 460 of the 480 participants in the random sample were found to be correctly identified as having or not having a chronic disease, providing a total accuracy of 96% (95% CI 94–97%). After weighing the PPVs and NPVs for each disease by their prevalence, we estimated the\n\nTable III. Confusion matrix of the results of the chart review.\n\nDisease present Disease not present\n\nCode present True positive = 223 False positive = 17 Code not present False negative = 3 True negative = 237\n\ntotal accuracy of the IHR for chronic disease diagnoses to be 98.5%. Of the 240 participants with registered disease diagnosis, 223 were found to have the disease in chart review (i.e. were true positives), providing a PPV of 93% (95% CI 89–96%). Of the 240 participants without registered chronic disease diagnosis, only three were found to have that disease(i.e. false negatives), leading to a total NPV of 99% (95% CI 96–100%; Table III). Of the 223 true positive cases, 214 (96%) had a priori defined objective findings of disease and of the three false negative cases, three (100%) had a priori defined objective findings of disease. After review of the false negative and false positive cases, the results of four original chart reviews were overturned (Supplemental table). The PPV was generally high for all the different diseases (Table IV), but was highest in cases of heart failure and diabetes mellitus (97%). The only disease with a PPV <90% was multiple sclerosis (83%). In most of the false positive cases found in multiple sclerosis, the codes were found to be registered as part of neurological work-up that did not reveal multiple sclerosis. We also noted that in CKD, where the PPV was 90%, false positive cases were associated with the ICD-10 code N19 (unspecified kidney failure). However, we found that 10 of the 30 participants with CKD codes only had code N19, of which seven (23% of the total) were found to have CKD.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/14034948211059974",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_sha256": "e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_url": "https://doi.org/10.1177/14034948211059974"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7:p4",
+        "source_issue_ids": [],
+        "text": "176 S. Rögnvaldsson et al.\n\nTable IV. Results of the chart review for each disease and calculated positive and negative predictive values and total accuracy for each disease. Grey shading marks objective findings of disease.\n\nDisease Coded diagnosis Step 1 Step 2 Step 3 Step 4 After review With disease Without disease PPV (%) NPV (%) Accuracy (%) Prevalence (%) Prevalence weighted accuracy (%)\n\nChronic kidney disease + 8 19 0 NA 0 27 3 90 100 95 2.9 99.7 − 0 0 0 NA 0 0 30 Chronic obstructive pulmonary disease + 7 16 2 NA 2 27 3 90 100 95 6.7 99.3 − 0 1 0 NA –1 0 30 Diabetes mellitus + 26 2 1 NA 0 29 1 97 100 98 8.6 99.7\n\n− 1 0 0 NA –1 0 30 Heart failure + 21 4 3 1 0 29 1 97 93 95 4.1 93.2\n\n− 1 1 0 0 0 2 28 Hypertension + 29 0 NA NA 0 29 1 97 97 97 42.0 97 − 1 0 NA NA 0 1 29\n\nHypothyroidism + 28 0 0 NA 0 28 2 93 100 97 11.1 99.2 − 0 0 0 NA 0 0 30 Ischaemic heart disease + 28 1 0 NA 0 29 1 97 100 98 12.1 99.6 − 0 0 0 NA 0 0 30\n\nMultiple sclerosis + 22 3 0 NA 0 25 5 83 100 92 0.5 99.9 − 0 0 0 NA 0 0 30\n\nPPV: positive predictive value; NPV: negative predictive value.\n\nThe NPV was high for all the different diseases, with most diseases having an NPV of 100% (Table IV). Only heart failure and hypertension had a NPV <100% (93 and 97%, respectively).\n\nDiscussion\n\nIn this first study of the validity of chronic disease diagnoses in the IHR, we found that 96% of participants were correctly characterised as having or not having a chronic disease. This is similar to, or higher than, other high-quality health care registries in other Nordic countries. For example, the PPV in the Swedish inpatient register has been estimated to be between 85 and 95% [12]. After weighing the PPV and NPV by the prevalence of the disorders evaluated, we estimate that the overall accuracy of the IHR with regard to the presence or absence of chronic disease is 98.45%. These findings indicate that the accuracy of diagnoses in the IHR is very high. Furthermore, we found objective evidence of disease, beyond the recorded opinion of the treating physician (e.g. blood tests and medical treatment) in 96% of true positives. This indicates that chronic disease diagnoses in the IHR are not only recorded correctly, but are also med-ically accurate. Taken together, the results show that chronic disease diagnoses in the IHR are highly valid and that the data can be used to accurately determine the presence of chronic disease in research or public health policy-making. Compared with similar registries in the Nordic countries and internationally, the data in the IHR are of high quality. These finding provide confidence in studies utilising chronic disease data from the IHR that have broader international\n\nimplications. Although the study findings do not iden-tify any particular factors that increase data quality, we speculate that the high data quality in the IHR can be attributed to the diagnoses being physician-recorded and the fact that the small Icelandic medical community were all trained, at least in part, at the same insti-tutions, leading to more uniform registration. There were some disease-specific differences in the validity of the IHR, but these differences were minimal. All of the diagnoses included had 95% overall accuracy, except multiple sclerosis (92%), where the PPV was 83%. This was caused by participants being incorrectly assigned a diagnostic code during work-up that did not lead to a diagnosis of multiple sclerosis. We also noted that one of the codes for CKD, N19 (unspecified kidney failure), led to a few cases of acute kidney failure being registered as CKD. However, a considerable number of cases that had CKD were only registered as N19. We therefore recommend including N19 when defining CKD in the registry because the increase in specificity gained would not justify the loss in sensitivity. Given the consistent high quality of data between the included disorders, it is likely that the same applies for other chronic diseases not included in the analysis. However, there may be some individual exceptions to this, as seen here in multiple sclerosis. This study has some strengths. First, by including a broad range of chronic diseases diagnosed and treated by different sub-specialties, the study is, to some degree, generalisable to diagnoses not included in this study. Furthermore, the study included a random sample of participants from a cohort including a large proportion of the Icelandic population, which",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/14034948211059974",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_sha256": "e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_url": "https://doi.org/10.1177/14034948211059974"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7:p5",
+        "source_issue_ids": [],
+        "text": "supports the generalizability of the results and decreases the possibility of selection bias. Second, by using a step-based criteria of validation certainty, we have also gained insight into the level of diagnostic certainty associated with chronic disease diagnoses in the IHR. Most importantly, because the chronic diseases included (e.g. as comorbidities) in epidemiological studies are those that have been diagnosed before a certain date, like in this study, the study findings provide a measure of validity of chronic disease diagnoses as they are included as comorbidities in research. Therefore they can be used when inter-preting studies incorporating chronic disease data from the IHR. This study also has some limitations. First, we only included eight chronic diseases and there may be other chronic diseases that have poorer registration. Most notably, we did not include rheumatological disease due to the degree of diagnostic uncertainty in rheumatological syndromes and because rheuma-tology medical records are mostly found in private practices in Iceland. Second, we did not assess the timeliness of disease diagnoses or acute illness, such as infection or thrombosis. Although the total number of patients reviewed was high, relatively few patients were included in the PPV and NPV calcula-tion for specific diseases. Therefore the disease-specific PPVs and NPVs should be interpreted with caution. In summary, we evaluated the validity of chronic disease diagnoses in the IHR and found it to be very high, both in terms of registration and objective validity. These findings show that chronic disease data from the IHR are highly valid and can be used with confidence when evaluating chronic diseases in Iceland and in epidemiological and clinical research.\n\nAcknowledgements\n\nScreening tests were performed by The Binding Site Ltd, Birmingham, UK. Cross-linking of study data to national registries was performed by the Icelandic Directorate of Health and the Icelandic Cancer Society. This study was made possible by the hun-dreds of nurses, laboratory technicians and physicians around Iceland who collect blood samples from participants for screening or during follow-up and provide clinical care that is not part of the study. Icelandic and international myeloma patient organi-sations, including Perluvinir, the Icelandic myeloma patient organisation, and the International Myeloma Foundation provided the project with important per-spectives and networks. The information technology department and clinical laboratory staff at The National University Hospital of Iceland made the\n\nChronic diseases in Icelandic healthcare registries 177\n\ncomplex sampling processes required for the study possible. The staff at Loftfar, Aton, Miðlun and Hvíta Húsið played an integral part in the development of recruiting strategies and media campaigns. Decode genetics have generously provided the study team with important insights and access to their state-of-the-art facilities. Presidents Vigdís Finnbogadóttir and Guðni Th Jóhannesson are thanked for their public support of the study. The iStopMM team are particularly acknowledged for their hard and dedi-cated work. Special thanks go to the residents of Akranes, Iceland who participated in the pilot and proof-of-concept of the study’s recruitment. Most importantly, acknowledgements go to the thousands of Icelanders who have generously provided their informed consent for the study, answered questionnaires, provided blood samples, and undergone diagnostic testing and follow-up.\n\nAuthor contributions\n\nThe study was designed by all the co-authors and overseen by SYK. Data acquisition and data analysis was performed by SR. Medical chart review was performed by SR, ÞEL and ST. The paper was written by SR and edited by all the co-authors.\n\nDeclaration of conflicting interests\n\nThe authors declared the following potential con-flicts of interest with respect to the research, authorship, and/or publication of this article: SYK has received research funding from Amgen and Celgene. Other co-authors have nothing to disclose.\n\nFunding\n\nThe authors disclosed receipt of the following finan-cial support for the research, authorship, and/or publication of this article. The iStopMM study is funded by the Black Swan Research Initiative by the International Myeloma Foundation and the Icelandic Centre for Research (grant agreement No. 173857). This project has also received funding from the European Research Council under the European Union’s Horizon 2020 research and innovation pro-gramme (grant agreement No. 716677). Additional funding was provided by the University of Iceland, Landspítali University Hospital and the Icelandic Cancer Society.\n\nORCID iDs\n\nSæmundur Rögnvaldsson https://orcid.org/0000 -0003-2162-8414 Sigrun Thorsteinsdottir https://orcid.org/0000 -0001-5017-3530",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1177/14034948211059974",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_sha256": "e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7",
+          "source_url": "https://doi.org/10.1177/14034948211059974"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7:p6",
+        "source_issue_ids": [],
+        "text": "178 S. Rögnvaldsson et al.\n\nSupplemental material\n\nSupplemental material for this article is available online.\n\nReferences\n\n[1] Marengoni A, Angleman S, Melis R, et al. Aging with multimorbidity: A systematic review of the literature. Ageing Res Rev 2011;10:430–9. DOI: 10.1016/j.arr.2011.03.003. [2] Wang L, Si L, Cocker F, et al. A systematic review of cost-of-illness studies of multimorbidity. Appl Health Econ Health Policy 2018;16:15–29. DOI: 10.1007/s40258-017-0346-6. [3] Nguyen QD, Wu C, Odden MC, et al. Multimorbidity patterns, frailty, and survival in community-dwelling older adults. J Gerontol: Ser A 2019;74:1265–70. DOI: 10.1093/gerona/gly205. [4] Sverrisdóttir IS, Rögnvaldsson S, Þorsteinsdóttir S, et al. Comorbidities in multiple myeloma and implications on survival: A population-based study. Eur J Haematol 2021;106:774–82. DOI: 10.1111/ejh.13597. [5] Kannel WB and McGee DL. Diabetes and cardiovascular disease: The Framingham Study. JAMA 1979;241:2035–8. DOI: 10.1001/jama.1979.03290450033020. [6] Wynder EL and Graham EA. Tobacco smoking as a possible etiologic factor in bronchiogenic carcinoma: A study of six hundred and eighty-four proved cases. JAMA 1950;143:329– 36. DOI: 10.1001/jama.1950.02910390001001. [7] Doyle JT, Dawber TR, Kannel WB, et al. Cigarette smoking and coronary heart disease. N Engl J Med 1962;266:796– 801. DOI: 10.1056/nejm196204192661602. [8] Bergmann MM, Jacobs EJ, Hoffmann K, et al. Agreement of self-reported medical history: Comparison of an in-person interview with a self-administered question-naire. Eur J Epidemiol 2004;19:411–16. DOI: 10.1023/B:E JEP.0000027350.85974.47. [9] Coughlin SS. Recall bias in epidemiologic studies. J Clin Epidemiol 1990;43:87–91. DOI: https://doi.org/10.1016/0895- 4356(90)90060-3. [10] Leal JR and Laupland KB. Validity of ascertainment of co-morbid illness using administrative databases: A systematic review. Clin Microbiol Infect 2010;16:715–21. DOI: 10.1111/j.1469-0691.2009.02867.x. [11] Smith Jervelund S and De Montgomery CJ. Nordic registry data: Value, validity and future. Scand J Public Health 2020;48:1–4. DOI: 10.1177/1403494819898573. [12] Ludvigsson JF, Andersson E, Ekbom A, et al. External review and validation of the Swedish national inpatient\n\nregister. BMC Public Health 2011;11:450. DOI: 10.1186/1471-2458-11-450. [13] Schmidt M, Schmidt SAJ, Sandegaard JL, et al. The Danish National Patient Registry: A review of content, data quality, and research potential. Clin Epidemiol 2015;7:449–90. DOI: 10.2147/clep.s91125. [14] Sigurdardottir LG, Jonasson JG, Stefansdottir S, et al. Data quality at the Icelandic Cancer Registry: Compa-rability, validity, timeliness and completeness. Acta Oncol 2012;51:880–9. DOI: 10.3109/0284186X.2012.698751. [15] WHO. International statistical classification of diseases and related health problems, 10th revision (ICD-10). Geneva: World Health Organization, 2016. [16] Vistunarskrá heilbrigðisstofnana [Hospital Discharge Register], www.landlaeknir.is/tolfraedi-og-rannsoknir/gagnasofn/gagnasafn/item12464/Vistunarskra-heilbrigdisstof-nana-(Hospital-Discharge-Register) (accessed 17 February 2021). [17] Samskiptaskrá heilsugæslustöðva [Register of Primary Health Care Contacts], www.landlaeknir.is/tolfraedi-og-rannsoknir/ gagnasofn/gagnasafn/item12460/Samskiptaskra-heilsug-aeslustodva-(Register-of-Primary-Health-Care-Contacts) (accessed 17 February 2021). [18] Rögnvaldsson S, Löve ÞJ, Þorsteinsdóttir S, et al. Iceland screens, treats, or prevents multiple myeloma (iStopMM): A population-based screening study for monoclonal gam-mopathy of undetermined significance and randomized controlled trial of follow-up strategies. Blood Cancer J 2021;11:94. DOI: 10.1038/s41408-021-00480-w. [19] Harris PA, Taylor R, Minor BL, et al. The REDCap con-sortium: Building an international community of software platform partners. J Biomed Inform 2019;95:103208. DOI: 10.1016/j.jbi.2019.103208. [20] Harris PA, Taylor R, Thielke R, et al. Research electronic data capture (REDCap)—A metadata-driven methodology and workflow process for providing translational research informatics support. J Biomed Inform 2009;42:377–81. DOI: https://doi.org/10.1016/j.jbi.2008.08.010. [21] R Core Team. R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing, 2021. [22] Wickham H, Averick M, Bryan J, et al. Welcome to the Tidyverse. J Open Source Software 2019;4:1686. DOI: 10.21105/ joss.01686. [23] Harrell FE, Dupont C, et al. Hmisc: Harrell Miscellaneous, https://CRAN.R-project.org/package=Hmisc (2020, accessed 05 July 2021).",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:e2b83def238f4cd7f0dd2c8f2b25cde7ea99b8ab05991dbccb618e0b7b343bc7"
+}

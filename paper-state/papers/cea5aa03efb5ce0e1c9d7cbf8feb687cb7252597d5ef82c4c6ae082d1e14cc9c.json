@@ -1,0 +1,355 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T15:50:46.155715+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Changes to healthcare utilisation and symptoms for common mental health problems over the first 21 months of the COVID-19 pandemic: parallel analyses of electronic health records and survey data in England",
+        "year": null
+      },
+      "doi": "10.1016/j.lanepe.2023.100697",
+      "format": "pdf",
+      "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+      "url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p1",
+        "source_issue_ids": [],
+        "text": "Articles\n\nChanges to healthcare utilisation and symptoms for common mental health problems over the ﬁrst 21 months of the COVID-19 pandemic: parallel analyses of electronic health records and survey data in England\n\nVicky P. Taxiarchi,a Morwenna Senior,a Darren M. Ashcroft,b,c Matthew J. Carr,b,c Holly Hope,a Matthew Hotopf,d Evangelos Kontopantelis,e\n\nSally McManus,f Praveetha Patalay,g Sarah Steeg,h,i Roger T. Webb,c,h Kathryn M. Abel,a,j and Matthias Piercea,j,∗\n\naFaculty of Biology, Medicine and Health, Division of Psychology and Mental Health, Centre for Women’s Mental Health, University of Manchester, Manchester, UK bFaculty of Biology, Medicine and Health, Division of Pharmacy and Optometry, The University of Manchester, Manchester, UK cNational Institute for Health and Care Research (NIHR) Greater Manchester Patient Safety Research Collaboration (GM PSRC), University of Manchester, UK dDepartment of Psychological Medicine, Institute of Psychiatry Psychology and Neuroscience, King’s College London, London, UK eFaculty of Biology, Medicine and Health, Division of Informatics, Imaging and Data Sciences, The University of Manchester, Manchester, UK fViolence and Society Centre, City, University of London, London EC1V 0HB, UK gCentre for Longitudinal Studies and MRC Unit for Lifelong Health and Ageing, University College London, London, UK hDivision of Psychology & Mental Health, Centre for Mental Health and Safety, The University of Manchester, Manchester, UK iNIHR School for Primary Care Research, UK\n\nSummary Background Few studies have investigated the effect of the COVID-19 pandemic on mental health beyond 2020. This study quantiﬁes changes to healthcare utilisation and symptoms for common mental health problems over the pandemic’s ﬁrst 21 months.\n\nMethods Parallel cohort studies using primary care database and survey data for adults (≥16 years) in England from January 2015 to December 2021: 16,551,842 from the Clinical Practice Research Datalink (CPRD) and 40,699 from the UK Household Longitudinal Survey (UKHLS). Interrupted time-series models estimated changes in monthly prevalence of presentations and prescribed medications for anxiety and depression (CPRD); and self-reported psychological distress (UKHLS). The pandemic period was divided into ﬁve phases: 1st Wave (April–May 2020); post-1st Wave (June–September 2020); 2nd Wave (October 2020–February 2021); post 2nd Wave (March–May 2021); 3rd Wave (June–December 2021).\n\nFindings Primary care presentations for depression or anxiety dropped during the ﬁrst wave (4.6 fewer monthly appointments per 1000 patients, 4.4–4.8) and remained lower than expected throughout follow-up. Self-reported psychological distress exceeded expected levels during the ﬁrst (Prevalence Ratio = 1.378, 95% CI 1.289–1.459) and second waves (PR = 1.285, 1.189–1.377), returning towards expected levels during the third wave (PR = 1.038, 0.929–1.154). Increases in psychological distress and declines in presentations were greater for women. The decrease in primary care presentations for depression and anxiety exceeded that for physical health conditions (rheumatoid arthritis, diabetes, urinary tract infections). Anxiety and depression prescriptions returned to pre-pandemic levels during the second wave due to increased repeat prescriptions.\n\nInterpretation Despite periods of distress during the pandemic, we did not ﬁnd an enduring effect on common mental health problems. The fall in primary care presentations for anxiety or depression suggests changing healthcare utilisation for mental distress and a potential treatment gap.\n\nFunding National Institute for Health and Care Research (NIHR).\n\nDOI of original article: https://doi.org/10.1016/j.lanepe.2023.100711 *Corresponding author. Faculty of Biology, Medicine and Health, Division of Psychology and Mental Health, Centre for Women’s Mental Health, University of Manchester, Jean McFarlane Building, Oxford Road, Manchester M13 9PL, UK. E-mail address: matthias.pierce@manchester.ac.uk (M. Pierce). jJoint senior authorship.\n\nThe Lancet Regional Health - Europe 2023;32: 100697\n\nPublished Online 21 July 2023 https://doi.org/10. 1016/j.lanepe.2023. 100697\n\nwww.thelancet.com Vol 32 September, 2023 1",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 10
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p10",
+        "source_issue_ids": [],
+        "text": "Articles\n\nreported mental health symptom scores tend to over-estimate mental disorder prevalence.27 In addition, whilst we are able to indirectly examine how primary care visits for those with psychological distress changed due to the pandemic, linked datasets with both outcomes would be preferable. A further limitation is that generalisability of results is affected by which primary care practices submit data to the CPRD dataset and who responds to the UKHLS survey. Relatedly, those who contribute ongoing data may form a selective group and therefore the results may be subject to selection effects due to differential attrition. Also, whilst primary care is the main source of mental health care for most mental health problems in the UK, several other forms of mental health support were not considered; for example talking therapies, or specialist mental health care. Finally, there are multiple hypotheses tested in this study and further conﬁrmatory analyses (preferably in other countries) may be needed to rule out whether some of the ﬁndings arose by chance.\n\nImplications and future research This study has two important implications for policy-makers. First, whilst mental distress increased in the short term during the ﬁrst two waves of the pandemic (as per the survey dataset), adults in England largely appeared to be psychologically resilient to the pandemic and mental distress returned to pre-pandemic levels. In addition, there was no subsequent ‘surge’ in the numbers of people either seeking assessment and treatment for common mental health symptoms or receiving new prescriptions. It is also of note that other studies have not shown an increase in other markers of mental health, for example: severe mental health symptoms left untreated28; or self-harm11 or suicide.29 In our view, this dispels previous concerns that the pandemic caused a ‘tsunami’ of mental illness.30 The second key implication is that the pandemic appears to have changed the ways in which people manage their mental health and subsequently access mental health care. For some, this may represent a widening treatment gap, whereby people who need treatment are no longer presenting to services. However, more treatment does not necessarily translate into a smaller treatment gap, which might be better narrowed by improving prevention measures and the quality of treatment.31 Further-more, for others, perhaps especially women, it may mean a reduction in use of medical services for milder, more transient problems. Future research should determine whether the changing way in which the pandemic has led to delivery of care has led to greater unmet clinical need, because people are inappropriately put off using alternative sys-tems, e.g. telephone consultations for mental health problems. It should also clarify whether a reduction in face-to-face healthcare means more people will be on fewer, or more, long-term psychotropic medications.\n\nThis is important given patient preferences for less pharmacological and more psychological approaches to mental health treatment.32 In our view, such future research would greatly beneﬁt from broad stakeholder involvement to consider the risks and beneﬁts of a changing landscape for mental healthcare delivery.\n\nContributors MP conceived of the study and wrote the initial analysis plan, and all authors (except MH) contributed. MC extracted the data. MS and KMA ﬁnalised clinical indications. MP and VPT had access to and veriﬁed the data, and conducted the analyses. All authors contributed to data interpretation. MP and VPT wrote the initial draft and created tables and ﬁgures. All authors contributed to the ﬁnal manuscript and approved its submission for publication.\n\nData sharing statement Clinical code lists and data management code are published on osf.org. Electronic health records are, by deﬁnition, considered “sensitive” data in the UK by the Data Protection Act and cannot be shared via public deposition because of information governance restriction in place to protect patient conﬁdentiality. Access to data is possible only once approval has been obtained through the individual constituent entities controlling access to the data. The primary care data can be requested via application to the Clinical Practice Research Datalink (www.cprd.com/ researcher), secondary care data can be requested via application to the hospital episode statistics from the UK Health and Social Care Information Centre (www.hscic.gov.uk/hesdata).\n\nEthics approval The study was approved by the Independent Scientiﬁc Advisory Committee (ISAC) for MHRA Database Research (protocol number: 20_094). Generic ethical approval for the CPRD has been granted by a Health Research Authority (HRA) Research Ethics Committee (East Midlands —Derby, REC reference number 05/MRE04/87).\n\nDeclaration of interests MH is Principal Investigator of the RADAR-CNS consortium, a pre-competitive public-private partnership on mobile health, funded by Innovative Medicines Initiative. The partnership includes research funding contributions from Janssen, Lundbeck, UCB, Biogen and MSD.\n\nAcknowledgements This work was funded by the National Institute for Health and Care Research (NIHR) Greater Manchester Patient Safety Research Collaboration (GM PSRC). MP is funded on a Henry Dale Fellowship by the Wellcome Trust and the Royal Society (224243/Z/21/Z). PP acknowledges funding from the Longitudinal Health and Wellbeing strand of the National Core Studies programme (MC PC 20030: MC PC 20059: COV-LT-0009). SM acknowledges salary support from the UK Prevention Research Partnership (Violence, Health and Society; MR-VO49879/1). This study is based on data from the Clinical Practice Research Datalink (CPRD) obtained under licence from the UK Medicines and Healthcare products Regulatory Agency (MHRA). The data is provided by patients and collected by the NHS as part of their care and support. The interpretation and conclusions contained in this study are those of the authors alone, and not necessarily those of the MHRA, NIHR, NHS or the Department of Health and Social Care. The study protocol was approved by CPRD’s Independent Scientiﬁc Advisory Committee (reference: 20_094). We would like to acknowl-edge all the data providers and general practices who make anony-mised data available for research. The study funders had no role in the study design, data collection, data analysis, data interpretation, or writing of the report.\n\nAppendix A. Supplementary data Supplementary data related to this article can be found at https://doi. org/10.1016/j.lanepe.2023.100697.\n\n10 www.thelancet.com Vol 32 September, 2023",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 11
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p11",
+        "source_issue_ids": [],
+        "text": "References 1 Holmes EA, Connor RCO, Perry VH, et al. Multidisciplinary research priorities for the COVID-19 pandemic: a call for action for mental health science. Lancet Psychiatry. 2020;7:547–560. 2 O’Connor RC, Wetherall K, Cleare S, et al. Mental health and wellbeing during the COVID-19 pandemic: longitudinal analyses of adults in the UK COVID-19 mental health & wellbeing study. Br J Psychiatry. 2021;218:326–333. 3 Pierce M, Hope H, Ford T, et al. Mental health before and during the COVID-19 pandemic: a longitudinal probability sample survey of the UK population. Lancet Psychiatry. 2020;7:883–892. 4 Santomauro DF, Mantilla Herrera AM, Shadid J, et al. Global prevalence and burden of depressive and anxiety disorders in 204 countries and territories in 2020 due to the COVID-19 pandemic. Lancet. 2021;398:1700–1712. 5 Sun Y, Wu Y, Fan S, et al. Comparison of mental health symptoms before and during the covid-19 pandemic: evidence from a systematic review and meta-analysis of 134 cohorts. BMJ. 2023;380:e074224. 6 World Health Organization. The impact of COVID-19 on mental, neurological and substance use services. https://www.who.int/ publications/i/item/978924012455. Accessed April 4, 2023. 7 Rømer TB, Christensen RHB, Blomberg SN, Folke F, Christensen HC, Benros ME. Psychiatric admissions, referrals, and suicidal behavior before and during the COVID-19 pandemic in Denmark: a time-trend study. Acta Psychiatr Scand. 2021;144:553–562. 8 Carr MJ, Steeg S, Webb RT, et al. Effects of the COVID-19 pandemic on primary care-recorded mental illness and self-harm episodes in the UK: a population-based cohort study. Lancet Public Health. 2021;6:e124–e135. 9 Pierce M, McManus S, Hope H, et al. Mental health responses to the COVID-19 pandemic: a latent class trajectory analysis using longitudinal UK data. Lancet Psychiatry. 2021;8:610–619. 10 Patel K, Robertson E, Kwong ASF, et al. Psychological distress before and during the COVID-19 pandemic among adults in the United Kingdom based on coordinated analyses of 11 longitudinal studies. JAMA Netw Open. 2022;5:e227629. 11 Steeg S, Bojani´c L, Tilston G, et al. Temporal trends in primary care-recorded self-harm during and beyond the ﬁrst year of the COVID-19 pandemic: time series analysis of electronic healthcare records for 2.8 million patients in the Greater Manchester Care Record. EClinicalMedicine. 2021;41:101175. https://doi.org/10. 1016/j.eclinm.2021.101175. 12 Wolf A, Dedman D, Campbell J, et al. Data resource proﬁle: clinical practice research datalink (CPRD) Aurum. Int J Epidemiol. 2019;48, 1740–1740G. 13 Clinical Practice Research Datalink. CPRD Aurum May 2022 dataset. 2022. 14 Goldberg DP, Gater R, Sartorius N, et al. The validity of two ver-sions of the GHQ in the WHO study of mental illness in general health care. Psychol Med. 1997;27:191–197. 15 NHS Digital. Health survey for England; 2021. https://digital.nhs. uk/data-and-information/publications/statistical/health-survey-for-england. Accessed February 21, 2023. 16 Ofﬁce for National Statistics. Coronavirus (COVID-19) infection survey technical article: waves and lags of COVID-19 in England, June 2021. Coronavirus Infect. Surv. Tech. Artic.; 2021. https://www.ons. gov.uk/peoplepopulationandcommunity/healthandsocialcare/ conditionsanddiseases/articles/coronavirus. Accessed March 13, 2023.\n\n17 UK Parliament. House common library. Coronavirus: a history of English lockdown laws; 2021. https://commonslibrary.parliament. uk/research-brieﬁngs/cbp-9068/. Accessed June 2, 2023. 18 Zhang CX, Boukari Y, Pathak N, et al. Migrants’ primary care utilisation before and during the COVID-19 pandemic in England: an interrupted time series analysis. Lancet Reg Health Eur. 2022;20: 100455. 19 GOV.UK. Coronavirus (COVID-19) in the UK. Vaccinations in England. https://coronavirus.data.gov.uk/details/vaccinations? areaType=nation&areaName=England. Accessed January 24, 2023. 20 Bauer-Staeb C, Davis A, Smith T, et al. The early impact of COVID- 19 on primary care psychological therapy services: a descriptive time series of electronic healthcare records. EClinicalMedicine. 2021;37:100939. https://doi.org/10.1016/j.eclinm.2021.100939. 21 Armitage R. Antidepressants, primary care, and adult mental health services in England during COVID-19. Lancet Psychiatry. 2021;8:e3. 22 Sevilla A, Smith S. Baby steps: the gender division of childcare during the COVID-19 pandemic. Oxf Rev Econ Policy. 2020;36:S169–S186. 23 Ofﬁce for National Statistics. Domestic abuse in England and Wales: November 2020. London; 2020. https://www.ons.gov. uk/peoplepopulationandcommunity/crimeandjustice/bulletins/ domesticabuseinenglandandwalesoverview/november2020. Accessed March 27, 2023. 24 De C, Nieves P, Gaddis I, Muller M. What have we learnt, one year later?; 2021. http://www.worldbank.org/prwp. 25 NHS Digital. Appointments in general practice; 2022. https://digital. nhs.uk/data-and-information/publications/statistical/ appointments-in-general-practice. Accessed January 24, 2023. 26 Schmitz N, Kruse J, Heckrath C, Alberti L, Tress W. Diagnosing mental disorders in primary care: the general health question-naire (GHQ) and the symptom check list (SCL-90-R) as screening instruments. Soc Psychiatry Psychiatr Epidemiol. 1999;34:360–366. 27 Thombs BD, Kwakkenbos L, Levis AW, Benedetti A. Addressing overestimation of the prevalence of depression based on self-report screening questionnaires. CMAJ. 2018;190:E44–E49. 28 Mukadam N, Sommerlad A, Wright J, et al. Acute mental health presentations before and during the COVID-19 pandemic. BJPsych Open. 2021;7:e134. https://doi.org/10.1192/bjo.2021.970. 29 Pirkis J, Gunnell D, Shin S, et al. Suicide numbers during the ﬁrst 9-15 months of the COVID-19 pandemic compared with pre-existing trends: an interrupted time series analysis in 33 countries. EClinicalMedicine. 2022;51:101573. https://doi.org/10. 1016/j.eclinm.2022.101573. 30 Royal College of Psychiatrists. Psychiatrists see alarming rise in patients needing urgent and emergency care and forecast a ‘tsunami’ of mental illness; 2020. https://www.rcpsych.ac.uk/news-and-features/ latest-news/detail/2020/05/15/psychiatrists-see-alarming-rise-in-patients-needing-urgent-and-emergency-care. Accessed March 10, 2023. 31 Jorm AF, Patten SB, Brugha TS, Mojtabai R. Has increased pro-vision of treatment reduced the prevalence of common mental disorders? Review of the evidence from four countries. World Psychiatry. 2017;16:90–99. 32 McHugh RK, Whitton SW, Peckham AD, Welge JA, Otto MW. Patient preference for psychological vs pharmacologic treatment of psychiatric disorders: a meta-analytic review. J Clin Psychiatry. 2013;74:595–602.\n\nArticles\n\nwww.thelancet.com Vol 32 September, 2023 11",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p2",
+        "source_issue_ids": [],
+        "text": "Articles\n\nCopyright © 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).\n\nKeywords: COVID-19 pandemic; Common mental health problems; Psychological distress; Primary care; Depression; Anxiety; Adults\n\nResearch in context\n\nEvidence before this study Web of Science was searched for meta-analyses, published since March 2020, examining changes in common mental health problems using electronic health records or survey data and included UK studies. Titles were searched for (COVID-19 OR coronavirus OR SARS-CoV-2) AND (((mental OR psych*) NEAR/1 (disorder OR illness or distress)) OR depression OR anxiety) AND ((“electronic health records” OR “EHR” OR “registry”) OR (“survey”)). This revealed 638 reviews, of which 6 were considered relevant. These reported small but noticeable increases in symptoms of psychological distress, particularly among women, ethnic minorities, parents, and young people. They also reported substantial declines in mental health treatment during the pandemic. However, studies focused on the initial months of the pandemic, leaving a gap in understanding about predicted longer-term effects on mental health and its treatment. The search was implemented on the 6th April 2023.\n\nAdded value of this study This study is the ﬁrst to investigate how the COVID-19 pandemic inﬂuenced common mental health problems\n\nlonger-term in adults in England using both electronic health records and survey data for the ﬁrst 21 months. Our ﬁndings indicate that while presentations to primary care for depression and anxiety remained lower than expected throughout the pandemic, self-reported psychological distress in surveys remained higher than expected up to the end of the 2nd wave, before returning to expected levels after June 2021. We also reveal that people reporting psychological distress were less likely to access mental health treatment in primary care during the pandemic than before.\n\nImplications of all the available evidence This evidence indicates that, whilst the pandemic did not seem to lead to a lasting change in the prevalence of psychological distress, it has changed how people manage their mental health and access mental health care. For some, this may lead to a treatment gap and future research should explore whether the shift to telephone consultations means some are less likely to seek needed treatment for mental health problems. Understanding these factors can inform strategies to improve the quality of prevention measures and treatment for mental health.\n\nIntroduction Early in the COVID-19 pandemic there was concern that loss of social contacts, fear of the virus, economic shocks and bereavement would result in a signiﬁcant worsening in population mental health.1 In the early months rapid, well-publicised UK surveys2,3 supported this notion and systematic reviews of international studies reported small but noticeable increases in symptoms of psychological distress following the onset of the pandemic, particularly for women, ethnic minorities, parents and young people.4,5 At the same time, specialist mental health services operated at reduced capacity, both in the UK6 and elsewhere.7 In the UK, where primary care acts as the ﬁrst-contact for those seeking help for mental health problems, and where the vast majority of psychotropic medications are prescribed, there were sharp declines in contact with GP’s associated with the pandemic, as people were instructed not to burden services.8\n\nBeyond the acute phase of the public health emergency, the question for mental health services is: has there been an enduring effect on people’s mental health and an increase in care-seeking? Or has there been a change in the way people manage their mental health, such that fewer people with psychological distress attend\n\nprimary care? If this is the case, this may indicate a ‘treatment gap’, whereby some who require treatment are put off from seeking it, thereby worsening population mental health. It may also mean people’s symptoms have resolved without treatment, or they found support elsewhere. Answering these questions is crucial if we are to inform recovery from COVID-19 and understand how to respond optimally in future pandemics. Current evidence about mental health and its treatment beyond the pandemic’s ﬁrst six months is limited. Some UK surveys reported that population mental health recovered in the summer of 20209 to near pre-pandemic levels; others reported further deterioration during the winter of 2020–2021, as further infection waves occurred.10 By September 2020, attendances at primary care for depression and anxiety had returned to similar levels seen pre-pandemic8; however self-harm presentations remained lower than pre-pandemic up until at least May 2021.11\n\nWe examined the longer-term effects of the pandemic on symptoms presentations of, and medication treatment for, common mental health problems over 21 months. We conducted analyses of a large, primary care electronic health record dataset and a na-tionally representative survey using interrupted time\n\n2 www.thelancet.com Vol 32 September, 2023",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p3",
+        "source_issue_ids": [],
+        "text": "Articles\n\nseries analysis comparing the observed prevalence of common mental health problems during the pandemic with that predicted by pre-pandemic trends. Triangu-lating information across two data sources enabled hypotheses to be tested that would not be possible using single sources. There were three aims. For aim 1, we tested the hypothesis that the pandemic resulted in a sustained increase in adults with common mental health problems, evidenced by either high self-reported psychological distress levels, or treatment-seeking for mental health problems. For aim 2, we explored whether, beyond the ﬁrst 6 months of the pandemic, trends in psychological distress are mirrored in trends in people accessing services. For aim 3, we considered whether trends in treatment-seeking reﬂected broader changes in healthcare access that affected both mental and physical health; or whether the pandemic had a distinct impact on presentations for mental health problems. To explore this, we examined changes in the ratio of common mental health presentations with presentations for physical health problems, selecting physical health problems that were unlikely to be affected directly by the pandemic, but that were likely to have been affected by changes in healthcare access (rheumatoid arthritis, diabetes or urinary tract infections).\n\nMethods Study design Interrupted time-series analyses quantiﬁed the change in symptoms of, and healthcare utilisation for, common mental health problems associated with the COVID-19 pandemic. Psychological distress symptoms were measured in survey data, and primary care presentations and prescriptions for anxiety or depression in electronic health records. The prevalence of each outcome was calculated monthly, from January 2015 to December 2021. Change associated with the pandemic was quantiﬁed by comparing the observed prevalence during the pandemic with the estimated counterfactual prevalence, had the pandemic not happened (excluding March 2020, when England transitioned to the pandemic).\n\nSurvey cohort A cohort of adults (age 16 and over) was identiﬁed from the UK Household Longitudinal Survey (UKHLS). The UKHLS is an ongoing, longitudinal survey of approximately 40,000 randomly selected UK households, with yearly data collected through face-to-face interviews. In addition, respondents to the most recent pre-pandemic survey were invited to participate in 9 COVID-19 surveys (conducted online or over the telephone from April 2020 through September 2021; see Appendix pg 2–3 for further details on the UKHLS). Participants were included if they were resident in England and\n\nparticipated in at least one survey over the period January 2015 to December 2021. This resulted in 40,669 in the survey cohort (Fig. 1).\n\nPrimary care cohort Data on patients, aged 16 and over, registered with an English GP were extracted from the Clinical Practice Research Datalink (CPRD) Aurum dataset.12 Aurum holds data on clinical contacts, prescriptions and patient characteristics from GPs that use the EMIS Web® patient system software. Clinical observations and prescriptions are coded using a combination of SNOMED, Read and local EMIS® codes and the Dictionary of Medicines and Devices, respectively. For the May 2022 version (the version used in the analysis), the Aurum database held data on approximately 19.8% of all GP-registered patients in England.13 18,081,382 adults had data of acceptable quality, as per the data custodian’s speciﬁcations based on consistently recorded date of birth, practice registration and transfer-out dates,12 and were registered at an Aurum-participating practice for at least one calendar month over the study period 1st January 2015 to 31st December 2021. For the primary care cohort, follow-up started at the latest date of the patient’s: 16th birthday; registration at practice; or 1st January 2015. Their follow-up ended on the earliest date of: patient transferred out from practice; death; or 31st December 2021. Patients were excluded if they were followed-up less than a month (N = 324,382), In addition, a number of practices stopped contributing data to Aurum during the pandemic and exploratory analyses revealed these were a biased subset; therefore to minimise potential selection effects, these patients were excluded (N = 1,205,258). There were 16,551,842 patients in the primary care cohort (Fig. 1).\n\nOutcomes For the survey cohort, psychological distress was measured using the 12-item General Health Question-naire (GHQ-12)14; measuring self-reported general mental health, using a 4-point Likert scale. A common mental health problem was deﬁned as scoring in two highest categories in ≥4 questions, in accordance with ofﬁcial NHS statistics.15 For the primary care cohort, codes were identiﬁed indicating symptoms or diagnosis of depression or anxiety disorder, or prescriptions for anxiolytics, hypnotics or antidepressants. Code lists are published online [https://osf.io/u3d4f/]. In order to exclude non-mental health indications (e.g. antidepressants for neuropathic pain), prescriptions were included when there was a historical diagnosis of anxiety/ depression, or a symptom 3 months before/after.\n\nCovariates For both data sources, data were extracted on: ethnicity (White, Black, Asian, other); gender (women, men, indeterminate); age (16–24, 25–34, 35–49, 50–64, 65+);\n\nwww.thelancet.com Vol 32 September, 2023 3",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p4",
+        "source_issue_ids": [],
+        "text": "Articles\n\nFig. 1: Flow chart representing selection into each cohort.\n\nregional zone (North, Midlands, South); and quintiles of the Index of Multiple Deprivation (IMD; an area level measure of deprivation; see Appendix pg 4 for further details on deﬁnition of covariates). The pandemic period was divided into ﬁve phases: 1 = 1st Wave (April–May 2020); P1 = post-1st Wave (June–September 2020); 2 = 2nd Wave (October 2020–February 2021); P2 = post 2nd Wave (March–May 2021); 3 = 3rd Wave (June– December 2021). The deﬁnition of these phases was based on infection ‘waves’ reported by ONS,16 and the periods of imposed national lockdowns and “three tier system” restrictions.17\n\nTo investigate whether changes in anxiety or depression presentations differed from physical health problems, consultations for ‘control’ conditions of rheumatoid arthritis (RA), diabetes and urinary tract infections (UTI) were extracted. These were selected based on three criteria: i) it is not plausible that the COVID-19 pandemic resulted in a measureable change in the rate of these diseases; ii) there is demographic overlap between these conditions and anxiety and depression; iii) patient’s with these conditions commonly attend primary care (see Appendix pg 5 for further details).\n\nData analysis Monthly period prevalence was calculated, as the number with outcome divided by the number surveyed (survey cohort, accounting for survey weights) or by the number followed-up for the entirety of that month (primary care cohort). For the primary care cohort, an outcome was deﬁned as at least one occurrence within a calendar month. To examine changes in healthcare utilisation for common mental health problems, relative to control physical health conditions, the ratios of\n\nmonthly prevalence of anxiety/depression to the monthly prevalence of RA, diabetes, and UTI were calculated as adjusted measures, to account for different ratios according to subgroups (e.g. older people experi-encing higher rates of diabetes, lower rates of anxiety) and that the pandemic had a differential effect on healthcare access.18 The ratios were calculated within subgroups of ethnicity, age and gender and subsequently combined using a weighted sum, according to the sample size in each subgroup. Binomial GLM’s with a logit link function were ﬁtted to monthly pre-pandemic data (January 2015 to February 2020) and used to predict the expected prevalence during the pandemic (April 2020 to December 2021). Models included variables for: seasonality; period trends; and autocorrelation (model building algorithm detailed in Appendix pg 6). Effect sizes were the rate difference (observed minus expected) or the rate ratio (observed divided by expected). Models were ﬁtted to subgroups: age, gender, region, ethnicity and IMD quintile; excluding missing subgroups. Missing data were infrequent (<0.2%), except for ethnicity in the primary care cohort (7.7%). Conﬁdence intervals were calculated using the bootstrap technique, from 2.5th and 97.5th percentiles of 1000 random samples. The bootstrap procedure accounted for clustering both at individual-level and, for the survey cohort, within households. As a result of the computational burden of this procedure, samples were constrained to no more than 1 million individuals.\n\nSensitivity analyses Two sensitivity analyses considered whether results were robust to changes in coding practices by repeating the analysis with the outcome deﬁned by: (i) diagnostic\n\n4 www.thelancet.com Vol 32 September, 2023",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p5",
+        "source_issue_ids": [],
+        "text": "Articles\n\ncodes only; or (ii) diagnostic codes, or symptom codes with a prior diagnosis. A further sensitivity examined whether the analysis was robust to the choice of model, therefore autoregressive integrated moving average (ARIMA) models were ﬁtted.\n\nPost hoc analyses Additional analyses, not part of the initial analysis plan, examined trends of new and repeated presentations or prescriptions. To calculate new presentations/prescriptions, the analysis was restricted to those without the outcome within six months prior to the analysis month. For repeated events, the analysis was restricted to those with an outcome event within six months prior. Data management and analyses were carried out in Stata MP v16, and the graphs were created using R version 4.2.2.\n\nRole of the funding source None.\n\nResults There were 16,551,842 adults (aged 16 years and older) in the primary care cohort (median follow-up = 4.4 years, IQR 1.7–7.0), and 40,699 in the survey cohort (median follow-up = 4.8 years, IQR 1.6–5.9). There were similar proportions of women in both (51.3% in the primary care cohort and 50.3% in the survey after weighting; Table 1). In the primary care cohort, there were more people from non-white ethnic groups (19.6% versus 11.8%) and from the South of England (59.3% versus 51.9%).\n\nAssociation between COVID-19 pandemic and psychological distress and healthcare utilisation for anxiety or depression There was evidence of a sustained increase in psychological distress between April 2020 and May 2021 compared to pre-pandemic trends (Fig. 2). This was particularly evident during the ﬁrst wave (Prevalence Ratio, PR = 1.378, 95% Conﬁdence interval 1.289–1.459; Prevalence difference, PD = 7.87%, 6.38–9.20%) and second wave (PR = 1.285, 1.189–1.377; PD = 6.21%, 4.35–7.71%). By the third wave (June–December 2021) there was little evidence of increase (PR = 1.038, 0.929–1.154; Appendix pg 7). Compared to pre-pandemic trends, presentations to primary care with anxiety or depression dropped sub-stantially during the pandemic (Fig. 2); particularly during the ﬁrst wave of the pandemic (April–May 2020) when monthly prevalence was 40% (39–42%) lower than expected (4.6 fewer appointments per 1000 patients, per month, 95% CI 4.4–4.8). The rate remained lower than expected up to December 2021. For example, there were 20% fewer appointments during the third wave (June– December 2021) and declines were observed\n\nirrespective of whether the appointment was for an anxiety or depression (Appendix pg 7). Medications prescribed for treating anxiety or depression were lower than expected during the ﬁrst wave of the pandemic (PR = 0.940, 0.936–0.943), but returned to pre-pandemic levels during the second wave (2nd wave PR = 1.004, 0.999–1.009). When results were disaggregated according to medication type, there was evidence of a marginal increase in antidepressant prescriptions in the second wave and beyond (Appendix pg 7).\n\nSubgroup analyses Based on pre-pandemic trends, women had a greater increase in self-reported psychological distress during most phases of the pandemic, particularly during the 1st wave, when an additional 11.2% of women (9.0–13.0%) experi-enced psychological distress, compared to 3.9% of men (1.8–6.1%). Women had a smaller relative reduction in primary care presentations for anxiety or depression during the pandemic than men (e.g. during the ﬁrst wave women PR = 0.621, 0.606–0.635; men PR = 0.551, 0.535–0.568, Fig. 3, Appendix pg 10–12) but a larger absolute reduction (e.g. ﬁrst wave, women RD = −0.54%, −0.57 to −0.52% and men RD = −0.38%, −0.40 to 0.36%). During the pandemic’s second phase and beyond, there was a small increase in the proportion of women being prescribed medications for common mental health problems compared with the expected rate, whereas there was a small decrease in the proportion of men. For example, during 2nd wave (October 2020–February 2021) 0.10% (0.05–0.15%) more women were prescribed medications for common mental health problems, whereas 0.06% (0.02–0.09%) fewer men were. The decline in presentations for common mental health problems during the pandemic’s 1st wave was more pronounced for 16–24 years old than others (Fig. 3; Appendix pg 13–17). Those aged 25–34 saw increases in prescriptions during the 2nd wave or later. Psychological distress levels recovered for adults of 25–64 years old during the 3rd wave, whereas they increased for older adults (65+) and remained higher up until December 2021. Although analyses stratiﬁed by ethnicity were un-derpowered for some groups, higher than expected distress levels were observed for Asian people during the 1st wave, and in White people in all waves (Fig. 3; Appendix pg 18–21). There was no notable difference in the patterns of distress or healthcare utilisation according to IMD (Appendix pg 22–27) and regional zone (Appendix pg 27–31), although there was evidence of higher than expected distress levels within the 4th quintile (where the 5th quintile represents the most deprived areas) and in the Midlands.\n\nComparison with physical health problems During the pandemic, there were sharp declines in primary care presentations for diabetes, RA and UTI’s\n\nwww.thelancet.com Vol 32 September, 2023 5",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 6
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p6",
+        "source_issue_ids": [],
+        "text": "Articles\n\nPrimary care cohort (N = 16,551,842) Survey cohorta (N = 40,669)\n\nN % N % unweighted % weighted\n\nGender\n\nFemale 8,485,341 51.3 22,016 54.1 50.3\n\nMale 8,065,832 48.7 18,644 45.9 49.7\n\nIndeterminate 669 0.0 – – –\n\nMissing – – 9 – –\n\nYear of birth\n\n<1950 2,346,301 14.2 6,888 16.9 19.4\n\n1950–<1964 2,646,404 16.0 8,505 20.9 21.4\n\n1965–<1979 3,573,678 21.6 10,264 25.2 22.6\n\n1980–<1989 3,310,584 20.0 6,072 14.9 14.2\n\n1990–2005 4,674,875 28.2 8,882 21.8 22.4\n\nEthnicity\n\nAsian 1,338,953 8.8 6,509 16.0 6.4\n\nBlack 760,487 5.0 2,633 6.5 2.6\n\nWhite 12,284,412 80.4 29,834 73.5 88.2\n\nOther 888,012 5.8 1,636 4.0 2.6\n\nMissing 1,279,978 – 57 – –\n\nIMD quintile\n\n1 (most deprived) 3,109,838 18.8 10,125 24.9 18.9\n\n2 3,226,687 19.5 8,267 20.3 18.9\n\n3 3,277,803 19.8 7,679 18.9 20.6\n\n4 3,711,447 22.4 7,481 18.4 21.2\n\n5 (least deprived) 3,226,048 19.5 7,117 17.5 20.5\n\nMissing 19 – – – –\n\nRegional zone\n\nNorth 3,837,776 23.2 11,394 28.0 28.8\n\nMidlands 2,906,328 17.6 7,943 19.5 19.3\n\nSouth 9,807,738 59.3 21,332 52.5 51.9\n\nMissing data excluded from percentages. IMD = Index of Multiple Deprivation. aCharacteristics taken from the earliest wave.\n\nTable 1: Characteristics of the two study cohorts.\n\n(Fig. 4). The ratio between presentations for common mental disorders and those for RA and UTI’s fell during the ﬁrst few months of the pandemic, indicating a greater decline for common mental health problems. During the ﬁrst wave, the drop in presentations was greater for diabetes. This was explained partly by differences in patient demographics in this group, as demonstrated by the smaller increase in the adjusted ratio.\n\nSensitivity and post-hoc analyses Very similar results were obtained when primary care presentations were restricted to diagnoses only, or symptoms where there was a history of a diagnosis (Appendix pg 32–33). Results were also similar when ARIMA models were used (Appendix pg 34). In post-hoc analyses, a sustained decrease was observed in incident prescriptions (those without prescriptions in the previous 6 months) and a small increase in repeat prescriptions (those with prescriptions in the previous 6 months Appendix pg 35–36).\n\nDiscussion Amongst adults in England, presentations to primary care for depression and anxiety remained lower than expected throughout the ﬁrst 21 months of the COVID- 19 pandemic, whilst psychological distress reported in surveys remained higher than expected up to the end of the 2nd wave. Importantly, psychological distress reported in surveys returned to expected levels after June 2021, coinciding with the point where most adults were fully vaccinated and social restrictions were stopped.19\n\nThis indicates that our initial hypothesis (aim 1), that the pandemic had an enduring effect on common mental disorders, is not borne out in the data and that population mental health was resilient to the effects of the pandemic. Our ﬁndings suggest that the trends in mental health problems during the pandemic was not mirrored in the trends in presentations to primary care (aim 2). It fol-lows that fewer people with psychological distress presenting to primary care. This phenomenon is illustrated\n\n6 www.thelancet.com Vol 32 September, 2023",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 7
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p7",
+        "source_issue_ids": [],
+        "text": "Articles\n\nPsychological distress\n\n30\n\nPrevalence (%)\n\n25\n\n20\n\n15\n\n2017 2018 2019 2020 2021 2022\n\nPrimary care presentations\n\nCovid Phase\n\nw1\n\npw1\n\nw2\n\npw2\n\nw3\n\n1.0 1.1 1.2 1.3 1.4\n\nCovid Phase\n\nw1\n\npw1\n\nw2\n\npw2\n\nw3\n\n0.0 2.5 5.0 7.5\n\nPrevalence (%)\n\n1.2\n\n1.0\n\n0.8\n\nCovid Phase\n\nw1\n\npw1\n\nw2\n\npw2\n\nw3\n\nCovid Phase\n\nw1\n\npw1\n\nw2\n\npw2\n\nw3\n\n2017 2018 2019 2020 2021 2022\n\nMedications for anxiety or depression\n\n0.6 0.7 0.8 0.9 1.0\n\n−0.5 −0.4 −0.3 −0.2 −0.1 0.0\n\nPrevalence (%)\n\n6.5\n\n6.0\n\n5.5\n\n5.0\n\n4.5\n\n2017 2018 2019 2020 2021 2022 Year\n\nObserved Expected 95% CI\n\nCovid Phase\n\nw1\n\npw1\n\nw2\n\npw2\n\nw3\n\n0.94 0.96 0.98 1.00 Prevalence Ratio\n\nCovid Phase\n\nw1\n\npw1\n\nw2\n\npw2\n\nw3\n\n−0.3 −0.2 −0.1 0.0 0.1 Prevalence Difference\n\nFig. 2: Trends in common mental health problem symptoms and utilisation over the pandemic for outcomes: (ﬁrst row) psychological distress, (second row) primary care presentations for anxiety or depression, (third row) medications for anxiety or depression, showing (ﬁrst column) time-series of observed and expected trends, (second column) risk ratios and (third column) risk differences, according to phases of the pandemic: 1 (April–May 2020); P1 (June–September 2020); 2 (2nd wave October 2020– February 2021); P2 (March–May 2021); 3 (June–December 2021).\n\nwww.thelancet.com Vol 32 September, 2023 7",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 8
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p8",
+        "source_issue_ids": [],
+        "text": "Articles\n\nFig. 3: Prevalence Ratio (PR) between observed and expected values for subgroups, by each outcome (psychological distress, primary care presentations for anxiety or depression, medications for anxiety or depression medications); by pandemic phase (1 (April–May 2020); P1 (June– September 2020); 2 (October 2020–February 2021); P2 (March–May 2021); 3 (June–December 2021)).\n\nby considering the ratio between the monthly prevalence of primary care presentations to the monthly prevalence of reported psychological distress. During the ﬁrst wave this ratio was expected to be 0.055, as predicted by pre-pandemic trends; whereas the observed value was less than half that at 0.024. If we assume that all those who presented to primary care with symptoms of anxiety or depression had measureable psychological distress, we can infer that, during the ﬁrst wave, out of those with psychological distress, the pandemic was associated with 3.1% fewer, per month, not presenting to primary care (3.5% of women and 2.6% of men). This difference reduced to 1.4% of women and 1.3% of men during the 3rd wave. Overall, there were reductions in the proportion of adults prescribed medications for symptoms of anxiety or depression. When considered alongside sharp declines in the availability of face-to-face talking therapies during the pandemic,20 there appears to be no evidence of a shift from psychological to pharmacological\n\ntreatment, as has been suggested.21 However, we reveal that, whilst there were fewer new prescriptions than expected, there were increases in repeat prescriptions; possibly because fewer people sought advice from their GPs about how to come off their medications. Alternatively, it could signify that some felt less able to stop their medications, given the challenges of the pandemic and perceived or real inaccessibility of GPs. Consistent with prior evidence,3,9 we report that women’s mental health declined more steeply than men’s during the pandemic. This is likely because women were disproportionately disadvantaged by pandemic measures: school closures meant women took on more child care and domestic responsibilities22; and lockdowns resulted in greater rates of domestic violence23; women were also more likely to lose out economically, widening existing economic gender in-equalities.24 Women also had a larger absolute decrease in presentations to primary care for mental health problems. This may mean women are particularly\n\n8 www.thelancet.com Vol 32 September, 2023",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1016/j.lanepe.2023.100697",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 9
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_sha256": "51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841",
+          "source_url": "https://doi.org/10.1016/j.lanepe.2023.100697"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841:p9",
+        "source_issue_ids": [],
+        "text": "Articles\n\nFig. 4: Presentations to primary care for (ﬁrst row) anxiety or depression; (second row) rheumatoid arthritis; (third row) diabetes; and (forth row) urinary tract infections, showing: (ﬁrst column) monthly prevalence of condition, (second column) ratio between condition and presentations for common mental health problems (third column) ratio adjusted for patient demographics.\n\nvulnerable to a treatment gap, such that their mental health needs were not being met during the pandemic. Alternatively, more women may previously have presented with distress that did not require medical inter-vention and resolved spontaneously. We also report that the decline primary care presentations for depression and anxiety was greater than the decline in presentations for physical conditions unlikely to be affected by the pandemic (aim 3). We made these comparisons whilst controlling for age, gender and ethnicity, therefore the results suggests there is something speciﬁc about patients with mental health presentations, independent of their demographics, that meant they were less likely to attend primary care during the pandemic. One reason behind this could be the shift to primary care telephone consultations–the ratio of telephone to face-to-face appointments changing from 1:5.8 in February 2020 to 1:1.8 by February 2022.25 It could also be that less severe, more common mental health symptoms may ﬁnd alternative sources of non-medical support more readily\n\nthan some physical health problems that require medical help. There are several limitations. First, for parameter estimates to identify the effect of the pandemic, the ﬁtted model must describe the pre-pandemic trend correctly. We ascertained the robustness of the ﬁndings to this assumption by ﬁtting ARIMA models, which have different model speciﬁcations. Second, it must be assumed that the trend that occurred prior to March 2020 is generalisable to the trend after April 2020, had the pandemic not happened. To mitigate this, we used a test dataset in our model building, to ﬁnd a model that had good out-of-sample prediction. Third, each data source imperfectly measures mental health problems. Primary care data can ascertain treatment access but cannot separate treatment-seeking from the true clinical need in the community. We attempted to untangle these by comparing our results with ‘control’ conditions, unlikely to be affected directly by the pandemic. Whilst the GHQ-12 is a useful screening tool for depression or anxiety disorders,26 it is imprecise and thresholds of self-\n\nwww.thelancet.com Vol 32 September, 2023 9",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:51718f6758bf1ad20f76f1ca1de779bb28a4f8a931b03fac3f4c351561f9a841"
+}

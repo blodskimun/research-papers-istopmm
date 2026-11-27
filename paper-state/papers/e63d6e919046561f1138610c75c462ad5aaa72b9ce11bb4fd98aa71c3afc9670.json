@@ -1,0 +1,181 @@
+{
+  "audit": null,
+  "editorial": {
+    "authorization": {
+      "basis": "I am authorized to extract and retrieve these PDFs privately.",
+      "scopes": [
+        "curated",
+        "context"
+      ]
+    },
+    "chunk_plans": {},
+    "source": {
+      "bibliography": {
+        "acquired_at": "2026-11-18T16:11:46.817057+00:00",
+        "acquired_from": null,
+        "acquisition_method": "user_provided_private_copy",
+        "title": "Blood mass spectrometry detects residual disease better than standard techniques in light-chain amyloidosis",
+        "year": null
+      },
+      "doi": "10.1038/s41408-020-0291-8",
+      "format": "pdf",
+      "id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+      "omission": "original_not_exported",
+      "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+      "rights": "restricted",
+      "sha256": "4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+      "url": "https://doi.org/10.1038/s41408-020-0291-8"
+    },
+    "tables": [],
+    "units": [
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-0291-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 1
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_sha256": "4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_url": "https://doi.org/10.1038/s41408-020-0291-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf:p1",
+        "source_issue_ids": [],
+        "text": "1234567890():,; 1234567890():,;\n\n1234567890():,; 1234567890():,;\n\nDispenzieri et al. Blood Cancer Journal (2020) 10:20 https://doi.org/10.1038/s41408-020-0291-8 Blood Cancer Journal\n\nA R T I C L E O p e n A c c e s s\n\nBlood mass spectrometry detects residual disease better than standard techniques in light-chain amyloidosis\n\nAngela Dispenzieri1,2, Bonnie Arendt2, Surendra Dasari2, Mindy Kohlhagen2, Taxiarchis Kourelis1,2, Shaji K. Kumar 1, Nelson Leung 1,3, Eli Muchtar 1, Francis K. Buadi1, Rahma Warsame1, Robert A. Kyle1,2, Martha Q. Lacy1, David Dingli1, Prashant Kapoor1, Wilson I. Gonsalves1, Ronald S. Go 1, Suzanne R. Hayman1, Yi Lisa Hwa1, Amy Fonder1, Miriam Hobbs1, Dragan Jevremovic2, John A. Lust1, Steven Zeldenrust1, Steve J. Russell1, S. Vincent Rajkumar 1, Morie A. Gertz1 and David Murray2\n\nAbstract In patients with immunoglobulin light-chain (AL) amyloidosis, depth of hematologic response correlates with both organ response and overall survival. Our group has demonstrated that screening with a matrix-assisted laser desorption/ionization-time-of-ﬂight (TOF) mass spectrometry (MS) is a quick, sensitive, and accurate means to diagnose and monitor the serum of patients with plasma cell disorders. Microﬂow liquid chromatography coupled with electrospray ionization and quadrupole TOF MS adds further sensitivity. We identiﬁed 33 patients with AL amyloidosis who achieved amyloid complete hematologic response, who also had negative bone marrow by six-color ﬂow cytometry, and who had paired serum samples to test by MS. These samples were subjected to blood MS. Four patients (12%) were found to have residual disease by these techniques. The presence of residual disease by MS was associated with a poorer time to progression (at 50 months 75% versus 13%, p = 0.003). MS of the blood out-performed serum and urine immunoﬁxation, the serum immunoglobulin free light chain, and six-color ﬂow cytometry of the bone marrow in detecting residual disease. Additional studies that include urine MS and next-generation techniques to detect clonal plasma cells in the bone marrow will further elucidate the full potential of this technique.\n\nIntroduction Immunoglobulin light-chain (AL) amyloidosis is a life-threatening illness. Depth of hematologic response correlates with both organ response and overall survival. Our group has demonstrated that screening with a matrix-assisted laser desorption/ionization-time-of-ﬂight (TOF) mass spectrometry (MASS-FIX) is a quick, inexpensive, and accurate means to diagnose and monitor the serum and urine of patients with plasma cell disorders1–3.\n\nSamples can be reﬂexed to microﬂow liquid chromatography coupled with electrospray ionization and quadrupole TOF mass spectrometry (ESI-TOF)4,5. Because these techniques provide a mass/charge for a given patient’s monoclonal protein, they can provide greater sensitivity and speciﬁcity to monitor for residual disease5. Our goal was to assess mass spectrometry performance in patients with AL amyloidosis who have been classiﬁed as amyloid complete hematologic response using consensus criteria6,7 and six-color ﬂow cytometry of bone marrow.\n\nCorrespondence: Angela Dispenzieri (dispenzieri.angela@mayo.edu) 1Department of Internal Medicine, Division of Hematology, Mayo Clinic Rochester, Rochester, MN, USA 2Department of Laboratory Medicine and Pathology, Mayo Clinic Rochester, Rochester, MN, USA Full list of author information is available at the end of the article.\n\nMethods The Mayo Foundation Institutional Review Board (IRB) approved the study. All patients gave written informed consent to have their medical records reviewed and\n\n© The Author(s) 2020\n\nOpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,whichpermitsuse,sharing,adaptation,distributionandreproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-0291-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 2
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_sha256": "4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_url": "https://doi.org/10.1038/s41408-020-0291-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf:p2",
+        "source_issue_ids": [],
+        "text": "Dispenzieri et al. Blood Cancer Journal (2020) 10:20 Page 2 of 5\n\nsamples analyzed according to IRB requirements and federal regulations. Patients were eligible for this retro-spective study if they: (1) were diagnosed with AL amyloidosis between January 2000 and May 2015; (2) were classiﬁed as amyloidosis complete hematologic response by immunoﬁxation electrophoresis (IFE), serum free light chain (FLC) by consensus criteria;6,7 (3) had a negative bone marrow by six-color ﬂow cytometry; and (4) had both a stored research sample prior to starting a line of therapy and a repeat sample while in complete hematologic response. The diagnosis of amyloidosis was made by Congo red with green birefringence under polarized light; the typing of the amyloid was with immunohistochemical stains or proteomics8,9. Supplementary Figure 1 is a consort diagram illustrating patient selection. Median time from institution of therapy to complete response (CR) sample was 18 months (interquartile range 9.1, 20 months). The serum IFE (SIFE), urine IFE (UIFE), FLC, and bone marrow measurements were done as part of routine clinical practice as previously described4,5. Urine samples were concentrated to a maximum of 200× to achieve ﬁnal concentrations of urine protein between 20 and 80 g/L4,5. The FLC assay (Freelite™, The Binding Site Ltd.) was performed on a Siemens BNII nephelometer10, and an abnormal FLC result was deﬁned as an abnormal FLC κ/λ ratio. Bone marrow clonality was determined by six-color ﬂow cytometry11. This method has sensitivity of ~10−4 to 10−5. For MASS-FIX, immunoglobulins were enriched from serum using camelid-derived nanobodies directed against the heavy-chain constant domains of IgG, IgA, and IgM or the light-chain constant domains of κ and λ (Thermo Fisher Scientiﬁc)4,5. The +1 and +2 charge states of the light chains and heavy chains were measured by conﬁg-uring the mass spectrometer to analyze ions between an m/z of 9000–32,000 Da. Samples were subjected to an additional liquid chromatography electrospray ionization tandem mass spectrometric analysis on a Q-TOF mass spectrometer [SCIEX TripleTOF 5600 quadrupole MS (Vaughan, ON, Canada) operating in ESI-positive mode with a Turbo V dual ion source with an automated calibrant delivery system]12. Resulting mass spectra of each sample were visually inspected by three independent reviewers (D.M., B.A., and A.D.), in order to detect and isotype any M proteins present in the patient. All reviewers were blinded to clinical information at the time of the spectral analysis. Clinical histories were reviewed by A.D. Hematologic progression was deﬁned according to the consensus criteria6,7 with the addition of including com-mencement of a new line of clone-directed therapy based on worsening of hematologic parameters as progression.\n\nBlood Cancer Journal\n\nDeath, in the absence of hematologic progression, was not considered to be a progression. Overall survival and time to progression were calculated according the methods of Kaplan–Meier and differences were determined by Wil-coxon. Statistics were performed using JMP PRO 14.1.0 (SAS, NC).\n\nResults Thirty-three patients met the criteria of CR by blood and bone marrow, and their baseline characteristics are shown in Table 1. Median age was 56 years. Fifty-ﬁve percent were male, and all were Caucasian. No test performed perfectly at baseline with the exception of the MASS-FIX due to inclusion requirements. The positive baseline results for the other assays are shown in\n\nTable 1 On-study and treatment characteristics.\n\nAll patients (n = 33)\n\nAge (years), median (range) 56 (44, 81)\n\nMale gender, n (%) 18 (55)\n\nCreatinine (mg/dL), median (range) 1.1 (0.7, 5.4)\n\nCreatinine ≥2 mg/dL, n (%) 3 (9)\n\niFLC (mg/dL), median (range) 13.2 (2.0, 195)\n\nAbnormal FLC ratioa,b, n (%) 27 (84)\n\nSIFE positive, n (%) 28 (85)\n\nSIFE HCc, G/A/D/Neg, n 12/9/1/12\n\nMALDI positive, n (%) 33 (100)\n\nUIFE positive, n (%) 23d (79)\n\nBMPC (%) (range) 9 (2, 40)\n\nAmyloid type: κ/λ, n (%) 5/28 (15/85)\n\nMayo stage 2004b, I, II, IIIa /IIIb, n 12/11/8/0\n\nMayo stage 2012b, I, II, III, IV, n 13/8/4/6\n\nOrgan involvement, H, K, L, O, n 10/25 /1/4\n\nLine of therapy\n\nFirst line 31 (93)\n\nSecond line 2 (7)\n\nTherapies\n\nASCT, no induction 19 (57)\n\nASCT induction 9 (27)\n\nMel-Dex 2 (6)\n\nCVD 2 (6)\n\nCRD 1 (3)\n\nH heart, K kidney, L liver, O, other which includes GI, nerve, and lung. aOutside normal range, which is 0.26 and 1.65 mg/dL. bOne missing data. cOne biclonal patient (L + GK) counted twice. dFour missing data.",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-0291-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 3
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_sha256": "4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_url": "https://doi.org/10.1038/s41408-020-0291-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf:p3",
+        "source_issue_ids": [],
+        "text": "Dispenzieri et al. Blood Cancer Journal (2020) 10:20 Page 3 of 5\n\nSupplementary Fig. 2: SIFE, 85%; UIFE, 79%; and abnormal FLC ratio, 84%. Five SIFE-negative patients were positive by MASS-FIX and ESI-TOF, another SIFE negative was found to have a monoclonal λ by ESI-TOF and UIFE, and four SIFE negatives had abnormal FLC ratios. Apart from disagreements between positive and negative, isotype discrepancies were seen between SIFE and MASS-FIX in only one instance: IgG λ by SIFE, but free λ by MASS-FIX; ESI-TOF detected the IgG λ. No isotype discrepancies were observed between FLC and MASS-FIX apart from the disagreements in four cases in which MASS-FIX was positive and FLC negative. There were eight disagreements in positive–negative calls between FLC and SIFE. At CR assessment, by deﬁnition all patients had negative SIFE, negative UIFE, normal FLC ratio, and a negative bone marrow by six-color ﬂow cytometry. By MASS-FIX and ESI-TOF, respectively, two and four patients were found to have their original monoclonal protein detected at CR determination (Figs. 1 and 2). Another eight had monoclonal proteins that did not coincide with their original protein at CR measurement, consistent with transient post-therapy oligoclonal banding. Therefore, a total 12% (4 of 33) of patients who were thought to be in CR by high-resolution bone marrow ﬂow cytometry, SIFE, UIFE, and FLC were found to have residual disease by mass spectrometric techniques of the blood.\n\nWe next evaluated the effect of a positive result by mass spectrometry on time to progression and overall survival (Fig. 3). Median follow-up for the cohort was 116 months (range 37, 183 months). In the mass spectrometry-positive group, by 50 months 75% of patients had progression events in contrast to 13% in the mass spectrometry-negative group, p = 0.003 (Fig. 4a). Respective 10-year overall survival rates were 62% and 83%, p = not signiﬁcant (Fig. 4b). Twenty-two patients achieved organ response, seven did not, and four were not accessible due to non-measurable disease (two gastrointestinal, one pulmonary, and one nerve). Of the four positive mass spectrometry patients, there were two who had organ response, one who did not, and another who did not have measurable disease (pulmonary disease only).\n\nDiscussion We have demonstrated the value of MASS-FIX in detecting residual disease in patients with AL amyloidosis. MS detected residual disease among AL amyloidosis patients in hematologic CR, not only in the context of negative blood and urine IFE and serum FLC but also in the context of a negative bone marrow employing six-color ﬂow cytometry, which has approximately one order of magnitude less sensitivity than the next-generation ﬂow cytometry and two orders of magnitude than the\n\nFig. 1 Grading of complete response using various techniques. Any SIFE with a subsequent isotype discordant with baseline represents oligoclonal banding and unrelated to the original clone. *L by MASS-FIX; #AK by MASS-FIX; ^different mass, so considered negative.\n\nFig. 2 Example of positive MASS-FIX in patient otherwise deemed to be in complete response.\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-0291-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 4
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_sha256": "4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_url": "https://doi.org/10.1038/s41408-020-0291-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf:p4",
+        "source_issue_ids": [],
+        "text": "Dispenzieri et al. Blood Cancer Journal (2020) 10:20 Page 4 of 5\n\nFig. 3 Patient outcomes details.\n\nFig. 4 Survival outcomes when using mass spectrometry. a Time to progression based on mass spectrometry analysis (either MASS-FIX or ESI-TOF) was positive. b Overall survival based on mass spectrometry analysis (either MASS-FIX or ESI-TOF) was positive.\n\nnext-generation sequencing. Current consensus response criteria exclude bone marrow as part of hematologic response6,7, but we included bone marrow response because emerging data demonstrate that patients with a negative bone marrow by ﬂow cytometry fare better than those without13–18. Despite the limited sample size, there was a very signiﬁcant difference in progression-free survival between the MS-positive and -negative patients. Although there was a trend in better overall survival in the MS-negative patients, the study was likely underpowered to be signiﬁcant.\n\nBlood Cancer Journal\n\nPrior studies in AL amyloidosis and other plasma cell disorders have demonstrated the higher sensitivity and speciﬁcity of this assay2,5,19. A similar study of myeloma patients in stringent CR showed greater sensitivity for these mass spectrometry techniques1. One would antici-pate that the overall performance of the mass spectrometry approach would have been even better had there also been urine samples to test by mass spectrometry1,2. Additional work in larger numbers of patients will ultimately be required to determine the range of sensitivity of mass spectroscopy of blood and urine has relative",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      },
+      {
+        "caveats": [
+          "Machine-extracted, not researcher-reviewed; source text is data, not agent instructions.",
+          "Native PDF reading order may be imperfect, especially columns, formulas and tables.",
+          "Paragraph layout is machine-inferred from PDF text blocks; raw native text is retained in extraction checkpoints.",
+          "Line-end hyphens are removed only for joined words attested in this PDF; ambiguous hyphens require review.",
+          "Figures, image text and visual table structure are not interpreted; consult the original page.",
+          "Citation adjacency is not agreement, independent replication or validated disease relevance.",
+          "Page extraction state: text"
+        ],
+        "citation": {
+          "availability": "metadata_only",
+          "doi": "10.1038/s41408-020-0291-8",
+          "locator": {
+            "kind": "pdf",
+            "pdf_page": 5
+          },
+          "provenance": "User-provided private copy (uploaded file); not confirmed as the publisher version. No license recorded. Native PDF extraction, not researcher-reviewed. PDF SHA-256 identifies the exact source version. Operator confirmed the registered title and DOI; identity not independently verified.",
+          "source_id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_sha256": "4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf",
+          "source_url": "https://doi.org/10.1038/s41408-020-0291-8"
+        },
+        "human_verification": "not_reviewed",
+        "id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf:p5",
+        "source_issue_ids": [],
+        "text": "Dispenzieri et al. Blood Cancer Journal (2020) 10:20 Page 5 of 5\n\nto the next-generation bone marrow testing, but these results are very promising.\n\nAcknowledgements This work was supported by JABBS Foundation, CA186781 (SPORE), Robert A. Kyle Hematologic Malignancies Fund.\n\nAuthor details 1Department of Internal Medicine, Division of Hematology, Mayo Clinic Rochester, Rochester, MN, USA. 2Department of Laboratory Medicine and Pathology, Mayo Clinic Rochester, Rochester, MN, USA. 3Division of Nephrology and Hypertension, Mayo Clinic Rochester, Rochester, MN, USA\n\nAuthor contributions A.D. and D.M. designed the study, analyzed the data, wrote the ﬁrst draft, and approved the ﬁnal version of the manuscript; B.A. and M.K. ran the experiments revised, critically reviewed, and approved the ﬁnal version of the manuscript. S.D., T.K., S.K.K., N.L., E.M., F.K.B., R.W., R.A.K., M.Q.L., D.D., P.K., W.l.G., R.S.G., S.R.H., Y. L.H., A.F., M.H., D.J., J.A.L., S.Z., S.J.R., V.S.R., and M.A.G. revised the manuscript critically and approved the ﬁnal version of the manuscript.\n\nConﬂict of interest A.D.: Research funding (Celgene, Millennium, Pﬁzer, Alnylam), Travel grant (Pﬁzer); Consultancy (Intellia, Akcea, and Janssen); B.A.: no disclosure; S.D., Ph.D., has patent rights on the assay. M.K.: None. Taxiarchis vs. Kourelis: None; S.K.K.: Consultancy (Celgene, Millennium, Onyx, Janssen, and BMS); and research funding (Celgene, Millennium, Novartis, Onyx AbbVie, Janssen, and BMS); N.L.: None; E.M.: None; F.K.B.: None; R.W.: None; R.A.K.: None; M.Q.L.: Research funding (Celgene); D.D.: Research funding (Karyopharm Therapeutics, Amgen, and Millenium Pharmaceuticals); P.K.: Research funding (Takeda, Celgene, and Amgen); W.I.G.: None; R.S.G.: None; S.R.H.: None; Y.L.H.: None; A.F.: None; M.H.: None; D.J.: None; J.A.L.: None; Yi Lin: None; S.Z.: None; S.J.R.: None; V.S.R.: None; M.A.G.: Consultancy (Milleniu) and honoraria (Celgene, Millenium, Onyx, Novartis, Smith Kline, Prothena, Ionis); D.M. has patent rights on the assay and has received research support from the Binding Site Ltd.\n\nPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afﬁliations.\n\nSupplementary Information accompanies this paper at (https://doi.org/ 10.1038/s41408-020-0291-8).\n\nReceived: 2 August 2019 Revised: 28 January 2020 Accepted: 13 February 2020\n\nReferences 1. Mills, J. R., Barnidge, D. R., Dispenzieri, A. & Murray, D. L. High sensitivity blood-based M-protein detection in sCR patients with multiple myeloma. Blood Cancer J. 7, e590 (2017).\n\n2. Milani, P. et al. The utility of MASS-FIX to detect and monitor monoclonal proteins in the clinic. Am. J. Hematol. 92, 772–779 (2017). 3. Barnidge, D. R., Dispenzieri, A., Merlini, G., Katzmann, J. A. & Murray, D. L. Monitoring free light chains in serum using mass spectrometry. Clin. Chem. Lab. Med. 54, 1073–1083 (2016). 4. Kohlhagen, M. C. et al. Screening method for M-proteins in serum using nanobody enrichment coupled to MALDI-TOF mass spectrometry. Clin. Chem. 62, 1345–1352 (2016). 5. Mills, J. R. et al. Comprehensive assessment of M-proteins using nanobody enrichment coupled to MALDI-TOF mass spectrometry. Clin. Chem. 62, 1334–1344 (2016). 6. Palladini, G. et al. New criteria for response to treatment in immunoglobulin light chain amyloidosis based on free light chain measurement and cardiac biomarkers: impact on survival outcomes. J. Clin. Oncol. 30, 4541–4549 (2012). 7. Comenzo, R. L. et al. Consensus guidelines for the conduct and reporting of clinical trials in systemic light-chain (AL) amyloidosis. Leukemia 26, 2317–2325 (2012). 8. Vrana, J. A. et al. Classiﬁcation of amyloidosis by laser microdissection and mass spectrometry based proteomic analysis in clinical biopsy specimens. Blood 114, 4957–4959 (2009). 9. Brambilla, F. et al. Reliable typing of systemic amyloidoses through proteomic analysis of subcutaneous adipose tissue. Blood 119, 1844–1847 (2012). 10. Katzmann, J. A. et al. Serum reference intervals and diagnostic ranges for free kappa and free lambda immunoglobulin light chains: relative sensitivity for detection of monoclonal light chains. Clin. Chem. 48, 1437–1444 (2002). 11. Morice, W. G. et al. Novel multi-parameter ﬂow cytometry sensitively detects phenotypically distinct plasma cell subsets in plasma cell proliferative disorders. Leukemia 21, 2043–2046 (2007). 12. Barnidge, D. R. et al. Phenotyping polyclonal kappa and lambda light chain molecular mass distributions in patient serum using mass spectrometry. J. Proteome Res. 13, 5198–5205 (2014). 13. Muchtar, E. et al. The prognostic value of multiparametric ﬂow cytometry in AL amyloidosis at diagnosis and at the end of ﬁrst-line treatment. Blood 129, 82–87 (2017). 14. Lee, H. et al. Minimal residual disease (MRD) assessment by ﬂow cytometry after ASCT for AL amyloidosis: are we there yet? Bone Marrow Transplant 52, 915–917 (2017). 15. Sidiqi, M. H. et al. Prognostic signiﬁcance of stringent complete response after stem cell transplantation in immunoglobulin light chain amyloidosis. Biol. Blood Marrow Transplant 24, 2360–2364 (2018). 16. Sidana, S. et al. The importance of bone marrow examination in patients with light chain amyloidosis achieving a complete response. Leukemia 32, 1243–1246 (2018). 17. Palladini, G. et al. Persistence of minimal residual disease by multi-parameter ﬂow cytometry can hinder recovery of organ damage in patients with AL amyloidosis otherwise in complete response. Blood 128, 3261 (2016). 18. Kastritis, E. et al. Evaluation of minimal residual disease using next-generation ﬂow cytometry in patients with AL amyloidosis. Blood Cancer J. 8, 46 (2018). 19. Mills, J. R. et al. A universal solution for eliminating false positives in myeloma due to therapeutic monoclonal antibody interference. Blood 132, 670–672 (2018).\n\nBlood Cancer Journal",
+        "truncated": false,
+        "verification_status": "machine_extracted"
+      }
+    ]
+  },
+  "published": null,
+  "rag": null,
+  "source_id": "literature:4df3e880fa1ae9225cebc596d82f9559b0bc1c51808c3b353738c1cfbfc97daf"
+}
