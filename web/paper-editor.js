@@ -2,6 +2,7 @@ import { Editor } from '@tiptap/core';
 import StarterKit from '@tiptap/starter-kit';
 import { Markdown } from '@tiptap/markdown';
 import { TableKit } from '@tiptap/extension-table';
+import { inspectMarkdownImages, MarkdownImage } from './markdown-image.js';
 
 const source = document.querySelector('#edit-text');
 const form = source?.form;
@@ -59,8 +60,8 @@ if (source && form && shell && toolbar && visual && status) {
 
   function buildEditors() {
     const parsed = parsePages(source.value);
-    if (parsed.some(page => /<\/?[A-Za-z][A-Za-z0-9-]*(?:\s[^>]*|\/?)>|<!--|!\[[^\]]*\]/.test(page.text))) {
-      throw new Error('This draft contains HTML or image markup not supported by visual editing. Use Markdown source to preserve it.');
+    if (parsed.some(page => /<\/?[A-Za-z][A-Za-z0-9-]*(?:\s[^>]*|\/?)>|<!--/.test(page.text))) {
+      throw new Error('This draft contains HTML not supported by visual editing. Use Markdown source to preserve it.');
     }
     if (originalMarkers === null) originalMarkers = parsed.map(page => page.marker);
     if (parsed.length !== originalMarkers.length || parsed.some((page, index) => page.marker !== originalMarkers[index])) {
@@ -88,6 +89,7 @@ if (source && form && shell && toolbar && visual && status) {
           }),
           Markdown.configure({ markedOptions: { breaks: true, gfm: true } }),
           TableKit,
+          MarkdownImage,
         ],
         content: page.text,
         contentType: 'markdown',
@@ -96,6 +98,22 @@ if (source && form && shell && toolbar && visual && status) {
         onSelectionUpdate: updateToolbar,
         onUpdate: () => { page.dirty = true; syncSource(); markChanged(); updateToolbar(); },
       });
+      const expectedImages = inspectMarkdownImages(page.text, page.editor.markdown.instance.lexer(page.text));
+      const images = [];
+      page.editor.state.doc.descendants(node => {
+        if (node.type.name === 'markdownImage') images.push(node.attrs.raw);
+      });
+      const roundTrip = page.editor.getMarkdown();
+      let position = 0;
+      if (JSON.stringify(expectedImages) !== JSON.stringify(images) ||
+          images.some(image => {
+            const index = roundTrip.indexOf(image, position);
+            if (index < 0) return true;
+            position = index + image.length;
+            return false;
+          })) {
+        throw new Error('This draft contains image markup not supported by visual editing. Use Markdown source to preserve it.');
+      }
     });
     active = pages[0]?.editor;
     updateToolbar();

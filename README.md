@@ -137,6 +137,8 @@ button at the upper right. Retained structured tables appear inline with their
 page's text; figures/images are not yet stored as inline assets.
 Use **Edit** to correct text, metadata and tables against the original.
 The visual editor has headings, bold/italic, lists, links and undo/redo.
+Markdown images appear as placeholders and retain their original markup; use
+Markdown source to edit them.
 Drag its lower-right edge to resize it, or use **Reading width** / **Full width**.
 **Edit Markdown source** exposes the retained page markers for precise corrections;
 formatting is saved as Markdown and rendered in the Clear text tab.

@@ -232,9 +232,12 @@ width**, or drag the lower-right edge of the editor, to adjust its width.
 Formatting is stored as Markdown, not HTML, and rendered in the paper's reading
 view. Saving a draft does not publish it.
 
-**Edit Markdown source** switches to the plain-text draft. This is also the
-fallback if JavaScript is unavailable or the draft contains HTML/image markup
-that the visual editor cannot safely preserve. Untouched pages retain their
+Markdown images appear as placeholders in the visual editor; their original
+markup is preserved, and can be edited in Markdown source. **Edit Markdown
+source** switches to the plain-text draft. This is also the fallback if JavaScript
+is unavailable or the draft contains HTML or image markup that the visual editor
+cannot safely preserve, including linked, formatted or reference-style images.
+Untouched pages retain their
 original text exactly. Visible `[[PAGE …]]` markers in source mode
 identify the original PDF pages. Keep every marker unchanged and in order, with
 two newlines before each marker after the first. Text between markers is assigned

@@ -907,6 +907,7 @@ main form.paper-edit-form{max-width:none;width:100%;display:block}
 .visual-page .tiptap ul,.visual-page .tiptap ol{padding-left:1.5rem}
 .visual-page .tiptap table{table-layout:fixed}
 .visual-page .tiptap td,.visual-page .tiptap th{border:1px solid var(--line);white-space:normal;overflow-wrap:anywhere}
+.visual-page .editor-image{display:inline-block;padding:.1rem .4rem;border:1px solid var(--line);border-radius:.25rem;background:var(--raised)}
 .editor-options{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
 [hidden]{display:none!important}
 .paper-pdf-page{display:block;width:100%;height:auto;margin:1rem 0;border:1px solid var(--line)}
