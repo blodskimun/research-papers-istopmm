@@ -33,6 +33,8 @@ from research_library.build import (
     project_cutover, project_index, project_library, project_state, project_text,
 )
 from project_text_helpers import publish_all
+
+sys.path.insert(0, str(Path(__file__).resolve().parent / "portable"))
 from test_http import running_server
 
 
